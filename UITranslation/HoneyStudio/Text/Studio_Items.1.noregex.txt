@@ -1,0 +1,329 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Items (no regex)
+// -----------------------------------------------------------------------------------------------
+
+// Furniture
+シンプルベッド = Simple Bed
+洋風ベッド = Western-Style Bed
+女の子風ベッド = Girl-Style Bed
+布団 = Futon
+簡素なパイプベッド = Simple Pipe Bed
+ベッド = Bed
+革ソファ黒 = Leather Sofa (Black)
+革ソファ茶 = Leather Sofa (Tea)
+和風ソファ = Japanese-Style Sofa
+カウチソファ = Couch
+長型カウチソファ = Long Form Couch
+長椅子 = Banquettes
+ＴＶセット黒 = TV Set (Black)
+ＴＶセット茶 = TV Set (Tea)
+ＴＶセット白 = TV Set (White)
+AVコンポ黒 = AV Component (Black)
+AVコンポ銀 = AV Component (Silver)
+ガラステーブル黒 = Glass Table (Black)
+ガラステーブル茶 = Glass Table (Tea)
+ガラス丸テーブル = Glass Round Table
+木のテーブル = Wood Table
+木の丸テーブル = Wood Round Table
+丸椅子 = Round Chair
+テーブル = Table
+椅子 = Chair
+木目テーブル = Grain Table
+テラステーブル = Terrace Table
+テラスチェアー = Terrace Chair
+座椅子 = Seat Chair
+四角型シーリングライト = Square Ceiling Light
+丸型シーリングライト = Round Ceiling Light
+丸薄型シーリングライト = Round Thin Ceiling Light
+和風シーリングライト = Japanese-Style Ceiling Light
+電球照明 = Bulb Light
+フロアマット黒 = Floor Mat (Black)
+フロアマット緑 = Floor Mat (Green)
+フロアマット桃 = Floor Mat (Peach)
+カーテン桃 = Curtain (Peach)
+壁棚 = Wall Shelf
+障子 = Shoji
+鏡＆カバー付ハンガーラック白 = Mirror Clothes Rack (White)
+鏡＆カバー付ハンガーラック茶 = Mirror Clothes Rack (Tea)
+ワードローブ = Wardrobe
+ピッチラック白 = Pitch Rack (White)
+電話台＆ピッチラック黒 = Telephone Pitch Rack (Black)
+電話台＆ピッチラック茶 = Telephone Pitch Rack (Tea)
+壁電話＆大小箪笥 = Wall Phone And Chest of Drawers
+桐箪笥 = Kiri Tansu
+くまさん台 = Table With Bears
+チェスト黒 = Chest (Black)
+チェスト茶 = Chest (Tea)
+箪笥 = Chest Of Drawers
+システムキッチン = System Kitchen
+電話台 = Telephone Stand
+中華風ベッド = Chinese-Style Bed
+中華風椅子 = Chinese-Style Chair
+中華風ＴＶセット = Chinese-Style TV Set
+中華風丸テーブル = Chinese-Style Round Table
+中華風パソコンデスク = Chinese-Style Computer Desk
+中華風シーリングライト = Chinese-Style Ceiling Light
+中華風フロアマット = Chinese-Style Floor Mat
+中華風屏風 = Chinese-Style Folding Screen
+中華風箪笥 = Chinese-Style Chest Of Drawers
+中華風壁面ラック = Chinese-Style Wall Rack
+中華風チェスト = Chinese-Style Chest
+樽 = Barrel
+オフィスデスク = Office Desk
+オフィスチェアー = Office Chair
+オフィス棚 = Office Shelf
+オフィス風シーリングライト = Office Ceiling Light
+オフィスデスク＆ファックス = Office Desk With Fax
+オフィスデスク＆チェアー = Office Desk & Chair
+パソコンデスク黒 = Computer Desk (Black)
+パソコンデスク茶 = Computer Desk (Tea)
+パソコンデスク白 = Computer Desk (White)
+革椅子 = Leather Chair
+プレジデント用机 = President's Desk 
+蛍光灯 = Fluorescent Lamp
+資料棚 = Material Shelf
+ブラインド黒 = Blind (Black)
+ブラインド白 = Blind (White)
+パーテーション = Partition
+教卓 = Teacher's Desk
+教室用机 = Classroom Desk
+教室用椅子 = Classroom Chair
+パイプ椅子 = Folding Chair
+ロッカー = Locker
+黒板\(小\) = Blackboard Small
+黒板\(大\) = Blackboard Large
+グランドピアノ = Piano
+ピアノ椅子 = Piano Chair
+洋式便器 = Western-Style Toilet Bowl
+男性用便器 = Men's Toilet Bowl
+デッキチェア\(白\) = Deck Chairs (White)
+デッキチェア\(茶\) = Deck Chairs (Tea)
+案内板 = Guide Plate
+
+// wall and floor
+洋室壁([\d]+) = Western-Style Wall
+中華風壁 = Chinese-Style Wall
+女部屋風壁 = Girl Room Wind Wall
+和室壁 = Japanese-Style Wall
+牢屋壁 = Jail Wall
+フローリング薄 = Flooring (Thin)
+フローリング濃 = Flooring (Dark)
+木材市松模様 = Wood Checkered Pattern
+カラータイルカーペット = Color Tile Carpet
+畳 = Tatami
+石張り床 = Stone Flooring
+
+// household items
+時計 = Clock
+中華風壁飾り = Chinese-Style Wall Decoration
+ポスター = Posters
+和色紙額 = Sum Colored Paper Amount
+金庫 = Safe
+銅鑼（ドラ） = Gong
+観葉植物([\d]+) = Houseplant
+エアコン = Airconditioning
+ファンヒーター = Fan Heater
+石油ストーブ = Petroleum Stove
+やかん = Kettle
+コピー機 = Copy Machine
+パラソル = Parasol
+かご = Basket
+レフ板 = Lev Plate
+ホワイトボード = Whiteboard
+自転車 = Bicycle
+木製バット = Wooden Bat
+金属バット = Metal Bat
+ヘルメット黒 = Helmet (Black)
+ヘルメット赤 = Helmet (Red)
+クリスマスツリー = Christmas Tree
+
+// small items
+ダンボール = Cardboard
+ゴミ袋 = Garbage Bags
+カエルさんごみ箱 = Frog's Trash
+ゴミ箱黒 = Trash (Black)
+ゴミ箱茶 = Trash (Tea)
+筒ゴミ箱黒 = Cylinder Trash (Black)
+狸の置物 = Raccoon Figurine
+パンダぬいぐるみ = Panda Doll
+うさぎの人形 = Rabbit Doll
+日本人形 = Japanese Doll
+酒甕 = Sakagame
+クリップ = Clip
+洗濯バサミ = Clothespin
+ハンカチ = Handkerchief
+タオルハンガー = Towel Hanger
+携帯電話 = Mobile Phone
+指示棒 = Pointing Stick
+縦笛 = Flute
+宝箱 = Treasure Chest
+木箱 = Wooden Box
+プレゼント袋 = Gift Bag
+リボン＆ベル = Ribbon & Bell
+カウボーイハット = Cowboy Hat
+薔薇 = Rose
+デッキブラシ = Deck Brush
+バケツ = Bucket
+ダンベル = Dumbbell
+バレーボール = Volleyball
+フラフープ = Hula Hoop
+ビーチボール = Beach Ball
+プレゼントボックス = Gift Box
+
+// food
+バナナ = Banana
+バナナ皮剥け = Banana (Peeling)
+ゴーヤ = Bitter Gourd
+キュウリ = Cucumber
+ニンジン = Carrot
+スイカ = Watermelon
+棒アイス = Bar Ice
+うなぎ = Eel
+チキン = Chicken
+ソーセージ = Sausage
+ワイングラス = Wine Glass
+瓶\（緑\） = Bottle (Green)
+瓶\（茶\） = Bottle (Tea)
+x'masケーキ = Christmas Cake 1
+クリスマスケーキ = Christmas Cake 2
+
+// weapons
+ピストル = Pistol
+ナイフ = Knife
+コンバットナイフ = Combat Knife
+中華刀 = Chinese Sword
+杖 = Cane
+マジカルステッキ = Magical Stick
+鎌 = Sickle
+バスタードソード = Bastard Sword
+ヒーローレイピア = Hero Rapier
+ヒーローブレード = Hero Blade
+ボロボロの剣 = Rusty Sword
+伝説の剣 = Legendary Sword
+カタナ = Katana
+妖刀 = Demon Blade
+チェーンソー = Chainsaw
+竹刀 = Bamboo Sword
+木刀 = Wooden Sword
+警棒 = Batons
+スタンガン = Stun Gun
+松明 = Torches
+レザーバッグ = Leather Bag
+ピコハン = Pikohan Hammer
+パラソル2 = Parasol 2
+オール = Oar
+
+// medical items
+点滴スタンド = Drip Stand
+手術器具置き = Surgical Instrument Table
+手術用照明器 = Surgical Illuminator
+手術台 = Operating Table
+クスコ = Speculum
+車椅子 = Wheelchair
+担架 = Stretcher
+分娩台 = Gyno Chair
+聴診器 = Stethoscope
+注射器\(小\) = Syringe (Small)
+注射器\(大\) = Syringe (Large)
+洗面器 = Washbasin
+体温計 = Thermometer
+
+//  H items
+拷問器具 = Torture Instrument Table
+吊るし檻 = Hanging Cage
+首腕拘束帯 = Kubiude Restraint Band
+拘束鎖 = Restraint Chain
+鎖 = Chain
+ギャグボール（ベルト付） = Oral Fixation (With Belt)
+ギャグボール = Oral Fixation
+棘ボール = Thorn Ball
+アイアンメイデン = Iron Maiden
+媚薬 = Aphrodisiac
+手錠 = Metal Handcuffs
+首手枷 = Neck Handcuffs
+手枷 = Leather Handcuffs
+首輪 = Collar
+首輪（棘付） = Collar (With Thorns)
+乗馬ムチ = Riding Whip
+綱輪 = Tsunawa
+綱手枷 = Rope Handcuffs
+ローション = Lotion Bottle
+ロウソク = Candle
+三角木馬 = Triangular Wooden Horse
+三角木馬２ = Triangular Wooden Horse 2
+股割り器 = Splits Device
+スケベイス = Horny Chair
+ソープマット = Thorpe Mat
+ローター = Rotor
+アナルビーズ\（ピンク\） = Anal Beads (Pink)
+アナルビーズ\（緑\） = Anal Beads (Green)
+アナルビーズ\（黒\） = Anal Beads (Black)
+アナルバイブ\(青\) = Anal Vibe (Blue)
+アナルバイブ\(棘ボール\) = Anal Vibe (Thorn Ball)
+アナルバイブ3\(きのこ\) = Anal Vibe (Mushrooms)
+バイブ\（ピンク\） = Vibe (Pink)
+バイブ\(触手\) = Vibe (Tentacles)
+バイブ\(指し棒\) = Vibe (Pointing Stick)
+マッサージ器\（白\） = Massager (White)
+マッサージ器\(黒\) = Massager (Black)
+マッサージ器\（ハンマー\） = Massager (Hammer)
+バイブ(ハニー) = Vibe (Honey)
+三角木馬（ハニー） = Triangular Wooden Horse (Honey)
+ギロチン（ハニー） = Guillotine (Honey)
+固定ギロチン（ハニー） = Fixed Guillotine (Honey)
+錘（ハニー） = Weight (Honey)
+カメラ（ハニー） = Camera (Honey)
+ディルド（ハニー） = Dildo (Honey)
+アナルバイブ（ハニー） = Anal Vibratior (Honey)
+拘束台（ハニー） = Restraint Board (Honey)
+ＳＭギロチン（ハニー） = SM Guillotine (Honey)
+ＳＭ固定ギロチン（ハニー） = SM Fixed Guillotine (Honey)
+鞭（ハニー） = Whip (Honey)
+鞭三角木馬（ハニー） = Whip Triangular Wooden Horse (Honey)
+ＳＭ三角木馬（ハニー） = SM Triangular Horse (Honey)
+
+// liquids
+液溜まり\（白\） = Liquid Pool (White)
+液溜まり\（黄\） = Liquid Pool (Yellow)
+液溜まり\（赤\） = Liquid Pool (Red)
+液体Ａ\（白\） = Liquid A (White)
+液体Ａ\（黄\） = Liquid A (Yellow)
+液体Ａ\（赤\） = Liquid A (Red)
+液体Ｂ\（白\） = Liquid B (White)
+液体Ｂ\（黄\） = Liquid B (Yellow)
+液体Ｂ\（赤\） = Liquid B (Red)
+
+// screen effects
+レンズフレアＡ = Lens Flare A
+レンズフレアＢ = Lens Flare B
+吹き出しＡ = Balloon A
+吹き出しＢ = Balloon B
+吹き出しＣ = Balloon C
+吹き出しＤ = Balloon D
+吹き出しＥ = Balloon E
+吹き出しＦ = Balloon F
+吹き出しＧ = Balloon G
+吹き出しＨ = Balloon H
+集中線\（黒\） = Intensive Line (Black)
+集中線\（白\） = Intensive Line (White)
+丸影 = Marukage
+
+// other items
+ドラゴン = Dragon
+ユニコーン = Unicorn
+骸骨 = Skeleton
+橋 = Bridge
+ステージポール = Stage Pole
+
+// effects
+液体（黄） = Liquid (Yellow)
+濃い液体（弱） = Thick Liquid (Weak)
+濃い液体（中） = Thick Liquid (Medium)
+濃い液体（強） = Thick Liquid (Strong)
+シャワー（弱） = Shower (Weak)
+シャワー（強） = Shower (Strong)
+
+
+// -----------------------------------------------------------------------------------------------
+//  end
+// -----------------------------------------------------------------------------------------------

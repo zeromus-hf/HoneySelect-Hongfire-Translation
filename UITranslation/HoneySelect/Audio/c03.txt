@@ -1,0 +1,5704 @@
+﻿// -----------------------------------------------------------------------------
+// ADV
+// -----------------------------------------------------------------------------
+
+//#sub "he_04_001"  …キス、した
+
+//#sub "he_04_002"  …おっぱい
+
+//#sub "he_04_003"  …元気、なの？
+
+//#sub "he_04_004"  …おっぱい、いじる
+
+//#sub "he_04_005"  …キス、する？
+
+//#sub "he_04_010"  …添い寝
+
+//#sub "he_04_005"  …キス、する？
+
+//#sub "he_04_004"  …おっぱい、いじる
+
+//#sub "he_04_010"  …添い寝
+
+//#sub "he_04_007"  …どうぞ
+
+//#sub "he_04_008"  …いいよ
+
+//#sub "he_04_009"  …私、する
+
+//#sub "he_04_006"  …よろ、しく
+
+//#sub "he_04_011"  …乗る
+
+//#sub "he_04_012"  …してあげる
+
+//#sub "he_04_013"  …いや
+
+//#sub "he_04_014"  …こまる
+
+//#sub "he_04_015"  …したくない
+
+//#sub "he_04_016"  …むり
+
+//#sub "he_04_017"  …いやなのに
+
+//#sub "he_04_018"  …これは、いや
+
+//#sub "he_04_019"  …はい
+
+//#sub "he_04_020"  …どうぞ
+
+//#sub "he_04_021"  …おまかせ
+
+//#sub "he_04_022"  …すきにして
+
+//#sub "he_04_023"  …いいよ
+
+//#sub "he_04_024"  …文句はない
+
+//#sub "he_04_025"  …おわり
+
+//#sub "he_04_026"  …うん、ふつう
+
+//#sub "he_04_027"  …いやではなかった
+
+//#sub "he_04_028"  …意外と、よかった
+
+//#sub "he_04_029"  …悪くなかった
+
+//#sub "he_04_030"  …いいかも、しんない
+
+//#sub "he_04_031"  …きもちよかった
+
+//#sub "he_04_032"  …よかった
+
+//#sub "he_04_033"  …いい気持ちだった
+
+//#sub "he_04_034"  …つかれた
+
+//#sub "he_04_035"  …つらかった
+
+//#sub "he_04_036"  …あんまり楽しくなかった
+
+//#sub "he_04_037"  …終わり
+
+//#sub "he_04_038"  …お疲れ
+
+//#sub "he_04_039"  …お休み
+
+//#sub "he_04_040"  …まただね
+
+//#sub "he_04_041"  …またよろしく
+
+//#sub "he_04_042"  …どうも、どうも
+
+//#sub "he_04_043"  …あ、どうも
+
+//#sub "he_04_044"  …あ、またあった♪
+
+//#sub "he_04_045"  …またよろしく
+
+//#sub "he_04_046"  …どうも、よろしく♪
+
+//#sub "he_04_047"  …へへ、どうも
+
+//#sub "he_04_048"  …よろしくね♪
+
+//#sub "he_04_049"  …また会った　よかった
+
+//#sub "he_04_050"  …また、よろしくね♪
+
+//#sub "he_04_051"  …今日はちょっと、たのしみ
+
+//#sub "he_04_052"  …どうも、よろしくね♪
+
+//#sub "he_04_053"  …よろしく…今日は、楽しみ
+
+//#sub "he_04_054"  …うれしい、よろしく
+
+//#sub "he_04_055"  …あなたなら、いい
+
+//#sub "he_04_056"  …えっち、したいかも
+
+//#sub "he_04_057"  …気持ちいいのは、好き
+
+//#sub "he_04_058"  …エッチなことして
+
+//#sub "he_04_059"  …気持ちよく、なりたい
+
+//#sub "he_04_060"  …ちょっと、エッチしたい
+
+//#sub "he_04_061"  …やらしいこと、して
+
+//#sub "he_04_062"  …今日は、私がしたい
+
+//#sub "he_04_063"  …エッチ、したくなってる
+
+//#sub "he_04_064"  …あなたと、エッチしたい
+
+//#sub "he_04_065"  …気持ちいい事、してほしい
+
+//#sub "he_04_066"  …いっぱい、気持ちよくなりたい
+
+//#sub "he_04_067"  …激しくても、大丈夫
+
+//#sub "he_04_068"  …したくないかも
+
+//#sub "he_04_069"  …いやかも
+
+//#sub "he_04_070"  …まだ、あんまり
+
+//#sub "he_04_071"  …好きじゃないかも
+
+//#sub "he_04_072"  …気持ちよくない
+
+//#sub "he_04_073"  …いや
+
+//#sub "he_04_074"  …やりたくない
+
+//#sub "he_04_075"  …したくない
+
+//#sub "he_04_076"  …帰りたい
+
+//#sub "he_04_077"  …やめたい
+
+//#sub "he_04_078"  …するのはいや
+
+//#sub "he_04_079"  …やりたくない
+
+//#sub "he_04_080"  …いいけど
+
+//#sub "he_04_081"  …大丈夫
+
+//#sub "he_04_082"  …うん
+
+//#sub "he_04_083"  …いいよ
+
+//#sub "he_04_084"  …わかった
+
+//#sub "he_04_085"  …それでいい
+
+//#sub "he_04_086"  …別にいいけど
+
+//#sub "he_04_087"  …気にしない
+
+//#sub "he_04_088"  …好きにしていいけど
+
+//#sub "he_04_089"  …なんでもいい
+
+//#sub "he_04_090"  …ＯＫ、気にしない
+
+//#sub "he_04_091"  …好きにして
+
+//#sub "he_04_092"  …はぁ
+
+//#sub "he_04_093"  …あはは
+
+//#sub "he_04_094"  …へへ、えへへ…
+
+//#sub "he_04_095"  …終わり？
+
+//#sub "he_04_096"  …今日はおしまい？
+
+//#sub "he_04_097"  …これで終わり
+
+//#sub "he_04_098"  …今日はここまで
+
+//#sub "he_04_099"  …それじゃあね
+
+//#sub "he_04_100"  …うん、よかったかも
+
+//#sub "he_04_101"  …うん、気持ちよかった♪
+
+//#sub "he_04_102"  …今日もよかった
+
+//#sub "he_04_103"  …楽しかった
+
+//#sub "he_04_104"  …気持ちよかった
+
+//#sub "he_04_105"  …また、会いたい
+
+//#sub "he_04_106"  …よかったら、次も
+
+//#sub "he_04_107"  …気持ち、よかった♪
+
+//#sub "he_04_108"  …また、一緒にしたい
+
+//#sub "he_04_109"  …すごく、気持ちよかった
+
+//#sub "he_04_110"  …もっと続けたかった
+
+//#sub "he_04_111"  …気持ちよかった
+
+//#sub "he_04_112"  …もっと続けたかった
+
+//#sub "he_04_113"  …すごく感じちゃった
+
+//#sub "he_04_114"  …すごい、よかった
+
+//#sub "he_04_115_00"  …すごく、気持ちよかった
+
+//#sub "he_04_115_01"  …あの、楽しかった
+
+//#sub "he_04_116_00"  …気持ちよかった
+
+//#sub "he_04_116_01"  …うん、またね
+
+//#sub "he_04_117_00"  …えっと、楽しかった
+
+//#sub "he_04_117_01"  …ありがとう
+
+//#sub "he_04_118"  …もう帰る
+
+//#sub "he_04_119"  …つかれちゃった
+
+//#sub "he_04_120"  …もう帰っていい？
+
+//#sub "he_04_121"  …もういいでしょ？
+
+//#sub "he_04_122"  …終わっていい？
+
+//#sub "he_04_123"  …もういいでしょ？
+
+//#sub "he_04_124"  …これ、やっぱり、つらいから、いや
+
+//#sub "he_04_125"  …あんまり、したくない
+
+//#sub "he_04_126"  …これ、やっぱり、楽しくない
+
+//#sub "he_04_127"  …うん、よかったかも
+
+//#sub "he_04_128"  …はい、いい感じ
+
+//#sub "he_04_129"  …問題なし
+
+//#sub "he_04_130"  …満足した？
+
+//#sub "he_04_131"  …楽しかった？
+
+//#sub "he_04_132"  …大丈夫だった？
+
+//#sub "he_04_133"  …どう、楽しかった？
+
+//#sub "he_04_134"  …ねぇ、いい感じだった？
+
+//#sub "he_04_135"  …楽しんで、もらえたの？
+
+//#sub "he_04_136"  …終わりなの？
+
+//#sub "he_04_137"  …そっちだけだよ
+
+//#sub "he_04_138"  …終わりなんだ？
+
+//#sub "he_04_139"  …もういいの？　そう
+
+//#sub "he_04_140_00"  …そっちだけ？
+
+//#sub "he_04_140_01"  別にいいけど
+
+//#sub "he_04_141_00"  …終わるの？
+
+//#sub "he_04_141_01"  わかった
+
+//#sub "he_04_142_00"  …もういいの？
+
+//#sub "he_04_142_01"  じゃあやめる
+
+//#sub "he_04_143"  …私、まだなのに
+
+//#sub "he_04_144"  …私、いってない
+
+//#sub "he_04_145"  …私は終わってないのに
+
+//#sub "he_04_146_00"  …終わったの？
+
+//#sub "he_04_146_01"  はい
+
+//#sub "he_04_147"  …ん、おわりね
+
+//#sub "he_04_148"  …うん、もういい
+
+//#sub "he_04_149_00"  …大丈夫？
+
+//#sub "he_04_149_01"  じゃあ、いいけど
+
+//#sub "he_04_150"  …はい、おしまい
+
+//#sub "he_04_151"  …うん、じゃあおわりね
+
+//#sub "he_04_152"  …じゃあ、終わりね
+
+//#sub "he_04_153"  …気持ちよかった
+
+//#sub "he_04_154"  …楽しんだかも
+
+//#sub "he_04_155"  …私だけ、みたい
+
+//#sub "he_04_156"  …気持ちよかったけど、いいの？
+
+//#sub "he_04_157"  …あなたがいいなら、いいけど
+
+//#sub "he_04_158"  …私、だけだけど？
+
+//#sub "he_04_159"  …いかされちゃった
+
+//#sub "he_04_160"  …気持ちよかったけど、いいの？
+
+//#sub "he_04_161"  …あなたは、いったの？
+
+//#sub "he_04_162"  …いかされた
+
+//#sub "he_04_163"  …疲れた
+
+//#sub "he_04_164"  …大変だった
+
+//#sub "he_04_165"  …いかされちゃった
+
+//#sub "he_04_166"  …あなたは？　大丈夫なの？
+
+//#sub "he_04_167"  …私だけ、あなたはいってないけど？
+
+//#sub "he_04_168"  …終わりなの？　大丈夫？
+
+//#sub "he_04_169"  …いいの、終わりで？
+
+//#sub "he_04_170"  …何も、しないの？
+
+//#sub "he_04_171"  …なにもないの？　別にいいけど
+
+//#sub "he_04_172"  …どうしたの？　大丈夫？
+
+//#sub "he_04_173"  …何もしなくて、いいの？
+
+//#sub "he_04_174"  …何もしなくて、大丈夫？
+
+//#sub "he_04_175"  …終わりなの？　ほんとうにいいの？
+
+//#sub "he_04_176"  …終わり？　何もしてないのに
+
+//#sub "he_04_177_00"  …終わるの？
+
+//#sub "he_04_177_01"  別に、いいけど
+
+//#sub "he_04_178"  …これでいいの？　わかった
+
+//#sub "he_04_179"  …終わるのね、わかった
+
+//#sub "he_04_180"  …うん、終わりでいいよ
+
+//#sub "he_04_181_00"  …いいの？
+
+//#sub "he_04_181_01"  ならいいけど
+
+//#sub "he_04_182_00"  …これで終わるの？
+
+//#sub "he_04_182_01"  うん、わかった
+
+//#sub "he_04_183_00"  …何もしないの？
+
+//#sub "he_04_183_01"  それじゃあ、終わりね
+
+//#sub "he_04_184"  …からら、おかひい
+
+//#sub "he_04_185"  …ちから、ひゃいらない
+
+//#sub "he_04_186"  …へんなぁ、かんじぃ
+
+//#sub "he_04_187"  …もう…うごへ、ない
+
+//#sub "he_04_188"  …へぇ、しぬかと、おもった
+
+//#sub "he_04_189"  …むちゃ…しすぎ
+
+//#sub "he_04_190"  …もう…らめ、おかひい
+
+//#sub "he_04_191"  …らめぇ…きもち、よすぎひゃうぅ…
+
+//#sub "he_04_192"  …きもち、よふぎて、おかひくなっひゃうぅ…
+
+//#sub "he_04_193"  …かららがぁ…おかひく、なっひゃうぅ
+
+//#sub "he_04_194"  …ふぅ…もうつらぃ
+
+//#sub "he_04_195"  …無理、しないでぇ
+
+//#sub "he_04_196"  …もうらめ、しんじゃう、から…
+
+//#sub "he_04_197"  …お、おかひく、なっちゃう
+
+//#sub "he_04_198"  …からだが…へんに、なっちゃう
+
+//#sub "he_04_199"  …もう…ちからが、はいらないぃ…
+
+//#sub "he_04_200"  …あはは…きもちい
+
+//#sub "he_04_201"  …えへ…いい
+
+//#sub "he_04_202"  …もう、なんでも、いい
+
+//#sub "he_04_203"  …きもちい
+
+//#sub "he_04_204"  …きつかった
+
+//#sub "he_04_205"  …痛かった
+
+//#sub "he_04_206"  …痛いけど、まぁまぁ
+
+//#sub "he_04_207"  …きつかったけど…うん
+
+//#sub "he_04_208"  …痛くて、よかった
+
+//#sub "he_04_209"  …痛かったのに、変なの
+
+//#sub "he_04_210"  …痛いの、もうやだ
+
+//#sub "he_04_211"  …きついから、もういや
+
+//#sub "he_04_212"  …きついけど、がんばった
+
+//#sub "he_04_213"  …痛いけど、我慢した
+
+//#sub "he_04_214"  …痛くなくてよかった
+
+//#sub "he_04_215"  …しなくてよかった
+
+//#sub "he_04_216"  …痛いのは、やっぱりいや
+
+//#sub "he_04_217"  …きついの、やらなくてよかった
+
+//#sub "he_04_218"  …痛くても…よかったのに
+
+//#sub "he_04_219"  …別に、嫌じゃなかったのに
+
+//#sub "he_04_220"  …うん、よかった
+
+//#sub "he_04_221"  …やめてくれて、うれしい
+
+//#sub "he_04_222"  …我慢できたけど、まぁいいか
+
+//#sub "he_04_223"  …やめるなら、別にいい
+
+//#sub "he_04_224"  …恥ずかしい
+
+//#sub "he_04_225"  …照れちゃう
+
+//#sub "he_04_226"  …恥ずかしいの困る
+
+//#sub "he_04_227"  …恥ずかしいけど、ちょっとなら
+
+//#sub "he_04_228"  …恥ずかしいのが、いいの？
+
+//#sub "he_04_229"  …恥ずかしいけど、別にいい
+
+//#sub "he_04_230"  …恥ずかしいけど、いいかも
+
+//#sub "he_04_231"  …恥ずかしいから、いや
+
+//#sub "he_04_232"  …恥ずかしい事、したくない
+
+//#sub "he_04_233"  …恥ずかしいけど、がんばる
+
+//#sub "he_04_234"  …恥ずかしいけど、やってみる
+
+//#sub "he_04_235_00"  …やめるの？
+
+//#sub "he_04_235_01"  わかった
+
+//#sub "he_04_236_00"  …しないの？
+
+//#sub "he_04_236_01"  うん
+
+//#sub "he_04_237_00"  …やめるんだ？
+
+//#sub "he_04_237_01"  いいよ
+
+//#sub "he_04_238"  …恥ずかしいけど、別によかったのに
+
+//#sub "he_04_239"  …恥ずかしいけど、興味あったのに
+
+//#sub "he_04_240_00"  …やめるの？
+
+//#sub "he_04_240_01"  別にしてもよかったのに
+
+//#sub "he_04_241_00"  …やめるの？
+
+//#sub "he_04_241_01"  次はどうするの？
+
+//#sub "he_04_242"  …やめてよかった
+
+//#sub "he_04_243"  …恥ずかしい事、しなくてよかった
+
+//#sub "he_04_244"  …恥ずかしい事、我慢するつもりだったのに
+
+//#sub "he_04_245"  …恥ずかしい事、がんばろうと思ったのに
+
+//#sub "he_04_246"  …治った
+
+//#sub "he_04_247"  …普通になった
+
+//#sub "he_04_248"  …変な感じがなくなった、よかった
+
+//#sub "he_04_249"  …おかしかったのが、戻ったかも
+
+//#sub "he_04_250"  …治って、よかった
+
+//#sub "he_04_251"  …部屋、いい感じ
+
+//#sub "he_04_252"  …あなたのお部屋、うれしい
+
+//#sub "he_04_253"  …部屋で、エッチ、したい
+
+//#sub "he_04_254"  …ここ、あんまり好きじゃないかも
+
+//#sub "he_04_255"  …入っても大丈夫なの？
+
+//#sub "he_04_256"  …ちょっと恥ずかしい
+
+//#sub "he_04_257"  …あんまり観察しないで
+
+//#sub "he_04_258"  …別に何もないから
+
+//#sub "he_04_259"  …部屋、普通だから
+
+//#sub "he_04_260"  …私の部屋でも、大丈夫？
+
+//#sub "he_04_261"  …混浴、てれちゃう
+
+//#sub "he_04_262"  …混浴、楽しみかも
+
+//#sub "he_04_263"  …お風呂で、いい事したい
+
+//#sub "he_04_264"  …お風呂、ゆっくり入りたい
+
+//#sub "he_04_265"  …一緒に入るの、楽しみかも
+
+//#sub "he_04_266"  …外なのに？
+
+//#sub "he_04_267"  …見られてもいいの？
+
+//#sub "he_04_268"  …見られるの、ドキドキする
+
+//#sub "he_04_269"  …恥ずかしいから、いや
+
+//#sub "he_04_270"  …どこでしても、いいけど
+
+//#sub "he_04_271"  …変な道具いっぱい
+
+//#sub "he_04_272"  …何に使う道具なの？
+
+//#sub "he_04_273"  …これって、えっちに使えるの？
+
+//#sub "he_04_274"  …ここって何の部屋なの？
+
+//#sub "he_04_275"  …よくわからないけど、まぁいいか
+
+//#sub "he_04_276"  …和室だね
+
+//#sub "he_04_277"  …畳のにおい、好きかも
+
+//#sub "he_04_278"  …お布団でエッチするの？
+
+//#sub "he_04_279"  …書道とかしないの？
+
+//#sub "he_04_280"  …和風の遊びをするの？
+
+//#sub "he_04_281_00"  …ロビーでするの？
+
+//#sub "he_04_281_01"  恥ずかしいよ
+
+//#sub "he_04_282"  …ロビーでしても、怒られないの？
+
+//#sub "he_04_283_00"  …ロビーでエッチな事するの？
+
+//#sub "he_04_283_01"  すごいね
+
+//#sub "he_04_284"  …ロビーでなんて、できないけど
+
+//#sub "he_04_285_00"  …ロビーでしたいの？
+
+//#sub "he_04_285_01"  なら、いいけど
+
+//#sub "he_04_286"  …トイレ、普通に使わないの？
+
+//#sub "he_04_287"  …トイレで、エッチな事したいの？
+
+//#sub "he_04_288_00"  …トイレでしたいんだ？
+
+//#sub "he_04_288_01"  変わってる
+
+//#sub "he_04_289"  …トイレ、汚いと思う
+
+//#sub "he_04_290"  …トイレでエッチしても、気にしないから
+
+//#sub "he_04_291"  …一緒に浴びるの？
+
+//#sub "he_04_292"  …シャワー室で、するの？
+
+//#sub "he_04_293"  …シャワー浴びながら、エッチするの？
+
+//#sub "he_04_294"  …シャワー、ゆっくり浴びたい
+
+//#sub "he_04_295"  …シャワーで、一緒に洗ってあげる
+
+//#sub "he_04_296"  …カメラで、撮影するの？
+
+//#sub "he_04_297"  …撮影、照れるかも
+
+//#sub "he_04_298"  …カメラ、ちょっと興奮するかも
+
+//#sub "he_04_299"  …カメラは、いやかも
+
+//#sub "he_04_300"  …カメラ、ちょっと緊張する
+
+//#sub "he_04_301"  …誘ってもいい？
+
+//#sub "he_04_302"  …遊ぶ？
+
+//#sub "he_04_303"  …声、かけても大丈夫？
+
+//#sub "he_04_304"  …一緒に遊んでみる？
+
+//#sub "he_04_305"  …エッチしよ
+
+//#sub "he_04_306"  …一緒に、えっちなことしたい
+
+//#sub "he_04_307"  …えっち、してもいいよ
+
+//#sub "he_04_308"  …一緒に来て欲しい
+
+//#sub "he_04_309"  …じゃ、遊ぼう
+
+//#sub "he_04_310"  …じゃあ、行こう
+
+//#sub "he_04_311"  …よろしく
+
+//#sub "he_04_312"  …はじめるね
+
+//#sub "he_04_313"  …私、こういうのがいい
+
+//#sub "he_04_314"  …えっち、してね
+
+//#sub "he_04_315"  …気持ちよくなろう
+
+//#sub "he_04_316"  …ありがとう
+
+//#sub "he_04_317"  …楽しかった♪
+
+//#sub "he_04_318"  …気持ちよかった
+
+//#sub "he_04_319_00"  …楽しかった？
+
+//#sub "he_04_319_01"  ならよかった
+
+//#sub "he_04_320"  …き、きつい
+
+//#sub "he_04_321"  …い、いきが…続かない
+
+//#sub "he_04_322"  …気持ちよくて、変になる
+
+//#sub "he_04_323"  …すごい…疲れた
+
+//#sub "he_04_324"  …じゃあね
+
+//#sub "he_04_325"  …ばいばい
+
+//#sub "he_04_326"  …ごめんなさい
+
+//#sub "he_04_327"  …いるの？
+
+//#sub "he_04_328"  …いた
+
+//#sub "he_04_329"  …やっぱりいた
+
+//#sub "he_04_330"  …いると思った
+
+//#sub "he_04_331"  …中に入りたい
+
+//#sub "he_04_332"  …顔が見たい
+
+//#sub "he_04_333"  …あそぼう
+
+//#sub "he_04_334"  …一緒にいたい
+
+//#sub "he_04_335"  …一緒にいていい？
+
+//#sub "he_04_336"  …えっちしちゃった
+
+//#sub "he_04_337"  …えっち、楽しかった
+
+//#sub "he_04_338"  …エッチ、嫌いじゃないよ
+
+//#sub "he_04_339"  …エッチも悪くない
+
+//#sub "he_04_340"  …ちから、はいらない
+
+//#sub "he_04_341"  …ありがとう、たのしかった
+
+//#sub "he_04_342"  …いない
+
+//#sub "he_04_343"  …起きた
+
+//#sub "he_04_344"  …あ、逆襲されちゃう
+
+//#sub "he_04_345"  …勝手に暴れるから、大変
+
+//#sub "he_04_346"  …探しに来てくれた
+
+//#sub "he_04_347"  …ありがとう
+
+//#sub "he_04_348"  …なんだか、うれしいかも
+
+//#sub "he_04_349"  …ん、すぐ戻るから
+
+//#sub "he_04_350"  すぅ……はぁ……
+
+//#sub "he_04_351"  んぅ……はぁ……
+
+//#sub "he_04_352"  すぅ……はぁ……・・う～ん……すぅ……はぁ……
+
+//#sub "he_04_353_00"  すぅ……はぁ………
+
+//#sub "he_04_353_01"  遊びたい……すぅ……はぁ……
+
+//#sub "he_04_354_00"  すぅ……はぁ……
+
+//#sub "he_04_354_01"  （あ…来てる）
+
+//#sub "he_04_354_02"  すぅ……はぁ……
+
+//#sub "he_04_355_00"  すぅ……はぁ……
+
+//#sub "he_04_355_01"  んん゛っ……変な感じ……すぅ……はぁ……
+
+//#sub "he_04_356_00"  はぁはぁ……うーん…暑い……
+
+//#sub "he_04_356_01"  はぁはぁ…はぁ……
+
+//#sub "he_04_357_00"  すぅ……はぁ………
+
+//#sub "he_04_357_01"  あ…また来た……
+
+//#sub "he_04_357_02"  すぅ……はぁ……
+
+//#sub "he_04_358_00"  すぅ……はぁ……
+
+//#sub "he_04_358_01"  （…帰るんだ？）
+
+//#sub "he_04_358_02"  すぅ……はぁ……
+
+//#sub "he_04_359_00"  はぁはぁ……ん…くるしぃ・・・・・
+
+//#sub "he_04_359_01"  はぁはぁ…
+
+//#sub "he_04_360"  はぁはぁ……ふぅっ、…はぁはぁ…はぁ……
+
+//#sub "he_04_361"  …きらい、ばか
+
+//#sub "he_04_362"  …最低
+
+//#sub "he_04_363"  …無理やりは、よくない
+
+//#sub "he_04_364"  …こんなのいや
+
+//#sub "he_04_365"  …ちょっとあきれる
+
+//#sub "he_04_366"  …本気で最低
+
+//#sub "he_04_367"  …？　待ってたの？
+
+//#sub "he_04_368"  …もしかして、待っててくれたの？
+
+//#sub "he_04_369"  …あ、待たせちゃったの？
+
+//#sub "he_04_370"  …そこで、なにしてるの？
+
+//#sub "he_04_371"  …？！　うれしい、そこにいたんだ
+
+//#sub "he_04_372"  …トイレ、行きたい
+
+//#sub "he_04_373"  …トイレ、行かせて
+
+//#sub "he_04_374"  …トイレ、行きたいの
+
+//#sub "he_04_375"  …あの、ちょっとトイレに
+
+//#sub "he_04_376"  …トイレにいってもいい？
+
+//#sub "he_04_377"  …はぁ、間に合った
+
+//#sub "he_04_378"  …ん、まだ大丈夫
+
+//#sub "he_04_378"  …ちょっと、もれそう
+
+//#sub "he_04_380"  …むらむらする
+
+//#sub "he_04_381"  …したく、なってきちゃった
+
+//#sub "he_04_382"  …ありがとう、待ってくれて
+
+//#sub "he_04_383"  …お待たせ
+
+//#sub "he_04_384"  …なんとなく、人の気配がしたような
+
+//#sub "he_04_385"  …おまたせ、どうも
+
+//#sub "he_04_386"  …ありがとう、お待たせ
+
+//#sub "he_04_387_00"  …ありがとう
+
+//#sub "he_04_387_01"  ん？　別になんでもない
+
+//#sub "he_04_388_00"  …ごめんね、お待たせ…
+
+//#sub "he_04_388_01"  ちょっと用事があったから
+
+//#sub "he_04_389"  …ばれてたなんて、恥ずかしい
+
+//#sub "he_04_390"  …つい、手が勝手に
+
+//#sub "he_04_391_00"  …？！
+
+//#sub "he_04_391_01"  覗くなんて、ひどい
+
+//#sub "he_04_392"  …覗くなんて…変態
+
+//#sub "he_04_393"  …覗いて…その後どうしたの？
+
+//#sub "he_04_394"  …？！もしかして、覗き！
+
+//#sub "he_04_395"  …覗き、よくない
+
+//#sub "he_04_396"  …？！　一緒にはいるの？
+
+//#sub "he_04_397"  …？！　ここ、個室
+
+//#sub "he_04_398"  …？！　トイレは、一人でしたいけど
+
+//#sub "he_04_399_00"  …きゃ？！
+
+//#sub "he_04_399_01"  早く出て行って
+
+//#sub "he_04_400"  …え？！　まさか、このまま…？
+
+//#sub "he_04_401"  …落ち着いて、トイレができない
+
+//#sub "he_04_402"  …ビックリして、ちょっと大変なことに
+
+//#sub "he_04_403"  …ビックリしたけど…興奮したかも
+
+//#sub "he_04_404"  …我慢しすぎで病気になりそう
+
+//#sub "he_04_405"  …あのままするなんて、思わなかった
+
+//#sub "he_04_406"  …ちょ、トイレ
+
+//#sub "he_04_407"  …あの、トイレ
+
+//#sub "he_04_408"  …だから、トイレ行きたいのに
+
+//#sub "he_04_409"  …ええっと、トイレ行かせてよ
+
+//#sub "he_04_410"  …ねぇ、トイレにいきたい
+
+//#sub "he_04_411"  …トイレに用があるんだけど
+
+//#sub "he_04_412"  …トイレ、いきたいんだけど
+
+//#sub "he_04_413"  …ねぇ、トイレの邪魔しないでよ
+
+//#sub "he_04_414"  …なんで邪魔するの？
+
+//#sub "he_04_415"  …意地悪、しないで
+
+//#sub "he_04_416"  …トイレ、いきたかったのに
+
+//#sub "he_04_417"  …我慢しすぎで、おかしくなりそうだった
+
+//#sub "he_04_418"  …トイレ、いきたかった
+
+//#sub "he_04_419"  …もう、体が変な感じ
+
+//#sub "he_04_420"  …普通にトイレいきたかったのに
+
+//#sub "he_04_421"  …お待たせ
+
+//#sub "he_04_422"  …お待たせ、ありがとう
+
+//#sub "he_04_423"  …どうも、おまちどう
+
+//#sub "he_04_424"  …ごめんね、またせて
+
+//#sub "he_04_425"  …待ってくれて、ありがとう
+
+//#sub "he_04_426"  …ふふ～ん、ふぅん♪
+
+//#sub "he_04_427"  …はぁ・・・気持ちいい……
+
+//#sub "he_04_428"  …シャワー、さっぱりする
+
+//#sub "he_04_429"  あぁ……ぁあ……
+
+//#sub "he_04_430"  あぁ……ぁあ……
+
+//#sub "he_04_431"  …あ、何してるの？
+
+//#sub "he_04_432"  …いるの、気がつかなかった
+
+//#sub "he_04_433"  …シャワーの音で、気がつかなかった
+
+//#sub "he_04_434"  …？！　いたの？　びっくりした
+
+//#sub "he_04_435"  …シャワー、浴びに来たの？
+
+//#sub "he_04_436"  …聞いてた？
+
+//#sub "he_04_437"  …えっと、聞こえてたでしょ？
+
+//#sub "he_04_438_00"  …見てたんだ？
+
+//#sub "he_04_438_01"  えっち
+
+//#sub "he_04_439"  …見てたんなら、教えてよ
+
+//#sub "he_04_440"  …覗きはダメ
+
+//#sub "he_04_441"  …覗くなんて…変態
+
+//#sub "he_04_442"  …覗くくらいなら、教えてよ
+
+//#sub "he_04_443"  …覗かないで、ばか
+
+//#sub "he_04_444_00"  …覗きたかったの？
+
+//#sub "he_04_444_01"  エッチだね
+
+//#sub "he_04_445"  …？！　急にどうしたの？
+
+//#sub "he_04_446"  …？！　え、何するの、これ？
+
+//#sub "he_04_447_00"  …？！　なにこれ？
+
+//#sub "he_04_447_01"  一緒にシャワー浴びるの？
+
+//#sub "he_04_448_00"  …？！
+
+//#sub "he_04_448_01"  狭いから、一人で入りたいのに
+
+//#sub "he_04_449_00"  …？！　一緒に？
+
+//#sub "he_04_449_01"  別にいいけど
+
+//#sub "he_04_450"  …シャワー、ちゃんと浴びたかったのに
+
+//#sub "he_04_451"  …また、汗かいちゃった
+
+//#sub "he_04_452"  …一緒に浴びる？
+
+//#sub "he_04_453"  …次は、普通に浴びたい
+
+//#sub "he_04_454"  …シャワーも一緒に浴びる？
+
+//#sub "he_04_455_00"  …待っててくれたの？
+
+//#sub "he_04_455_01"  ありがとう
+
+//#sub "he_04_456_00"  …ここで待ってたの？
+
+//#sub "he_04_456_01"  ありがとう
+
+//#sub "he_04_457_00"  …あ？
+
+//#sub "he_04_457_01"  ありがとう、待たせちゃった？
+
+//#sub "he_04_458_00"  …いたの？
+
+//#sub "he_04_458_01"  どうも、おまたせ
+
+//#sub "he_04_459"  …もしかして？　待っててくれたの？
+
+//#sub "he_04_460"  …ありがとう、またね
+
+//#sub "he_04_461"  …楽しかった、次はこっちが待つかも
+
+//#sub "he_04_462"  …ありがとう、次も待っててね
+
+//#sub "he_04_463"  …お疲れ…次は待たなくてもいいから
+
+//#sub "he_04_464_00"  …楽しかった。
+
+//#sub "he_04_464_01"  次はどっちが待つのかな
+
+
+// -----------------------------------------------------------------------------
+// H汎用 
+// -----------------------------------------------------------------------------
+
+
+#sub "hs_04_001"  Ah, oh, so good, stop, kya, can't take it anymore
+
+#sub "hs_04_002"  I don't care ,no, no, no
+
+#sub "hs_04_003"  *Puff puff* I, I'm going to *pant* going to explode...
+
+#sub "hs_04_004"  I feel sorry, I do not care, argh, kyah, *yes* *gasp*
+
+#sub "hs_04_005"  *Gasp* I, I feel it, it's filthy... in my secret place... no it's okay, keep going...
+
+#sub "hs_04_006"  「*breath*」
+
+#sub "hs_04_007"  「Kyaa!  Fua, aah... aah.. aah...」
+
+#sub "hs_04_008"  「*breath*」
+
+#sub "hs_04_009"  「Hmmmm....hufff...」
+
+#sub "hs_04_010"  「*breath*」
+
+#sub "hs_04_011"  「Hmmmm....hufff...」
+
+#sub "hs_04_012"  「*breath*」
+
+#sub "hs_04_013"  「Hmmmm....hufff...」
+
+#sub "hs_04_014"  「*breath*」
+
+#sub "hs_04_015"  「Hmmmm....hufff...」
+
+#sub "hs_04_016"  「*breath*」
+
+#sub "hs_04_017"  「Hmmmm....hufff...」
+
+#sub "hs_04_018"  「*breath*」
+
+#sub "hs_04_019"  「Hmmmm....hufff...」
+
+#sub "hs_04_020"  「Ah....ahhhh....wuuu....fffu, ahh, hahhh」
+
+#sub "hs_04_021"  「Ah....ahhhh....wuuu....fffu, ahh, hahhh」
+
+#sub "hs_04_022"  「Ah....ahhhh...ffffu, ahh, hahhh」
+
+#sub "hs_04_023"  「Ah....ahhhh...ffffu, ahh, hahhh」
+
+#sub "hs_04_024"  「Ah, hah, hah, argh, aaah, hmmm」
+
+#sub "hs_04_025"  「Ah, hah, hah, argh, aaah, hmmm」
+
+#sub "hs_04_026"  「*breath*」
+
+#sub "hs_04_027"  I...I can't stop...hmmm...
+
+#sub "hs_04_028"  *puff* ..It's...inside...
+
+#sub "hs_04_029"  Aaa, I can feel it...
+
+#sub "hs_04_030"  Hmmmm... I'm going to...
+
+#sub "hs_04_031"  Ha, Aaaaah...
+
+#sub "hs_04_032"  My... my... *gasp*
+
+#sub "hs_04_033"  Argh..my butt...is no good
+
+#sub "hs_04_034"  I... *pant*
+
+#sub "hs_04_035"  Not... allowed...
+
+#sub "hs_04_036"  It's... *pant* it is...
+
+#sub "hs_04_037"  Mm.. *slurp*
+
+#sub "hs_04_038"  Mmm... hmm...
+
+#sub "hs_04_039"  Mmm... there...
+
+#sub "hs_04_040"  I'm yours...
+
+#sub "hs_04_041"  「Oh...mm...ha...」
+
+#sub "hs_04_042"  「Oh...mm...ha...」
+
+#sub "hs_04_043"  「Oh...mm...ha...」
+
+#sub "hs_04_044"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_045"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_046"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_047"  「Oh...mm...ha...」
+
+#sub "hs_04_048"  「Oh...mm...ha...」
+
+#sub "hs_04_049"  「Oh...mm...ha...」
+
+#sub "hs_04_050"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_051"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_052"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_053"  「Fuaa! Gah!」
+
+#sub "hs_04_054"  「Fuaa! Gah!」
+
+#sub "hs_04_055"  「Fuaa! Gah!」
+
+#sub "hs_04_056"  「Slurp... mmmah」
+
+#sub "hs_04_057"  「Slurp... mmmah」
+
+#sub "hs_04_058"  「lick, mmmm...*slurp*」
+
+#sub "hs_04_059"  「lick, mmmm...*slurp*」
+
+#sub "hs_04_060"  「Fuaa! Gah!」
+
+#sub "hs_04_061"  「Fuaa! Gah!」
+
+#sub "hs_04_062"  「(Yess) ...*puff*... *pant*」
+
+#sub "hs_04_063"  「Fuaa... mmm...」
+
+#sub "hs_04_064"  「Fuaa... mmm...」
+
+#sub "hs_04_065"  「（Ah, ah, he, he, ha）」
+
+#sub "hs_04_066"  「（Ah, ah, he, he, ha）」
+
+#sub "hs_04_067"  「（Fuaa! Gah!）」
+
+#sub "hs_04_068"  「（Fuaa! Gah!）」
+
+#sub "hs_04_069"  「Aaaah...hmmmm..」
+
+#sub "hs_04_070"  「Aaaah...hmmmm..」
+
+#sub "hs_04_071"  「Aaaah...hmmmm..」
+
+#sub "hs_04_072"  「Ah, uh, ah」
+
+#sub "hs_04_073"  「Ah, uh, ah」
+
+#sub "hs_04_074"  「Ah, uh, ah」
+
+#sub "hs_04_075"  「Oh...mm...ha...」
+
+#sub "hs_04_076"  「Oh...mm...ha...」
+
+#sub "hs_04_077"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_078"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_079"  「Fuaa! Gah!」
+
+#sub "hs_04_080"  「Fuaa! Gah!」
+
+#sub "hs_04_081"  「Fuaa! Gah!」
+
+#sub "hs_04_082"  「Slurp... mmmah」
+
+#sub "hs_04_083"  「Slurp... mmmah」
+
+#sub "hs_04_084"  「lick, mmmm...*slurp*」
+
+#sub "hs_04_085"  「lick, mmmm...*slurp*」
+
+#sub "hs_04_086"  「Urrg! *drool*」
+
+#sub "hs_04_087"  「Urrg! *drool*」
+
+#sub "hs_04_088"  「*ehehehe.. hehehe*」
+
+#sub "hs_04_089"  「*ehehehe.. hehehe*」
+
+#sub "hs_04_090"  「*ehehehe.. hehehe*」
+
+#sub "hs_04_091"  「Oooooo, Hmmmmm, mmmmmm」
+
+#sub "hs_04_092"  「Oooooo, Hmmmmm, mmmmmm」
+
+#sub "hs_04_093"  「Oooooo, Hmmmmm, mmmmmm」
+
+#sub "hs_04_094"  「*ehehehe.. hehehe*」
+
+#sub "hs_04_095"  「*ehehehe.. hehehe*」
+
+#sub "hs_04_096"  「Oooooo, Hmmmmm, mmmmmm」
+
+#sub "hs_04_097"  「Oooooo, Hmmmmm, mmmmmm」
+
+#sub "hs_04_098"  「Arg! Heh！Ahahaha！」
+
+#sub "hs_04_099"  「Arg! Heh！Ahahaha！」
+
+#sub "hs_04_100"  「Arg! Heh！Ahahaha！」
+
+#sub "hs_04_101"  「Ugh... *sob*」
+
+#sub "hs_04_102"  「Ugh... *sob*」
+
+#sub "hs_04_103"  「Ugh... *sob*」
+
+#sub "hs_04_104"  「Ugh... hgh...」
+
+#sub "hs_04_105"  「Ugh... hgh...」
+
+#sub "hs_04_106"  「Ugh... hgh...」
+
+#sub "hs_04_107"  「Ugh... *sob*」
+
+#sub "hs_04_108"  「Ugh... *sob*」
+
+#sub "hs_04_109"  「Ugh... hgh...」
+
+#sub "hs_04_110"  「Ugh... hgh...」
+
+#sub "hs_04_111"  「why eh！Heh！Ahahaha！」
+
+#sub "hs_04_112"  「Arg! Heh！Ahahaha！」
+
+#sub "hs_04_113"  「Arg! Heh！Ahahaha！」
+
+#sub "hs_04_114"  「Slurp... mmmah」
+
+#sub "hs_04_115"  「Slurp... mmmah」
+
+#sub "hs_04_116"  「lick, mmmm...*slurp*」
+
+#sub "hs_04_117"  「lick, mmmm...*slurp*」
+
+#sub "hs_04_118"  「Fuua...Gah...」
+
+#sub "hs_04_119"  「Fuua...Gah...」
+
+#sub "hs_04_120"  「（Ugh... *sob*）」
+
+#sub "hs_04_121"  「（Ugh... *sob*）」
+
+#sub "hs_04_122"  「（Ugh... hgh...）」
+
+#sub "hs_04_123"  「（Ugh... hgh...）」
+
+#sub "hs_04_124"  「（Ahh...ahh...ffu）」
+
+#sub "hs_04_125"  「（Ahh...ahh...ffu）」
+
+#sub "hs_04_126"  「Oh...mm...ha...」
+
+#sub "hs_04_127"  「Oh...mm...ha...」
+
+#sub "hs_04_128"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_129"  「Ah, ah, he, he, ha」
+
+#sub "hs_04_130"  「Fuaa! Gah!」
+
+#sub "hs_04_131"  「Fuaa! Gah!」
+
+#sub "hs_04_132"  「Fuaa! Gah!」
+
+#sub "hs_04_133"  「mm...slurp...*suck*」
+
+#sub "hs_04_134"  「mm...slurp...*suck*」
+
+#sub "hs_04_135"  「*Slurp*, mmm, mwah」
+
+#sub "hs_04_136"  「*Slurp*, mmm, mwah」
+
+#sub "hs_04_137"  「*drool* ...ugh...(thank you)... 」
+
+#sub "hs_04_138"  「*drool* ...ugh...(thank you)... 」
+
+#sub "hs_04_139"  「*slurp* ...mmm... *slurp*」
+
+#sub "hs_04_140"  「*slurp* ...mmm... *slurp*」
+
+#sub "hs_04_141"  「Mm...ugh...urgh *drool」
+
+#sub "hs_04_142"  「Mm...ugh...urgh *drool」
+
+#sub "hs_04_143"  「Nn, huh, nn, unn, ha」
+
+#sub "hs_04_144"  「Nn, huh, nn, unn, ha」
+
+#sub "hs_04_145"  「Nn, huh, nn, unn, ha」
+
+#sub "hs_04_146"  「Nn, huh, nn, unn, ha」
+
+#sub "hs_04_147"  「Nn, huh, nn, unn, ha」
+
+#sub "hs_04_148"  「Hnn...umph...huh...urgh...ha」
+
+#sub "hs_04_149"  「Hnn...umph...huh...urgh...ha」
+
+#sub "hs_04_150"  「Hnn...umph...huh...urgh...ha」
+
+#sub "hs_04_151"  「*gasp* ...mfuu...mfuu..」
+
+#sub "hs_04_152"  「*gasp* ...mfuu...mfuu..」
+
+#sub "hs_04_153"  「*gasp* ...mfuu...mfuu..」
+
+#sub "hs_04_154"  「Mmmmmm, *gulp* mmmmmmm, (so sticky)」
+
+#sub "hs_04_155"  「Mmmmmm, *gulp* mmmmmmm, (so sticky)」
+
+#sub "hs_04_156"  「Mmmmmm, *gulp* mmmmmmm, (so sticky)」
+
+#sub "hs_04_157"  「*slurp* (to cum... in my mouth...) *drool*」
+
+#sub "hs_04_158"  「*slurp* (to cum... in my mouth...) *drool*」
+
+#sub "hs_04_159"  「*slurp* (to cum... in my mouth...) *drool*」
+
+#sub "hs_04_160"  「*glug* (No, is he... in my mouth...) *gulp*」
+
+#sub "hs_04_161"  「*glug* (No, is he... in my mouth...) *gulp*」
+
+#sub "hs_04_162"  「*glug* (No, is he... in my mouth...) *gulp*」
+
+#sub "hs_04_163"  「Hmmm... *gulp*」
+
+#sub "hs_04_164"  「Hmmm... *gulp*」
+
+#sub "hs_04_165"  「Hmmm... *gulp*」
+
+#sub "hs_04_166"  「*glance* ...slurp....mmmhmmm...」
+
+#sub "hs_04_167"  「*glance* ...slurp....mmmhmmm...」
+
+#sub "hs_04_168"  「*slurp*  ...mmm... *suck*」
+
+#sub "hs_04_169"  「*slurp*  ...mmm... *suck*」
+
+#sub "hs_04_170"  「Hmm, *slurp* mmm, *schlurp*」
+
+#sub "hs_04_171"  「Hmm, *slurp* mmm, *schlurp*」
+
+#sub "hs_04_172"  「Hmm, *slurp* mmm, *schlurp*」
+
+#sub "hs_04_173"  「Ah... ah... ah... haaa」
+
+#sub "hs_04_174"  「Ah... ah... ah... haaa」
+
+#sub "hs_04_175"  「Huh! Ah! Mmm!」
+
+#sub "hs_04_176"  「Huh! Ah! Mmm!」
+
+#sub "hs_04_177"  「Huh! Ah! Mmm!」
+
+#sub "hs_04_178"  「Huh! Ah! Mmm!」
+
+#sub "hs_04_179"  「Mmmmmm, *gulp* mmmmmmm, (so sticky)」
+
+#sub "hs_04_180"  「Mmmmmm, *gulp* mmmmmmm, (so sticky)」
+
+#sub "hs_04_181"  「*slurp* (to cum... in my mouth...) *drool*」
+
+#sub "hs_04_182"  「*slurp* (to cum... in my mouth...) *drool*」
+
+#sub "hs_04_183"  「*glug* (No, is he... in my mouth...) *gulp*」
+
+#sub "hs_04_184"  「*glug* (No, is he... in my mouth...) *gulp*」
+
+#sub "hs_04_185"  「*glug* (No, is he... in my mouth...) *gulp*」
+
+#sub "hs_04_186"  「Ah... ah... ah... haaa」
+
+#sub "hs_04_187"  「Ah... ah... ah... haaa」
+
+#sub "hs_04_188"  「Huh! Ah! Mmm!」
+
+#sub "hs_04_189"  「Huh! Ah! Mmm!」
+
+#sub "hs_04_190"  「Huh! Ah! Mmm!」
+
+#sub "hs_04_191"  「Huh! Ah! Mmm!」
+
+#sub "hs_04_192"  「Ahaaa... ah... ah... ah... haaaa...」
+
+#sub "hs_04_193"  「Ahaaa... ah... ah... ah... haaaa...」
+
+#sub "hs_04_194"  「Kyaa! fua... ah... ha... 」
+
+#sub "hs_04_195"  「Ooooa! mmmmhmmmm... mmm...」
+
+#sub "hs_04_196"  「「Uhhh! You... your... your cock...」
+
+#sub "hs_04_197"  「Uhh!? huh... huh... *sigh*」
+
+#sub "hs_04_198"  「Ahhh...ah...ah」
+
+#sub "hs_04_199"  「Aaaagh」
+
+#sub "hs_04_200"  「Mmmm...ah...ha...」
+
+#sub "hs_04_201"  「Mmmmmm!!! *slurp*」
+
+#sub "hs_04_202"  「Mmmmmm!!! *slurp*」
+
+#sub "hs_04_203"  「Mmmmmm!!! *slurp*」
+
+#sub "hs_04_204"  「Mmmmmmhmm...!! *puff pant*」
+
+#sub "hs_04_205"  「*gasp*」
+
+#sub "hs_04_206"  「*shriek*」
+
+#sub "hs_04_207"  「Ahhhaaaaa..........!!! Ffffu... ha.... huh...」
+
+#sub "hs_04_208"  「Aiyaaaa!!.............Ah!...ah....ah...」
+
+#sub "hs_04_209"  「Aiyaaaa!!.............Ah!...ah....ah...」
+
+#sub "hs_04_210"  「Ah, ah aaaaaagh........!!! *Gasp*」
+
+#sub "hs_04_211"  「Mmmmmhmmm.......!!Aaaahhh....!!」
+
+#sub "hs_04_212"  「Ahaaahehe.....!! ehehehehe! ehehehe...」
+
+#sub "hs_04_213"  「Eyaaa.....!!!Aaaah.......」
+
+#sub "hs_04_214"  「Aaaaaaaghhhh.......!!! *moan*」
+
+#sub "hs_04_215"  「Kyaaaa....!!! *puff pant*」
+
+#sub "hs_04_216"  「Aaaaaaaghhhh.......!!! *moan*」
+
+#sub "hs_04_217"  「Kyaaaa....!!! *puff pant*」
+
+#sub "hs_04_218"  「Aaaaaaaghhhh.......!!! *moan*」
+
+#sub "hs_04_219"  「Mmmmmmmmmmm!! huh...」
+
+#sub "hs_04_220"  「Mmmmmmmmmmm!! huh...」
+
+#sub "hs_04_221"  「Mmmm...uh...uh」
+
+#sub "hs_04_222"  「Hmmmm...ugh...」
+
+#sub "hs_04_223"  「Ahaaaa!!!! Agh! Ah! ah....」
+
+#sub "hs_04_224"  「Ahaaaa!!!! Agh! Ah! ah....」
+
+#sub "hs_04_225"  「Ahhh...ah...ah」
+
+#sub "hs_04_226"  「Ahhh...ah...ah」
+
+#sub "hs_04_227" ... Even if you are intense
+
+#sub "hs_04_228" ... a little fun
+
+#sub "hs_04_229" ... I feel excited
+
+#sub "hs_04_230" ... Do not hurt me
+
+#sub "hs_04_231" ... a bit embarrassing
+
+#sub "hs_04_232" ... I want to feel comfortable
+
+#sub "hs_04_233" ... After all it's fun
+
+#sub "hs_04_234" ... Yeah, fill it up
+
+#sub "hs_04_235" ... Even if you are intense
+
+#sub "hs_04_236" ... You can love it
+
+#sub "hs_04_237" ... I want to be comfortable a lot
+
+#sub "hs_04_238" ... I want you to feel comfortable
+
+#sub "hs_04_239" ... Feel good
+
+#sub "hs_04_240" ... filled a lot, huh
+
+#sub "hs_04_241" ... It feels good, fun
+
+#sub "hs_04_242" ... I want to etch a lot
+
+#sub "hs_04_243" ... I am not interested
+
+#sub "hs_04_244" ... Average is good
+
+#sub "hs_04_245" ... Not particularly
+
+#sub "hs_04_246" ... maybe not
+
+#sub "hs_04_247" ... Anything is fine
+
+#sub "hs_04_248" ... I do not want to do it much
+
+#sub "hs_04_249" ... I want to do it
+
+#sub "hs_04_250" ... Have fun
+
+#sub "hs_04_251" ... You can love it
+
+#sub "hs_04_252" ... as you please
+
+#sub "hs_04_253" ... Play around
+
+#sub "hs_04_254" ... I want to have fun together
+
+#sub "hs_04_255" ... To keep going, it might be painful
+
+#sub "hs_04_256" ... Wait and I want to have a break.
+
+#sub "hs_04_257" ... Do you want to do it once more?
+
+#sub "hs_04_258" ... It is too energetic
+
+#sub "hs_04_259" ... so much, I do not have it
+
+#sub "hs_04_260" ... I want to take a break
+
+#sub "hs_04_261" ... As soon as it gets funny
+
+#sub "hs_04_262" ... It's still weird
+
+#sub "hs_04_263" ... It may be hard to keep on going
+
+#sub "hs_04_264" ... Are you still doing? It's good, but
+
+#sub "hs_04_265" ... Are you going to continue? all right
+
+#sub "hs_04_266" ... OK, more
+
+#sub "hs_04_267" ... I can still do it
+
+#sub "hs_04_268" ... OK, good luck
+
+#sub "hs_04_269" ... I still want to feel comfortable
+
+#sub "hs_04_270" ... Are you not resting?
+
+#sub "hs_04_271" ... Are not you tired?
+
+#sub "hs_04_272" ... I want to quit because it is too tight
+
+#sub "hs_04_273" ... Alright.
+
+#sub "hs_04_274" ... No more
+
+#sub "hs_04_275" ... I want to quit
+
+#sub "hs_04_276" ... More comfortable together, Nakuro
+
+#sub "hs_04_277" ... You can continue as it is
+
+#sub "hs_04_278" ... All right, I can continue
+
+#sub "hs_04_279" ... Even if you do not have time to rest?
+
+#sub "hs_04_280" ... Are you okay? Can you still do it?
+
+#sub "hs_04_281" ... Great, can you continue?
+
+#sub "hs_04_282" ... already, broke it
+
+#sub "hs_04_283" ... One, tired ...
+
+#sub "hs_04_284" ... Kuruhi
+
+#sub "hs_04_285" ... ramming, getting excited ...
+
+#sub "hs_04_286" ... Kimochi
+
+#sub "hs_04_287" ... Hikarinha, I do not want it ...
+
+#sub "hs_04_288" ... Muumei
+
+#sub "hs_04_289" ... More and more ...
+
+#sub "hs_04_290" ... a lot of, well, fairly
+
+#sub "hs_04_291" ... Towards ... get better and better ...
+
+#sub "hs_04_292" ... Chatter, tight
+
+#sub "hs_04_293" ... Stolen ... Stop it
+
+#sub "hs_04_294" ... ramen, it's alright
+
+#sub "hs_04_295" ... Shugo, Kimihi, Hino ...
+
+#sub "hs_04_296" ... is also fairly good ... Okakuara
+
+#sub "hs_04_297" ... okay ... well as good as you are
+
+#sub "hs_04_298" ... Ehhhhh ...
+
+#sub "hs_04_299" ... Haha ... anything is fine
+
+#sub "hs_04_300" ... Huh ... Eh ... well, good luck ...
+
+#sub "hs_04_301" ... Haha ... somehow ... fluffy, Hitaru
+
+#sub "hs_04_302" ... may have gotten used to it
+
+#sub "hs_04_303" ... It is nice to feel good again
+
+#sub "hs_04_304" ... Feel nice
+
+#sub "hs_04_305" ... play around
+
+#sub "hs_04_306" ... looks fun
+
+#sub "hs_04_307" ... I feel comfortable
+
+#sub "hs_04_308" ... Together is good
+
+#sub "hs_04_309" ... I think it is absolutely fun
+
+#sub "hs_04_310" ... I want to play a lot
+
+#sub "hs_04_311" ... I really look forward to it
+
+#sub "hs_04_312" ... Feel good
+
+#sub "hs_04_313" ... play a lot
+
+#sub "hs_04_314" ... I've done a lot of etching
+
+#sub "hs_04_315" ... I want to feel a lot
+
+#sub "hs_04_316" ... I want to feel good
+
+#sub "hs_04_317" ... Do you get it, fun
+
+#sub "hs_04_318" ... What are you going to do today?
+
+#sub "hs_04_319" ... I do not want to be too crowded
+
+#sub "hs_04_320" ... I will say it hurts
+
+#sub "hs_04_321" ... Do not be crazy
+
+#sub "hs_04_322" ... No Forced No
+
+#sub "hs_04_323" ... Average is good
+
+#sub "hs_04_324" ... Because you can like it
+
+#sub "hs_04_325" ... All right, whatever you want
+
+#sub "hs_04_326" ... Because I go out with anything
+
+#sub "hs_04_327" ... Together, I want to feel comfortable
+
+#sub "hs_04_328" ... I want to play with you
+
+#sub "hs_04_329" ... It's fun, but we are good together
+
+#sub "hs_04_330" ... It will be okay to continue
+
+#sub "hs_04_331" ... Doing it continues, I may have gotten used to it
+
+#sub "hs_04_332" ... You can still continue, okay.
+
+#sub "hs_04_333" ... continue more
+
+#sub "hs_04_334" ... Even if you continue, I am fine
+
+#sub "hs_04_335" ... can still be continued
+
+#sub "hs_04_336" ... All right, continue more
+
+#sub "hs_04_337" ... It may not be over yet
+
+#sub "hs_04_338" ... I want you to continue more
+
+#sub "hs_04_339" ... Feel more comfortable
+
+#sub "hs_04_340" ... No, I want to feel more
+
+#sub "hs_04_341" ... Are you still going on?
+
+#sub "hs_04_342" ... I want to have a break.
+
+#sub "hs_04_343" ... I think I get tired
+
+#sub "hs_04_344" ... Enough already?
+
+#sub "hs_04_345" ... If you keep going, do your best
+
+#sub "hs_04_346" ... All right, I will go out with you.
+
+#sub "hs_04_347" ... Still, okay.
+
+#sub "hs_04_348" ... Even if you continue, it is okay
+
+#sub "hs_04_349" ... You see breasts fun?
+
+#sub "hs_04_350" ... I'm watching the chest all the time
+
+#sub "hs_04_351" ... Boobs, I like it
+
+#sub "hs_04_352" ... Boobs, are you interested?
+
+#sub "hs_04_353" ... Do you like boobs?
+
+#sub "hs_04_354" ... breasts, maybe you want them to touch
+
+#sub "hs_04_355" ... Are you staring at the breasts?
+
+#sub "hs_04_356" ... chest, are you interested?
+
+#sub "hs_04_357" ... breasts, please feel good
+
+#sub "hs_04_358" ... OK, make your boobs better
+
+#sub "hs_04_359" ... Where are you seeing?
+
+#sub "hs_04_360" ... Are you staring right there?
+
+#sub "hs_04_361" ... Do not look too much
+
+#sub "hs_04_362" ... There, a little embarrassing
+
+#sub "hs_04_363" ... Do not look there much
+
+#sub "hs_04_364" ... Do not stare there.
+
+#sub "hs_04_365" ... If you see so much, it will be strange
+
+#sub "hs_04_366" ... Are you just looking at it?
+
+#sub "hs_04_367" ... If you see it, look it properly
+
+#sub "hs_04_368" ... Do not look there
+
+#sub "hs_04_369" ... Do not look strange
+
+#sub "hs_04_370" ... No, do not look.
+
+#sub "hs_04_371" ... If you can see so much, it's embarrassing
+
+#sub "hs_04_372" ... Do not stare there.
+
+#sub "hs_04_373" ... There, touch a lot
+
+#sub "hs_04_374" ... buttocks, embarrassing
+
+#sub "hs_04_375" ... Ass touched normally
+
+#sub "hs_04_376" ... Are you interested in the ass?
+
+#sub "hs_04_377" ... butt, do not look so much
+
+#sub "hs_04_378" ... Do not hurt your ass
+
+#sub "hs_04_379" ... ass touched normally
+
+#sub "hs_04_380" ... ass in a pleasant way
+
+#sub "hs_04_381" ... I want you to touch your ass
+
+#sub "hs_04_382" ... In the buttocks, playing
+
+#sub "hs_04_383" ... buttocks a bit
+
+#sub "hs_04_384" ... Do not look so much on your ass
+
+#sub "hs_04_385" ... In your ass, do not be sexual
+
+#sub "hs_04_386" ... ass touches a lot
+
+#sub "hs_04_387" ... Butt, I want to be comfortable
+
+#sub "hs_04_388" ... In your ass, you can do sexual things
+
+#sub "hs_04_389" ... I think this is bad
+
+#sub "hs_04_390" ... I do not feel sore
+
+#sub "hs_04_391" ... Do not be unhappy
+
+#sub "hs_04_392" ... No, stop this
+
+#sub "hs_04_393" ... May I try hard
+
+#sub "hs_04_394" ... This is embarrassing
+
+#sub "hs_04_395" ... This stylish, embarrassing
+
+#sub "hs_04_396" ... It's embarrassing, it's weird
+
+#sub "hs_04_397" ... It's embarrassing, stop it
+
+#sub "hs_04_398" ... It's embarrassing but I'll do my best
+
+// -----------------------------------------------------------------------------
+// 愛撫 
+// -----------------------------------------------------------------------------
+
+
+#sub "ha_04_001" ... ... Feel good
+
+#sub "ha_04_002" ... Slow to relax
+
+#sub "ha_04_003" ... It might be ticklish
+
+#sub "ha_04_004" ... strange feeling
+
+#sub "ha_04_005" ... Stop it
+
+#sub "ha_04_006" ... There it is no use
+
+#sub "ha_04_007" ... Do not touch
+
+#sub "ha_04_008" ... No
+
+#sub "ha_04_009" ... It's being licked
+
+#sub "ha_04_010" ... Tongue, ticklish.
+
+#sub "ha_04_011" ... I feel weird
+
+#sub "ha_04_012" ... There it is no use
+
+#sub "ha_04_013" ... Do not strengthen it
+
+#sub "ha_04_014" ... That's about it.
+
+#sub "ha_04_015" ... be comfortable
+
+#sub "ha_04_016" ... Do not make it too strong
+
+#sub "ha_04_017" ... Tongue, Feel Good
+
+#sub "ha_04_018" ... Tongue, warm
+
+#sub "ha_04_019" ... I can lick it, I like it
+
+#sub "ha_04_020" ... I want you to lick it more
+
+#sub "ha_04_021" ... It feels good
+
+#sub "ha_04_022" ... It feels nice
+
+#sub "ha_04_023" ... sensitive, getting on
+
+#sub "ha_04_024" ... I want to feel it more
+
+#sub "ha_04_025" ... Stop it
+
+#sub "ha_04_026" ... Do not lick it
+
+#sub "ha_04_027" ... a little disgusting
+
+#sub "ha_04_028" ... My tongue is slimy.
+
+#sub "ha_04_029" ... Do not touch it
+
+#sub "ha_04_030" ... Where are you touching?
+
+#sub "ha_04_031" ... No, do not touch it
+
+#sub "ha_04_032" ... Already, please
+
+#sub "ha_04_033" ... Touch me gently
+
+#sub "ha_04_034" ... Do not strengthen it
+
+#sub "ha_04_035" ... a bit hurts
+
+#sub "ha_04_036" ... Touch slowly
+
+#sub "ha_04_037" ... I feel nipples
+
+#sub "ha_04_038" ... nipple, ticklish.
+
+#sub "ha_04_039" ... nipple, do not go round
+
+#sub "ha_04_040" ... nipple, do not pull it
+
+#sub "ha_04_041" ... My nipples hurt a bit
+
+#sub "ha_04_042" ... Do not pull it.
+
+#sub "ha_04_043" ... My nipples are licking
+
+#sub "ha_04_044" ... Nipple, maybe you will feel it
+
+#sub "ha_04_045" ... ticklish
+
+#sub "ha_04_046" ... do not smoke
+
+#sub "ha_04_047" ... Because I am not tied up
+
+#sub "ha_04_048" ... Do not breathe strongly
+
+#sub "ha_04_049" ... There you gentle
+
+#sub "ha_04_050" ... It is nice to be nice
+
+#sub "ha_04_051" ... there, I feel weird
+
+#sub "ha_04_052" ... There, you can not touch it strongly
+
+#sub "ha_04_053" ... Do not rub it.
+
+#sub "ha_04_054" ... If you get rubbed there ... already ...
+
+#sub "ha_04_055" ... strange place, do not lick it
+
+#sub "ha_04_056" ... If you can lick it, you will feel it
+
+#sub "ha_04_057" ... there ... will be comfortable
+
+#sub "ha_04_058" ... A tongue came in.
+
+#sub "ha_04_059" ... My tongue, inside, moving
+
+#sub "ha_04_060" ... I'm sounding inside my tongue
+
+#sub "ha_04_061" ... A finger is coming in.
+
+#sub "ha_04_062" ... Finger, do not put it strongly
+
+#sub "ha_04_063" ... Fingers, slowly inserting
+
+#sub "ha_04_064" ... Do not move your fingers so much
+
+#sub "ha_04_065" ... Your finger is moving inside
+
+#sub "ha_04_066" ... well, a little ... slowly ...
+
+#sub "ha_04_067" ... Mfuu ... there you are ... oh no
+
+#sub "ha_04_068" ... Huhu ... Ahhhhhhhhhhhhhhhhhhhhhhhhhh ... ...
+
+#sub "ha_04_069" ... Huh ... huh ... Kimono, feel, good ...
+
+#sub "ha_04_070" ... Oh, well, do not mess around it
+
+#sub "ha_04_071" ... Ass is ashamed
+
+#sub "ha_04_072" ... butt, feel strange
+
+#sub "ha_04_073" ... Oh, your fingers are in the ass ...
+
+#sub "ha_04_074"  ... Yu, my fingers are ass, it moves
+
+#sub "ha_04_075" ... buttock store fingers, feeling good
+
+#sub "ha_04_076" ... your butt licked
+
+#sub "ha_04_077" ... ass not to lick it
+
+#sub "ha_04_078" ... do not lick that ass so much
+
+#sub "ha_04_079" ... In your butt, tongue
+
+#sub "ha_04_080" ... Inside, being licked
+
+#sub "ha_04_081" ... butt, feel strange
+
+#sub "ha_04_082" ... Ass, is it fun to massage?
+
+#sub "ha_04_083" ... butt, it gets hotter
+
+#sub "ha_04_084" ... butt, a bit comfortable
+
+#sub "ha_04_085" ... Oh, my breath is hitting
+
+#sub "ha_04_086" ... full of licks
+
+#sub "ha_04_087" ... Pleasantly, please
+
+#sub "ha_04_088" ... Here, feel comfortable, then
+
+#sub "ha_04_089" ... Here, make it hotter
+
+#sub "ha_04_090" ... Continue until you feel comfortable
+
+#sub "ha_04_091" ... Oh, okay ... I do not want to go ...
+
+#sub "ha_04_092" ... No, no, no more ...
+
+#sub "ha_04_093" ... No, no ... well ... I do not mind ...!
+
+#sub "ha_04_094" ... Oh, no, no, I will go ...
+
+#sub "ha_04_095" ... Wait ... well, well no longer!
+
+#sub "ha_04_096" ... No, I can not say that anymore ... it was a while ...!
+
+#sub "ha_04_097" ... Boobs ... Ichaao!
+
+#sub "ha_04_098" ... breasts ... I feel good!
+
+#sub "ha_04_099" ... Oh, over there, I feel good ... Ahh!
+
+#sub "ha_04_100" ... Oh, over there, ... ichaaaa!
+
+#sub "ha_04_101" ...Is already gone,...
+
+#sub "ha_04_102" ...Yes, S'pore, like
+
+#sub "ha_04_103" ...I might not
+
+#sub "ha_04_104" ...Of the work force ...Hard
+
+#sub "ha_04_105" ...Still,-continue?
+
+#sub "ha_04_106" ...To avoid excess
+
+#sub "ha_04_107" ...Continue to?
+
+#sub "ha_04_108" ...You want to stop
+
+#sub "ha_04_109" ...Again no
+
+#sub "ha_04_110" ...Stop
+
+#sub "ha_04_111" ...In addition to lick?
+
+#sub "ha_04_112" ...It's still licking?
+
+#sub "ha_04_113" ...To touch you yet?
+
+#sub "ha_04_114" ...The touch yet?
+
+#sub "ha_04_115" ...And getting breasts, weird
+
+#sub "ha_04_116" ...And getting breasts, is discomfort
+
+#sub "ha_04_117" ...Funny nipples
+
+#sub "ha_04_118" ...Nipples, odd
+
+#sub "ha_04_119" ...Still, a funny feeling from
+
+#sub "ha_04_120" ...Not do it ...There is still
+
+#sub "ha_04_121" ...So the fingers are.
+
+#sub "ha_04_122" ...You want to sleep, waiting for
+
+#sub "ha_04_123" ...Don't 舐menaide
+
+#sub "ha_04_124" ...And the strange
+
+#sub "ha_04_125" ...Weird tongue
+
+#sub "ha_04_126" ...舐menide so much
+
+#sub "ha_04_127".　Tips now! She.. ...Et, a Hey Oh ...Afu!...
+
+#sub "ha_04_128" ...The bad girl ...There, 続けちゃ ...Et, heh.
+
+#sub "ha_04_129" ...So, don't butt
+
+#sub "ha_04_130" ...No, your butt, a strange feeling
+
+#sub "ha_04_131" ...Butt, 揉manaide
+
+#sub "ha_04_132" ...You, will feel your butt.
+
+#sub "h_04_133" ...There, followed by a licking
+
+#sub "ha_04_134" ...More, it continues from
+
+#sub "ha_04_135" ...More good feelings.
+
+#sub "ha_04_136" ...Here, more licking!
+
+#sub "ha_04_137" ...The also say not so ...I wow.!
+
+#sub "ha_04_138" ...Feels good ...Also, u gonna go ...Wow!!
+
+#sub "ha_04_139" ...The NAA ...Icchan also had...
+
+#sub "ha_04_140" ...And too many times ...Tired?
+
+#sub "ha_04_141" ...Tips from the unnecessary
+
+#sub "ha_04_142" ...Rose I again end in a good...
+
+#sub "ha_04_143" ...Again, thank you for there is no
+
+#sub "ha_04_144" ...Sense and kept great in!
+
+#sub "ha_04_145" ...I have a strange thing!
+
+#sub "ha_04_146" ...Touch the from it.
+
+#sub "ha_04_147" ...Changing, and getting tips yauu
+
+#sub "ha_04_148" ...And getting breasts, funny great's!
+
+#sub "ha_04_149" ...And getting breasts, of strange!
+
+#sub "ha_04_150" ...From it, more broken out there, my buzz on Twitter
+
+#sub "ha_04_151" ...Again, freaking great on!
+
+#sub "ha_04_152" ...Afu Awww ...Phew wow.. ...Do not...
+
+#sub "ha_04_153" ...Oh, and, catch a freaking a!!
+
+#sub "ha_04_154" ...'Ll be your one, is it?...
+
+#sub "ha_04_155" ...Ass!.. ...Here to be.
+
+#sub "ha_04_156" ...And I like u ...Choke, no Rinku!...
+
+#sub "ha_04_157" ...It's gonna go, gonna go WOW.
+
+#sub "ha_04_158" I got oh oh fuwaaaa!!
+
+#sub "ha_04_159", uuu says ~ ~ I!
+
+#sub "ha_04_160" ...Afuu ...Also, more.. ...From the order.
+
+#sub "ha_04_161" ...But also funny ...Going to u.
+
+#sub "ha_04_162" ...Ahahaha.. ...its always nice to to to, and
+
+#sub "ha_04_163" ...Also.. ...from our...
+
+#sub "ha_04_164" ...Also, more.. ...No
+
+#sub "ha_04_165" ...And getting breasts ...Abcdmodifying
+
+#sub "ha_04_166" ...And getting breasts ...Freaking great of
+
+#sub "ha_04_167" ...There, strange!
+
+#sub "ha_04_168" ...More.. ...Ijitcha, was it?
+
+#sub "ha_04_169" ...I is I, and not Eva.. ...I is AA.
+
+#sub "ha_04_170" ...Hide, nice, wow ...Oh wow!.
+
+#sub "ha_04_171" ...Shii, hiri.. ...Strange!
+
+#sub "ha_04_172" ...Ass is funny great on!
+
+#sub "ha_04_173" ...My Oh I. ...Uuuu anymore, says I!
+
+#sub "ha_04_174" ...Wow.. ...Again, go again!.. ...It is I!!
+
+#sub "ha_04_175", yes Ah, fuwaaaa!!
+
+#sub "ha_04_176" I got WOW was I was!
+
+#sub "ha_04_177" ...The NAA ...When Takashi Kinoshita, Hideo Shii.
+
+#sub "h_04_178" ...Also, funny great for wow.
+
+#sub "h_04_179" ...Would be great
+
+#sub "h_04_180" ...Green is good
+
+#sub "h_04_181" ...Good vibes
+
+#sub "h_04_182" ...I'm feeling
+
+#sub "ha_04_183" ...Don't move
+
+#sub "ha_04_184" ...Not good
+
+#sub "ha_04_185" ...Stop it
+
+#sub "ha_04_186" ...Again no
+
+#sub "ha_04_187" ...I licked
+
+#sub "ha_04_188" ...Nice tongue,
+
+#sub "ha_04_189" ...Tongue, feeling good
+
+#sub "ha_04_190" ...I'm being touched
+
+#sub "ha_04_191" ...There, nice
+
+#sub "ha_04_192" ...Other nice touch from
+
+#sub "ha_04_193" ...Chest, feeling good
+
+#sub "ha_04_194" ...Gently touch it chest,
+
+#sub "ha_04_195" ...Getting heart
+
+#sub "ha_04_196" ...Nice nipples,
+
+#sub "ha_04_197" ...Nipples, not bad
+
+#sub "ha_04_198" ...Be gentle
+
+#sub "ha_04_199" ...Feel
+
+#sub "ha_04_200" ...Your finger!
+
+#sub "ha_04_201" ...Gentle touch
+
+#sub "ha_04_202" ...From keen.
+
+#sub "ha_04_203" ...Is licking, nice
+
+#sub "ha_04_204" ...More licking than good
+
+#sub "ha_04_205" ...Tongue came
+
+#sub "ha_04_206" ...Nice tongue,
+
+#sub "ha_04_207" ...My fingers,
+
+#sub "ha_04_208" ...Fingers, a nice touch
+
+#sub "ha_04_209" ...I also put more
+
+#sub "ha_04_210" ...Not do it ...I'm there ...Not do it!
+
+#sub "ha_04_211" ...There are.. ...Funny and, darn it, from now.
+
+#sub "ha_04_212" ...Butt, yet embarrassing
+
+#sub "ha_04_213" ...Gently play with your butt,
+
+#sub "ha_04_214" ...Finger in the butt!
+
+#sub "ha_04_215" ...With fingers and itchy butt
+
+#sub "ha_04_216" ...I licked your butt,
+
+#sub "ha_04_217" ...Buttocks, feeling good
+
+#sub "ha_04_218" ...Tongue my ass
+
+#sub "ha_04_219" ...Butt strange feeling
+
+#sub "ha_04_220" ...Butt, soft?
+
+#sub "ha_04_221" ...Your butt to itch
+
+#sub "ha_04_222" ...Buttocks, feeling good
+
+#sub "ha_04_223" ...Feel of licking.
+
+#sub "ha_04_224" ...Tongue, feeling good
+
+#sub "ha_04_225" ...More a good licking from
+
+#sub "ha_04_226" ...Like to touch
+
+#sub "ha_04_227" ...Nice touch,
+
+#sub "ha_04_228" ...Touch and feel
+
+#sub "ha_04_229" ...And getting breasts, touch
+
+#sub "ha_04_230" ...And getting breasts, I felt
+
+#sub "ha_04_231" ...And getting breasts, feel good
+
+#sub "ha_04_232" ...Feel the nipples,
+
+#sub "ha_04_233" ...Nipples, cm
+
+#sub "ha_04_234" ...The Nice nipples
+
+#sub "ha_04_235" ...Rub there more
+
+#sub "ha_04_236" ...Scraped, feel good
+
+#sub "ha_04_237" ...There, I feel
+
+#sub "ha_04_238" ...There, would budge
+
+#sub "ha_04_239" ...More a good licking from
+
+#sub "ha_04_240" ...Like to lick
+
+#sub "ha_04_241" ...Tongue is coming
+
+#sub "ha_04_242" ...Tongue feels so good
+
+#sub "ha_04_243" ...I'm moving your finger
+
+#sub "ha_04_244" ...Fingers are coming
+
+#sub "ha_04_245" ...Fingers, a nice touch, though
+
+#sub "ha_04_246" ...There is, after all, because Hey.. ...I'm Oh! I!
+
+#sub "ha_04_247" ...Don't look, and sane, from now.
+
+#sub "ha_04_248" ...Butt, nice touch.
+
+#sub "ha_04_249" ...From the more tinkering with nice butt
+
+#sub "ha_04_250" ...Your finger in the butt
+
+#sub "ha_04_251" ...Finger in your butt moving!
+
+#sub "ha_04_252" ...Tongue licking ass
+
+#sub "ha_04_253" ...Moving tongue, butt, weird
+
+#sub "ha_04_254" ...Getting my ass tongue
+
+#sub "ha_04_255" ...Tongue and ass crazy
+
+#sub "ha_04_256" ...I tossed the butt,
+
+#sub "ha_04_257" ...Rubs nice butt, more
+
+#sub "ha_04_258" ...Fun my arse?
+
+#sub "ha_04_259" ...More licking
+
+#sub "ha_04_260" ...A good licking
+
+#sub "ha_04_261" ...Is licking, nice
+
+#sub "ha_04_262" ...Touch me more,
+
+#sub "ha_04_263" ...Touch and feel
+
+#sub "ha_04_264" ...Touch and feel
+
+#sub "ha_04_265" ...And getting breasts, touch me more
+
+#sub "ha_04_266" ...And getting breasts, more you need!
+
+#sub "ha_04_267" ...And getting breasts, I want to feel more
+
+#sub "ha_04_268" ...I feel the nipples,
+
+#sub "ha_04_269" ...Very nice nipples,
+
+#sub "ha_04_270" ...Cm nipples, and more!
+
+#sub "ha_04_271" ...There Ah, feels good
+
+#sub "ha_04_272" ...There played Wow, and more!
+
+#sub "ha_04_273" ...Play around with it more
+
+#sub "ha_04_274" ...There more you need
+
+#sub "ha_04_275" ...In more tongues you need
+
+#sub "ha_04_276" ...Licking it a lot!
+
+#sub "ha_04_277" ...Put your tongue!
+
+#sub "ha_04_278" ...And over there, nice tongue
+
+#sub "ha_04_279" ...Finger, feel great!
+
+#sub "ha_04_280" ...More the feel with the fingers.
+
+#sub "ha_04_281" ...The finger, very good
+
+#sub "ha_04_282" ...Finger, very nice
+
+#sub "ha_04_283" ...There no Oh, hey ...More sane.
+
+#sub "ha_04_284" ...Also, I think nothing, anymore, and can't ...The AA.
+
+#sub "ha_04_285" ...And, I feel your butt,
+
+#sub "ha_04_286" ...Buttocks, feeling good!
+
+#sub "ha_04_287" ...Fiddling with your hips, fingers in Hey!
+
+#sub "ha_04_288" ...With well butt, finger?!
+
+#sub "ha_04_289" ...The Nice butt hole, tongue
+
+#sub "ha_04_290" ...Tongue and ass hole, I feel
+
+#sub "ha_04_291" ...Butt on my tongue.
+
+#sub "ha_04_292" ...More butt in the tongue put Hey!
+
+#sub "ha_04_293" ...A nice butt, Booker
+
+#sub "ha_04_294" ...More butt massaged around?!
+
+#sub "ha_04_295" ...I'm hot butt
+
+#sub "ha_04_296" ...I feel the butt,
+
+#sub "ha_04_297" ...Stop it
+
+#sub "ha_04_298" ...Bad feelings
+
+#sub "ha_04_299" ...舐menaide
+
+#sub "ha_04_300" ...Do not touch
+
+#sub "ha_04_301" ...There, no
+
+#sub "ha_04_302" ...Want to be touched
+
+#sub "ha_04_303" ...Breasts, I want to
+
+#sub "ha_04_304" ...Want to stop
+
+#sub "ha_04_305" ...Don't touch the hand
+
+#sub "ha_04_306" ...Stop, do not touch
+
+#sub "ha_04_307" ...No nipples,
+
+#sub "ha_04_308" ...No nipples,
+
+#sub "ha_04_309" ...Don't
+
+#sub "ha_04_310" ...擦ranaide
+
+#sub "ha_04_311" ...Do not touch it,
+
+#sub "ha_04_312" ...No, don't
+
+#sub "ha_04_313" ...There is no
+
+#sub "ha_04_314" ...舐menaide
+
+#sub "ha_04_315" ...No tongue,
+
+#sub "ha_04_316" ...Don't play with tongue
+
+#sub "ha_04_317" ...Fingers do not
+
+#sub "ha_04_318" ...Pull your finger
+
+#sub "ha_04_319" ...Move your finger
+
+#sub "ha_04_320" ...Don't move
+
+#sub "ha_04_321" ...I'm there ...Again, don't!
+
+#sub "ha_04_322" ...Stop! ...No AA l.
+
+#sub "ha_04_323" ...Where I touched the
+
+#sub "ha_04_324" ...No ass
+
+#sub "ha_04_325" ...Do not put fingers,
+
+#sub "ha_04_326" ...Force the fingers do not
+
+#sub "ha_04_327" ...A strange place, 舐menaide
+
+#sub "ha_04_328" ...Ass hole, 舐menaide
+
+#sub "ha_04_329" ...Tongue on your butt do not
+
+#sub "ha_04_330" ...Stop, pulled out from the hips
+
+#sub "ha_04_331" ...Butt momanaide
+
+#sub "ha_04_332" ...The letting go
+
+#sub "ha_04_333" ...Again, 揉manaide
+
+#sub "ha_04_334" ...Release from pain,
+
+#sub "ha_04_335" ...I want lick
+
+#sub "ha_04_336" ...You can lick.
+
+#sub "ha_04_337" ...More licking
+
+#sub "ha_04_338" ...I want to touch it
+
+#sub "ha_04_339" ...Full touch
+
+#sub "ha_04_340" ...Like to touch
+
+#sub "ha_04_341" ...And getting breasts, messing with
+
+#sub "ha_04_342" ...Like to play around with
+
+#sub "ha_04_343" ...And getting breasts, fun?
+
+#sub "ha_04_344" ...Playing with nipples
+
+#sub "ha_04_345" ...Nipples, feeling well and
+
+#sub "ha_04_346" ...Nipples feel
+
+#sub "ha_04_347" ...There more rubbing
+
+#sub "ha_04_348" ...Well there a lot to
+
+#sub "ha_04_349" ...Play around with it full
+
+#sub "ha_04_350" ...It is very sensitive
+
+#sub "ha_04_351" ...There lots licking
+
+#sub "ha_04_352" ...Tongue, very nice
+
+#sub "ha_04_353" ...Insert the tongue, more
+
+#sub "ha_04_354" ...On the tongue while licking
+
+#sub "ha_04_355" ...Moving tongue, feels good
+
+#sub "ha_04_356" ...Tongue, very nice
+
+#sub "ha_04_357" ...Finger, feels so good
+
+#sub "ha_04_358" ...Move the fingers, more
+
+#sub "ha_04_359" ...I'm there ...So much ...Wow
+
+#sub "ha_04_360" ...I'm there ...After all, from their...
+
+#sub "ha_04_361" ...Like messing with your butt,
+
+#sub "ha_04_362" ...Play with your butt, full
+
+#sub "ha_04_363" ...Buttocks, feeling well and
+
+#sub "ha_04_364" ...Moving the finger in the butt
+
+#sub "ha_04_365" ...Feel your butt,
+
+#sub "ha_04_366" ...I licked your butt,
+
+#sub "ha_04_367" ...Tongue my ass
+
+#sub "ha_04_368" ...To feel well in your butt, tongue
+
+#sub "ha_04_369" ...More, with well butt!
+
+#sub "ha_04_370" ...More butt, hands
+
+#sub "ha_04_371" ...Butt, I get soft
+
+#sub "ha_04_372" ...Nice butt, 揉mi proceeding
+
+#sub "ha_04_373" ...More licking
+
+#sub "ha_04_374" ...Here feeling good and
+
+#sub "ha_04_375" ...Well, the tongue
+
+#sub "ha_04_376" ...Full lick
+
+#sub "ha_04_377" ...So again we don't listen,
+
+#sub "ha_04_378" ...And now, again ...U gonna go, yeah.
+
+#sub "ha_04_379" ...I, also, too! ...Gonna go ...Oh, Ah!...
+
+#sub "ha_04_380" ...Not do it ...U gonna go ...It is I!
+
+#sub "ha_04_381" ...Yes, good " ...Damn, nice, I.
+
+#sub "ha_04_382" ...Oh I.. ...UU says, says I.
+
+#sub "ha_04_383" ...No,.. ...No, no I was!
+
+#sub "ha_04_384" ...Stop it.. ...Yes, u gonna go ...Yes, no AA.
+
+#sub "ha_04_385" ...I,, says, either ...Wow...
+
+#sub "ha_04_386" ...Oh, no ...Iyasa and sick ...Wow!...
+
+#sub "ha_04_387" ...You, and getting breasts in.. ...U gonna go.
+
+#sub "ha_04_388" ...And getting breasts,, very, good ...Wow!!
+
+#sub "ha_04_389" ...The NAA ...There, again ...Don't look well.
+
+#sub "ha_04_390" ...Over there!.. ...Feeling, and Nice ...Wow!!
+
+#sub "ha_04_391" ...It is now ...The NAA ..... ...Ichi I.
+
+#sub "ha_04_392" ...I, I ...Oh, I wonder if
+
+#sub "ha_04_393" ...The excellent location.
+
+#sub "ha_04_394" ...Phew, glad
+
+#sub "ha_04_395" ...Power, a zombie
+
+#sub "ha_04_396" ...Pleasant and friendly.
+
+#sub "ha_04_397" ...No, it's nothing.
+
+#sub "ha_04_398" ...I'm tired
+
+#sub "ha_04_399" ...Nice, thank you
+
+#sub "ha_04_400" ...Damn, nice
+
+#sub "ha_04_401" ...The touch also?
+
+#sub "ha_04_402" ...Still weird though
+
+#sub "ha_04_403" ...Still sensitive.
+
+#sub "ha_04_404" ...Tongue, still a strange feeling
+
+#sub "ha_04_405" ...You out breasts and tickles
+
+#sub "ha_04_406" ...No, you was breasts still
+
+#sub "ha_04_407" ...Nipples, weird
+
+#sub "ha_04_408" ...From the nipples, still sensitive.
+
+#sub "ha_04_409" ...There, another hot
+
+#sub "ha_04_410" ...Still a hot and sensitive
+
+#sub "ha_04_411" ...Do not put fingers, still
+
+#sub "ha_04_412" ...Do not put the
+
+#sub "ha_04_413" ...No urinal
+
+#sub "ha_04_414" ...Now I still don't
+
+#sub "ha_04_415" ...Tongue, now does not
+
+#sub "ha_04_416" ...Tongue and kept going to the
+
+#sub "ha_04_417" ...There is still no
+
+#sub "ha_04_418" ...Spoiled girl, soon, sane.
+
+#sub "ha_04_419" ...Butt, yet strange feeling
+
+#sub "ha_04_420" ...Butt, things get weird
+
+#sub "ha_04_421" ...Butt, also a lot of really hot
+
+#sub "ha_04_422" ...Also strange, wait
+
+#sub "ha_04_423" ...The man, also say was
+
+#sub "ha_04_424" ...Phew, breath-taking rise
+
+#sub "ha_04_425" ...Do not touch the
+
+#sub "ha_04_426" ...Keep, no
+
+#sub "ha_04_427" ...Still, a funny feeling from
+
+#sub "ha_04_428" ...You want to sleep, waiting for
+
+#sub "ha_04_429" ...Sensitive nipples
+
+#sub "ha_04_430" ...Nipples, sane
+
+#sub "ha_04_431" ...Don't have a stockpile.
+
+#sub "ha_04_432" ...I left immediately, wet
+
+#sub "ha_04_433" ...Again, good will
+
+#sub "ha_04_434" ...Soon, hot
+
+#sub "ha_04_435" ...There Ah ...After all, don't!
+
+#sub "ha_04_436" ...The spoiled girl ...There freaking out, Yuu.
+
+#sub "ha_04_437" ...Butt also sane
+
+#sub "ha_04_438" ...Butt feels good
+
+#sub "ha_04_439" ...Yes, says ...In addition to drift.
+
+#sub "ha_04_440" ...And it's not ...Gonna go, Awww.
+
+#sub "ha_04_441" ...Keep, Oh.
+
+#sub "ha_04_442" ...Do not force the...
+
+#sub "ha_04_443" ...Feels good
+
+#sub "ha_04_444" ...I feel
+
+#sub "ha_04_445" ...From keen.
+
+#sub "ha_04_446" ...Sensitive and feel
+
+#sub "ha_04_447" ...Feeling and being
+
+#sub "ha_04_448" ...Nipples, feeling
+
+#sub "ha_04_449" ...There, more tinkering.
+
+#sub "ha_04_450" ...Soon, that feels good
+
+#sub "ha_04_451" ...The finger ...I came in
+
+#sub "ha_04_452" ...Finger, feeling good
+
+#sub "ha_04_453" ...Spoiled girl ...When Chiyo, there too.
+
+#sub "ha_04_454" ...And I "there, funny, going Awww
+
+#sub "ha_04_455" ...After all, your butt feels good
+
+#sub "ha_04_456" ...Butt, touch the
+
+#sub "ha_04_457" ...Not do it ...I'm more Kesha said.
+
+#sub "ha_04_458" ...Yes, good ...Are u gonna go again ...Washroom!!
+
+#sub "ha_04_459" ...In a row ...Pleasant, good now.
+
+#sub "ha_04_460" ...Continued from.. ...Hard to breath,
+
+#sub "ha_04_461" ...Do not touch anymore
+
+#sub "ha_04_462" ...Again, satisfied?
+
+#sub "ha_04_463" ...Yes, continue indefinitely
+
+#sub "ha_04_464" ...舐menaide times
+
+#sub "ha_04_465" ...Not, nipples
+
+#sub "ha_04_466" ...Stop and go bananas
+
+#sub "ha_04_467" ...Do not touch it,
+
+#sub "ha_04_468" ...Then again at the end
+
+#sub "ha_04_469" ...No, finger pull
+
+#sub "ha_04_470" ...Another finger put a stop
+
+#sub "ha_04_471" ...There is, again, don't!
+
+#sub "ha_04_472" ...Stop! ...The other ...Yes, no AA!
+
+#sub "ha_04_473" ...Do not touch your butt again
+
+#sub "ha_04_474" ...Don't butt
+
+#sub "ha_04_475" ...This, I hate this kind of AA.
+
+#sub "ha_04_476" ...Spoiled girl ...I, too, now ...Wow!!
+
+#sub "ha_04_477" ...What is such a thing.
+
+#sub "ha_04_478" ...Again yes.
+
+#sub "ha_04_479" ...Also I chose?
+
+#sub "ha_04_480" ...Keep, it's fine.
+
+#sub "ha_04_481" ...Of the tongue, tired?
+
+#sub "ha_04_482" ...Tongue, okay?
+
+#sub "ha_04_483" ...Nice nipples, feeling
+
+#sub "ha_04_484" ...Another funny nipples
+
+#sub "ha_04_485" ...There, I'm wet again
+
+#sub "ha_04_486" ...Continuous ...Feels good.
+
+#sub "ha_04_487" ...Fingers right into
+
+#sub "ha_04_488" ...Hot fingers
+
+#sub "ha_04_489" ...Spoiled girl ...There is also.. ...And, be funny.
+
+#sub "ha_04_490" ...Wait, hey ...There are still, I'm phew ...Yes I was!
+
+#sub "ha_04_491" ...Do not take a break in?
+
+#sub "ha_04_492" ...Immediately I wanted to touch on?
+
+#sub "ha_04_493" ...Hey.. ...Addition, hope so ...Oh, oh oh AAAA!!
+
+#sub "ha_04_494" ...More soon.. ...So, say ...Wow!
+
+#sub "ha_04_495" ..."I also go.
+
+#sub "ha_04_496" ...I doesn't go in.
+
+#sub "ha_04_497" ...More, now licking
+
+#sub "ha_04_498" ...This is followed
+
+#sub "ha_04_499" ...More filled with continued
+
+#sub "ha_04_500" ...Still a good licking from
+
+// -----------------------------------------------------------------------------
+// 奉仕 
+// -----------------------------------------------------------------------------
+
+#sub "hh_04_001" ...This is good for?
+
+#sub "hh_04_002" ...Feeling good?
+
+#sub "hh_04_003" ...No problem?
+
+#sub "hh_04_004" ...Not hurt?
+
+#sub "hh_04_005" ...Get out of?
+
+#sub "hh_04_006" ...Hot
+
+#sub "hh_04_007" ...Don't hold back
+
+#sub "hh_04_008" ...No
+
+#sub "hh_04_009" ...Do not want to
+
+#sub "hh_04_010" ...Not interesting
+
+#sub "hh_04_011" ...No fun
+
+#sub "hh_04_012" ...What's wrong?
+
+#sub "hh_04_013" ...I'm moving
+
+#sub "hh_04_014" ...Got bigger?
+
+#sub "hh_04_015" ...Ends soon
+
+#sub "hh_04_016" ...Not move
+
+#sub "hh_04_017" ...Do not strongly
+
+#sub "hh_04_018" ...Bad feelings
+
+#sub "hh_04_019" ...Does not move suddenly
+
+#sub "hh_04_020" ...Soon, do not
+
+#sub "hh_04_021".　What? Of what are you doing?
+
+#sub "hh_04_022" ...The feel good?
+
+#sub "hh_04_023" ...I chura, slowly and, churo.. ...licked and I guess.. ...EA, I including
+
+#sub "hh_04_024" ...Yacchiro.. ...here are, and good? .. ...Chura.
+
+#sub "hh_04_025" ...I, churuu, and stiff.. ...yacchiro.. ...chura
+
+#sub "hh_04_026" ...From to,-, chura, and nice rose-churuu
+
+#sub "hh_04_027" ...Would have, such that.
+
+#sub "hh_04_028" ...The finally straw through.
+
+#sub "hh_04_029" ...Like the other ...Yes.
+
+#sub "hh_04_030" ...Significantly, becoming the...
+
+#sub "hh_04_031" ...I thank you not to ...I
+
+#sub "hh_04_032" ...Shall be was boring and, from his mouth ...Ju puffy nipples, and
+
+#sub "hh_04_033" ...And feels-ju that was, good? And,-chura-?
+
+#sub "hh_04_034" ...Post was most.. ...Violently ...Resulting soup ...Good for? ・・・・
+
+#sub "hh_04_035" ...Finn's thou shalt not.. ...To load in mouth!.. ...Hirafu's?
+
+#sub "hh_04_036" ...More.. ...I'm hanging around.　Be of? Ju puffy.
+
+#sub "hh_04_037" ...Instead, you English
+
+#sub "hh_04_038" ...Why.. ...Phew.. ...So Ah.. ...This cheek ...Argh Flipp
+
+#sub "hh_04_039" ...Mugu, it chokes, phew.
+
+#sub "hh_04_040" ...What is it? … ?
+
+#sub "hh_04_041" ...What's this.. ...Doesn't this make sense?
+
+#sub "hh_04_042" ...Of the chest, and feeling good?
+
+#sub "hh_04_043" ...This is good for?
+
+#sub "hh_04_044" ...I'm ready?
+
+#sub "hh_04_045" ...In this chest ...Good for?
+
+#sub "hh_04_046" ...Now, really?
+
+#sub "hh_04_047" ...Really made of?
+
+#sub "hh_04_048" ...The pleasure chest?
+
+#sub "hh_04_049" ...Of the chest, feel?
+
+#sub "hh_04_050" ...Fiddle with the
+
+#sub "hh_04_051" ...The sensitive, isn't it?
+
+#sub "hh_04_052" ...Not to hurt?
+
+#sub "hh_04_053" ...By any chance?
+
+#sub "hh_04_054" ...It's the feeling goes out?
+
+#sub "hh_04_055" ...Of feet?
+
+#sub "hh_04_056" ...The good feelings in the legs?
+
+#sub "hh_04_057" ...In the foot?
+
+#sub "hh_04_058" ...Gonna go on foot?
+
+#sub "hh_04_059" ...Feet, I beginning?
+
+#sub "hh_04_060" ...Or shouldn't I had
+
+#sub "hh_04_061" ...It took hot
+
+#sub "hh_04_062" ...I'm a weird taste
+
+#sub "hh_04_063" ...I'm seifa-Utaki ...I.. ...Bitter
+
+#sub "hh_04_064" (I'm OMG ...It is!)
+
+#sub "hh_04_065" (I'm phew ...OMG...)
+
+#sub "hh_04_066" ...Gehogeho, and I can't ...Kehokeho
+
+#sub "hh_04_067" gehogeho, and yeho-
+
+#sub "hh_04_068" ...In a slimy disgusting
+
+#sub "hh_04_069" ...Fishy
+
+#sub "hh_04_070" bufu!,,,,,, geho, geho,-
+
+#sub "hh_04_071" geho, gehogeho geho, and even "Hey...
+
+#sub "hh_04_072" ...Hey, I'm tired
+
+#sub "hh_04_073" ...Amazing resilience
+
+#sub "hh_04_074" ...I'm back again
+
+#sub "hh_04_075" ...The work also?
+
+#sub "hh_04_076" ...The still out?
+
+#sub "hh_04_077" ...Still on?
+
+#sub "hh_04_078" ...Want to end soon
+
+#sub "hh_04_079" ...Take a good rest.
+
+#sub "hh_04_080" ...I'm still on?
+
+#sub "hh_04_081" ...How much?.
+
+#sub "hh_04_082" ...I continue to
+
+#sub "hh_04_083" ...Again no
+
+#sub "hh_04_084" ...End
+
+#sub "hh_04_085" ...The issue also?
+
+#sub "hh_04_086" ...You can put so much.
+
+#sub "hh_04_087" ...Choke,-I and-lick-from--chura.. ...I desire
+
+#sub "hh_04_088" ...One through and roses.. ...and glachuchu, and
+
+#sub "hh_04_089" ...Choke.. ...tough, and.. ...I'm Buu
+
+#sub "hh_04_090".　Also, and hope for more? I, chura, I desire
+
+#sub "hh_04_091" ...Chura.. ...et al, good I phew.. ...and Rod wars-
+
+#sub "hh_04_092" ...I'm chura ...You want to stop now.
+
+#sub "hh_04_093" ...Tired
+
+#sub "hh_04_094" ...Hard.
+
+#sub "hh_04_095" ...Also, out of?
+
+#sub "hh_04_096" ...Soon, out of...
+
+#sub "hh_04_097" ...Much, I-chura-big.. ...And I,
+
+#sub "hh_04_098" ...Again,, and Orientals ju.. ...And recovery, tips discarded ...Ju-Ju u-
+
+#sub "hh_04_099", and I prevent-, Chin--very--nuchuu
+
+#sub "hh_04_100" ...I,.. ...tugging in.. ...I-phew-go?
+
+#sub "hh_04_101" ...Finn in-and furnace.. ...it-ju.-,
+
+#sub "hh_04_102" ...It phew ...Most pressing.
+
+#sub "hh_04_103" ...I'm.. ...The breath ...Not...
+
+#sub "hh_04_104" ...Fun.. ...No
+
+#sub "hh_04_105" ...Again, then, at the end.
+
+#sub "hh_04_106" ...I thank you a soon as possible ...Put...
+
+#sub "hh_04_107" ...Face is sticky
+
+#sub "hh_04_108" ...Clammy, hot
+
+#sub "hh_04_109" ...Yes, it's a strange taste
+
+#sub "hh_04_110" ...Well wow ...Can't drink
+
+#sub "hh_04_111" ...Geho, &amp; geho.. ...impossible.
+
+#sub "hh_04_112" ...Slimy?
+
+#sub "hh_04_113" ...A funny smell ...Bad feeling
+
+#sub "hh_04_114" ...Well, hey.. ...it's.. ...Argh Flipp ...Can't drink
+
+#sub "hh_04_115".. ...is that..... ...At stake.
+
+#sub "hh_04_116" ...No to to the left.. ...to to to
+
+#sub "hh_04_117" ...A strange smell I have ...Ah is the
+
+#sub "hh_04_118" ...Bue "Hey.. ...it is!
+
+#sub "hh_04_119" ...Slow is good for?
+
+#sub "hh_04_120" ...Was it this?
+
+#sub "hh_04_121" ...As fast as you?
+
+#sub "hh_04_122" ...Is it good for?
+
+#sub "hh_04_123" ...Come again?
+
+#sub "hh_04_124" ...The limit?
+
+#sub "hh_04_125" ...Don't hold back
+
+#sub "hh_04_126" ...In this fun?
+
+#sub "hh_04_127" ...I don't want to do
+
+#sub "hh_04_128" ...You want to stop
+
+#sub "hh_04_129" ...Let me finish
+
+#sub "hh_04_130" ...Out soon
+
+#sub "hh_04_131" ...Say again
+
+#sub "hh_04_132" ...Already,
+
+#sub "hh_04_133" ...Ends soon
+
+#sub "hh_04_134" ...You want to stop
+
+#sub "hh_04_135" ...Want to end soon
+
+#sub "hh_04_136" ...I hate
+
+#sub "hh_04_137" ...Out soon
+
+#sub "hh_04_138" ...Over and out
+
+#sub "hh_04_139" ...Once, it's all over
+
+#sub "hh_04_140".　Chura, would be feeling great? Chura...
+
+#sub "hh_04_141" ...Slowly, and licking? Zakulero----
+
+#sub "hh_04_142" ...Is Fido and-namere also--yacchiro,-great for? .. ...Chura.
+
+#sub "hh_04_143" ...And chura-y so? ・・・
+
+#sub "hh_04_144" ...Churuu,, Shugo, inflates it and.. ...have you been.. ...yacchiro.. ...chura
+
+#sub "hh_04_145" ...I.. ...Caught off guard
+
+#sub "hh_04_146" ...You want to stop.
+
+#sub "hh_04_147" ...Happily, no.
+
+#sub "hh_04_148" ...Put this in?
+
+#sub "hh_04_149".　Out of? I hope
+
+#sub "hh_04_150" ...Mouth-of-very-and I AMU.
+
+#sub "hh_04_151".　And, feelings, Ju..-great? …
+
+#sub "hh_04_152" ...To load in mouth!.. ...Feel.　Have? … I'm Buu
+
+#sub "hh_04_153" ...Most of the remains, English ...I'm hanging around ...Ju puffy.
+
+#sub "hh_04_154" ...Ju minutes hanging around ...From the English ...And yuzudziyu! ...Great from ...I
+
+#sub "hh_04_155" ...I thank you.. ...Painful
+
+#sub "hh_04_156" ...I'm seifa-Utaki ...You want to stop
+
+#sub "hh_04_157" ...I.. ...Let me finish
+
+#sub "hh_04_158" ...Soon, out of
+
+#sub "hh_04_159" ...Already,
+
+#sub "hh_04_160" ...And getting breasts, feel good?
+
+#sub "hh_04_161" ...Between the good?
+
+#sub "hh_04_162" ...Intense, but good for?
+
+#sub "hh_04_163" ...And getting breasts, rub?
+
+#sub "hh_04_164" ...In this OK?
+
+#sub "hh_04_165" ...Small but nice?
+
+#sub "hh_04_166" ...In this matter?
+
+#sub "hh_04_167" ...The small, okay?
+
+#sub "hh_04_168" ...Continue this way for?
+
+#sub "hh_04_169" ...And getting breasts in it's gonna go?
+
+#sub "hh_04_170" ...First, I feel
+
+#sub "hh_04_171" ...Here, feel good?
+
+#sub "hh_04_172" ...I'll twist
+
+#sub "hh_04_173" ...From fiddling with the
+
+#sub "hh_04_174" ...Somehow, I get in?
+
+#sub "hh_04_175" ...I put the.
+
+#sub "hh_04_176" ...The really good legs then?
+
+#sub "hh_04_177" ...Likes to be taken for?
+
+#sub "hh_04_178" ...The intense better?
+
+#sub "hh_04_179" ...I take a strong
+
+#sub "hh_04_180" ...My legs feel good?
+
+#sub "hh_04_181" ...The soles of the feet, it's very hot
+
+#sub "hh_04_182" ...It took many
+
+#sub "hh_04_183" ...I'm mushy
+
+#sub "hh_04_184" ...I prevent.. ...it-phew-Yes, I swallowed.
+
+#sub "hh_04_185" ...I, and I prevent and-Phew,-yeah, not good
+
+#sub "hh_04_186" (I'm OMG ...It is!)
+
+#sub "hh_04_187" (I'm phew ...OMG...)
+
+#sub "hh_04_188", &amp; geho, geho,, nomenai,
+
+#sub "hh_04_189" ...The geho, &amp; geho.. ...I can't-and
+
+#sub "hh_04_190" ...Slimy ...Bad feeling
+
+#sub "hh_04_191" ...A funny smell.
+
+#sub "hh_04_192" ...Bufu!--and,-, geho, geho, and go!--
+
+#sub "hh_04_193" ...Even "Hey.. ...geho, geho, bad-
+
+#sub "hh_04_194" ...Can I continue?
+
+#sub "hh_04_195" ...The other recovered?
+
+#sub "hh_04_196" ...Still on?
+
+#sub "hh_04_197" ...Also out of?
+
+#sub "hh_04_198" ...Out of? And that's amazing!
+
+#sub "hh_04_199" ...What, don't stop
+
+#sub "hh_04_200" ...I want another good addition echoes
+
+#sub "hh_04_201" ...I just started right?
+
+#sub "hh_04_202" ...The issue also?
+
+#sub "hh_04_203" ...Of which only come out?
+
+#sub "hh_04_204" ...No, go
+
+#sub "hh_04_205" ...No forced
+
+#sub "hh_04_206" ...Happy again
+
+#sub "hh_04_207" ...In what time?
+
+#sub "hh_04_208" ...Again, with this and at the end
+
+#sub "hh_04_209" ...I'm chura.. ...full-lick--chura.. ...I desire
+
+#sub "hh_04_210" ...Maramara,-I I.. ...chura ju be,-glachuchu,-
+
+#sub "hh_04_211".　Clogs, and pretty for? I, chura, I desire
+
+#sub "hh_04_212" ...I.. ...from a good I phew.. ...whip Orientals, and
+
+#sub "hh_04_213" ...The licking until when?
+
+#sub "hh_04_214" ...I want to lick
+
+#sub "hh_04_215" ...He freely,
+
+#sub "hh_04_216" ...The still out?
+
+#sub "hh_04_217" ...Ju-Ju u ...Finn,.. ...Kimono hiyoku ...A, from.. ...We &amp; fuu
+
+#sub "hh_04_218" ...I ju-filled,-hungry hoes from.. ...Ju], and
+
+#sub "hh_04_219" ...Is.. ...I-phew-Finn in I day of buzz on Twitter?
+
+#sub "hh_04_220" ...I.. ...Et, from Nice, and I hanging ...It was, I'm Phew
+
+#sub "hh_04_221" ...Mufuu ...Painful, stop
+
+#sub "hh_04_222" ...Thank you.. ...Again, come on.
+
+#sub "hh_04_223" ...Also, mind out of?
+
+#sub "hh_04_224" ...Again, do not shout.
+
+#sub "hh_04_225" ...Wow, it took.
+
+#sub "hh_04_226" ...Also, like her
+
+#sub "hh_04_227" ...I'm seifa-Utaki ...I.. ...Is?.. ...it is now ...Excessive
+
+#sub "hh_04_228" ...I Yes!-and also often
+
+#sub "hh_04_229" ...Geho, gehogeho, and I'll musechi
+
+#sub "hh_04_230" ...Of leave so why?
+
+#sub "hh_04_231" ...To serve all
+
+#sub "hh_04_232" ...Geho, geho.. ...it's undrinkable.
+
+#sub "hh_04_233" ...Geho, geho, too, including I.
+
+#sub "hh_04_234" ...From a to I
+
+#sub "hh_04_235" ...Good luck
+
+#sub "hh_04_236" ...Still, it's not the end
+
+#sub "hh_04_237" ...And feel better now
+
+#sub "hh_04_238" ...Filled out!
+
+#sub "hh_04_239" ...Out of all the girl
+
+#sub "hh_04_240" ...Crowded, I'm kidding
+
+#sub "hh_04_241".　Would be? When I stayed? … I'm chura
+
+#sub "hh_04_242" ...I'm chura ...Delicious
+
+#sub "hh_04_243" ...My tongue feels good?
+
+#sub "hh_04_244" ...With my tongue, I felt.
+
+#sub "hh_04_245" ...He could go from the tongue
+
+#sub "hh_04_246" ...Tongue in and out,...
+
+#sub "hh_04_247" ...Do not take it out of all.
+
+#sub "hh_04_248" ...I'm Buu ...It is now ...This is like...
+
+#sub "hh_04_249" ...It phew ...Mouth of, too.
+
+#sub "hh_04_250" ...In my mouth, feel it.
+
+#sub "hh_04_251" ...Do not take it out.
+
+#sub "hh_04_252" ...The filled out.
+
+#sub "hh_04_253" ...Just like!
+
+#sub "hh_04_254"  ...I'm full
+
+#sub "hh_04_255" ...Thick ...Sex smells.
+
+#sub "hh_04_256" ...Still go out?
+
+#sub "hh_04_257" ...I prevent and, Phew, and bitter.
+
+#sub "hh_04_258" ...Me, I thank you ...The NAA ...Mushy
+
+#sub "hh_04_259" ...Gulp.. ...it, and whew ...I nonnji.
+
+
+
+// -----------------------------------------------------------------------------
+// 挿入 
+// -----------------------------------------------------------------------------
+
+
+#sub "hso_04_001" ...And, significantly,
+
+#sub "hso_04_002" ...Strong, yet, and I I.
+
+#sub "hso_04_003" ...Waiting is intense.
+
+#sub "hso_04_004" ...Bad, wait.. ...Oh I
+
+#sub "hso_04_005" ...Well, I hope so ...Oh...
+
+#sub "hso_04_006" ...No, u gonna go ...Oh
+
+#sub "hso_04_007" ...And.. ...I, too, now ...Will u.
+
+#sub "hso_04_008" ...This is a good, huh?
+
+#sub "hso_04_009" ...So, should feel?
+
+#sub "hso_04_010".　How about you? Feeling good?
+
+#sub "hso_04_011".　I'm feeling? No problem?
+
+#sub "hso_04_012" ...It phew ...I, I, I.
+
+#sub "hso_04_013" ...No, even more ...So we
+
+#sub "hso_04_014" ...Oh.. ...So not say anymore!
+
+#sub "hso_04_015" ...Good, and you want to be
+
+#sub "hso_04_016" ...I also strongly
+
+#sub "hso_04_017" ...Yeah, not bad
+
+#sub "hso_04_018" ...Too intense!
+
+#sub "hso_04_019" ...I like him ...Yes, Kesha so!
+
+#sub "hso_04_020" ...(A) the work ...So I hope!
+
+#sub "hso_04_021" ...Spoiled girl ...Me, u gonna go again.
+
+#sub "hso_04_022" ...From my work ...Intact
+
+#sub "hso_04_023" ...What is.. ...Getting excited.
+
+#sub "hso_04_024" ...Surprisingly fun
+
+#sub "hso_04_025" ...Verbatim is fine.
+
+#sub "hso_04_026" ...It is now ...So now, Kesha
+
+#sub "hso_04_027" ...Good, feel good, u.
+
+#sub "hso_04_028" ...More.. ...I'm gonna go so....
+
+#sub "hso_04_029" ...And in the coming...
+
+#sub "hso_04_030" ...I'm working in the u.
+
+#sub "hso_04_031" ...I been hanging, and
+
+#sub "hso_04_032" ...That has been dripping
+
+#sub "hso_04_033" ...Hot's, took
+
+#sub "hso_04_034" ...Wow, I'm out
+
+#sub "hso_04_035" ...In the sticky, and.
+
+#sub "hso_04_036" ...This is warm.
+
+#sub "hso_04_037" ...Yes, good
+
+#sub "hso_04_038" ...No, bad
+
+#sub "hso_04_039" ...Yes, it was together.
+
+#sub "hso_04_040" ...Together, the staff.
+
+#sub "hso_04_041" ...I continue indefinitely?
+
+#sub "hso_04_042" ...Again, don't move
+
+#sub "hso_04_043" ...Natural and forced-do not, and
+
+#sub "hso_04_044" ...No, don't move
+
+#sub "hso_04_045" ...Yes, Yes.. ...Want to go ...No
+
+#sub "hso_04_046" ...No, no.. ...Yes, a.. ...Wow...
+
+#sub "hso_04_047" ...Feel-good.
+
+#sub "hso_04_048" ...Again, then, at the end.
+
+#sub "hso_04_049" ...Stop, well, not
+
+#sub "hso_04_050" ...More.. ...Come on,
+
+#sub "hso_04_051" ...And no.. ...No.. ...Yet "!
+
+#sub "hso_04_052" ...And Yes, kind of ...Spoiled girl ...Wow!
+
+#sub "hso_04_053" ...Oh, and Yes, more dynamic or not Hey!
+
+#sub "hso_04_054".　Useless? Stop in &amp; &amp;!
+
+#sub "hso_04_055".　Yes, I was! Not during!
+
+#sub "hso_04_056" ...Put in...
+
+#sub "hso_04_057" ...I said "no you are"
+
+#sub "hso_04_058" ...Jam out!
+
+#sub "hso_04_059" ...Stop, do not apply.
+
+#sub "hso_04_060" ...Do not apply to the body.
+
+#sub "hso_04_061" ...This is disgusting
+
+#sub "hso_04_062" ...It's another no.
+
+#sub "hso_04_063" ...Wonder what to do.
+
+#sub "hso_04_064" ...I might not
+
+#sub "hso_04_065" ...Were together?
+
+#sub "hso_04_066" ...Ass!...
+
+#sub "hso_04_067" ...Butt, not violently
+
+#sub "hso_04_068" ...Your butt is wrong will be
+
+#sub "hso_04_069" ...And a great ass, gonna go!
+
+#sub "hso_04_070" ...You and your butt ...Feeling u get better,...
+
+#sub "hso_04_071" ...You and that hot ass in...
+
+#sub "hso_04_072" ...Her in the butt.
+
+#sub "hso_04_073" ...I'm dripping from the butt.
+
+#sub "hso_04_074" ...Overflowing from the hips.
+
+#sub "hso_04_075" ...At stake in the butt
+
+#sub "hso_04_076" ...Ass hot.
+
+#sub "hso_04_077" ...Your hips, sticky.
+
+#sub "hso_04_078" ...Hot ass around
+
+#sub "hso_04_079" ...Oh, great ass
+
+#sub "hso_04_080" ...Butt ...Staff were pleasant,
+
+#sub "hso_04_081" ...Great ass, Oh together.
+
+#sub "hso_04_082" ...Could together, but ass.
+
+#sub "hso_04_083" ...Far from the butt
+
+#sub "hso_04_084" ...Stop, no ass!
+
+#sub "hso_04_085" ...I have a butt
+
+#sub "hso_04_086" ...This, I don't want to go, so something like this!
+
+#sub "hso_04_087" ...Oh man.. ...Great ass, I will ...Oh man...
+
+#sub "hso_04_088" ...Stop, no ass
+
+#sub "hso_04_089" ...And, butt out!
+
+#sub "hso_04_090" ...In the butt! Oh Hey,-!
+
+#sub "hso_04_091" ...And what and ass.. ...funny, cool...
+
+#sub "hso_04_092" ...No, it's ass ...Not Hey Hey!
+
+#sub "hso_04_093" ...Not in the ass!.
+
+#sub "hso_04_094" ...Put on your butt I do?!
+
+#sub "hso_04_095" ...Ass, and running, and
+
+#sub "hso_04_096" ...In the ass, disgusting
+
+#sub "hso_04_097" ...Stop, do not apply.
+
+#sub "hso_04_098" ...So, do not apply.
+
+#sub "hso_04_099" ...Butt, a strange feeling
+
+#sub "hso_04_100" ...Butt, crazy!
+
+#sub "hso_04_101" ...In the butt ...How I got...
+
+#sub "hso_04_102" ...Yes, you in the butt.
+
+#sub "hso_04_103" ...I hate ass
+
+#sub "hso_04_104" ...Don't want me in the butt
+
+#sub "hso_04_105" ...Yet I'm weird enough
+
+#sub "hso_04_106" ...Strongly once, and things get weird.
+
+#sub "hso_04_107" ...So, just moved.
+
+#sub "hso_04_108" ...Not do it ...Also, in addition to drift.
+
+#sub "hso_04_109" ...Not do it ...So, soon ...Oh!!
+
+#sub "hso_04_110" ...More lots moving
+
+#sub "hso_04_111" ...Can this continue?
+
+#sub "hso_04_112" ...I chose the?
+
+#sub "hso_04_113" ...Feels good ...In addition, we...
+
+#sub "hso_04_114" ...Yes, good ...In addition, Kesha said.
+
+#sub "hso_04_115" ...Of this move?
+
+#sub "hso_04_116" ...I should continue?
+
+#sub "hso_04_117" ...I subsequently give!
+
+#sub "hso_04_118" ...Soon the feeling u'll just getting better,.. ...Oh
+
+#sub "hso_04_119" ...There, again, hot, I'm uu!
+
+#sub "hso_04_120" ...In.. ...very hot...
+
+#sub "hso_04_121" ...While, I filled out
+
+#sub "hso_04_122" ...I have a full
+
+#sub "hso_04_123" ...Also, has been hanging
+
+#sub "hso_04_124" ...Also, fill out
+
+#sub "hso_04_125" ...Hot on the lot out!
+
+#sub "hso_04_126" ...Also, shouldn't I had
+
+#sub "hso_04_127" ...Filled with too much out.
+
+#sub "hso_04_128" ...Also, say I ...Phew
+
+#sub "hso_04_129" ...In a row, already gone ...The NAA
+
+#sub "hso_04_130" ...Also with S'pore.
+
+#sub "hso_04_131" ...Cool with a good
+
+#sub "hso_04_132" ...Yes, already done
+
+#sub "hso_04_133" ...Still, why?
+
+#sub "hso_04_134" ...Oh, and you!
+
+#sub "hso_04_135" ...Yes, no I.. ...Ikasa, darn.
+
+#sub "hso_04_136" ...Stop, do not want to go to ".
+
+#sub "hso_04_137" ...Come on over
+
+#sub "hso_04_138" ...Please, I pulled out
+
+#sub "hso_04_139" ...Again, moving or not?...
+
+#sub "hso_04_140" ...Not do it ...I do not want to go to I. ...Wow...
+
+#sub "hso_04_141" ...Again, stop ...Really, yes Oh! I!
+
+#sub "hso_04_142" ...Is a no, no AA!
+
+#sub "hso_04_143" ...No, not during!.
+
+#sub "hso_04_144" ...Yes ...Come on by...
+
+#sub "hso_04_145" ...Also hanging here.
+
+#sub "hso_04_146" ...Also at stake.
+
+#sub "hso_04_147" ...Do not apply anymore.
+
+#sub "hso_04_148" ...Happy, you?
+
+#sub "hso_04_149" ...In the end, isn't it?.
+
+#sub "hso_04_150" ...More.. ...I don't want to go
+
+#sub "hso_04_151" ...Again yes ...Over...
+
+#sub "hso_04_152" ...By now, let me finish.
+
+#sub "hso_04_153" ...Now, at the end.
+
+#sub "hso_04_154" ...I'm the funny butt
+
+#sub "hso_04_155" ...Butt, I've gone crazy
+
+#sub "hso_04_156" ...Butt, a funny feeling.
+
+#sub "hso_04_157" ...No, u gonna go, great ass.
+
+#sub "hso_04_158" ...In the butt, so we.. ...AA Ah!
+
+#sub "hso_04_159" ...And hot on the inside.
+
+#sub "hso_04_160" ...Great ass, I'm out.
+
+#sub "hso_04_161" ...From the hips ...Back against a came
+
+#sub "hso_04_162" ...A butt and change ...Feeling
+
+#sub "hso_04_163" ...Butt, hot, what I'm going...
+
+#sub "hso_04_164" ...Ass filled stake.
+
+#sub "hso_04_165" ...Hot butt,
+
+#sub "hso_04_166" ...I'm hot butt
+
+#sub "hso_04_167" ...Butt, still a weird feeling.
+
+#sub "hso_04_168" ...In the ass ...Still, hot
+
+#sub "hso_04_169" ...Great ass, Oh together.
+
+#sub "hso_04_170" ...My butt was good?
+
+#sub "hso_04_171" ...Pain in your butt out!
+
+#sub "hso_04_172" ...Your butt is already stopped.
+
+#sub "hso_04_173" ...Your butt is crazy.
+
+#sub "hso_04_174" ...Break your butt, darn?!
+
+#sub "hso_04_175" ...Stop your ass?!
+
+#sub "hso_04_176" ...Butt out, Hey!
+
+#sub "hso_04_177" ...Butt, do not hurt!
+
+#sub "hso_04_178" ...And a great ass and not move.
+
+#sub "hso_04_179" ...Each other ...No, again, ass ...Wow...
+
+#sub "hso_04_180" ...No, ass, go! ...AA Ah!
+
+#sub "hso_04_181" ...Hot in the ass.
+
+#sub "hso_04_182" ...Also, great ass, hanging out.
+
+#sub "hso_04_183" ...From the hips ...Over the coming
+
+#sub "hso_04_184" ...In addition, your butt is crazy.
+
+#sub "hso_04_185" ...No, not your hips.
+
+#sub "hso_04_186" ...Butt, become mushy,...
+
+#sub "hso_04_187" ...Buttocks, feeling bad
+
+#sub "hso_04_188" ...Butt, darn fragile.
+
+#sub "hso_04_189" ...Are you butt ...No
+
+#sub "hso_04_190" ...In the butt ...Do not want,
+
+#sub "hso_04_191" ...Buttocks, feeling not good
+
+#sub "hso_04_192" ...Butt, painful.
+
+#sub "hso_04_193", and is too!--when day ~.. ...to to--
+
+#sub "hso_04_194" ...It is now ...To to.. ...I like him ...It Phew
+
+#sub "hso_04_195" ...Meet the.. ...Yes,.. ...Also wow ...I like him ...There is a...
+
+#sub "hso_04_196" ...Will u to to.. ...choke, will u to to
+
+#sub "hso_04_197" ...Oh my! ...Yes, very ...Fuaaaa.
+
+#sub "hso_04_198" ...It is hot in the coming u.
+
+#sub "hso_04_199" ...Case ..... ...The NAA.
+
+#sub "hso_04_200" ...Bow, has been, and is, is is
+
+#sub "hso_04_201" ...Filled with it ...I'm leaning.
+
+#sub "hso_04_202" ...It is hot ...I'm...
+
+#sub "hso_04_203" ...The white.. ...I went out ...Ah is the
+
+#sub "hso_04_204" ...Mushy ...Full ...I took the...
+
+#sub "hso_04_205" ...To to.. ...Smell ......
+
+#sub "hso_04_206" ...Afu!!.. ...Oh.. ...Ah AA's
+
+#sub "hso_04_207" ...Its always nice to.. ...well to to
+
+#sub "hso_04_208" ...Together.. ...I wiped ...Ah is the
+
+#sub "hso_04_209" ...Together.. ...Smells.
+
+#sub "hso_04_210" ...Ass.. ...its always nice,-is,-
+
+#sub "hso_04_211" ...In the ass ...U have.
+
+#sub "hso_04_212" ...Buttocks ...Wow!...
+
+#sub "hso_04_213" ...And, in the bottom Hey... ...Yes, u gonna go
+
+#sub "hso_04_214" ...Your an ass!.. ...Also, chiika! wow.
+
+#sub "hso_04_215" ...It is now ...It is hot.
+
+#sub "hso_04_216" ...And I'm.. ...It is now.
+
+#sub "hso_04_217" ...U I came over from the buttocks to.. ...to
+
+#sub "hso_04_218" ...To to.. ...has been filled, I ...And I
+
+#sub "hso_04_219" ...It takes.. ...It is hot!...
+
+#sub "hso_04_220" ...Shiroi!.. ...U stake.
+
+#sub "hso_04_221" ...It is hot in the u I.
+
+#sub "hso_04_222" ...Smell this, I.. ...Do you!?.
+
+#sub "hso_04_223" ...Buttocks ...Its always nice to...
+
+#sub "hso_04_224" ...Buttocks ...I got broke.
+
+#sub "hso_04_225" ...Buttocks ...A strange thing!
+
+#sub "hso_04_226" ...There is a.. ...Buttocks ...Fun.. ...Ah is the
+
+#sub "hso_04_227" ...I'm tired from
+
+#sub "hso_04_228" ...Not so much,
+
+#sub "hso_04_229" ...You want to break,
+
+#sub "hso_04_230".　Go u! Also, so it is very sad.
+
+#sub "hso_04_231" ...From our well ...More.. ...U gonna go again.!
+
+#sub "hso_04_232" ...Is I-and pouty, in wars, and
+
+#sub "hso_04_233" ...Are u doing.. ...It is hot!
+
+#sub "hso_04_234" ...Hot, I'm leaning.
+
+#sub "hso_04_235" ...Also, I've been
+
+#sub "hso_04_236" ...It phew ...It is hot!
+
+#sub "hso_04_237" ...Choke, at stake.
+
+#sub "hso_04_238" ...Get more, too!.
+
+#sub "hso_04_239" ...Hot?!?!
+
+#sub "hso_04_240" ...Choke, I wiped.
+
+#sub "hso_04_241" ...Anymore from them won't work
+
+#sub "hso_04_242" ...Feelings, between getting the...
+
+#sub "hso_04_243" ...Again, we.. ...Come, great.
+
+#sub "hso_04_244" ...Oh man.. ...Another day's time?
+
+#sub "hso_04_245" ...Stop it.. ...And more!
+
+#sub "hso_04_246" ...Stop! ...I then addition and subtraction.
+
+#sub "hso_04_247" ...Hey.. ...I already want to go
+
+#sub "hso_04_248" ...You go, again, no AA.
+
+#sub "hso_04_249" ...Et, heh ...Is already unpleasant.
+
+#sub "hso_04_250" ...In the another to stop!...
+
+#sub "hso_04_251" ...It phew ...Wow
+
+#sub "hso_04_252" ...It is now ...When being hungry!...
+
+#sub "hso_04_253" ...Put again, and hey.
+
+#sub "hso_04_254" ...No longer I ...Do not apply!
+
+#sub "hso_04_255" ...Also, again, to stop.
+
+#sub "hso_04_256" ...Intact ...Already, over...
+
+#sub "hso_04_257" ...More.. ...Coming from the great
+
+#sub "hso_04_258" ...More than this is ...Stop it...
+
+#sub "hso_04_259" ...More.. ...Yes ...Now, divide
+
+#sub "hso_04_260" ...Now, in the end ...And hey...
+
+#sub "hso_04_261" ...Oh man.. ...You know, stop.
+
+#sub "hso_04_262" ...Again, ass, koware, darn?!
+
+#sub "hso_04_263" ...Ass and kept properly, uu.
+
+#sub "hso_04_264" ...Et, heh ...But, says u.
+
+#sub "hso_04_265" ...And the girl's butt ...Also, u gonna go!
+
+#sub "hso_04_266" ...Your ...Butt in the.. ...It is hot!...
+
+#sub "hso_04_267" ...That, in a.. ...Hot
+
+#sub "hso_04_268" ...Toggle u ...Heh Oh!
+
+#sub "hso_04_269" ...From the hips ...Bow, when hungry.
+
+#sub "hso_04_270" ...Ass stuck up hungry!
+
+#sub "hso_04_271" ...Hot butt,...
+
+#sub "hso_04_272" ...Butt ...Full
+
+#sub "hso_04_273" ...Ass!.. ...In the change ...Will be...
+
+#sub "hso_04_274" ...Become more weird butt
+
+#sub "hso_04_275" ...Butt ...Again, impossible.
+
+#sub "hso_04_276" ...Another nice ass...
+
+#sub "hso_04_277" ...Butt ...Again, very
+
+#sub "hso_04_278" ...Oh man.. ...Buttocks, impossible!
+
+#sub "hso_04_279" ...You'll be one, Hola!
+
+#sub "hso_04_280" ...Butt ...And smashed it.
+
+#sub "hso_04_281" ...Ass and kept properly, awww!
+
+#sub "hso_04_282" ...You, you know ...I'm spoiled!
+
+#sub "hso_04_283" ...Oh, and cute ...To stop!...
+
+#sub "hso_04_284" ...And while.. ...Feelings ...Bad...
+
+#sub "hso_04_285" ...Yes, no I...
+
+#sub "hso_04_286" ...I'm a bit ...Stop it...
+
+#sub "hso_04_287" ...At stake on your butt.
+
+#sub "hso_04_288" ...You, you know ...Hot...
+
+#sub "hso_04_289" ...More.. ...End
+
+#sub "hso_04_290" ...Again, stop.
+
+#sub "hso_04_291" ...Again, it's the No.
+
+#sub "hso_04_292" ...Again, no ...I don't want to go
+
+#sub "hso_04_293" ...Stop taking ...Again, no
+
+#sub "hso_04_294" ...In this anymore ...10 minutes.
+
+#sub "hso_04_295" ...Getting to
+
+#sub "hso_04_296" ...Good 大mou
+
+#sub "hso_04_297" ...Is this good
+
+#sub "hso_04_298" ...Some feel the
+
+#sub "hso_04_299" ...Yes, says, or even
+
+#sub "hso_04_300" ...Not do it ...So suddenly ...Wow!!
+
+#sub "hso_04_301" ...I'm also gonna go anymore,...
+
+#sub "hso_04_302" ...So bad!
+
+#sub "hso_04_303" ...Can more quickly.
+
+#sub "hso_04_304" ...Feeling better than before
+
+#sub "hso_04_305" ...Prior to the feel
+
+#sub "hso_04_306" ...No, again, again ...I I ...Oh I was!
+
+#sub "hso_04_307" ...Yes, good ...Feels good ...Wow!
+
+#sub "hso_04_308" ...No, and says.. ...I.. ...U gonna go up!
+
+#sub "hso_04_309" ...I'm chura ...Kiss ...More
+
+#sub "hso_04_310" ...I'm a not a bad Kiss,
+
+#sub "hso_04_311" ...Kiss ...More continues
+
+#sub "hso_04_312" ...It phew ...More Kiss
+
+#sub "hso_04_313" ...I move from
+
+#sub "hso_04_314".　How about you? Feel good?
+
+#sub "hso_04_315" ...I'm feeling?
+
+#sub "hso_04_316" ...I'd be hard?
+
+#sub "hso_04_317" ...I don't care I got however』
+
+#sub "hso_04_318" ...Though it is out of the
+
+#sub "hso_04_319" ...You can leave out from
+
+#sub "hso_04_320" ...In I'm
+
+#sub "hso_04_321" ...In the stomach, hot
+
+#sub "hso_04_322" ...Filled in, I'm out.
+
+#sub "hso_04_323" ...I.. ...Came over.
+
+#sub "hso_04_324" ...Has been filled
+
+#sub "hso_04_325" ...It's hot ...I'm leaning.
+
+#sub "hso_04_326" ...Hot is at stake
+
+#sub "hso_04_327" ...I filled out.
+
+#sub "hso_04_328" ...So.. ...Excessive tearing
+
+#sub "hso_04_329" ...Sticky
+
+#sub "hso_04_330" ...Slimy
+
+#sub "hso_04_331" ...The smell is amazing
+
+#sub "hso_04_332" ...Nice
+
+#sub "hso_04_333" ...It was a nice touch
+
+#sub "hso_04_334" ...It was fun
+
+#sub "hso_04_335" ...Phew.. ...Shower together
+
+#sub "hso_04_336" ...Together, nice
+
+#sub "hso_04_337" ...In together ...Good
+
+#sub "hso_04_338" ...Moving more
+
+#sub "hso_04_339" ...Fine and intense
+
+#sub "hso_04_340" ...More good feelings
+
+#sub "hso_04_341" ...The full working
+
+#sub "hso_04_342" ...And the pussy ...Gonna go!
+
+#sub "hso_04_343" ...Pussy, feeling good!
+
+#sub "hso_04_344" ...I like him ...U gonna go in the pussy!
+
+#sub "hso_04_345" ...Arbitrarily, with avatars
+
+#sub "hso_04_346" ...Not do it ...Hip does not stop
+
+#sub "hso_04_347" ...Feel, feel-good
+
+#sub "hso_04_348" ...Feels so good ...Avatars,
+
+#sub "hso_04_349" ...Will u gonna go pussy,... ...Awww
+
+#sub "hso_04_350" ...Spoiled the happy... ...U gonna go anymore!
+
+#sub "hso_04_351".　In the pussy, and will u! I Ah! I!
+
+#sub "hso_04_352" ...And, giving them
+
+#sub "hso_04_353" ...I'm very excited to
+
+#sub "hso_04_354" ...You still don't
+
+#sub "hso_04_355" ...I like him ...Very nice
+
+#sub "hso_04_356" ...You, u gonna go in the pussy!
+
+#sub "hso_04_357" ...The pussy in Rinku?!
+
+#sub "hso_04_358" ...And feeling well, happy!, Hey!
+
+#sub "hso_04_359" ...And the Interior ...Hot
+
+#sub "hso_04_360" ...In the pussy ...Hot
+
+#sub "hso_04_361" ...Getting full of semen,
+
+#sub "hso_04_362" ...I'm filled with dripping...
+
+#sub "hso_04_363" ...The hot jizz!
+
+#sub "hso_04_364" ...Jizz filled out.
+
+#sub "hso_04_365" ...Semen, mushy.
+
+#sub "hso_04_366" ...It's working ...So, hot.
+
+#sub "hso_04_367" ...Pussy ...Still, hot
+
+#sub "hso_04_368" ...The excellent location.
+
+#sub "hso_04_369" ...Together, it was good.
+
+#sub "hso_04_370" ...Cool with a good
+
+#sub "hso_04_371" ...Don't move anymore!
+
+#sub "hso_04_372" ...I pulled out again.
+
+#sub "hso_04_373" ...Come on,
+
+#sub "hso_04_374" ...It's nothing ...Another stop.
+
+#sub "hso_04_375" ...Spoiled girl ...Like this ...Yes ...Oh, oh oh! I!
+
+#sub "hso_04_376" ...Yes, no I.. ...Of the work ...No AA!
+
+#sub "hso_04_377" ...Not do it ...It's me again ...Yes, yes I was!
+
+#sub "hso_04_378" ..... ...He
+
+#sub "hso_04_379" ...So, what do and don't move!
+
+#sub "hso_04_380" ...The forgiven
+
+#sub "hso_04_381" ...Violently.. ...don't move...
+
+#sub "hso_04_382" ...Nope, don't want to go,.. ...Oh.. ...I Oh I was!
+
+#sub "hso_04_383" ...Yes, like this, no I.. ...ahahaha I had!
+
+#sub "hso_04_384" ...And I will--I ...Not Eva and I Oh!.
+
+#sub "hso_04_385".　Or? Stop!, inside and I!
+
+#sub "hso_04_386" ...No, stop in the Hey!
+
+#sub "hso_04_387" ...Oh.. ...Why, during the...
+
+#sub "hso_04_388" ...During the.. ...It's produced.
+
+#sub "hso_04_389" ...At stake ...Do not shout
+
+#sub "hso_04_390" ...Just a few, of where it goes!
+
+#sub "hso_04_391" ...I'm mushy
+
+#sub "hso_04_392" ...Spending too much
+
+#sub "hso_04_393" ...The was-and
+
+#sub "hso_04_394" ...Forced to hate.
+
+#sub "hso_04_395" ...Together, Oh
+
+#sub "hso_04_396" ...How were together.
+
+#sub "hso_04_397" ...I'm moving
+
+#sub "hso_04_398" ...Have to love
+
+#sub "hso_04_399" ...Okay, fit
+
+#sub "hso_04_400" ...To love;
+
+#sub "hso_04_401" ...Yes, good, gonna go Awww.
+
+#sub "hso_04_402" ...Feels good ...Yes, u gonna go up.
+
+#sub "hso_04_403" ...The NAA ...During the hot
+
+#sub "hso_04_404" ...In the semen ...I'm...
+
+#sub "hso_04_405" ...It phew ...I'm coming, filled with
+
+#sub "hso_04_406" ...This is too full.
+
+#sub "hso_04_407" ...Over you like the tut!
+
+#sub "hso_04_408" ...Like the Hung!
+
+#sub "hso_04_409" ...This is too mushy
+
+#sub "hso_04_410" ...You're on a roll, it was very disagreeable smell
+
+#sub "hso_04_411" ...Phew.. ...How I got...
+
+#sub "hso_04_412" ...Yes, Nice.
+
+#sub "hso_04_413" ...I cleaned daily with
+
+#sub "hso_04_414" ...Together is pretty good.
+
+#sub "hso_04_415" ...Buttocks, feeling well and
+
+#sub "hso_04_416" ...My ass, that was for?
+
+#sub "hso_04_417" ...Butt, not too hard.
+
+#sub "hso_04_418" ...Not do it ...Gonna go in the butt.
+
+#sub "hso_04_419" ...Buttocks, feeling ...Gonna go Awww!
+
+#sub "hso_04_420" ...I feel your butt,
+
+#sub "hso_04_421" ...Your butt is nice because the
+
+#sub "hso_04_422" ...Butt, I feel damn, u.
+
+#sub "hso_04_423" ...Buttocks, and so suddenly!
+
+#sub "hso_04_424" ...In the butt ...No Rinku?!
+
+#sub "hso_04_425" ...Move your butt, more
+
+#sub "hso_04_426" ...My butt feel good?
+
+#sub "hso_04_427" ...Great ass, I want to play more!
+
+#sub "hso_04_428" ...I'll keep your butt, more
+
+#sub "hso_04_429" ...Nice butt,.. ...I'm gonna go u.
+
+#sub "hso_04_430" ...Buttocks, feeling good ...Oh, Ah AAA!!
+
+#sub "hso_04_431" ...It's very hot in the ass.
+
+#sub "hso_04_432" ...Your an ass ...The hot jizz.
+
+#sub "hso_04_433" ...From the butt is also coming.
+
+#sub "hso_04_434" ...Have a stockpile of jizz, ass
+
+#sub "hso_04_435" ...Stake your ass jizz
+
+#sub "hso_04_436" ...Hot butt, jizz,
+
+#sub "hso_04_437" ...Phew.. ...Semen, so very hot
+
+#sub "hso_04_438" ...To get excited about this scent...
+
+#sub "hso_04_439" ...In the butt,-Oh,-
+
+#sub "hso_04_440" ...Great ass, Nice.
+
+#sub "hso_04_441" ...Great ass, I'm already gone together
+
+#sub "hso_04_442" ...Of your butt ...Would be great
+
+#sub "hso_04_443" ...Let me feel your butt, more
+
+#sub "hso_04_444" ...Rummage through your hips, more
+
+#sub "hso_04_445" ...Butt, the more you need?
+
+#sub "hso_04_446" ...Butt ...Hot damn, it's Wow!
+
+#sub "hso_04_447" ...No, u gonna go, great ass ...tsu!
+
+#sub "hso_04_448" ...More, move your hips
+
+#sub "hso_04_449" ...Great ass, full play
+
+#sub "hso_04_450" ...More butt!
+
+#sub "hso_04_451" ...Will--butt hole, Lee was, darn!-!
+
+#sub "hso_04_452".. ...Gonna go in the butt.
+
+#sub "hso_04_453" ...Because, in my butt
+
+#sub "hso_04_454" ...My butt feel good?
+
+#sub "hso_04_455" ...Great ass, love!
+
+#sub "hso_04_456" ...Butt, to start, right
+
+#sub "hso_04_457" ...No, your butt ...Damn, hot.. ...Wow!!
+
+#sub "hso_04_458" ...Nice ass u gonna go ass up!
+
+#sub "hso_04_459" ...Ass, cum, and
+
+#sub "hso_04_460" ...In the ass ...Hot of the spread.
+
+#sub "hso_04_461" ...Have been dripping butt hole, and.
+
+#sub "hso_04_462" ...I left overflowing from the butt
+
+#sub "hso_04_463" ...Taken me filled with jizz, ass
+
+#sub "hso_04_464" ...The hips girl!
+
+#sub "hso_04_465" ...Butt, she was hot.
+
+#sub "hso_04_466" ...Butt's hot jizz in...
+
+#sub "hso_04_467" ...Fine, nice
+
+#sub "hso_04_468" ...Ass at the meals were.. ...♪
+
+#sub "hso_04_469" ...Great ass and wiped with
+
+#sub "hso_04_470" ...Butt, go together and happy.
+
+#sub "hso_04_471" ...Yes ...Stop your butt!
+
+#sub "hso_04_472" ...Ouch.. ...Pulled out from the hips
+
+#sub "hso_04_473" ...Stop your ass!
+
+#sub "hso_04_474" ...Is your butt ...Oh man!
+
+#sub "hso_04_475" ...No, great ass ...Don't want to go,.. ...Oh! I!
+
+#sub "hso_04_476" ...Yes ...Butt, Yes, no, though I.. ...Wow!!
+
+#sub "hso_04_477" ...Stop, and the ass ..... ...Don't look up!
+
+#sub "hso_04_478" ...Stop it.. ...I hate your ass!
+
+#sub "hso_04_479" ...Butt, come on!
+
+#sub "hso_04_480" ...Stop your butt just hurts!
+
+#sub "hso_04_481" ...Another useless, it's stinky ass
+
+#sub "hso_04_482" ...Oh man.. ...I'm spoiled girl, ass ...Oh, me oh oh!!!
+
+#sub "hso_04_483" ...Do not.. ...Butt, funny.. ...And gotta.. ...Oh, oh oh AAAA!!
+
+#sub "hso_04_484" ...Another useless ...And, you know, gonna go ...It is I!!
+
+#sub "hso_04_485".　No it's Oh! Come in your ass!
+
+#sub "hso_04_486" ...In the butt ...No it's Oh!
+
+#sub "hso_04_487" ...You, your hips, feeling bad
+
+#sub "hso_04_488" ...Inside the ass.
+
+#sub "hso_04_489" ...Stop, not anymore!
+
+#sub "hso_04_490" ...No, I call Pat
+
+#sub "hso_04_491" ...Slimy, bad feelings.
+
+#sub "hso_04_492" ...This is fishy.
+
+#sub "hso_04_493" ...More.. ...It's no.
+
+#sub "hso_04_494" ...I didn't want to, go to
+
+#sub "hso_04_495" ...Together.. ...The how
+
+#sub "hso_04_496" ...It was overkill.
+
+#sub "hso_04_497" ...Don't let your hips
+
+#sub "hso_04_498" ...Buttocks, feeling well and
+
+#sub "hso_04_499" ...Up your butt,
+
+#sub "hso_04_500" ...Like to have your butt....
+
+#sub "hso_04_501" ...I like him ...Butt, very good
+
+#sub "hso_04_502" ...Kesha so, I butt in?!
+
+#sub "hso_04_503" ...U gonna go in the butt, butt!
+
+#sub "hso_04_504" ...In the ass ...Semen is.
+
+#sub "hso_04_505" ...Hot ass on the.. ...I'm out
+
+#sub "hso_04_506" ...Been overflowing from the hips.
+
+#sub "hso_04_507" ...Ass came over hot...
+
+#sub "hso_04_508" ...Nice, I over filled!
+
+#sub "hso_04_509" ...Hot on the lot out!
+
+#sub "hso_04_510" ...So, it took.
+
+#sub "hso_04_511" ...So, okay?
+
+#sub "hso_04_512" ...Great ass, Oh.
+
+#sub "hso_04_513" ...Buttocks, feeling good
+
+#sub "hso_04_514" ...Shower together
+
+#sub "hso_04_515" ...Great ass, we were together
+
+#sub "hso_04_516" ...The move yet?
+
+#sub "hso_04_517" ...So, okay?
+
+#sub "hso_04_518" ...Waiting for the rest?
+
+#sub "hso_04_519" ...Don't just hope so ...Wow!!
+
+#sub "hso_04_520" ...Not do it ...Easy to feel ...I'm getting ...It is now quickly!
+
+#sub "hso_04_521" ...Still though, it is
+
+#sub "hso_04_522" ...Keep more than okay.
+
+#sub "hso_04_523".　For keeps? No problem?
+
+#sub "hso_04_524" ...Useless, soon, hope, will be.. ...It is now quickly!
+
+#sub "hso_04_525" ...And, even now, Kesha so!
+
+#sub "hso_04_526".　Still continue? No problem?
+
+#sub "hso_04_527" ...You can still move?
+
+#sub "hso_04_528" ...But I can still
+
+#sub "hso_04_529" ...Wow, suddenly seems to be.. ...We are AAA!!
+
+#sub "hso_04_530" ...Continuous ...Awww I get immediately hot.!
+
+#sub "hso_04_531" ...She is hot in the...
+
+#sub "hso_04_532" ...Damn, hot inside!...
+
+#sub "hso_04_533" ...Phew.. ...I'm getting hot,
+
+#sub "hso_04_534" ...The has been filled with cum.
+
+#sub "hso_04_535" ...Filled out of semen,...
+
+#sub "hso_04_536" ...Filled with jizz, put Hey!
+
+#sub "hso_04_537" ...In addition, full or shouldn't I was
+
+#sub "hso_04_538" ...In addition, thick filling.
+
+#sub "hso_04_539" ...Suddenly, it's
+
+#sub "hso_04_540" ...Continuous is quite great.
+
+#sub "hso_04_541" ...After all, I made it with
+
+#sub "hso_04_542" ...You put together a good feeling
+
+#sub "hso_04_543" ...More dynamic do you they
+
+#sub "hso_04_544" ...More comfortable you want to be
+
+#sub "hso_04_545" ...Yet, you still!
+
+#sub "hso_04_546" ...For it is very hot, nice pussy, Wow!
+
+#sub "hso_04_547" ...You endure this, and Kesha so!
+
+#sub "hso_04_548" ...More and more, moving?!
+
+#sub "hso_04_549" ...I'm still so
+
+#sub "hso_04_550" ...More and more good then?!
+
+#sub "hso_04_551" ...Nice pussy Oh, and well, Hey!
+
+#sub "hso_04_552" ...U gonna go ...In the pussy, gonna go u!
+
+#sub "hso_04_553" ...Pussy, more Tingle's Hey!
+
+#sub "hso_04_554" ...Keep Hey, happy this, would like to Oh!
+
+#sub "hso_04_555" ...Still, good pussy, feeling I!?!
+
+#sub "hso_04_556" ...Awww pussy, so hot that it melts!!
+
+#sub "hso_04_557" ...And, also says that pussy?!
+
+#sub "hso_04_558" ...The inside of the pussy ...And filled with jizz
+
+#sub "hso_04_559" ...Pussy, jizz, u come out!
+
+#sub "hso_04_560" ...From the pussy ...Has been hot juice
+
+#sub "hso_04_561" ...Jizz ...Full and alive.
+
+#sub "hso_04_562" ...Hot fill, come out!
+
+#sub "hso_04_563" ...More jizz filled over Hey!
+
+#sub "hso_04_564" ...Damn, hot, slimy.
+
+#sub "hso_04_565" ...A continuous.. ...It goes on.
+
+#sub "hso_04_566" ...Too many times, and through the power
+
+#sub "hso_04_567" ...Yet the body is soft to
+
+#sub "hso_04_568" ...Get together for a nice
+
+#sub "hso_04_569" ...In addition, with S'pore ...♪
+
+#sub "hso_04_570" ...Again, ugokanaide
+
+#sub "hso_04_571" ...I pulled out, stop!
+
+#sub "hso_04_572" ...Again, let me finish.
+
+#sub "hso_04_573" ...Yes, take u ...Also, the.. ...Not even awesome.!
+
+#sub "hso_04_574" ...Again, again ...Stop, Oh ...Oh I was!
+
+#sub "hso_04_575" ...More.. ...Nice addition echoes
+
+#sub "hso_04_576" ...In it, continue.
+
+#sub "hso_04_577" ...Soon ...Let me finish
+
+#sub "hso_04_578" ...Oh man.. ...Don't want to go,.. ...The washroom was!
+
+#sub "hso_04_579" ...Stop it.. ...Also, more.. ...Nodame! Yes!!
+
+#sub "hso_04_580" ...During a stop in!
+
+#sub "hso_04_581" ...Wait, in the Hey!
+
+#sub "hso_04_582" ...Why.. ...During the...
+
+#sub "hso_04_583" ...Also...　For a while? Why
+
+#sub "hso_04_584" ...Stop, do not shout.
+
+#sub "hso_04_585" ...Stop, do not apply anymore.
+
+#sub "hso_04_586" ...Again, it turned out, you really need?
+
+#sub "hso_04_587".　I filled out the? Surprised me
+
+#sub "hso_04_588" ...It's nothing ...At the end
+
+#sub "hso_04_589" ...Because I don't want to go anymore.
+
+#sub "hso_04_590" ...More persistent ...You want to stop
+
+#sub "hso_04_591" ...The continue indefinitely?
+
+#sub "hso_04_592" ...Tired of?
+
+#sub "hso_04_593" ...You want to go, but...
+
+#sub "hso_04_594" ...Continuous, tired of?
+
+#sub "hso_04_595" ...Now, feeling better and it comes...
+
+#sub "hso_04_596" ...I like him ...I hear Kesha?!
+
+#sub "hso_04_597" ...In addition, while hot.
+
+#sub "hso_04_598" ...Semen is the average of the tummy.
+
+#sub "hso_04_599" ...I have also kept cum
+
+#sub "hso_04_600" ...In addition, many running
+
+#sub "hso_04_601" ...Love from, put out a nice!
+
+#sub "hso_04_602" ...Hot on the lot over!
+
+#sub "hso_04_603" ...Filled out every time.
+
+#sub "hso_04_604" ...It's working ...That's always hot.
+
+#sub "hso_04_605" ...Continuous ...Soon well be
+
+#sub "hso_04_606" ...I'm very tired
+
+#sub "hso_04_607" ...I made it together.
+
+#sub "hso_04_608" ...I think with them ...I get tired
+
+#sub "hso_04_609" ...It's also your butt?
+
+#sub "hso_04_610" ...Why is your butt just
+
+#sub "hso_04_611" ...Does not like to butt in?
+
+#sub "hso_04_612" ...Not do it ...U ass, go away.
+
+#sub "hso_04_613" ...Also in the butt, so Kesha ...The Oh AAAA!!
+
+#sub "hso_04_614" ...Also, the butt of?
+
+#sub "hso_04_615" ...The really like my butt?
+
+#sub "hso_04_616" ...Like you in the butt?
+
+#sub "hso_04_617" ...I, also, in the butt, u gonna go!!
+
+#sub "hso_04_618" ...Butt, also ...It is hot ...Oh! I!
+
+#sub "hso_04_619" ...Also says, I butt in?!
+
+#sub "hso_04_620" ...More butt!
+
+#sub "hso_04_621" ...Still in the butt from
+
+#sub "hso_04_622" ...My butt feel good?
+
+#sub "hso_04_623" ...Good, you want to feel more in the butt ...It is I!
+
+#sub "hso_04_624" ...Butt.　Until the feeling is!!! Oh I was!
+
+#sub "hso_04_625" ...In addition, in.. ...I'm out jizz
+
+#sub "hso_04_626" ...Hot ass in the.. ...I'm out
+
+#sub "hso_04_627" ...Also, the inside of your butt
+
+#sub "hso_04_628" ...In addition, butt, hot, but I kept
+
+#sub "hso_04_629" ...I took hot ass!
+
+#sub "hso_04_630" ...Spent the Hey!
+
+#sub "hso_04_631" ...Of yet, can I?
+
+#sub "hso_04_632" ...Wow, don't you think so
+
+#sub "hso_04_633" ...Also left in the butt.
+
+#sub "hso_04_634" ...Butt, very nice
+
+#sub "hso_04_635" ...Great ass, was also with them.
+
+#sub "hso_04_636" ...Great ass, I made it together.
+
+#sub "hso_04_637" ...More butt rummage
+
+#sub "hso_04_638" ...Just like your butt poked
+
+#sub "hso_04_639" ...Great ass, more!
+
+#sub "hso_04_640" ...I like him.　You are!, very nice! Wow!
+
+#sub "hso_04_641" ...We, in you, and gonna go Awww.
+
+#sub "hso_04_642" ...Great ass, filled with work from
+
+#sub "hso_04_643" ...Great ass, playing with!
+
+#sub "hso_04_644" ...I'll move your butt!
+
+#sub "hso_04_645" ...You have u.　U feel good! I wow.!
+
+#sub "hso_04_646" ...I like him ...Also in the anal, u gonna go up!
+
+#sub "hso_04_647" ...UU'll go anal, anal,...
+
+#sub "hso_04_648" ...Anal, you'll...
+
+#sub "hso_04_649" ...Anal, nice huh?
+
+#sub "hso_04_650" ...Anal, filled with good feelings
+
+#sub "hso_04_651" ...Good anal scenes, not out yuuu!!
+
+#sub "hso_04_652".　Anal and a nice!! I Oh I was!
+
+#sub "hso_04_653" ...Oh, also says that anal!!!
+
+#sub "hso_04_654" ...Anal in the hot jizz on...
+
+#sub "hso_04_655" ...In the anal ...I'm jumpy, and u.
+
+#sub "hso_04_656" ...The NAA ...Semen is from there ...I'm leaning
+
+#sub "hso_04_657" ...Anal, inside also.
+
+#sub "hso_04_658" ...The semen, it's very hot.
+
+#sub "hso_04_659" ...Hot's over Hey!
+
+#sub "hso_04_660" ...Great ass, filled out?
+
+#sub "hso_04_661" ...Sperm, also filled out.
+
+#sub "hso_04_662" ...Butt, very nice
+
+#sub "hso_04_663" ...I really feel your butt,
+
+#sub "hso_04_664" I also made it with them ...Butt, nice
+
+#sub "hso_04_665" ...It was also, together with the butt
+
+#sub "hso_04_666" ...Stop your butt,
+
+#sub "hso_04_667" ...Nasty ass!
+
+#sub "hso_04_668" ...Again, unplug your butt!
+
+#sub "hso_04_669" ...No, great ass, I don't want to go.
+
+#sub "hso_04_670" ...Yes ...Your butt! No AA!
+
+#sub "hso_04_671" ...Stop it.. ...Pulled out from the butt!
+
+#sub "hso_04_672" ...No, break your butt
+
+#sub "hso_04_673" ...Only your butt ...Stop it!
+
+#sub "hso_04_674" ...Not do it ...It's not Hey Oh AAAA!
+
+#sub "hso_04_675" ...Don't stop.. ...Don't sink!
+
+#sub "hso_04_676" ...In addition, in.. ...I'm...
+
+#sub "hso_04_677" ...Why put in
+
+#sub "hso_04_678" ...Oh, also.. ...I'm leaning.
+
+#sub "hso_04_679" ...Ass and feeling bad.
+
+#sub "hso_04_680" ...Again, do not
+
+#sub "hso_04_681" ...Don't feel bad and then
+
+#sub "hso_04_682" ...Slimy ...A strange feeling
+
+#sub "hso_04_683" ...This smell ...A strange feeling.
+
+#sub "hso_04_684" ...Also in the butt.. ...Already gone.
+
+#sub "hso_04_685" ...Butt, which by the end
+
+#sub "hso_04_686" ...Together, Oh.
+
+#sub "hso_04_687" ...It was pushy but was
+
+#sub "hso_04_688" ...Was also the butt of?
+
+#sub "hso_04_689" ...I chose a bit of?
+
+#sub "hso_04_690".　For keeps? Okay, go
+
+#sub "hso_04_691" ...Yes, good ...In addition, says in the butt!
+
+#sub "hso_04_692" ...Your butt will be charged ...Soon, good feeling.
+
+#sub "hso_04_693" ...And, in the butt also ...Hot
+
+#sub "hso_04_694" ...Also in the ass.. ...I'm getting hot.
+
+#sub "hso_04_695" ...Has also filled with dripping from the butt
+
+#sub "hso_04_696" ...Has been full of hot ass
+
+#sub "hso_04_697".　Nice! Intact, was over filled!
+
+#sub "hso_04_698" ...I can hang, from!
+
+#sub "hso_04_699" ...Also filled with the hot is at stake.
+
+#sub "hso_04_700" ...Such a regret ...No problem?
+
+#sub "hso_04_701" ...Also left in the butt
+
+#sub "hso_04_702" ...Great ass, everything we make is I.
+
+#sub "hso_04_703" ...Also along with Kota
+
+#sub "hso_04_704" ...Along with the good.
+
+#sub "hso_04_705".　Ah? Get me out!
+
+#sub "hso_04_706" er, Ah!.. ...Awful, hate.
+
+#sub "hso_04_707" big cats?　No way! It's no!
+
+#sub "hso_04_708" is, what! And it's something like this ...No way!
+
+
+// -----------------------------------------------------------------------------
+// 特殊 
+// -----------------------------------------------------------------------------
+
+
+#sub "ht_04_001" ...Remember Hiroshima
+
+#sub "ht_04_002".　Big cats! Ouch!
+
+#sub "ht_04_003" ...I want to butanaide
+
+#sub "ht_04_004" ...Stop
+
+#sub "ht_04_005" ...And no,.. ...be wanting a change.
+
+#sub "ht_04_006" ...Was, stop, and
+
+#sub "ht_04_007" ...Ouch, do not strongly
+
+#sub "ht_04_008" ...Each other ...It just hurts.
+
+#sub "ht_04_009".　Big cats! Hurts more than I thought
+
+#sub "ht_04_010" ...This is painful though it was painful.. ...I ...Wow!!
+
+#sub "ht_04_011" ...Though it was painful, why is Shii ...Oh, no Oh I was!
+
+#sub "ht_04_012" ...Eh, but it hurts ...Do my best
+
+#sub "ht_04_013" ...Try to put the
+
+#sub "ht_04_014" ...But still OK
+
+#sub "ht_04_015" ...But I want to be ...I.. ...Funny ...Oh I was!
+
+#sub "ht_04_016" ...More.. ...Pain and kept going to the u!
+
+#sub "ht_04_017" ...Down, it hurts!
+
+#sub "ht_04_018" ...I want to, that's enough!!
+
+#sub "ht_04_019" ...Impossible, and, sitting down!...
+
+#sub "ht_04_020" ...I want to be ...Sane.
+
+#sub "ht_04_021" ...Not gonna go, but I want to be.
+
+#sub "ht_04_022" ...I, this, I broke?!
+
+#sub "ht_04_023" ...This is such a hard
+
+#sub "ht_04_024" ...Shall be.. ...This is too painful
+
+#sub "ht_04_025" ...Impossible, and the sat
+
+#sub "ht_04_026" ...And gonna go hard to the...
+
+#sub "ht_04_027" ...Don't look, over there ...Broken, darn!!!
+
+#sub "ht_04_028" ...Somehow, scary
+
+#sub "ht_04_029" ...Painful, but I do my best
+
+#sub "ht_04_030" ...This is tight
+
+#sub "ht_04_031".　Do Hey Oh! Want to.. ...Gonna go Awww!
+
+#sub "ht_04_032" ...This, u, broken, worn out!
+
+&amp; #sub "ht_04_033"-and I don't-it hurts
+
+#sub "ht_04_034" ...Painful, hard
+
+#sub "ht_04_035" ...This is too tight
+
+#sub "ht_04_036" ...This, Shugo Chara so I'd!.. ...is the
+
+#sub "ht_04_037" ...And straw-, full-, and want to be ...day buzz on Twitter!,
+
+#sub "ht_04_038" ...Even Eva to, and...
+
+#sub "ht_04_039" ...Ahahaha.. ...There were broken, surf ...Ahaha Oh AAAA!
+
+#sub "ht_04_040" ...It phew ...I was.. ...Its always a nice...
+
+#sub "ht_04_041" ...To to, and ...Feels good ...To to to
+
+#sub "ht_04_042" ...Phew.. ...Phew.. ...More.. ...Ah is the
+
+#sub "ht_04_043" ...I'm shooting for?
+
+#sub "ht_04_044" ...This is fun?
+
+#sub "ht_04_045" ...He looks good ...A funny feeling
+
+#sub "ht_04_046" ...To Institute, it was caught on camera!.
+
+#sub "ht_04_047" ...No, cameras, embarrassed ...Oh, yeah!
+
+#sub "ht_04_048" ...We got were able to take place,
+
+#sub "ht_04_049" ...Masturbation, I got shot
+
+#sub "ht_04_050" ...Camera, pulse-pounding, and
+
+#sub "ht_04_051" ...Shoot, to get excited about.
+
+#sub "ht_04_052" ...Embarrassing, but won't stop
+
+#sub "ht_04_053" ...I like him ...Finger, feeling good!
+
+#sub "ht_04_054" ...Masturbation, that excites!!!
+
+#sub "ht_04_055" ...Maybe camera, excited Ah ...AA Ah!
+
+#sub "ht_04_056" ...For this, I have taken?
+
+#sub "ht_04_057" ...Camera, shame!
+
+#sub "ht_04_058" ...Shoot, embarrassed.
+
+#sub "ht_04_059" ...Spoiled, I'm taken to a I Oh I was!
+
+#sub "ht_04_060" ...Embarrassing, but, Oh, oh oh I..
+
+#sub "ht_04_061" ...Camera, somehow, to get excited about.
+
+#sub "ht_04_062" ...More, even when taking it from
+
+#sub "ht_04_063" ...Camera, excited ...Hot
+
+#sub "ht_04_064" ...Taken and, as you'll go!
+
+#sub "ht_04_065" ...The u in front of the camera, gonna go!
+
+#sub "ht_04_066" ...Seen any good for?
+
+#sub "ht_04_067" ...On the outside, but good?
+
+#sub "ht_04_068" ...In watch over me ...Embarrassing
+
+#sub "ht_04_069" ...Yes, says ...I seen u.
+
+#sub "ht_04_070" ...And will, seen the darn!!!
+
+#sub "ht_04_071" ...It got me looking,...
+
+#sub "ht_04_072" ...Ichi I was watching.
+
+#sub "ht_04_073" ...Look at the pulse-pounding
+
+#sub "ht_04_074" ...To get excited watching the...
+
+#sub "ht_04_075" ...I'll show more
+
+#sub "ht_04_076" ...The line of sight ...So, feel ...Oh Oh I was!
+
+#sub "ht_04_077" ...U gonna go WOW, seen as gone!
+
+#sub "ht_04_078" ...While seen ...Get so excited
+
+#sub "ht_04_079" ...Look, I feel so
+
+#sub "ht_04_080" ...Yes, I want to be ...This is useless
+
+#sub "ht_04_081".　Ouch! Already solved
+
+#sub "ht_04_082" ...Yes, Ouch, stop now!
+
+#sub "ht_04_083" ..... ...I want to be...　Say u! Wow...
+
+#sub "ht_04_084" ...No, the cut ...Yes, not Hi I was!
+
+#sub "ht_04_085" ...More.. ...Then lower the
+
+#sub "ht_04_086" ...It's another stop
+
+#sub "ht_04_087" ...Another release ...No
+
+#sub "ht_04_088" ...Remove it,
+
+#sub "ht_04_089" ...Stop it.. ...Off again!
+
+#sub "ht_04_090" ...It's another no ...No AA!
+
+#sub "ht_04_091" ...Again, wrong, from the.. ...It is I!!
+
+#sub "ht_04_092" ...More.. ...Are you outside of the...
+
+#sub "ht_04_093" ...Disconnect from a tight,...
+
+#sub "ht_04_094" ...And surprisingly good, and,
+
+#sub "ht_04_095" ...Confining a little excited.
+
+#sub "ht_04_096" ...Dressed like this have become sensitive.
+
+#sub "ht_04_097" ...Spoiled girl in this outfit ...Gonna go and and!
+
+#sub "ht_04_098" ...Not do it ...This remains going anyway ...WOW me!
+
+#sub "ht_04_099" ...While detained ...Already gone
+
+#sub "ht_04_100" ...Dressed like this ...The agitated than usual.
+
+#sub "ht_04_101" ...Phew...
+
+#sub "ht_04_102" ...The NAA.
+
+#sub "ht_04_103" ...The NAA ...Good
+
+#sub "ht_04_104" ...Feels good
+
+#sub "ht_04_105" ...Freshen up
+
+#sub "ht_04_106" ...Shower, Nice.
+
+#sub "ht_04_107" ...Strange feelings, or
+
+#sub "ht_04_108" ...Hand to hand.
+
+#sub "ht_04_109" ...This leave be super-interesting.
+
+#sub "ht_04_110" ...Hand, say, that I don't listen
+
+#sub "ht_04_111" ...I could have been better
+
+#sub "ht_04_112" ...You want to end, the
+
+#sub "ht_04_113" ...It's working good ...Feels good.
+
+#sub "ht_04_114" ...More.. ...Either hand is unstoppable.
+
+#sub "ht_04_115" ...Nice, very nice
+
+#sub "ht_04_116" ...Not do it ...I feel anymore.
+
+#sub "ht_04_117" ...It does not stop masturbation.
+
+#sub "ht_04_118" ...There, feel better.
+
+#sub "ht_04_119" ...Not do it ...Not like this, u gonna go.
+
+#sub "ht_04_120" ...Me, I says anymore, I was!
+
+#sub "ht_04_121" ...I had a wank,...
+
+#sub "ht_04_122" ...What a nice...
+
+#sub "ht_04_123" ...Ouch, again no
+
+#sub "ht_04_124" ...So it hurts stop
+
+#sub "ht_04_125" &amp; &amp; hurts, stop!
+
+#sub "ht_04_126" ...It phew ...Gonna go though and it was painful ...Oh! I!
+
+#sub "ht_04_127" ...Though it was painful ...Also, again, no ...Wow!!
+
+#sub "ht_04_128" ...It still hurts
+
+#sub "ht_04_129" ...Or o. ...Snails.
+
+#sub "ht_04_130" ...This is not comfortable.
+
+#sub "ht_04_131" ..... ...Pain is the heat out ...It is I!!
+
+#sub "ht_04_132" ...Not do it ...Pain in the sane ...I wow.!
+
+#sub "ht_04_133" ...This is kinda impossible.
+
+#sub "ht_04_134" ...So.. ...It hurts!
+
+#sub "ht_04_135" ...A pain in the.. ...I don't like
+
+#sub "ht_04_136" ...Yes, pain, or.. ...The body ...I Ah! I!
+
+#sub "ht_04_137" ...Pain and strange, and wow!.
+
+#sub "ht_04_138" ...And Nighthawk, then lower the
+
+#sub "ht_04_139" ...From the hard ride,
+
+#sub "ht_04_140" ...The tight a
+
+#sub "ht_04_141" ...Don't tear the darn.. ...No AA!
+
+#sub "ht_04_142" ...Don't freaking ...A u ...It is I!!
+
+#sub "ht_04_143" ...It's working ...Me, too
+
+#sub "ht_04_144" ...I could not ride ...Maybe
+
+#sub "ht_04_145" ...Ouch.. ...I don't
+
+#sub "ht_04_146" ...Ouch, rubbing, it's no good ...I Oh I was!
+
+#sub "ht_04_147" ...This, they hot ...Oh Oh!!!!
+
+#sub "ht_04_148" ...Again, you want to
+
+#sub "ht_04_149" ...Move the
+
+#sub "ht_04_150" ...There, tight.
+
+#sub "ht_04_151" ...Yes, I had a nice, good, no fuwaaaa!!
+
+#sub "ht_04_152" ...Spoiled girl, your, funny!, or! ...It is I!!
+
+#sub "ht_04_153" ...Ouch, I hate
+
+#sub "ht_04_154" ...Pain, wrong, or even
+
+#sub "ht_04_155" ...I'm also taking
+
+#sub "ht_04_156" ...The fun?
+
+#sub "ht_04_157" ...I was aware of camera, maybe
+
+#sub "ht_04_158" ...Or in front of the camera, and says, Awww.
+
+#sub "ht_04_159" ...Camera, really, feeling sick!! ...I'm oh oh AAAA!!
+
+#sub "ht_04_160" ...I gone and taken
+
+#sub "ht_04_161" ...But I was embarrassed ...yes
+
+#sub "ht_04_162" ...Camera ...I get excited
+
+#sub "ht_04_163" ...Camera ...Consciously, you would feel
+
+#sub "ht_04_164" ...Taken, and hot.
+
+#sub "ht_04_165" ...Looks to have taken, and I feel u!
+
+#sub "ht_04_166" ...Masturbation, shoot, get excited! ...Wow!!
+
+#sub "ht_04_167" ...Don't shoot too much,
+
+#sub "ht_04_168" ...After all, no camera.
+
+#sub "ht_04_169" ...Stop it.. ...No camera
+
+#sub "ht_04_170" ...Oh man.. ...Go on take? ...Washroom!!
+
+#sub "ht_04_171" ...Not do it ...This is not photography, heh ...It is I!!
+
+#sub "ht_04_172" ...Filled with a photo.
+
+#sub "ht_04_173" ...The parter and?
+
+#sub "ht_04_174" ...Camera, looks hot
+
+#sub "ht_04_175" ...In the shooting, also says u.
+
+#sub "ht_04_176" ...Camera and u feel very,.. ...Ahaha I was!
+
+#sub "ht_04_177" ...Can be seen, no
+
+#sub "ht_04_178" ...So embarrassed,
+
+#sub "ht_04_179" ...Ashamed of this, no
+
+#sub "ht_04_180" ...And watching it, no AA ...Oh I Oh I!
+
+#sub "ht_04_181" ...Stop it.. ...Embarrassing, yes I was!
+
+#sub "ht_04_182" ...Uu.. ...Like the force,
+
+#sub "ht_04_183" ...Again, too shy, no
+
+#sub "ht_04_184" ...It's eyes ...To get excited about.
+
+#sub "ht_04_185" ...Look at the throbbing ...Get hot
+
+#sub "ht_04_186" ...And, really, feel
+
+#sub "ht_04_187" ...Yes, good ...Look, or feel ...Wow!!
+
+#sub "ht_04_188" ...It's embarrassing ...Hot!.. ...It is I!!
+
+#sub "ht_04_189" ...Line of sight ...It's just hot
+
+#sub "ht_04_190" ...Maybe it's seen, a good
+
+#sub "ht_04_191" ...I have a rope
+
+#sub "ht_04_192" ...Pain in the lower
+
+#sub "ht_04_193" ...The sore.
+
+#sub "ht_04_194" ...This outfit ...Oh man.. ...Oh, I, I I!
+
+#sub "ht_04_195" ...One, gonna go down to the.. ...Oh Oh I was!
+
+#sub "ht_04_196" ...Again, this is removed
+
+#sub "ht_04_197" ...More.. ...I 食i込nnji
+
+#sub "ht_04_198" ...Please, stop it hurts!
+
+#sub "ht_04_199" ...No, get out again
+
+#sub "ht_04_200" ...So cool, no
+
+#sub "ht_04_201" ...This, captive ...Oh man.. ...I will Oh I was!
+
+#sub "ht_04_202" ...Like this ...In the outfit ...Also.. ...No Hi! I!
+
+#sub "ht_04_203" ...Solve it,
+
+#sub "ht_04_204" ...This is taken ...Again, no
+
+#sub "ht_04_205" ...Captive ...A little nervous
+
+#sub "ht_04_206" ...Restraint, to get excited about.
+
+#sub "ht_04_207" ...Constraint, you need
+
+#sub "ht_04_208" ...I like him ...This, captive, u really feel ...I wow.!
+
+#sub "ht_04_209" ...It's not possible to move the excited! ...I wow.!
+
+#sub "ht_04_210" ...I feel very constrained,
+
+#sub "ht_04_211" ...So, I have been excited.
+
+#sub "ht_04_212" ...Also, gonna go...!
+
+#sub "ht_04_213" ...Hand will not stop hands ...Wow!
+
+#sub "ht_04_214" ...Masturbation, in addition, uu'll go!
+
+#sub "ht_04_215" ...Alone and feeling good.
+
+#sub "ht_04_216" ...The why not?
+
+#sub "ht_04_217" ...Yes, I want to be ...Stop it
+
+#sub "ht_04_218" ...Oh, Ouch
+
+#sub "ht_04_219" ...Remember Hiroshima.
+
+#sub "ht_04_220" ...Ouch, again no
+
+#sub "ht_04_221" ...Again, from it, funny uuuu, going!
+
+#sub "ht_04_222" ...Oh I want to anymore ...Yes ...It is I!!
+
+#sub "ht_04_223" ...I was not.. ...Straw tips, also urame! eh!
+
+#sub "ht_04_224" ...Again, stop!.
+
+#sub "ht_04_225" ...Thank you Kahi CHAN, from it.
+
+#sub "ht_04_226" ...I want to be ...I quit!...
+
+#sub "ht_04_227" ...Oh man.. ...Also, u gonna go.
+
+#sub "ht_04_228" ...Again, from, heh ...Oh great I II I.
+
+#sub "ht_04_229" ...Again, pass.. ...Snails.
+
+#sub "ht_04_230" ...Day's time! ...I want to be.
+
+#sub "ht_04_231" ...Will catch more funny!
+
+#sub "ht_04_232" ...Kicker is the idea ...Orchid produced.
+
+#sub "ht_04_233" ...Oh, hands feel good.
+
+#sub "ht_04_234" ...I was also wondering Also u gonna go.
+
+#sub "ht_04_235" ...Bog down, catch the funny ...That was day Nya ...uu.
+
+#sub "ht_04_236" ...It is now ...The Shii ...Also, another impossible!.
+
+#sub "ht_04_237" ...Hands ...The power.. ...Is not necessary.
+
+#sub "ht_04_238" ...It phew ...When oh chiika
+
+#sub "ht_04_239" ...Over there.. ...In addition, hot
+
+#sub "ht_04_240" ...I'll get well.
+
+#sub "ht_04_241" ...Have a very pleasant
+
+#sub "ht_04_242" ...To me I.. ...Thank you very much, darn
+
+#sub "ht_04_243" ...I like him ...Finger ...They feel good
+
+#sub "ht_04_244" ...Nice, kuchukuchu says.
+
+#sub "ht_04_245" ...Not stop at all.
+
+#sub "ht_04_246" ...To check out my Ustream.. ...Feel the Nice!...
+
+#sub "ht_04_247" ...The itchi!, also, u gonna go!
+
+#sub "ht_04_248" ...Straw, and.. ...In the onanii ...Also.. ...U get me.
+
+#sub "ht_04_249" ...And, oh what I. ...Its always a nice...
+
+#sub "ht_04_250" ...Another impossible! " ...Funny, I'm.
+
+#sub "ht_04_251" ...The body does not move......
+
+#sub "ht_04_252" ...I want to remember Hiroshima
+
+#sub "ht_04_253" ...Stop taps
+
+#sub "ht_04_254" ...Remember Hiroshima.
+
+#sub "ht_04_255" ...Pain, for, funny, correctly! ...Oh I was!
+
+#sub "ht_04_256" ...Hacks, written by.. ...Gonna go ...Oh! I!
+
+#sub "ht_04_257" ...Easy, tap,
+
+#sub "ht_04_258" ...The pain do not
+
+#sub "ht_04_259" ...One, strong, without tapping the...
+
+#sub "ht_04_260" ...Had been beaten ...So say ...We are AAA!!
+
+#sub "ht_04_261" ...I'm gonna go killing me ...I Ah! I!
+
+#sub "ht_04_262" ...Ouch, not comfortable
+
+#sub "ht_04_263" ...I want to down
+
+#sub "ht_04_264" ...This is painful and scary
+
+#sub "ht_04_265" ...Gonna go the u ...It is now Oh!!!
+
+#sub "ht_04_266" ...Not do it ...U come, paralyzed ...I'm oh oh AAAA!!
+
+#sub "ht_04_267" ...This is too hard
+
+#sub "ht_04_268" ...Penetrating, Ouch
+
+#sub "ht_04_269" ...Painfully, impossible, either.
+
+#sub "ht_04_270" ...Cutting horses, the Yes, I want to be ...It is wow!!
+
+#sub "ht_04_271" ...Yes, it hurts ...Feeling good.. ...We are AAA!!
+
+#sub "ht_04_272" ...Nodame, again, impossible.
+
+#sub "ht_04_273" ...Again, with this and at the end.
+
+#sub "ht_04_274" ...No, strangely, going to...
+
+#sub "ht_04_275" ...By jinjin, hot
+
+#sub "ht_04_276" ...Yes, I feel sore, but
+
+#sub "ht_04_277".　I want to be! Oh, go bananas! ...I Ah! I!
+
+#sub "ht_04_278" ...Awww, gonna go get gone, beaten.
+
+#sub "ht_04_279" ...Ouch, but hot, feel good ...It is now quickly!
+
+#sub "ht_04_280" ...Feels strange to be the
+
+#sub "ht_04_281" ...Rub.. ...There, sane.
+
+#sub "ht_04_282" ...Cut.. ...The get weird!
+
+#sub "ht_04_283" ...Over there.. ...The changes of WOW.
+
+#sub "ht_04_284" ...Don't look, again, I " ...U gonna go again!
+
+#sub "ht_04_285" ...Gonna go ...To drift in and out ...I Ah Ah!
+
+#sub "ht_04_286" ...Hurts the good feelings.
+
+#sub "ht_04_287" ...Damn, it hurts!
+
+#sub "ht_04_288" ...It's painful ...Feeling sick?
+
+#sub "ht_04_289" ...Masturbation, I'm shooting for?
+
+#sub "ht_04_290" ...It's taken, I embarrassed
+
+#sub "ht_04_291" ...Bean jam ball, tight 映sanaide
+
+#sub "ht_04_292" ...Taken on a, Yes, u gonna go!
+
+#sub "ht_04_293" ...Been taken ...I'll get well.
+
+#sub "ht_04_294" ...Take masturbation for fun?
+
+#sub "ht_04_295" ...This kind of shooting ...Kinda embarrassing
+
+#sub "ht_04_296" ...In the camera, take a lot
+
+#sub "ht_04_297" ...Masturbation, tight photo.
+
+#sub "ht_04_298" ...Feel good place ...Take a lot!
+
+#sub "ht_04_299" ...The camera feels good ...Feel ...Oh! I!
+
+#sub "ht_04_300" ...And, oh what a nice ...Wow!
+
+#sub "ht_04_301" ...From Lonely Planet
+
+#sub "ht_04_302" ...Don't shoot the masturbation
+
+#sub "ht_04_303" ...No, turn off the camera,
+
+#sub "ht_04_304" ...And it's not ...Do not take with the camera, heh ...I Ah Ah! I!
+
+#sub "ht_04_305" ...Not do it ...Don't shame the camera ...AA Ah!
+
+#sub "ht_04_306" ...Shoot, embarrassed ...UU'll go up!
+
+#sub "ht_04_307" ...Don't be taken in a strange mood ...It is I!!
+
+#sub "ht_04_308" ...We got were able to take place,
+
+#sub "ht_04_309" ...I was embarrassed, but hey, good
+
+#sub "ht_04_310" ...Together with the.. ...Taken.
+
+#sub "ht_04_311" ...Feelings have taken place,
+
+#sub "ht_04_312" ...Yes, Yes.. ...Stop the camera, heh ...Wow!!
+
+#sub "ht_04_313".　Stop it already! Do not shoot the girl ...The washroom was!
+
+#sub "ht_04_314" ...Will have taken place, heh ...Wow!!
+
+#sub "ht_04_315" ...Its, turning the camera, heh ...It is I!!
+
+#sub "ht_04_316" ...In the line of sight ...Hot and going... ...Wow!!
+
+#sub "ht_04_317" ...Not do it ...U gonna go watching the...
+
+#sub "ht_04_318" ...It's seen, still shameful
+
+#sub "ht_04_319" ...Embarrassed, I 火照tchi
+
+#sub "ht_04_320" ...Line of sight ...That excites ...Oh, it is! Ah!
+
+#sub "ht_04_321" ...Line of sight, it's hot body, u ...Oh! I!
+
+#sub "ht_04_322" ...Can be seen in a little to get excited about
+
+#sub "ht_04_323" ...Look, I get hot.
+
+#sub "ht_04_324" ...To see the really hot, come.. ...Oh I was!
+
+#sub "ht_04_325" ...To drift, seen as.. ...I Ah Ah! I!
+
+#sub "ht_04_326" ...Look, very excited
+
+#sub "ht_04_327" ...The can be seen ...Feeling good...
+
+#sub "ht_04_328" ...The embarrassing, from.. ...Yes, Yes.. ...Oh Oh I was!
+
+#sub "ht_04_329" ...Not do it ...Yes it's seen, Oh I was!
+
+#sub "ht_04_330" ...This embarrassing cannot do
+
+#sub "ht_04_331" ...So, no, no
+
+#sub "ht_04_332" ...And devour the rope embedded it.
+
+#sub "ht_04_333" ...Damn, I'm shaking.
+
+#sub "ht_04_334" ...The rope it hurts
+
+#sub "ht_04_335" ...Gonna go left hanging ...Wow!!
+
+#sub "ht_04_336" ...Do the like ...Oh, I'm oh! oh!
+
+#sub "ht_04_337" ...While hanging from the staff
+
+#sub "ht_04_338" ...It was a strange feeling the
+
+#sub "ht_04_339" ...The excitement of Hung
+
+#sub "ht_04_340" ...This is stimulating a strong
+
+#sub "ht_04_341" ...Of rocks!
+
+#sub "ht_04_342" ...U gonna go ...The remains, says u.!
+
+#sub "ht_04_343" ...If we do good, hanged, u ...Oh! I!
+
+#sub "ht_04_344" ...Get numbed by the whip
+
+#sub "ht_04_345" ...Get hot, Hung Yatta
+
+#sub "ht_04_346" ...Pain in the lower
+
+#sub "ht_04_347" ...I want to be ...Solving the
+
+#sub "ht_04_348" ...Again, 吊rusanaide
+
+#sub "ht_04_349" ...Hung, not down!.. ...Wow!!
+
+#sub "ht_04_350" ...Not with this outfit, I gone ...It is oh!!
+
+#sub "ht_04_351" ...In this outfit ...Icchan had
+
+#sub "ht_04_352" ...The hanging ...It hurts
+
+#sub "ht_04_353" ...No problem.. ...To put up with
+
+#sub "ht_04_354" ...Eat and kinda hurts
+
+#sub "ht_04_355" ...Large, not swing
+
+#sub "ht_04_356" ...It's working ...Damn, I feel ...Oh I was!
+
+#sub "ht_04_357" ...Shake the feeling u'll get well ...Oh I was!
+
+#sub "ht_04_358" ...Pendulum, nice
+
+#sub "ht_04_359" ...Shake the feel.
+
+#sub "ht_04_360" ...So cool, no
+
+#sub "ht_04_361" ...This is already off
+
+#sub "ht_04_362" ...No constraint,
+
+#sub "ht_04_363" ...This, kinda ...Yes ...Stop Hey!
+
+#sub "ht_04_364" ...The move ...No.. ...Even though I.. ...Not Hey Hey!
+
+#sub "ht_04_365" ...This, says the detained ...Wow!!
+
+#sub "ht_04_366" ...I like him ...Feel confined, darn ...I Ah Ah! I!
+
+#sub "ht_04_367" ...Not do it ...This is cool.. ...Gonna go ...It is oh!!
+
+#sub "ht_04_368" ...Restrained, excitement! ...It is I!!
+
+#sub "ht_04_369" ...Hey, just...
+
+#sub "ht_04_370" ...Feels good
+
+#sub "ht_04_371" ...The do
+
+#sub "ht_04_372" ...More want to have
+
+#sub "ht_04_373" ...I like him ...There, I feel
+
+#sub "ht_04_374" ...Masturbation, pleasing,
+
+#sub "ht_04_375" ...Finger, feels so good
+
+#sub "ht_04_376" ...Hot, unstoppable
+
+#sub "ht_04_377" ...And, oh what a nice.
+
+#sub "ht_04_378" ...Hand to hand ...Move
+
+#sub "ht_04_379" ...Not do it ...Hand does not stop.
+
+#sub "ht_04_380" ...Wow, think u!
+
+#sub "ht_04_381" ...Spoiled girl ...Be yourself, gonna go!
+
+#sub "ht_04_382" ...And, oh what, to u ...Wow!!
+
+#sub "ht_04_383" ...Also, again, patience, not.. ...It is I!
+
+#sub "ht_04_384" ...In the solo ...Already gone.
+
+#sub "ht_04_385" ...Masturbation, it feels good.
+
+#sub "ht_04_386" ...Ouch, but hot
+
+#sub "ht_04_387" ...Pain of the feel
+
+#sub "ht_04_388" ...Ouch, but nice touch.
+
+#sub "ht_04_389" ...A pain in the.. ...Gonna go ...Oh! I!
+
+#sub "ht_04_390" ...The pain is too hot ...I like him ...It is oh!
+
+#sub "ht_04_391" ...Oh, over there ...Cut.. ...Tight
+
+#sub "ht_04_392" ...Too tight ...Oddly, going to
+
+#sub "ht_04_393" ...The get weird.
+
+#sub "ht_04_394" ...Oh, there, hot, anymore, go! ...Oh Oh I was!
+
+#sub "ht_04_395" ...I like him ...Penetrates, good feeling,.. ...I Ah Ah! I!
+
+#sub "ht_04_396" ...Very sore, but I got it
+
+#sub "ht_04_397" ...Though it was painful, I feel.
+
+#sub "ht_04_398" ...I'm also taking
+
+#sub "ht_04_399" ...I turn the camera
+
+#sub "ht_04_400" ...Camera a little embarrassing.
+
+#sub "ht_04_401" ...In addition, masturbation, u'll get taken ...Oh! I!
+
+#sub "ht_04_402" ...Masturbating in front of the camera ...Again, no no Hey!
+
+#sub "ht_04_403" ...I was also taken masturbation
+
+#sub "ht_04_404" ...Masturbation and fun?
+
+#sub "ht_04_405" ...Masturbation, pretty, nice
+
+#sub "ht_04_406" ...More masturbation shoot
+
+#sub "ht_04_407" ...Masturbation, took leave from Nice
+
+#sub "ht_04_408" ...Yes, take yarashii place, filled with.. ...Oh I was!
+
+#sub "ht_04_409" ...Yes, it will ...Take a lot, Hey up!
+
+#sub "ht_04_410" ...We also, I take a picture?.. ...Oh! I!
+
+#sub "ht_04_411" ...So taken, the spoiled girl ...Wow!!
+
+#sub "ht_04_412" ...We also, I were able to take
+
+#sub "ht_04_413" ...Take the excitement?
+
+#sub "ht_04_414" ...He reflected, worked together?
+
+#sub "ht_04_415" ...Together, the staff ...Guy?
+
+#sub "ht_04_416" ...Don't stop another camera,.. ...Oh Oh I was!
+
+#sub "ht_04_417" ...And, do not shoot,.. ...I, Ah, I was!
+
+#sub "ht_04_418" ...Take, again, go!, filled with Hey!
+
+#sub "ht_04_419" ...The feel good so far, and so Hey ...Oh Oh I was!
+
+#sub "ht_04_420" ...Line of sight ...Wow.. ...Hot.. ...Wow!
+
+#sub "ht_04_421" ...And so it's seen, and feel ...Wow!
+
+#sub "ht_04_422" ...But, embarrassed ...yes
+
+#sub "ht_04_423" ...Embarrassing.. ...Already gone
+
+#sub "ht_04_424" ...This is seen, I feel ...Oh I was!
+
+#sub "ht_04_425" ...Line of sight, hot body ...Will u ...Oh! I!
+
+#sub "ht_04_426" ...In addition, wiped out
+
+#sub "ht_04_427" ...Look as good going
+
+#sub "ht_04_428".　Yes, good! Look, it's very hot! ...I Ah Ah! I!
+
+#sub "ht_04_429" ...Good, more, want to be seen ...Oh, me oh oh!!!
+
+#sub "ht_04_430" ...Line of sight ...It excites.
+
+#sub "ht_04_431" ...The can be seen ...Feel good, or even
+
+#sub "ht_04_432" ...Hung, sore
+
+#sub "ht_04_433" ...The painful
+
+#sub "ht_04_434" ...Shaking ...Make inroads
+
+#sub "ht_04_435" ...Swinging the movement is great ...Oh, Oh I was!
+
+#sub "ht_04_436" ...Hanging out, and also, u gonna go!
+
+#sub "ht_04_437" ...The hot...
+
+#sub "ht_04_438" ...Of rocks!
+
+#sub "ht_04_439" ...Yes ...Down again
+
+#sub "ht_04_440" ...Stop the 吊rusanaide
+
+#sub "ht_04_441" ...Pain in the lower
+
+#sub "ht_04_442" ...Yes, Ouch, stop ...Also, not hi!.!
+
+#sub "ht_04_443" ...One, hanging out ...Of the work ...No Hi! I!
+
+#sub "ht_04_444" ...In the end the
+
+#sub "ht_04_445" ...Again, sitting down ...Ouch
+
+#sub "ht_04_446" ...Stop it.. ...Disconnect the
+
+#sub "ht_04_447" ...Like the painful
+
+#sub "ht_04_448" ...Please, remove it,
+
+#sub "ht_04_449" ...The painful, in a no ...Oh Oh I was!
+
+#sub "ht_04_450" ...Including the forced, Yes ...I Ah! I!
+
+#sub "ht_04_451" ...Very cool, the excitement,.. ...I Oh I was!
+
+#sub "ht_04_452" ...This, being restrained, it really.. ...U feel ...Oh Oh I was!
+
+#sub "ht_04_453" ...Painful, but good feeling ...Oh, oh oh! I!
+
+#sub "ht_04_454" ...Spoiled girl ...Hand to hand ...Oh, Oh!!
+
+#sub "ht_04_455" ...Yes, good ...Masturbation in u ...Wow!!
+
+#sub "ht_04_456" ...And, masturbation, it's feeling ...I like him ...I Oh I was!
+
+#sub "ht_04_457" ...Also, masturbation, Oh
+
+#sub "ht_04_458" ...Like masturbation,...
+

@@ -1,0 +1,66 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Animations (poses)
+// -----------------------------------------------------------------------------------------------
+
+カスタム = Custom
+ダンス = Dance
+
+// custom poses
+立ちポーズ = Standing Pose
+立ちポーズ1 = Standing Pose 1
+立ちポーズ2 = Standing Pose 2
+立ちポーズ3 = Standing Pose 3
+立ちポーズ4 = Standing Pose 4
+立ちポーズ5 = Standing Pose 5
+立ちポーズ6 = Standing Pose 6
+立ちポーズ7 = Standing Pose 7
+立ちポーズ8 = Standing Pose 8
+立ちポーズ9 = Standing Pose 9
+立ちポーズ10 = Standing Pose 10
+立ちポーズ11 = Standing Pose 11
+立ちポーズ12 = Standing Pose 12
+立ちポーズ13 = Standing Pose 13
+立ちポーズ14 = Standing Pose 14
+立ちポーズ15 = Standing Pose 15
+立ちポーズ16 = Standing Pose 16
+立ちポーズ17 = Standing Pose 17
+立ちポーズ18 = Standing Pose 18
+座りポーズ = Sitting Pose
+座りポーズ1 = Sitting Pose 1
+座りポーズ2 = Sitting Pose 2
+寝ポーズ = Sleeping Pose
+
+// character poses
+通常待機 = Normal Wait
+好意 = Like
+好意2 = Like 2
+淫乱 = Lewd
+淫乱2 = Lewd 2
+嫌悪 = Hate
+嫌悪2 = Hate 2
+隷属 = Slave
+隷属2 = Slave 2
+壊れ = Broken
+椅子座り = Sit on Chair
+トイレ座り１ = Sit on Toilet 1
+トイレ座り２ = Sit on Toilet 2
+トイレ我慢 = Waiting for Toilet
+寝る = Sleep
+逆夜這い = Reverse Night Crawl
+座り　壊れ = Broken Sitting
+
+// sitri poses
+御辞儀 = Bow
+ガイド = Guide
+恥ずかしがり = Embarrassed
+
+// dance poses
+キュートダンス = Cute Dance
+クールダンス = Cool Dance
+セクシーダンス = Sexy Dance
+フィーバーダンス = Fever Dance
+
+
+// -----------------------------------------------------------------------------------------------
+//  End
+// -----------------------------------------------------------------------------------------------

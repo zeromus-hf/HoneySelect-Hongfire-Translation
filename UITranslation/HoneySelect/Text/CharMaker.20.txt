@@ -1,0 +1,762 @@
+﻿
+// HoneySelect character-maker translation
+
+// -----------------------------------------------------------------------------------------------
+// Common strings
+// -----------------------------------------------------------------------------------------------
+
+種類 = Type
+肉感 = Strength
+色 = Color
+調整値 = Adjustment
+Def = Def
+Reset = Reset
+なし = None
+はい = Yes
+いいえ = No
+
+
+// -----------------------------------------------------------------------------------------------
+// Character panel
+// -----------------------------------------------------------------------------------------------
+
+キャラメイク = Character
+体型 = Body
+服装 = Clothing
+その他 = Other
+
+
+// -----------------------------------------------------------------------------------------------
+// Body tab
+// -----------------------------------------------------------------------------------------------
+
+// Presets
+プリセット = Preset
+キャラサンプル = Sample Characters
+体のプリセット = Body Presets
+顔のプリセット = Facial Presets
+
+// Body
+ボディー = Body
+体型をお手軽に設定 = Enable Simple Body Settings
+体型の設定 = Body Adjustments
+肌の設定 = Skin
+日焼け跡の設定 = Tans
+タトゥーの設定 = Tattoos
+乳首の設定 = Nipples
+アンダーヘアの設定 = Pubic Hair
+爪の色 = Fingernails
+
+// Face
+フェイス = Face
+顔型をお手軽に設定 = Enable Simple Face Settings
+顔型の設定 = Facial Settings
+顔全体の調整 = Overall Facial Adjustments
+顎の調整 = Jaw Adjustments
+頬の調整 = Cheek Adjustments
+眉の調整 = Eyebrow Adjustments
+目の調整 = Eye Adjustments
+鼻の調整 = Nose Adjustments
+口の調整 = Mouth Adjustments
+耳の調整 = Ear Adjustments
+
+顔のタイプ = Facial Type
+眉毛の設定 = Eyebrows
+睫毛の設定 = Eyelashes
+
+// Eye settings
+目の設定 = Eye Settings
+白目の色 = Eye Whites
+両目の設定を統一する = Make Eyes match
+左目の設定 = Left Eye
+右目の設定 = Right Eye
+ヒゲの設定 = Beard
+ハイライトの設定 = Highlights
+
+// Makeup settings
+化粧の設定 = Makeup Settings
+アイシャドウの設定 = Eye Shadow
+チークの設定 = Cheeks
+リップの設定 = Lips
+
+ホクロの設定 = Moles
+
+// Hairstyle settings
+ヘアスタイル = Hairstyle
+髪の毛の色を統一する = Share Hair Colors
+前髪の設定 = Bangs
+後ろ髪の設定 = Back Hair
+髪の設定 = Hair
+横髪の設定 = Side Hair
+セット髪の設定 = Hair Sets
+
+
+// -----------------------------------------------------------------------------------------------
+// Clothing tab
+// -----------------------------------------------------------------------------------------------
+
+日常セット = Normal Set
+部屋セット = Room Set
+風呂セット = Bath Set
+
+アシスト = Assist
+服データの保存・削除 = Save Clothing Set
+服データの読込み = Load Clothing Set
+セット情報のコピー = Copy Clothing Set
+
+コーディネート = Clothing
+通常タイプ = Normal
+水着タイプ = Swimsuit
+トップス = Tops
+ボトムス = Bottoms
+ブラ = Bra
+ショーツ = Panties
+トップス(水着用) = Tops (Swimwear)
+ボトムス(水着用) = Bottoms (Swimwear)
+トップス(水着) = Tops (Swimsuit)
+ボトムス(水着) = Bottoms (Swimsuit)
+水着 = Swimsuit
+手袋 = Gloves
+パンストなど = Pantyhose
+靴下 = Socks
+服 = Clothes
+靴 = Shoes
+アクセサリ設定 = Accessories
+01 なし = 01 None
+02 なし = 02 None
+03 なし = 03 None
+04 なし = 04 None
+05 なし = 05 None
+06 なし = 06 None
+07 なし = 07 None
+08 なし = 08 None
+09 なし = 09 None
+10 なし = 10 None
+
+
+// -----------------------------------------------------------------------------------------------
+// Other tab
+// -----------------------------------------------------------------------------------------------
+
+名前と性格の設定 = Name & Personality
+名前の設定 = Change Name
+キャラクターの読込み = Load Character
+キャラクターの保存 = Save Character
+キャラクターの削除 = Delete Character
+プレイヤーキャラに反映 = Apply Appearance
+コンフィグ = Config
+現在表示されている容姿をプレイヤーキャラに反映しました = Appearance was applied to the main character
+
+
+// -----------------------------------------------------------------------------------------------
+// Control panel
+// -----------------------------------------------------------------------------------------------
+
+制御パネル = Control
+服状態 = Clothes
+自動 = Auto
+着衣 = On
+下着 = Bra
+全裸 = Nude
+装飾 = Decoration
+表示 = Show
+非表示 = Hide
+目 = Eye
+口 = Mouth
+H表情 = HLook
+ポーズ = Pose
+カメラ = Camera
+背景 = BG
+標準 = Normal
+任意 = Image
+
+前へ = Prev
+次へ = Next
+初期 = Inital
+リセット = Reset
+
+
+// -----------------------------------------------------------------------------------------------
+// End panel
+// -----------------------------------------------------------------------------------------------
+
+Ｈするキャラを選ぶ = Start H-mode
+キャラメイクを終了する = Exit Character Editor
+
+
+// -----------------------------------------------------------------------------------------------
+// Settings panel
+// -----------------------------------------------------------------------------------------------
+
+// common color settings
+カラー = Base Color
+ツヤの色 = Shine Color
+ツヤの強さ = Intensity
+ツヤの質感 = Softness
+髪飾り色 = Color 2
+右目も同じ色に合わせる = Apply to Right Eye
+左目も同じ色に合わせる = Apply to Left Eye
+後ろ髪と横髪も同じ色に合わせる = Apply to Side Hair & Hair
+前髪と横髪も同じ色に合わせる = Apply to Bangs & Side Hair
+髪の毛とアンダーヘアも同じ色に合わせる = Apply to Hair & Pubic Hair
+眉毛とアンダーヘアも同じ色に合わせる = Apply to Eyebrows & Pubic Hair
+髪の毛と眉毛も同じ色に合わせる = Apply to Hair & Eyebrows
+前髪と後ろ髪も同じ色に合わせる = Apply to Bangs & Back Hair
+髪の毛とヒゲも同じ色に合わせる = Apply to Hair & Beard
+眉毛とヒゲも同じ色に合わせる = Apply to Eyebrows & Beard
+
+// Body Preset
+低い = Low
+高い = High
+バスト = Breast
+やせ = Skinny
+ぽちゃ = Chubby
+貧乳 = Petite
+巨乳 = Busty
+
+// Facial Preset
+タイプ = Type
+
+// Body Settings
+体の簡易設定 = Simplified Body Settings
+体の詳細設定 = Advanced Body Settings
+身長 = Height
+胸サイズ = Breast
+胸上下位置 = Breast Height
+胸の左右開き = Breast Direction
+胸の左右位置 = Breast Spacing
+胸上下角度 = Breast Angle
+胸の尖り = Breast Length
+乳輪の膨らみ = Areola Puffiness
+乳首の太さ = Nipple Width
+胸の柔らかさ = Breast Softness
+胸の重さ = Breast Weight
+頭サイズ = Head
+首周り幅 = Neck Width
+首周り奥 = Neck Thickness
+首周り = Neck Thickness
+胴体肩周り = Thorax
+胴体肩周り幅 = Thorax Width
+胴体肩周り奥 = Thorax Thickness
+胸周り = Chest
+胴体上 = Chest
+胴体上幅 = Chest Width
+胴体上奥 = Chest Thickness
+胴周り = Waist
+胴体下 = Waist
+胴体下幅 = Waist Width
+胴体下奥 = Waist Thickness
+ウエスト位置 = Waist Height
+腰上 = Pelvis
+腰上幅 = Pelvis Width
+腰上奥 = Pelvis Thickness
+腰下 = Hips
+腰下幅 = Hips Width
+腰下奥 = Hips Thickness
+腹 = Abdomen
+尻 = Butt
+尻角度 = Butt Angle
+太腿上 = Thighs
+太もも上 = Thighs
+脚全体 = Legs
+太腿下 = Legs
+太もも下 = Legs
+ふくらはぎ = Calves
+足首 = Ankles
+腕全体 = Arms
+上腕 = Upper Arms
+下腕 = Lower Arms
+
+
+// tattoo settings
+タトゥー（体）の設定 = Tattoos
+
+// nipple settings
+乳輪 = Areola
+乳輪の大きさ = Areola Size
+
+// fingernail settings
+爪の設定 = Fingernails
+
+// Face overall settings
+顔の簡易設定（全体） = Simplified Face Settings (Overall)
+顔の詳細設定（全体） = Advanced Face Settings (Overall)
+顔全体横幅 = Overall Face Breadth
+顔上部前後 = Upper Face Depth
+顔上部上下 = Face Height
+顔下部前後 = Lower Face Depth
+顔下部横幅 = Lower Face Width
+
+// Jaw settings
+顔の簡易設定（顎） = Simplified Face Settings (Jaw)
+顔の詳細設定（顎） = Advanced Face Settings (Jaw)
+顎横幅 = Jaw Width
+顎上下 = Jaw Height
+顎前後 = Jaw Depth
+顎角度 = Jaw Angle
+顎下部上下 = Neck Droop
+顎先幅 = Chin Width
+顎先上下 = Chin Height
+顎先前後 = Chin Depth
+
+// Cheek settings
+顔の簡易設定（頬） = Simplified Face Settings (Cheeks)
+顔の詳細設定（頬） = Advanced Face Settings (Cheeks)
+頬下部全体 = Lower Cheek Overall
+頬上部全体 = Upper Cheek Overall
+頬下部上下 = Lower Cheek Height
+頬下部前後 = Lower Cheek Depth
+頬下部幅 = Lower Cheek Width
+頬上部上下 = Upper Cheek Height
+頬上部前後 = Upper Cheek Depth
+頬上部幅 = Upper Cheek Width
+
+// eyebrow settings
+顔の簡易設定（眉） = Simplified Face Settings (Eyebrows)
+顔の詳細設定（眉） = Advanced Face Settings (Eyebrows)
+眉毛上下 = Eyebrow Height
+眉毛横位置 = Eyebrow Spacing
+眉毛角度Z軸 = Eyebrow Angle
+眉毛内側形状 = Inner Arching
+眉毛外側形状 = Outer Arching
+
+// eye settings
+顔の簡易設定（目） = Simplified Face Settings (Eyes)
+顔の詳細設定（目） = Advanced Face Settings (Eyes)
+目上下 = Eye Height
+目横位置 = Eye Spacing
+目前後 = Eye Depth
+目の横幅 = Eye Width
+目の縦幅 = Eye Openness
+目の角度Z軸 = Eye Angle 1
+目の角度Y軸 = Eye Angle 2
+目頭左右位置 = Inner Corner Distance
+目尻左右位置 = Outer Corner Distance
+目頭上下位置 = Inner Corner Height
+目尻上下位置 = Outer Corner Height
+まぶた形状① = Eyelid Shape 1
+まぶた形状② = Eyelid Shape 2
+瞳の上下調整 = Pupil Pos
+瞳の横幅 = Pupil Width
+瞳の縦幅 = Pupil Height
+瞳のサイズ = Pupil Size
+
+// nose settings
+顔の簡易設定（鼻） = Simplified Face Settings (Nose)
+顔の詳細設定（鼻） = Advanced Face Settings (Nose)
+鼻全体上下 = Nose Height
+鼻全体前後 = Nose Projection
+鼻全体角度X軸 = Nose Angle
+鼻全体横幅 = Nose Size
+鼻筋高さと幅 = Bridge Height & Width
+鼻筋高さ = Bridge Height
+鼻筋横幅 = Bridge Width
+鼻筋形状 = Bridge Shape
+小鼻横幅 = Nose Width
+小鼻上下 = Nostril Height
+小鼻前後 = Nostril Length
+小鼻角度X軸 = Nostril Inner Width
+小鼻角度Z軸 = Nostril Outer Width
+鼻先角度X軸 = Tip Height
+鼻先高さ = Tip Length
+鼻先サイズ = Tip Size
+
+// mouth settings
+顔の簡易設定（口） = Simplified Face Settings (Mouth)
+顔の詳細設定（口） = Advanced Face Settings (Mouth)
+口上下 = Mouth Height
+口横幅 = Mouth Width
+口縦幅 = Lip Thickness
+口前後位置 = Mouth Projection
+口形状上 = Upper Lip Thickness
+口形状下 = Lower Lip Thickness
+口形状口角 = Corner Shape
+
+// ear settings
+顔の簡易設定（耳） = Simplified Face Settings (Ears)
+顔の詳細設定（耳） = Advanced Face Settings (Ears)
+耳サイズ = Ear Size
+耳角度Y軸 = Ear Angle
+耳角度Z軸 = Ear Rotation
+耳上部形状 = Upper Ear Shape
+耳下部形状 = Lower Ear Shape
+
+// facial settings
+輪郭 = Outline
+肌 = Skin
+シワ = Wrinkles
+
+タトゥー（顔）の設定 = Facial Tattoos
+
+// Load Clothing
+服の読み込み = Load Clothing
+全て読込み = Load All
+服のみ読込み = Only Clothing
+アクセのみ読込み = Only Accessory
+
+// Copy Clothing
+服のコピー = Copy Clothing
+コピーする項目を選択して下さい = Select Items to Copy
+アクセサリ０１ = Accessory 01
+アクセサリ０２ = Accessory 02
+アクセサリ０３ = Accessory 03
+アクセサリ０４ = Accessory 04
+アクセサリ０５ = Accessory 05
+アクセサリ０６ = Accessory 06
+アクセサリ０７ = Accessory 07
+アクセサリ０８ = Accessory 08
+アクセサリ０９ = Accessory 09
+アクセサリ１０ = Accessory 10
+全てチェック = Check All
+全て外す = Remove All
+服のみチェック = Clothes Only
+アクセサリのみチェック = Accesories Only
+日常セットへコピー = Copy to Normal Set
+部屋セットへコピー = Copy to Room Set
+風呂セットへコピー = Copy to Bath Set
+
+// Load / Save Clothing
+プレビュー = Preview
+名前 = Name
+日付 = Date
+容姿読込み = Load Appearance
+服の保存と削除 = Save / Delete Clothing
+服セット読込み = Load Clothing
+読込み = Load All
+新規保存 = New Save
+上書き保存 = Overwrite
+コーディネート名を入力して下さい = Please enter clothing set name
+本当に上書きしますか？ = Overwrite clothing set?
+コーディネート名 = Clothing Set Name
+決定 = OK
+キャンセル = Cancel
+
+// Clothing options
+トップスの設定 = Tops Settings
+ボトムスの設定 = Bottoms Settings
+トップス(水着用)の設定 = Tops (Swimwear) Settings
+ボトムス(水着用)の設定 = Bottoms (Swimwear) Settings
+水着の設定 = Swimsuit Settings
+オプション①表示 = Options 1 Display
+オプション②表示 = Options 2 Display
+ブラの設定 = Bra Settings
+ショーツの設定 = Panties Settings
+手袋の設定 = Gloves Settings
+パンストなどの設定 = Pantyhose Settings
+靴下の設定 = Socks Settings
+服の設定 = Clothes Settings
+靴の設定 = Shoes Settings
+
+// Accesories settings
+アクセサリ０１の設定 = Accessory 01 Settings
+アクセサリ０２の設定 = Accessory 02 Settings
+アクセサリ０３の設定 = Accessory 03 Settings
+アクセサリ０４の設定 = Accessory 04 Settings
+アクセサリ０５の設定 = Accessory 05 Settings
+アクセサリ０６の設定 = Accessory 06 Settings
+アクセサリ０７の設定 = Accessory 07 Settings
+アクセサリ０８の設定 = Accessory 08 Settings
+アクセサリ０９の設定 = Accessory 09 Settings
+アクセサリ１０の設定 = Accessory 10 Settings
+
+親変更 = Position
+調整 = Adjust
+補助 = Copy
+
+頭 = Head
+耳 = Ears
+眼鏡 = Glasses
+顔 = Face
+首 = Neck
+肩 = Shoulder
+胸 = Breast
+腰 = Waist
+背中 = Back
+腕 = Arm
+手 = Hand
+脚 = Leg
+鼻 = Nose
+左耳 = Ear L
+右耳 = Ear R
+左乳首 = Nipple L
+右乳首 = Nipple R
+左肩 = Shoulder L
+右肩 = Shoulder R
+左腕 = Arm L
+右腕 = Arm R
+左手首 = Wrist L
+右手首 = Wrist R
+左手 = Hand L
+右手 = Hand R
+左人差指 = Index Finger L
+右人差指 = Index Finger R
+左中指 = Middle Finger L
+右中指 = Middle Finger R
+左薬指 = Ring Finger L
+右薬指 = Ring Finger R
+左足首 = Ankle L
+右足首 = Ankle R
+左足 = Foot L
+右足 = Foot R
+初期の親を設定 = Inital Pos
+回転量 = Rotation
+拡縮量 = Scaling
+移動量 = Movement
+向きＸ = Direction X
+向きＹ = Direction Y
+向きＺ = Direction Z
+大きさＹ = Size Y
+大きさＸ = Size X
+大きさＺ = Size Z
+位置Ｘ = Position X
+位置Ｙ = Position Y
+位置Ｚ = Position Z
+
+// copy accessories
+コピー先を選択して下さい = Select Destination
+コピー元を選択して下さい = Select Source
+左右の親を切り替える = Switch Left and Right
+スロットをコピー = Copy Slot
+調整をコピー = Copy Adjustment
+調整を左右反転コピー = Copy A. (Switch Left Right)
+調整を上下反転コピー = Copy A. (Upside Down)
+なし:なし = None:None
+
+// Name + Personality
+名前と性格 = Name & Personality
+性格 = Personality
+特性 = Traits
+心情 = Mentality
+H属性 = H-Traits
+ランダム = Random
+声質 = Voice
+
+// Personality settings in Common.txt
+女の子の日常行動に影響します = Will affect day-to-day behaviour\nof the girl
+あなたに対する気持ちです\n女の子を作成した時の状態に影響します = Initial feelings towards you\nInfluences state
+Ｈでの行為による状態への影響力が変わります = Influence of actions in H mode
+
+// Load/Save/Delete Character
+読み込み = Load
+保存 = Save
+削除 = Delete
+これで保存しますか？ = Save this Character?
+本当に削除しますか？ = Delete this Character?
+キャラ画像を変更しますか？ = Overwrite this Character?
+変更して保存 = Save (Update Image)
+変更せず保存 = Save (Old Image)
+保存をやめる = Cancel
+
+// Save dialog
+撮影パネル = Save Character
+視線の向き = Eye direction
+正面 = Straight
+目のパターン = Eye Pattern
+目の開き = Eye Openness
+首の向き = Head Direction
+口のパターン = Mouth Pattern
+口の開き = Mouth Openness
+背面フレーム = Rear Frame
+前面フレーム = Front Frame
+カメラリセット = Center Camera
+撮影して保存 = Save
+保存せず終了 = Cancel
+
+// save/exit dialogs
+シーンを終了しますか？ = Do you want to exit?
+シーンを終了しますか？\nああああ = Do you want to exit?
+※ 性格、特性、心情、H属性の変更が含まれています。\n上書きするとパラメータはリセットされるのでご注意ください！ = Personality / Characteristics / Feelings contain a change of H attribute.\nIf you overwrite parameters, please note that it is reset!
+※ [その他]→[キャラクターの保存]を行わないと\n　キャラは保存されませんのでご注意下さい。 = [Other] → [Save Character]\nPlease keep in mind that it won't automatically save.
+※ [その他]→[プレイヤーキャラに反映]を行わないと\n　 キャラの容姿は変更されませんのでご注意下さい。 = [Other] → [Apply Appearance]\nPlease keep in mind that it won't automatically save.
+
+キャラクター画像を変更する = Change the Character Image
+入った時の状態に戻す = Revert to the Original State
+更新せず終了 = Exit Without Updating
+撮影して更新 = Update the Image
+本当に戻しますか？ = Do you want to go back?
+保存しないで終了 = Exit Without Saving
+終了しない = Do Not Close
+保存して終了 = Save and Exit
+容姿と服読込み = Appearance and Clothes
+
+
+// -----------------------------------------------------------------------------------------------
+// Color panel
+// -----------------------------------------------------------------------------------------------
+
+見本 = Sample
+ピッカー = Picker
+H = H
+S = S
+V = V
+R = R
+G = G
+B = B
+A = A
+Ｒ = R
+Ｇ = G
+Ｂ = B
+スライダー = Slider
+HSV = HSV
+RGB = RGB
+色合い = Hue
+鮮やかさ = Saturation
+明るさ = Value
+透明度 = Transparency
+サンプル = Sample
+カスタム = Custom
+
+【肌】カラー = [Skin] Color
+【肌】ツヤの色 = [Skin] Shine Color
+【日焼け跡】カラー = [Tan] Color
+【タトゥー（体）】カラー = [Tattoo] Color
+【乳首】カラー = [Nipple] Color
+【乳首】ツヤの色 = [Nipple] Shine Color
+【アンダーヘア】カラー = [Pubic Hair] Color
+【アンダーヘア】ツヤの色 = [Pubic Hair] Shine Color
+【爪】カラー = [Fingernail] Color
+【爪】ツヤの色 = [Fingernail] Shine Color
+【眉毛】カラー= [Eyebrows] Color
+【眉毛】ツヤの色= [Eyebrows] Shine Color
+【睫毛】カラー= [Eyelashes] Color
+【睫毛】ツヤの色= [Eyelashes] Shine Color
+【白目】カラー= [Eye Whites] Color
+【白目】ツヤの色= [Eye Whites] Shine Color
+【左目】カラー= [Left Eye] Color
+【左目】ツヤの色= [Left Eye] Shine Color
+【右目】カラー= [Right Eye] Color
+【右目】ツヤの色= [Right Eye] Shine Color
+【ハイライト】カラー= [Highlights] Color
+【ハイライト】ツヤの色= [Highlights] Shine Color
+【アイシャドウ】カラー= [Eye Shadow] Color
+【チーク】カラー= [Cheeks] Color
+【リップ】カラー= [Lips] Color
+【タトゥー（顔）】カラー= [Tattoo] Color
+【ヒゲ】カラー = [Beard] Color
+【ホクロ】カラー = [Mole] Color
+【前髪】カラー = [Bangs] Color
+【前髪】ツヤの色 = [Bangs] Shine Color
+【後ろ髪】カラー = [Back Hair] Color
+【後ろ髪】ツヤの色 = [Back Hair] Shine Color
+【横髪】カラー = [Side Hair] Color
+【横髪】ツヤの色 = [Side Hair] Shine Color
+【髪】カラー = [Hair] Color
+【セット髪】カラー = [Hair Set] Color
+【セット髪】ツヤの色 = [Hair Set] Shine Color
+【髪飾り】カラー = [Hair Ornament] Color
+【髪飾り】ツヤの色 = [Hair Ornament] Shine Color
+【トップス】カラー = [Tops] Color
+【トップス】ツヤの色 = [Tops] Shine Color
+【ボトムス】カラー = [Bottoms] Color
+【ボトムス】ツヤの色 =  [Bottoms] Shine Color
+【トップス(水着用)】カラー = [Tops Swimwear] Color
+【トップス(水着用)】ツヤの色 = [Tops Swimwear] Shine Color
+【ボトムス(水着用)】カラー = [Bottoms Swimwear] Color
+【ボトムス(水着用)】ツヤの色 = [Bottoms Swimwear] Shine Color
+【水着】カラー = [Swimsuit] Color
+【水着】ツヤの色 = [Swimsuit] Shine Color
+【ブラ】カラー = [Bra] Color
+【ショーツ】カラー = [Panties] Color
+【手袋】カラー = [Gloves] Color
+【手袋】ツヤの色 = [Gloves] Shine Color
+【パンスト】カラー = [Pantyhose] Color
+【パンスト】ツヤの色 = [Pantyhose] Shine Color
+【靴下】カラー = [Socks] Color
+【服】カラー = [Clothes] Color
+【靴】カラー = [Shoes] Color
+【アクセサリ(スロット０１)】カラー = [Accessory 01] Color
+【アクセサリ(スロット０１)】ツヤの色 = [Accessory 01] Shine Color
+【アクセサリ(スロット０２)】カラー = [Accessory 02] Color
+【アクセサリ(スロット０２)】ツヤの色 = [Accessory 02] Shine Color
+【アクセサリ(スロット０３)】カラー = [Accessory 03] Color
+【アクセサリ(スロット０３)】ツヤの色 = [Accessory 03] Shine Color
+【アクセサリ(スロット０４)】カラー = [Accessory 04] Color
+【アクセサリ(スロット０４)】ツヤの色 = [Accessory 04] Shine Color
+【アクセサリ(スロット０５)】カラー = [Accessory 05] Color
+【アクセサリ(スロット０５)】ツヤの色 = [Accessory 05] Shine Color
+【アクセサリ(スロット０６)】カラー = [Accessory 06] Color
+【アクセサリ(スロット０６)】ツヤの色 = [Accessory 06] Shine Color
+【アクセサリ(スロット０７)】カラー = [Accessory 07] Color
+【アクセサリ(スロット０７)】ツヤの色 = [Accessory 07] Shine Color
+【アクセサリ(スロット０８)】カラー = [Accessory 08] Color
+【アクセサリ(スロット０８)】ツヤの色 = [Accessory 08] Shine Color
+【アクセサリ(スロット０９)】カラー = [Accessory 09] Color
+【アクセサリ(スロット０９)】ツヤの色 = [Accessory 09] Shine Color
+【アクセサリ(スロット１０)】カラー = [Accessory 10] Color
+【アクセサリ(スロット１０)】ツヤの色 = [Accessory 10] Shine Color
+
+
+// -----------------------------------------------------------------------------------------------
+// Values
+// -----------------------------------------------------------------------------------------------
+
+パターン０１ = Pattern 01
+パターン０２ = Pattern 02
+パターン０３ = Pattern 03
+パターン０４ = Pattern 04
+パターン０５ = Pattern 05
+パターン０６ = Pattern 06
+パターン０７ = Pattern 07
+パターン０８ = Pattern 08
+パターン０９ = Pattern 09
+タイプ０１ = Type 01
+タイプ０２ = Type 02
+タイプ０３ = Type 03
+タイプ０４ = Type 04
+タイプ０５ = Type 05
+タイプ０６ = Type 06
+タイプ０７ = Type 07
+タイプ０８ = Type 08
+タイプ０９ = Type 09
+タイプ１０ = Type 10
+タイプ１１ = Type 11
+タイプ１２ = Type 12
+タイプ１３ = Type 13
+タイプ１４ = Type 14
+タイプ１５ = Type 15
+タイプ１６ = Type 16
+タイプ１７ = Type 17
+タイプ１８ = Type 18
+タイプ１９ = Type 19
+タイプ２０ = Type 20
+タイプ２１ = Type 21
+タイプ２２ = Type 22
+タイプ２３ = Type 23
+タイプ２４ = Type 24
+タイプ２５ = Type 25
+タイプ２６ = Type 26
+Aタイプ１ = A - Type 1
+Aタイプ２ = A - Type 2
+Aタイプ３ = A - Type 3
+Bタイプ１ = B - Type 1
+Aタイプ０１ = A - Type 01
+Aタイプ０２ = A - Type 02
+Aタイプ０３ = A - Type 03
+Aタイプ０４ = A - Type 04
+Aタイプ０５ = A - Type 05
+Aタイプ０６ = A - Type 06
+Aタイプ０７ = A - Type 07
+Aタイプ０８ = A - Type 08
+Aタイプ０９ = A - Type 09
+Aタイプ１０ = A - Type 10
+Aタイプ１１ = A - Type 11
+Aタイプ１２ = A - Type 12
+Aタイプ１３ = A - Type 13
+Aタイプ１４ = A - Type 14
+Aタイプ１５ = A - Type 15
+Aタイプ１６ = A - Type 16
+Aタイプ１７ = A - Type 17
+Aタイプ１８ = A - Type 18
+Aタイプ１９ = A - Type 19
+Bタイプ０１ = B - Type 01
+Bタイプ０２ = B - Type 02
+Bタイプ０３ = B - Type 03
+Bタイプ０４ = B - Type 04
+Bタイプ０５ = B - Type 05
+Bタイプ０６ = B - Type 06
+Bタイプ０７ = B - Type 07
+
+
+// -----------------------------------------------------------------------------------------------
+// end
+// -----------------------------------------------------------------------------------------------

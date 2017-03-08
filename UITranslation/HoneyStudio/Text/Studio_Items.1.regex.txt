@@ -1,0 +1,329 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Items (regex)
+// -----------------------------------------------------------------------------------------------
+
+// Furniture
+R (シンプルベッド(\([\d]+\))?) = Simple Bed $1
+R (洋風ベッド(\([\d]+\))?) = Western-Style Bed $1
+R (女の子風ベッド(\([\d]+\))?) = Girl-Style Bed $1
+R (布団(\([\d]+\))?) = Futon $1
+R (簡素なパイプベッド(\([\d]+\))?) = Simple Pipe Bed $1
+R (ベッド(\([\d]+\))?) = Bed $1
+R (革ソファ黒(\([\d]+\))?) = Leather Sofa (Black) $1
+R (革ソファ茶(\([\d]+\))?) = Leather Sofa (Tea) $1
+R (和風ソファ(\([\d]+\))?) = Japanese-Style Sofa $1
+R (カウチソファ(\([\d]+\))?) = Couch $1
+R (長型カウチソファ(\([\d]+\))?) = Long Form Couch $1
+R (長椅子(\([\d]+\))?) = Banquettes $1
+R (ＴＶセット黒(\([\d]+\))?) = TV Set (Black) $1
+R (ＴＶセット茶(\([\d]+\))?) = TV Set (Tea) $1
+R (ＴＶセット白(\([\d]+\))?) = TV Set (White) $1
+R (AVコンポ黒(\([\d]+\))?) = AV Component (Black) $1
+R (AVコンポ銀(\([\d]+\))?) = AV Component (Silver) $1
+R (ガラステーブル黒(\([\d]+\))?) = Glass Table (Black) $1
+R (ガラステーブル茶(\([\d]+\))?) = Glass Table (Tea) $1
+R (ガラス丸テーブル(\([\d]+\))?) = Glass Round Table $1
+R (木のテーブル(\([\d]+\))?) = Wood Table $1
+R (木の丸テーブル(\([\d]+\))?) = Wood Round Table $1
+R (丸椅子(\([\d]+\))?) = Round Chair $1
+R (テーブル(\([\d]+\))?) = Table $1
+R (椅子(\([\d]+\))?) = Chair $1
+R (木目テーブル(\([\d]+\))?) = Grain Table $1
+R (テラステーブル(\([\d]+\))?) = Terrace Table $1
+R (テラスチェアー(\([\d]+\))?) = Terrace Chair $1
+R (座椅子(\([\d]+\))?) = Seat Chair $1
+R (四角型シーリングライト(\([\d]+\))?) = Square Ceiling Light $1
+R (丸型シーリングライト(\([\d]+\))?) = Round Ceiling Light $1
+R (丸薄型シーリングライト(\([\d]+\))?) = Round Thin Ceiling Light $1
+R (和風シーリングライト(\([\d]+\))?) = Japanese-Style Ceiling Light $1
+R (電球照明(\([\d]+\))?) = Bulb Light $1
+R (フロアマット黒(\([\d]+\))?) = Floor Mat (Black) $1
+R (フロアマット緑(\([\d]+\))?) = Floor Mat (Green) $1
+R (フロアマット桃(\([\d]+\))?) = Floor Mat (Peach) $1
+R (カーテン桃(\([\d]+\))?) = Curtain (Peach) $1
+R (壁棚(\([\d]+\))?) = Wall Shelf $1
+R (障子(\([\d]+\))?) = Shoji $1
+R (鏡＆カバー付ハンガーラック白(\([\d]+\))?) = Mirror Clothes Rack (White) $1
+R (鏡＆カバー付ハンガーラック茶(\([\d]+\))?) = Mirror Clothes Rack (Tea) $1
+R (ワードローブ(\([\d]+\))?) = Wardrobe $1
+R (ピッチラック白(\([\d]+\))?) = Pitch Rack (White) $1
+R (電話台＆ピッチラック黒(\([\d]+\))?) = Telephone Pitch Rack (Black) $1
+R (電話台＆ピッチラック茶(\([\d]+\))?) = Telephone Pitch Rack (Tea) $1
+R (壁電話＆大小箪笥(\([\d]+\))?) = Wall Phone And Chest of Drawers $1
+R (桐箪笥(\([\d]+\))?) = Kiri Tansu $1
+R (くまさん台(\([\d]+\))?) = Table With Bears $1
+R (チェスト黒(\([\d]+\))?) = Chest (Black) $1
+R (チェスト茶(\([\d]+\))?) = Chest (Tea) $1
+R (箪笥(\([\d]+\))?) = Chest Of Drawers $1
+R (システムキッチン(\([\d]+\))?) = System Kitchen $1
+R (電話台(\([\d]+\))?) = Telephone Stand $1
+R (中華風ベッド(\([\d]+\))?) = Chinese-Style Bed $1
+R (中華風椅子(\([\d]+\))?) = Chinese-Style Chair $1
+R (中華風ＴＶセット(\([\d]+\))?) = Chinese-Style TV Set $1
+R (中華風丸テーブル(\([\d]+\))?) = Chinese-Style Round Table $1
+R (中華風パソコンデスク(\([\d]+\))?) = Chinese-Style Computer Desk $1
+R (中華風シーリングライト(\([\d]+\))?) = Chinese-Style Ceiling Light $1
+R (中華風フロアマット(\([\d]+\))?) = Chinese-Style Floor Mat $1
+R (中華風屏風(\([\d]+\))?) = Chinese-Style Folding Screen $1
+R (中華風箪笥(\([\d]+\))?) = Chinese-Style Chest Of Drawers $1
+R (中華風壁面ラック(\([\d]+\))?) = Chinese-Style Wall Rack $1
+R (中華風チェスト(\([\d]+\))?) = Chinese-Style Chest $1
+R (樽(\([\d]+\))?) = Barrel $1
+R (オフィスデスク(\([\d]+\))?) = Office Desk $1
+R (オフィスチェアー(\([\d]+\))?) = Office Chair $1
+R (オフィス棚(\([\d]+\))?) = Office Shelf $1
+R (オフィス風シーリングライト(\([\d]+\))?) = Office Ceiling Light $1
+R (オフィスデスク＆ファックス(\([\d]+\))?) = Office Desk With Fax $1
+R (オフィスデスク＆チェアー(\([\d]+\))?) = Office Desk & Chair $1
+R (パソコンデスク黒(\([\d]+\))?) = Computer Desk (Black) $1
+R (パソコンデスク茶(\([\d]+\))?) = Computer Desk (Tea) $1
+R (パソコンデスク白(\([\d]+\))?) = Computer Desk (White) $1
+R (革椅子(\([\d]+\))?) = Leather Chair $1
+R (プレジデント用机(\([\d]+\))?) = President's Desk  $1
+R (蛍光灯(\([\d]+\))?) = Fluorescent Lamp $1
+R (資料棚(\([\d]+\))?) = Material Shelf $1
+R (ブラインド黒(\([\d]+\))?) = Blind (Black) $1
+R (ブラインド白(\([\d]+\))?) = Blind (White) $1
+R (パーテーション(\([\d]+\))?) = Partition $1
+R (教卓(\([\d]+\))?) = Teacher's Desk $1
+R (教室用机(\([\d]+\))?) = Classroom Desk $1
+R (教室用椅子(\([\d]+\))?) = Classroom Chair $1
+R (パイプ椅子(\([\d]+\))?) = Folding Chair $1
+R (ロッカー(\([\d]+\))?) = Locker $1
+R (黒板\(小\)(\([\d]+\))?) = Blackboard Small $1
+R (黒板\(大\)(\([\d]+\))?) = Blackboard Large $1
+R (グランドピアノ(\([\d]+\))?) = Piano $1
+R (ピアノ椅子(\([\d]+\))?) = Piano Chair $1
+R (洋式便器(\([\d]+\))?) = Western-Style Toilet Bowl $1
+R (男性用便器(\([\d]+\))?) = Men's Toilet Bowl $1
+R (デッキチェア\(白\)(\([\d]+\))?) = Deck Chairs (White) $1
+R (デッキチェア\(茶\)(\([\d]+\))?) = Deck Chairs (Tea) $1
+R (案内板(\([\d]+\))?) = Guide Plate $1
+
+// wall and floor
+R (洋室壁([\d]+(\([\d]+\))?)) = Western-Style Wall $1
+R (中華風壁(\([\d]+\))?) = Chinese-Style Wall $1
+R (女部屋風壁(\([\d]+\))?) = Girl Room Wind Wall $1
+R (和室壁(\([\d]+\))?) = Japanese-Style Wall $1
+R (牢屋壁(\([\d]+\))?) = Jail Wall $1
+R (フローリング薄(\([\d]+\))?) = Flooring (Thin) $1
+R (フローリング濃(\([\d]+\))?) = Flooring (Dark) $1
+R (木材市松模様(\([\d]+\))?) = Wood Checkered Pattern $1
+R (カラータイルカーペット(\([\d]+\))?) = Color Tile Carpet $1
+R (畳(\([\d]+\))?) = Tatami $1
+R (石張り床(\([\d]+\))?) = Stone Flooring $1
+
+// household items
+R (時計(\([\d]+\))?) = Clock $1
+R (中華風壁飾り(\([\d]+\))?) = Chinese-Style Wall Decoration $1
+R (ポスター(\([\d]+\))?) = Posters $1
+R (和色紙額(\([\d]+\))?) = Sum Colored Paper Amount $1
+R (金庫(\([\d]+\))?) = Safe $1
+R (銅鑼（ドラ）(\([\d]+\))?) = Gong $1
+R (観葉植物([\d]+(\([\d]+\))?)) = Houseplant $1
+R (エアコン(\([\d]+\))?) = Airconditioning $1
+R (ファンヒーター(\([\d]+\))?) = Fan Heater $1
+R (石油ストーブ(\([\d]+\))?) = Petroleum Stove $1
+R (やかん(\([\d]+\))?) = Kettle $1
+R (コピー機(\([\d]+\))?) = Copy Machine $1
+R (パラソル(\([\d]+\))?) = Parasol $1
+R (かご(\([\d]+\))?) = Basket $1
+R (レフ板(\([\d]+\))?) = Lev Plate $1
+R (ホワイトボード(\([\d]+\))?) = Whiteboard $1
+R (自転車(\([\d]+\))?) = Bicycle $1
+R (木製バット(\([\d]+\))?) = Wooden Bat $1
+R (金属バット(\([\d]+\))?) = Metal Bat $1
+R (ヘルメット黒(\([\d]+\))?) = Helmet (Black) $1
+R (ヘルメット赤(\([\d]+\))?) = Helmet (Red) $1
+R (クリスマスツリー(\([\d]+\))?) = Christmas Tree $1
+
+// small items
+R (ダンボール(\([\d]+\))?) = Cardboard $1
+R (ゴミ袋(\([\d]+\))?) = Garbage Bags $1
+R (カエルさんごみ箱(\([\d]+\))?) = Frog's Trash $1
+R (ゴミ箱黒(\([\d]+\))?) = Trash (Black) $1
+R (ゴミ箱茶(\([\d]+\))?) = Trash (Tea) $1
+R (筒ゴミ箱黒(\([\d]+\))?) = Cylinder Trash (Black) $1
+R (狸の置物(\([\d]+\))?) = Raccoon Figurine $1
+R (パンダぬいぐるみ(\([\d]+\))?) = Panda Doll $1
+R (うさぎの人形(\([\d]+\))?) = Rabbit Doll $1
+R (日本人形(\([\d]+\))?) = Japanese Doll $1
+R (酒甕(\([\d]+\))?) = Sakagame $1
+R (クリップ(\([\d]+\))?) = Clip $1
+R (洗濯バサミ(\([\d]+\))?) = Clothespin $1
+R (ハンカチ(\([\d]+\))?) = Handkerchief $1
+R (タオルハンガー(\([\d]+\))?) = Towel Hanger $1
+R (携帯電話(\([\d]+\))?) = Mobile Phone $1
+R (指示棒(\([\d]+\))?) = Pointing Stick $1
+R (縦笛(\([\d]+\))?) = Flute $1
+R (宝箱(\([\d]+\))?) = Treasure Chest $1
+R (木箱(\([\d]+\))?) = Wooden Box $1
+R (プレゼント袋(\([\d]+\))?) = Gift Bag $1
+R (リボン＆ベル(\([\d]+\))?) = Ribbon & Bell $1
+R (カウボーイハット(\([\d]+\))?) = Cowboy Hat $1
+R (薔薇(\([\d]+\))?) = Rose $1
+R (デッキブラシ(\([\d]+\))?) = Deck Brush $1
+R (バケツ(\([\d]+\))?) = Bucket $1
+R (ダンベル(\([\d]+\))?) = Dumbbell $1
+R (バレーボール(\([\d]+\))?) = Volleyball $1
+R (フラフープ(\([\d]+\))?) = Hula Hoop $1
+R (ビーチボール(\([\d]+\))?) = Beach Ball $1
+R (プレゼントボックス(\([\d]+\))?) = Gift Box $1
+
+// food
+R (バナナ(\([\d]+\))?) = Banana $1
+R (バナナ皮剥け(\([\d]+\))?) = Banana (Peeling) $1
+R (ゴーヤ(\([\d]+\))?) = Bitter Gourd $1
+R (キュウリ(\([\d]+\))?) = Cucumber $1
+R (ニンジン(\([\d]+\))?) = Carrot $1
+R (スイカ(\([\d]+\))?) = Watermelon $1
+R (棒アイス(\([\d]+\))?) = Bar Ice $1
+R (うなぎ(\([\d]+\))?) = Eel $1
+R (チキン(\([\d]+\))?) = Chicken $1
+R (ソーセージ(\([\d]+\))?) = Sausage $1
+R (ワイングラス(\([\d]+\))?) = Wine Glass $1
+R (瓶\（緑\）(\([\d]+\))?) = Bottle (Green) $1
+R (瓶\（茶\）(\([\d]+\))?) = Bottle (Tea) $1
+R (x'masケーキ(\([\d]+\))?) = Christmas Cake 1 $1
+R (クリスマスケーキ(\([\d]+\))?) = Christmas Cake 2 $1
+
+// weapons
+R (ピストル(\([\d]+\))?) = Pistol $1
+R (ナイフ(\([\d]+\))?) = Knife $1
+R (コンバットナイフ(\([\d]+\))?) = Combat Knife $1
+R (中華刀(\([\d]+\))?) = Chinese Sword $1
+R (杖(\([\d]+\))?) = Cane $1
+R (マジカルステッキ(\([\d]+\))?) = Magical Stick $1
+R (鎌(\([\d]+\))?) = Sickle $1
+R (バスタードソード(\([\d]+\))?) = Bastard Sword $1
+R (ヒーローレイピア(\([\d]+\))?) = Hero Rapier $1
+R (ヒーローブレード(\([\d]+\))?) = Hero Blade $1
+R (ボロボロの剣(\([\d]+\))?) = Rusty Sword $1
+R (伝説の剣(\([\d]+\))?) = Legendary Sword $1
+R (カタナ(\([\d]+\))?) = Katana $1
+R (妖刀(\([\d]+\))?) = Demon Blade $1
+R (チェーンソー(\([\d]+\))?) = Chainsaw $1
+R (竹刀(\([\d]+\))?) = Bamboo Sword $1
+R (木刀(\([\d]+\))?) = Wooden Sword $1
+R (警棒(\([\d]+\))?) = Batons $1
+R (スタンガン(\([\d]+\))?) = Stun Gun $1
+R (松明(\([\d]+\))?) = Torches $1
+R (レザーバッグ(\([\d]+\))?) = Leather Bag $1
+R (ピコハン(\([\d]+\))?) = Pikohan Hammer $1
+R (パラソル2(\([\d]+\))?) = Parasol 2 $1
+R (オール(\([\d]+\))?) = Oar $1
+
+// medical items
+R (点滴スタンド(\([\d]+\))?) = Drip Stand $1
+R (手術器具置き(\([\d]+\))?) = Surgical Instrument Table $1
+R (手術用照明器(\([\d]+\))?) = Surgical Illuminator $1
+R (手術台(\([\d]+\))?) = Operating Table $1
+R (クスコ(\([\d]+\))?) = Speculum $1
+R (車椅子(\([\d]+\))?) = Wheelchair $1
+R (担架(\([\d]+\))?) = Stretcher $1
+R (分娩台(\([\d]+\))?) = Gyno Chair $1
+R (聴診器(\([\d]+\))?) = Stethoscope $1
+R (注射器\(小\)(\([\d]+\))?) = Syringe (Small) $1
+R (注射器\(大\)(\([\d]+\))?) = Syringe (Large) $1
+R (洗面器(\([\d]+\))?) = Washbasin $1
+R (体温計(\([\d]+\))?) = Thermometer $1
+
+//  H items
+R (拷問器具(\([\d]+\))?) = Torture Instrument Table $1
+R (吊るし檻(\([\d]+\))?) = Hanging Cage $1
+R (首腕拘束帯(\([\d]+\))?) = Kubiude Restraint Band $1
+R (拘束鎖(\([\d]+\))?) = Restraint Chain $1
+R (鎖(\([\d]+\))?) = Chain $1
+R (ギャグボール（ベルト付）(\([\d]+\))?) = Oral Fixation (With Belt) $1
+R (ギャグボール(\([\d]+\))?) = Oral Fixation $1
+R (棘ボール(\([\d]+\))?) = Thorn Ball $1
+R (アイアンメイデン(\([\d]+\))?) = Iron Maiden $1
+R (媚薬(\([\d]+\))?) = Aphrodisiac $1
+R (手錠(\([\d]+\))?) = Metal Handcuffs $1
+R (首手枷(\([\d]+\))?) = Neck Handcuffs $1
+R (手枷(\([\d]+\))?) = Leather Handcuffs $1
+R (首輪(\([\d]+\))?) = Collar $1
+R (首輪（棘付）(\([\d]+\))?) = Collar (With Thorns) $1
+R (乗馬ムチ(\([\d]+\))?) = Riding Whip $1
+R (綱輪(\([\d]+\))?) = Tsunawa $1
+R (綱手枷(\([\d]+\))?) = Rope Handcuffs $1
+R (ローション(\([\d]+\))?) = Lotion Bottle $1
+R (ロウソク(\([\d]+\))?) = Candle $1
+R (三角木馬(\([\d]+\))?) = Triangular Wooden Horse $1
+R (三角木馬２(\([\d]+\))?) = Triangular Wooden Horse 2 $1
+R (股割り器(\([\d]+\))?) = Splits Device $1
+R (スケベイス(\([\d]+\))?) = Horny Chair $1
+R (ソープマット(\([\d]+\))?) = Thorpe Mat $1
+R (ローター(\([\d]+\))?) = Rotor $1
+R (アナルビーズ\（ピンク\）(\([\d]+\))?) = Anal Beads (Pink) $1
+R (アナルビーズ\（緑\）(\([\d]+\))?) = Anal Beads (Green) $1
+R (アナルビーズ\（黒\）(\([\d]+\))?) = Anal Beads (Black) $1
+R (アナルバイブ\(青\)(\([\d]+\))?) = Anal Vibe (Blue) $1
+R (アナルバイブ\(棘ボール\)(\([\d]+\))?) = Anal Vibe (Thorn Ball) $1
+R (アナルバイブ3\(きのこ\)(\([\d]+\))?) = Anal Vibe (Mushrooms) $1
+R (バイブ\（ピンク\）(\([\d]+\))?) = Vibe (Pink) $1
+R (バイブ\(触手\)(\([\d]+\))?) = Vibe (Tentacles) $1
+R (バイブ\(指し棒\)(\([\d]+\))?) = Vibe (Pointing Stick) $1
+R (マッサージ器\（白\）(\([\d]+\))?) = Massager (White) $1
+R (マッサージ器\(黒\)(\([\d]+\))?) = Massager (Black) $1
+R (マッサージ器\（ハンマー\）(\([\d]+\))?) = Massager (Hammer) $1
+R (バイブ\(ハニー\)(\([\d]+\))?) = Vibe (Honey) $1
+R (三角木馬\（ハニー\）(\([\d]+\))?) = Triangular Wooden Horse (Honey) $1
+R (ギロチン\（ハニー\）(\([\d]+\))?) = Guillotine (Honey) $1
+R (固定ギロチン\（ハニー\）(\([\d]+\))?) = Fixed Guillotine (Honey) $1
+R (錘\（ハニー\）(\([\d]+\))?) = Weight (Honey) $1
+R (カメラ\（ハニー\）(\([\d]+\))?) = Camera (Honey) $1
+R (ディルド\（ハニー\）(\([\d]+\))?) = Dildo (Honey) $1
+R (アナルバイブ\（ハニー\）(\([\d]+\))?) = Anal Vibratior (Honey) $1
+R (拘束台\（ハニー\）(\([\d]+\))?) = Restraint Board (Honey) $1
+R (ＳＭギロチン\（ハニー\）(\([\d]+\))?) = SM Guillotine (Honey) $1
+R (ＳＭ固定ギロチン\（ハニー\）(\([\d]+\))?) = SM Fixed Guillotine (Honey) $1
+R (鞭\（ハニー\）(\([\d]+\))?) = Whip (Honey) $1
+R (鞭三角木馬\（ハニー\）(\([\d]+\))?) = Whip Triangular Wooden Horse (Honey) $1
+R (ＳＭ三角木馬\（ハニー\）(\([\d]+\))?) = SM Triangular Horse (Honey) $1
+
+// liquids
+R (液溜まり\（白\）(\([\d]+\))?) = Liquid Pool (White) $1
+R (液溜まり\（黄\）(\([\d]+\))?) = Liquid Pool (Yellow) $1
+R (液溜まり\（赤\）(\([\d]+\))?) = Liquid Pool (Red) $1
+R (液体Ａ\（白\）(\([\d]+\))?) = Liquid A (White) $1
+R (液体Ａ\（黄\）(\([\d]+\))?) = Liquid A (Yellow) $1
+R (液体Ａ\（赤\）(\([\d]+\))?) = Liquid A (Red) $1
+R (液体Ｂ\（白\）(\([\d]+\))?) = Liquid B (White) $1
+R (液体Ｂ\（黄\）(\([\d]+\))?) = Liquid B (Yellow) $1
+R (液体Ｂ\（赤\）(\([\d]+\))?) = Liquid B (Red) $1
+
+// screen effects
+R (レンズフレアＡ(\([\d]+\))?) = Lens Flare A $1
+R (レンズフレアＢ(\([\d]+\))?) = Lens Flare B $1
+R (吹き出しＡ(\([\d]+\))?) = Balloon A $1
+R (吹き出しＢ(\([\d]+\))?) = Balloon B $1
+R (吹き出しＣ(\([\d]+\))?) = Balloon C $1
+R (吹き出しＤ(\([\d]+\))?) = Balloon D $1
+R (吹き出しＥ(\([\d]+\))?) = Balloon E $1
+R (吹き出しＦ(\([\d]+\))?) = Balloon F $1
+R (吹き出しＧ(\([\d]+\))?) = Balloon G $1
+R (吹き出しＨ(\([\d]+\))?) = Balloon H $1
+R (集中線\（黒\）(\([\d]+\))?) = Intensive Line (Black) $1
+R (集中線\（白\）(\([\d]+\))?) = Intensive Line (White) $1
+R (丸影(\([\d]+\))?) = Marukage $1
+
+// other items
+R (ドラゴン(\([\d]+\))?) = Dragon $1
+R (ユニコーン(\([\d]+\))?) = Unicorn $1
+R (骸骨(\([\d]+\))?) = Skeleton $1
+R (橋(\([\d]+\))?) = Bridge $1
+R (ステージポール(\([\d]+\))?) = Stage Pole $1
+
+// effects
+R (液体（黄）(\([\d]+\))?) = Liquid (Yellow) $1
+R (濃い液体（弱）(\([\d]+\))?) = Thick Liquid (Weak) $1
+R (濃い液体（中）(\([\d]+\))?) = Thick Liquid (Medium) $1
+R (濃い液体（強）(\([\d]+\))?) = Thick Liquid (Strong) $1
+R (シャワー（弱）(\([\d]+\))?) = Shower (Weak) $1
+R (シャワー（強）(\([\d]+\))?) = Shower (Strong) $1
+
+
+// -----------------------------------------------------------------------------------------------
+//  end
+// -----------------------------------------------------------------------------------------------

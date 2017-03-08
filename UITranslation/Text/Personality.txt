@@ -1,0 +1,55 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Personality
+// -----------------------------------------------------------------------------------------------
+
+// Type
+明るい = Cheerful
+ツンデレ = Tsundere
+おっとり = Gentle
+無口 = Withdrawn
+ヤンデレ = Yandere
+大雑把 = Easygoing
+生真面目 = Strict
+ボーイッシュ = Boyish
+元気 = Energetic
+几帳面 = Diligent
+活発 = Active
+
+// Traits
+ものぐさ = Lazy
+綺麗好き = Clean
+頻尿 = Weak Bladder
+グラスハート = Glass Heart
+疲れ知らず = Never Tired
+欲求不満 = Perverted
+不屈の精神 = Brave
+疲れやすい = Tired
+
+// Mentality
+楽しい = Pleased
+好きかも = Affectionate
+一目惚れ = Lovestruck
+興味がある = Interested
+魅力的 = Charmed
+抱かれたい = Aroused
+話づらい = Awkward
+苦手 = Reluctant
+嫌い = Loathing
+指示されたい = Cooperative
+命令されたい = Obedient
+逆らえない = Submissive
+
+// H-Traits
+性欲旺盛 = Horny
+Ｓ = S (Sadist)
+Ｍ = M (Masochist)
+胸が敏感 = Sensitive Breasts
+お尻が敏感 = Sensitive Ass
+股間が敏感 = Sensitive Pussy
+キスに弱い = Weakness to Kisses
+されるのに弱い = Weak to Caresses
+反応好き = Loves Servicing
+潔癖症 = Clean Freak
+Ｈに抵抗がある = Hates H
+寂しがり屋 = Lonely
+

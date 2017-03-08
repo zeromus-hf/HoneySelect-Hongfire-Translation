@@ -1,0 +1,100 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Dialogue - Sitri
+// -----------------------------------------------------------------------------------------------
+
+// opening (first game start  / no save game)
+いらっしゃいませ、ようこそ = Welcome to our establishment.
+どなたをお探しですか？ = Who are you looking for?
+あ？　すみません。初めてのお客様ですね = Ah? Excuse me. You're a first time customer aren't you?
+ここは会いたい人を見つける場所 = This is a place where you can find just the partner you've always wanted to meet.
+そうです。ここでお客様の理想のパートナーを見つけていただきます。 = You will be able to find someone who is a perfect match for you.
+基本的に大人同士の楽しいひと時を一緒に過ごしていただくのが理想です…が = Basically, this is a place where you can find a companion for...adult activities.
+実際どうするかは、パートナーとお客様にお任せします。 = In the case that you don't know exactly what you want, we can search for someone on your behalf.
+因みにパートナーの人数に決まりはありませんが、節度あるお付き合いをおススメします。 = By the way, there are no rules on the maximum number of partners, but we recommend using moderation.
+また、施設内でのご飲食や施設利用代金は全て入場料に含まれていますのでご安心下さい。 = Also, usage of the facilities and all food and drink was covered by the entrance fee, so feel free to make use of them at your pleasure.
+続いてお客様がご利用される御部屋を紹介します。 = Next, I will introduce you to the room you will be using during your stay.
+こちらがお客様の御部屋になります = This will be your room.
+各種設定など、いろいろお好みに合わせて変更が可能となっています = There are numerous options to select from, so you should easily be able to find something you like.
+分からない事やおススメのパートナー情報を聞きたい時はこちらの電話をご利用下さい = If there's something you don't understand or you would simply like us to recommend you a partner, do not hesitate to make use of the phone and call me.
+では早速、パートナーを見つけましょう = Well then, let's select your first partner!
+どんなパートナーがいいか、イメージはお決まりですか？ = Have you decided what type of partner you would like?
+まだお決まりでない場合は、詳細をお聞かせ下さい = If you're unable to decide, please inform us immediately.
+お客様のイメージに合ったパートナーカードをご用意いたします = We will create a card that matches your image of what you want your partner to look like.
+それが終わりましたら【ルーム編集】からお会いする女の子をあなたの指定したエリアに呼んでいただきます。 = After that, please select where you would like to meet your partner from the "Room Editor" page and your chosen partner will be awaiting you.
+
+１ルームに登録できる人数が決まっていますので、最大人数を超えてしまった場合はルーム編集で使用ルームの変更をお願いいたします = Because the number of girls in one room is limited, you can switch the room by going to "Room Edit" and selecting another one.
+準備が出来次第≪女の子に会いに行く≫を選択してください = Once prepared, select "See The Girls"
+
+// opening, before H scene
+次に一緒に過ごす部屋を選んでいただくのですが、初回に限りこちらでご用意いたします = Next you would choose the room where you would spend time with your partner, but just for your first meeting we've already prepared a room for you.
+それではしばらくお待ちください。 = Now, please wait just a moment.
+
+// sitri tutorial
+１ルームに登録できる人数が決まっていますので、最大人数を超えてしまった場合はルーム編集で使用ルームの変更をお願いいたします = Because the number of girls in one room is limited, you can switch the room by going to "Room Edit" and selecting another one.
+準備が出来次第≪女の子に会いに行く≫を選択してください = Once prepared, select "See The Girls"
+
+// opening, after H scene
+どうですか？　楽しい時間は過ごせましたか？　思っていたのと違うからといってガッカリするのは早いですよ = Well? How was it? Were you able to enjoy it? If it was different than what you expected, don't lose heart just yet.
+パートナーとの関係をどう築くかはお客様次第です = Your relationship with your partner is dependent upon your actions.
+きっと、何度か繰り返すうちに充実した時間が過ごせるようになるはずです = If you spend a lot of time with your partner, you're sure to be able to enjoy your time with them more and more.
+中には向こうから会いに来られたりする方もいらっしゃいますので、いろいろなパートナーと交流してみるのもいいかもしれません = There are plenty of partners to choose from here, so perhaps you should try spending time with several of them?
+さて、私のナビゲートはここまでです。分からない事がありましたらいつでもお呼びください = Well then, my time as your guide ends here. If you ever have any questions do not hesitate to call on me.
+//<duplicate>それでは失礼します = I will take my leave.
+そういえば一つ説明を忘れていました = Actually, there's one more thing I forgot to mention.
+施設利用中に一定条件を満たすともらえるプレゼントを多数用意しております = In this resort there's numerous acheivements we've prepared for you. If you satisfy the requirements, you will receive a present.
+ぜひチャレンジしてみて下さい = Try to complete them all!
+それでは、引き続き素敵なひと時を… = Well then, please enjoy your stay!
+
+では次に参りましょう。 = Let us go onto the next step.
+それでは会いたいパートナーを先ほど作成していただいたカードから選択してください = Please choose from one of the people you have requested to be your partner.
+
+
+// system
+失礼します = Pardon me.
+どうも、失礼いたします = If you will excuse me.
+入りますよ = I'm coming in.
+お呼びしょうか？ = Did you call?
+何か御用ですか？ = What do you require?
+どうかなさいましたか？ = May I leave now?
+私に何か御用ですか？ = Is it something I was dealing …
+かしこまりました = I understand.
+あんまり冗談が過ぎると、流石の私も…ですよ = That joke was not funny.  My w…
+ふざけて呼ばないで下さいね、私も仕事がありますから = Don't just keep on calling me,…
+いい加減にしないと、怒りますよ、本当に = If you do not cease this activ…
+何回ノックさせれば気が済むんですか？　まったく = I've been knocking several tim…
+いたずらしないで下さい…ふざけるなら帰りますよ？ = Please don't be malicious… I w…
+それでは、私はこれで = Now that I am here…
+では、これで失礼します = Now, if you'll excuse me.
+うう・・・どうも、失礼しました！ = uuh… pardon me!
+こちらで女の子を捜します = You can use this to find a gir…
+現在解放されている実績などが確認できます = From here you can see which ac…
+こちらで操作方法などが確認できます = From here you can find out how…
+あの・・私とですか？　別に・・か、構いませんが//// = Umm, with me?  That said… oh w…
+ま、また私とですか・・・はい、構いませんよ/// = W-with me… yes, it does not ma…
+私ですか？　わかりました、お相手させていただきます//// = Me? I understand, I shall be y…
+はい・・/// こちらこそよろしくお願いします//// = Yes… I thank you for this.
+わかりました、よろしくお願いします = I understand, I am glad to be …
+真面目に探してあげませんよ！！ = Don't give up, keep on searchi…
+どうぞ、ご自由にご覧下さい = Please, feel free to look arou…
+意地悪する人なんか知りません！！ = I do not want to know mean peo…
+もう、意地悪なことしないなら・・か、構いませんが・・ = And another thing, don't be ma…
+あんまり変なイタズラするなら、許しませんからね？ = If you keep on doing bad thing…
+怒ってるんですけど？　聞いてるんですか？　もう… = Am I angry? Can't you tell? Ge…
+怒って帰られてしまいましたね：・・・まぁ、こんな時もありますよ = It appears that she was quite …
+私こういう場所で働いてはおりますが、いざとなるとどうしていいか・・・ = Even though I am working at this kind of place, when it comes to doing something this extreme...
+あなたにお任せしてもよろしいですか・・・。 = I am not sure if I want to just leave it to you...
+私なんかとばかりで、よろしいのですか？ = I am what I am, is this what you want?
+良ければ誰かぴったりな方を御探しいたしますが・・・ = We are helping you find your destined partner.
+・・・わ、私ですか？・・・そんな事を言われても、困ります、はい。 = ... i-is it me?  Oh I said such a troubling thing...
+ほんとうに私なんかでよろしいのですか・・・？ = Are you really sure you want to do this?
+間違いでないのなら、すごく嬉しいです・・・・。 = If you are sure about it, then I am very happy...
+本日はありがとうございました。 = Thank you for today.
+いつでもお気軽にお呼びくださいね・・ = Please don't anytime hesitate to on me at call...
+あの、そういう意味じゃありませんから！！ = Umm, that didn't make sense.
+ほ、ほんとうにわたしなんかが御相手させていただいてよろしかったのでしょうか？ = W-wow that was really something, am I really allowed to be your partner?
+・・・よければまた誘っていただけますか？ = ... well you may invite me again if you like.
+ここにくる方とこういう感じになるとは夢にも思いませんでした。 = I never dreamed that we here are capable of have feelings for anyone who would come to this place.
+至らないところがあるかもしれませんが、どうかこれからも、よろしくお願いします！ = I am not sure where we stand now, but we shall openly welcome future endeavors... thank you for openning our eyes.
+できれば・・個人的にも・・・。 = On a personal note, I wonder if it is possible for us  to do it again  ...
+
+// end

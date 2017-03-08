@@ -1,0 +1,15 @@
+﻿
+// clothing popup dialog
+衣装リスト = Clothing Sets
+※服装が選択\nされていません = * No dress selected.
+
+// other
+R = R
+G = G
+B = B
+A = A
+H = H
+S = S
+V = V
+
+

@@ -1,0 +1,249 @@
+﻿// -----------------------------------------------------------------------------
+// system
+// -----------------------------------------------------------------------------
+
+//#sub "sys_10_001" 失礼します
+#sub "sys_10_001" Excuse me.
+
+//#sub "sys_10_002" どうも、失礼いたします
+#sub "sys_10_002" Thank you, excuse me.
+
+//#sub "sys_10_003" 入りますよ
+#sub "sys_10_003" Enter.
+
+//#sub "sys_10_004" お呼びしょうか？
+#sub "sys_10_004" お呼びしょうか？
+
+//#sub "sys_10_005" 何か御用ですか？
+#sub "sys_10_005" Can I help you?
+
+//#sub "sys_10_006" どうかなさいましたか？
+#sub "sys_10_006" Did you need my assistance?
+
+//#sub "sys_10_007" 私に何か御用ですか？
+#sub "sys_10_007" May I help you?
+
+//#sub "sys_10_008" かしこまりました
+#sub "sys_10_008" Yes, sir.
+
+//#sub "sys_10_009" あんまり冗談が過ぎると、流石の私も…ですよ
+#sub "sys_10_009" If you joke too much, I certainly will also.
+
+//#sub "sys_10_010" ふざけて呼ばないで下さいね、私も仕事がありますから
+#sub "sys_10_010" Don't call me unneccessarily, because I have work to do.
+
+//#sub "sys_10_011" いい加減にしないと、怒りますよ、本当に
+#sub "sys_10_011" If you act irresponsibly, you'll anger me, truly.
+
+//#sub "sys_10_012" 何回ノックさせれば気が済むんですか？　まったく
+#sub "sys_10_012" When you need help, am I'm required to knock repeatedly?　Exactly.
+
+//#sub "sys_10_013" いたずらしないで下さい…ふざけるなら帰りますよ？
+#sub "sys_10_013" Do not play tricks … will I return if you're joking？
+
+//#sub "sys_10_014" それでは失礼します
+#sub "sys_10_014" So you'll excuse me.
+
+//#sub "sys_10_015" それでは、私はこれで
+#sub "sys_10_015" So, I am part of this.
+
+//#sub "sys_10_016" では、これで失礼します
+#sub "sys_10_016" Now, you'll excuse me in this.
+
+//#sub "sys_10_017" うう・・・どうも、失礼しました！
+#sub "sys_10_017" Uhh … I'm very sorry!
+
+//#sub "sys_10_018" こちらで女の子を捜します
+#sub "sys_10_018" Here you can look for a specific girl.
+
+//#sub "sys_10_019" 現在解放されている実績などが確認できます
+#sub "sys_10_019" Here you can see your track record, as it currently stands.
+
+//#sub "sys_10_020" こちらで操作方法などが確認できます
+#sub "sys_10_020" You can get help here.
+
+//#sub "sys_10_021" あの・・私とですか？　別に・・か、構いませんが////
+#sub "sys_10_021" Oh ... you want to do it with me?　Separately … well,it does not matter ////
+
+//#sub "sys_10_022" ま、また私とですか・・・はい、構いませんよ///
+#sub "sys_10_022" I also would like you to do it with me … okay, it does not matter ///
+
+//#sub "sys_10_023" 私ですか？　わかりました、お相手させていただきます////
+#sub "sys_10_023" With me? I understand, I will be your partner ////
+
+//#sub "sys_10_024" はい・・/// こちらこそよろしくお願いします////
+#sub "sys_10_024" Yes … /// You can click here to have sex with me. Thank you. ////
+
+//#sub "sys_10_025" わかりました、よろしくお願いします
+#sub "sys_10_025" Okay, thank you.
+
+//#sub "sys_10_026" 真面目に探してあげませんよ！！
+#sub "sys_10_026" Do not stop seriously looking for her! !
+
+//#sub "sys_10_027" どうぞ、ご自由にご覧下さい
+#sub "sys_10_027" Please, feel free to have a look.
+
+//#sub "sys_10_028" 意地悪する人なんか知りません！！
+#sub "sys_10_028" I do not know people that mean! !
+
+//#sub "sys_10_029" もう、意地悪なことしないなら・・か、構いませんが・・
+#sub "sys_10_029" Well, I do not want to be mean … it does not matter, but …
+
+//#sub "sys_10_030" あんまり変なイタズラするなら、許しませんからね？
+#sub "sys_10_030" If you do so much strange mischief, how will you be forgiven?
+
+//#sub "sys_10_031" 怒ってるんですけど？　聞いてるんですか？　もう…
+#sub "sys_10_031" You're angry?　Did you listen?　Well …
+
+//#sub "sys_10_032" 怒って帰られてしまいましたね：・・・まぁ、こんな時もありますよ
+#sub "sys_10_032" I, I have gone home angry: … Well, there are always times like this.
+
+//#sub "sys_10_033_00" 私こういう場所で働いてはおりますが、いざとなるとどうしていいか・・・
+#sub "sys_10_033_00" While it is reasonable that I like working in this place, in a pinch, it comes down to how good it is …
+
+//#sub "sys_10_033_01" あなたにお任せしてもよろしいですか・・・。
+#sub "sys_10_033_01" Are you sure you want to leave it to me …
+
+//#sub "sys_10_034_00" 私なんかとばかりで、よろしいのですか？
+#sub "sys_10_034_00" Do you want something of mine?
+
+//#sub "sys_10_034_01" 良ければ誰かぴったりな方を御探しいたしますが・・・
+#sub "sys_10_034_01" We are looking for the perfect person if you are happy, but …
+
+//#sub "sys_10_034_02" ・・・わ、私ですか？・・・そんな事を言われても、困ります、はい。
+#sub "sys_10_034_02" … I am, am I? … It is true, I'm troubled, yes.
+
+//#sub "sys_10_035_00" ほんとうに私なんかでよろしいのですか・・・？
+#sub "sys_10_035_00" … Do you really want is something from me?
+
+//#sub "sys_10_035_01" 間違いでないのなら、すごく嬉しいです・・・・。
+#sub "sys_10_035_01" You are not mistaken, I am very happy …
+
+//#sub "sys_10_036_00" 本日はありがとうございました。
+#sub "sys_10_036_00" Thank you for today.
+
+//#sub "sys_10_036_01" いつでもお気軽にお呼びくださいね・・
+#sub "sys_10_036_01" Please don't hesitate to call me at any time …
+
+//#sub "sys_10_036_02" あの、そういう意味じゃありませんから！！
+#sub "sys_10_036_02" It's because you don't have any sense! !
+
+//#sub "sys_10_037_00" ほ、ほんとうにわたしなんかが御相手させていただいてよろしかったのでしょうか？
+#sub "sys_10_037_00" Ha, what I really wonder is if I am allowed to be your partner?
+
+//#sub "sys_10_037_01" ・・・よければまた誘っていただけますか？
+#sub "sys_10_037_01" … Can you also invite me if you like?
+
+//#sub "sys_10_038_00" ここにくる方とこういう感じになるとは夢にも思いませんでした。
+#sub "sys_10_038_00" I did not dream I would learn what it felt like to become a partner to those who come here.
+
+//#sub "sys_10_038_01" 至らないところがあるかもしれませんが、どうかこれからも、よろしくお願いします！
+#sub "sys_10_038_01" Although there may not be a place for us in the future, it's been nice to meet you!
+
+//#sub "sys_10_038_02" できれば・・個人的にも・・・。
+#sub "sys_10_038_02" … Personally … me also, if possible.
+// -----------------------------------------------------------------------------
+// opening
+// -----------------------------------------------------------------------------
+
+//#sub "op_10_001" いらっしゃいませ、ようこそ
+#sub "op_10_001" Welcome to our establishment.
+
+//#sub "op_10_002" どなたをお探しですか？
+#sub "op_10_002" Who are you looking for?
+
+//#sub "op_10_003" あ？　すみません。初めてのお客様ですね
+#sub "op_10_003" Ah? Excuse me. You're a first time customer aren't you?
+
+//#sub "op_10_004" ここは会いたい人を見つける場所
+#sub "op_10_004" This is a place where you can find just the partner you've always wanted to meet.
+
+//#sub "op_10_005" そうです。ここでお客様の理想のパートナーを見つけていただきます。
+#sub "op_10_005" You will be able to find someone who is a perfect match for you.
+
+//#sub "op_10_006" 基本的に大人同士の楽しいひと時を一緒に過ごしていただくのが理想です…が
+#sub "op_10_006" Basically, this is a place where you can find a companion for...adult activities.
+
+//#sub "op_10_007" 実際どうするかは、パートナーとお客様にお任せします。
+#sub "op_10_007" In the case that you don't know exactly what you want, we can search for someone on your behalf.
+
+//#sub "op_10_008" 因みにパートナーの人数に決まりはありませんが、節度あるお付き合いをおススメします。
+#sub "op_10_008" By the way, there are no rules on the maximum number of partners, but we recommend using moderation.
+
+//#sub "op_10_009" また、施設内でのご飲食や施設利用代金は全て入場料に含まれていますのでご安心下さい。
+#sub "op_10_009" Also, usage of the facilities and all food and drink was covered by the entrance fee, so feel free to make use of them at your pleasure.
+
+//#sub "op_10_010" 続いてお客様がご利用される御部屋を紹介します。
+#sub "op_10_010" Next, I will introduce you to the room you will be using during your stay.
+
+//#sub "op_10_011" こちらがお客様の御部屋になります
+#sub "op_10_011" This will be your room.
+
+//#sub "op_10_012" 各種設定など、いろいろお好みに合わせて変更が可能となっています
+#sub "op_10_012" There are numerous options to select from, so you should easily be able to find something you like.
+
+//#sub "op_10_013" 分からない事やおススメのパートナー情報を聞きたい時はこちらの電話をご利用下さい
+#sub "op_10_013" If there's something you don't understand or you would simply like us to recommend you a partner, do not hesitate to make use of the phone and call me.
+
+//#sub "op_10_014" では早速、パートナーを見つけましょう
+#sub "op_10_014" Well then, let's select your first partner!
+
+//#sub "op_10_015" どんなパートナーがいいか、イメージはお決まりですか？
+#sub "op_10_015" Have you decided what type of partner you would like?
+
+//#sub "op_10_016" まだお決まりでない場合は、詳細をお聞かせ下さい
+#sub "op_10_016" If you're unable to decide, please inform us immediately.
+
+//#sub "op_10_017" お客様のイメージに合ったパートナーカードをご用意いたします
+#sub "op_10_017" We will create a card that matches your image of what you want your partner to look like.
+
+//#sub "op_10_036" それが終わりましたら【ルーム編集】からお会いする女の子をあなたの指定したエリアに呼んでいただきます。
+#sub "op_10_036" After that, please select where you would like to meet your partner from the "Room Editor" page and your chosen partner will be awaiting you.
+
+//#sub "op_10_037" １ルームに登録できる人数が決まっていますので、最大人数を超えてしまった場合はルーム編集で使用ルームの変更をお願いいたします
+#sub "op_10_037" Since there is a maximum number of people that can be registered in one room, if you've exceeded the maximum number of people, you will be asked to change their room in Room Edit
+
+//#sub "op_10_018" 準備が出来次第≪女の子に会いに行く≫を選択してください
+#sub "op_10_018" Please select "Start Game" as soon as you are ready.
+
+//#sub "op_10_019" では次に参りましょう。
+#sub "op_10_019" Let's begin then.
+
+//#sub "op_10_020" それでは会いたいパートナーを先ほど作成していただいたカードから選択してください
+#sub "op_10_020" So please select the card that you created for the partner you want to meet.
+
+//#sub "op_10_021" 次に一緒に過ごす部屋を選んでいただくのですが、初回に限りこちらでご用意いたします
+#sub "op_10_021" Next you would choose the room where you would spend time with your partner, but just for your first meeting we've already prepared a room for you.
+
+//#sub "op_10_022" それではしばらくお待ちください。
+#sub "op_10_022" Now, please wait just a moment.
+
+//#sub "op_10_026" どうですか？　楽しい時間は過ごせましたか？　思っていたのと違うからといってガッカリするのは早いですよ
+#sub "op_10_026" Well? How was it? Were you able to enjoy it? If it was different than what you expected, don't lose heart just yet.
+
+//#sub "op_10_027" パートナーとの関係をどう築くかはお客様次第です
+#sub "op_10_027" Your relationship with your partner is dependent upon your actions.
+
+//#sub "op_10_028" きっと、何度か繰り返すうちに充実した時間が過ごせるようになるはずです
+#sub "op_10_028" If you spend a lot of time with your partner, you're sure to be able to enjoy your time with them more and more.
+
+//#sub "op_10_029" 中には向こうから会いに来られたりする方もいらっしゃいますので、いろいろなパートナーと交流してみるのもいいかもしれません
+#sub "op_10_029" There are plenty of partners to choose from here, so perhaps you should try spending time with several of them?
+
+//#sub "op_10_030" さて、私のナビゲートはここまでです。分からない事がありましたらいつでもお呼びください
+#sub "op_10_030" Well then, my time as your guide ends here. If you ever have any questions do not hesitate to call on me.
+
+//#sub "op_10_031" それでは失礼します
+#sub "op_10_031" I will take my leave.
+
+//#sub "op_10_032" そういえば一つ説明を忘れていました
+#sub "op_10_032" Actually, there's one more thing I forgot to mention.
+
+//#sub "op_10_033" 施設利用中に一定条件を満たすともらえるプレゼントを多数用意しております
+#sub "op_10_033" In this resort there's numerous acheivements we've prepared for you. If you satisfy the requirements, you will receive a present.
+
+//#sub "op_10_034" ぜひチャレンジしてみて下さい
+#sub "op_10_034" Try to complete them all!
+
+//#sub "op_10_035" それでは、引き続き素敵なひと時を…
+#sub "op_10_035" Well then, please enjoy your stay!

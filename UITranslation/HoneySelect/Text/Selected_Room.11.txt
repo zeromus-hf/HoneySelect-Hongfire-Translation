@@ -1,0 +1,6 @@
+﻿//Room selected
+ルーム１が設定されています = Selected: Room 1
+ルーム２が設定されています = Selected: Room 2
+ルーム３が設定されています = Selected: Room 3
+ルーム４が設定されています = Selected: Room 4
+ルーム５が設定されています = Selected: Room 5

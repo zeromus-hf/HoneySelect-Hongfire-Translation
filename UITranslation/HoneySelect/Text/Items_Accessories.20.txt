@@ -1,0 +1,314 @@
+﻿// -----------------------------------------------------------------------------------------------
+// accessories
+// -----------------------------------------------------------------------------------------------
+
+// head
+髪留め(色変え可能) = Barrette (Custom Color)
+ヘアピン(色変え可能) = Hairpin (Custom Color)
+リボン(色変え可能) = Ribbon (Custom Color)
+カチューシャ(色変え可能) = Katyusha (Custom Color)
+アホ毛(色変え可能) = Ahoge (Custom Color)
+触覚毛(色変え可能) = Tactile Hair (Custom Color)
+付け三つ編み(色変え可能) = Braid (Custom Color)
+ヘッドホン(黒) = Headphones (Black)
+ヘッドホン(白) = Headphones (White)
+ヘッドホン(赤) = Headphones (Red)
+麦わら帽子(青) = Straw Hat (Blue)
+麦わら帽子(赤) = Straw Hat (Red)
+サンバイザーA(赤) = Sun Visor A (Red)
+サンバイザーA(白) = Sun Visor A (White)
+バニーカチューシャ(黒) = Bunny Headband (Black)
+バニーカチューシャ(赤) = Bunny Headband (Red)
+メイドカチューシャ = Maid Headband
+ナース帽子(白) = Nurse Hat (White)
+ナース帽子(桃) = Nurse Hat (Pink)
+セクシーナースキャップ（色変え可能） = Sexy Nurse Cap (Custom Color)
+セクシーナースブローチ（色変え可能） = Sexy Nurse Brooch (Custom Color)
+セキュリティーキャップ = Security Cap
+セキュリティーキャップ01 = Security Cap 01
+ギャリソンキャップ(色変え可能) = Garrison Cap (Custom Color)
+牡丹のかんざし（色変え可能） = Peony Hairpin (Custom Color)
+花のかんざし（色変え可能） = Flower Hairpin (Custom Color)
+花のかんざし桃色（色変え可能） = Flower Hairpin Pink (Custom Color)
+花のかんざし紫色（色変え可能） = Flower Hairpin Purple (Custom Color)
+鉢巻(色変え可能) = Headband (Custom Color)
+赤いハイビスカス = Hibiscus (Red)
+青いハイビスカス = Hibiscus (Blue)
+ハイビスカス(色変え可能) = Hibiscus (Custom Color)
+花 = Flower
+葉っぱ = Leaves
+スイカ = Watermelon
+スイカヘッド = Watermelon Head
+キノコ = Mushroom
+貝殻 = Seashell
+カニ = Crab
+うなぎ = Eel
+メンダコ（色変え可能） = Squid
+ネジ = Screw
+ビール瓶 = Beer Bottle
+空き缶 = Empty Can
+カニの空き缶 = Empty Can Of Crab
+王冠 = Crown
+海賊帽子 = Pirate Hat
+猫耳(色変え可能) = Cat Ears (Custom Color)
+魔女の帽子 = Witch Hat
+かぼちゃヘッド = Pumpkin Head
+ウエスタンハット = Western Hat
+トナカイカチューシャ = Reindeer Headband
+サンタ帽子 = Santa Hat
+パーティーハット = Party Hat
+野球メット(黒) = Baseball Met (Black)
+野球メット(赤) = Baseball Met (Red)
+ワンダーバルーン(赤) = Wonder Balloon (Red)
+ワンダーバルーン(青) = Wonder Balloon (Blue)
+ワンダーバルーン(黄) = Wonder Balloon (Yellow)
+ワンダーバルーン(白) = Wonder Balloon (White)
+パンティ(白) = Panties On Head (White)
+パンティ(縞) = Panties On Head (Stripes)
+パンティ(桃) = Panties On Head (Pink)
+パンティ(黒) = Panties On Head (Black)
+豚頭(色変え可能) = Pig Head (Custom Color)
+ドルフくんの頭 = Dolphie-Kun Head
+オルカヘッド = Orca Head
+1号ヒーローヘッド(編集不可) = Hero 1 Head
+２号ヒーローヘッド(編集不可) = Hero 2 Head
+ティアラ = Tiara
+コンシェルジュハット = Concierge Hat
+豹耳 = Leopard Ears
+花魁クシ = Courtesan Comb
+花魁カンザシ = Courtesan Hairpin
+花魁カンザシ６本挿し = Courtesan Six Hairpins
+ゴスロリハット(色変え可能) = Gothic Lolita Hat (Custom Color)
+バラのコサージュ（色変え可能） = Rose Corsage (Custom Color)
+ベール付き帽子(色変え可能) = Hat With Veil (Custom Color)
+バニーカチューシャ(色変え可能) = Bunny Headband (Custom Color)
+マジシャンハットA(色変え可能) = Magician Hat A (Custom Color)
+マジシャンハットB(色変え可能) = Magician Hat B (Custom Color)
+鈴付き猫耳(色変え可能) = Cat Ears With Bells (Custom Color)
+サンタ帽子(色変え可能) = Santa Hat (Custom Color)
+
+// ear
+クローバー(色変え可能) = Clover (Custom Color)
+エンジェル(色変え可能) = Angel (Custom Color)
+ダイア(色変え可能) = Dialogic (Custom Color)
+ハート(色変え可能) = Heart (Custom Color)
+スペード(青) = Spade (Blue)
+スペード(赤) = Spade (Red)
+スター(青) = Stars (Blue)
+スター(赤) = Stars (Red)
+スターライト(青) = Starlight (Blue)
+スターライト(赤) = Starlight (Red)
+ドロップスター(緑) = Drop Star (Green)
+ドロップスター(黄) = Drop Star (Yellow)
+ソードスカル(白) = Sword Skull (White)
+ソードスカル(黒) = Sword Skull (Black)
+コウモリ = Bat
+雪の結晶 = Snowflake
+バラのイヤリング（色変え可能） = Rose (Custom Color)
+
+// glasses
+スクエアA(色変え可能） = Square A (Custom Color)
+スクエアB(色変え可能) = Square B (Custom Color)
+スクエアC(色変え可能) = Square C (Custom Color)
+オーバルA(色変え可能) = Oval A (Custom Color)
+オーバルB(色変え可能) = Oval B (Custom Color)
+オーバルC(色変え可能) = Oval C (Custom Color)
+オーバルD(色変え可能) = Oval D (Custom Color)
+ブロウ(色変え可能) = Blow (Custom Color)
+ウェリントン(色変え可能) = Wellington (Custom Color)
+スポーツ赤(色変え可能) = Sport Red (Custom Color)
+スポーツ青(色変え可能) = Sport Blue (Custom Color)
+メタルフレーム(色変え可能) = Metal Frame (Custom Color)
+水泳ゴーグル(黒) = Swimming Goggles (Black)
+水泳ゴーグル(白) = Swimming Goggles (White)
+パピヨン(赤) = Butterfly Mask (Red)
+パピヨン(青) = Butterfly Mask (Blue)
+パピヨン(色変え可能) = Butterfly Mask (Custom Color)
+ゴーグル = Goggles
+アイマスク(色変え可能) = Eye Mask (Custom Color)
+アイマスク(黒) = Eye Mask (Black)
+アイマスク(赤) = Eye Mask (Red)
+眼帯右用 = Eyepatch Right
+眼帯左用 = Eyepatch Left
+アンダーリム(色変え可能) = Underling (Custom Color)
+
+// face
+ピエロの鼻(色変え可能) = Clown Nose (Custom Color)
+天狗の鼻(色変え可能) = Tengu Nose (Custom Color)
+一輪のバラ = Rose
+剣闘士の額当て = Gladiator Forehead
+般若面 = Tengu Mask
+顔包帯 = Face Bandage
+キョンシーの札 = Vampire Tag
+リコーダー = Flute
+
+// neck
+ハートネックレス = Heart Necklace
+金と碧のネックレス = Gold And Green Necklace
+リングネックレス = Ring Necklace
+フックネックレス = Hook Necklace
+ネイチャーネックレス = Nature Necklace
+カラーストーンネックレス = Color Stone Necklace
+フラワーネックレス(色変え可能) = Flower Necklace (Custom Color)
+フラワーネックレス = Flower Necklace
+シルバーハートネックレス = Silver Heart Necklace
+エキゾチックネックレス = Exotic Necklace
+ベリーダンスネックレス(赤) = Belly Dancer Necklace (Red)
+ベリーダンスネックレス(緑) = Belly Dancer Necklace (Green)
+ネッカチーフ(色変え可能) = Neckerchief (Custom Color)
+ネクタイリボン(赤) = Tie Ribbon (Red)
+ネクタイリボン(青) = Tie Ribbon (Blue)
+ネクタイリボン(色変え可能) = Tie Ribbon (Custom Color)
+警備員ネクタイ(紺) = Guards Necktie (Navy Blue)
+ネクタイ(色変え可能) = Necktie (Custom Color)
+ネクタイショート(色変え可能) = Necktie Short (Custom Color)
+ルーズネクタイ（赤） = Loose Tie (Red)
+ルーズネクタイ（青） = Loose Tie (Blue)
+蝶ネクタイ(色変え可能) = Bow Tie (Custom Color)
+バニーネクタイ(黒) = Bunny Tie (Black)
+バニーネクタイ(赤) = Bunny Tie (Red)
+レースチョーカー(赤) = Lace Choker (Red)
+レースチョーカー(青) = Lace Choker (Blue)
+レースチョーカー(黒) = Lace Choker (Black)
+マフラー(赤) = Muffler (Red)
+マフラー(黄) = Muffler (Yellow)
+マフラー(紫) = Muffler (Purple)
+スカーフ（赤) = Scarf (Red)
+スカーフ（黄) = Scarf (Yellow)
+スカーフ（青) = Scarf (Blue)
+レトロウェイトレススカーフ（色変え可能） = Retro Waitress Scarf (Custom Color)
+ウェイトレスリボン = Waitress Ribbon
+革の首輪(黒) = Leather Collar (Black)
+革の首輪(茶) = Leather Collar (Brown)
+拘束用首輪 = Restraint Collar
+デジタルカメラ = Digital Camera
+ウェルカムレイ黄色(色変え可能) = Welcome Lei Yellow (Custom Color)
+ウェルカムレイ桃色(色変え可能) = Welcome Lei Red (Custom Color)
+シトリースカーフ = Sitri Scarf
+豹柄ファーリボン = Leopard Fur Ribbon
+ゴスロリブローチ(色変え可能) = Gothic Lolita Brooch (Custom Color)
+クロスネックレス(色変え可能) = Cross Necklace (Custom Color)
+バラのネックレス（色変え可能） = Rose Necklace (Custom Color)
+バニーネクタイ(色変え可能) = Bunny Tie (Custom Color)
+マジシャンリボン（色変え可能） = Magician Ribbon (Custom Color)
+サンタベルブローチ = Santa Bell Brooch
+
+// shoulder
+トートバッグ = Tote Bag
+スクールバッグ = School Bag
+オウムのおもちゃ(青) = Parrot Toy (Blue)
+オウムのおもちゃ(赤) = Parrot Toy (Red)
+1号ヒーローショルダー左用 = Hero 1 Pauldron Left
+1号ヒーローショルダー右用 = Hero 1 Pauldron Right
+2号ヒーローショルダー左用 = Hero 2 Pauldron Left
+2号ヒーローショルダー右用 = Hero 2 Pauldron Right
+
+// breast
+シンプルリング(色変え可能) = Simple Ring (Custom Color)
+ジュエルリング(色変え可能) = Jewel Ring (Custom Color)
+洗濯バサミ(青) = Clothespin (Blue)
+洗濯バサミ(桃) = Clothespin (Pink)
+洗濯バサミ(黄) = Clothespin (Yellow)
+ローター = Rotor
+クリップ = Clip
+中華結び飾り = Chinese Knot Ornaments
+
+// waist
+ウエストバッグ(紫) = Waist Bag (Purple)
+ウエストバッグ(緑) = Waist Bag (Green)
+ウエストバッグ(黄) = Waist Bag (Yellow)
+ウエストバッグ(黒) = Waist Bag (Black)
+ホテルのキー = Hotel Key
+警備ベルト = Security Belt
+手錠 = Handcuffs
+赤花柄浮き輪 = Float (Red Floral)
+青花柄浮き輪 = Float (Blue Floral)
+カラフル浮き輪 = Float (Colorful)
+紅白浮き輪 = Float (Red)
+レオタードリボン（色変え可能） = Leotard Ribbon (Custom Color)
+リボン帯（色変え可能） = Ribbon Band (Custom Color)
+リボン帯柄あり（色変え可能） = Pattern Ribbon Band (Custom Color)
+リボン帯長（色変え可能） = Long Ribbon Band (Custom Color)
+リボン帯長柄あり（色変え可能） = Long Pattern Ribbon Band (Custom Color)
+牡丹帯長（色変え可能） = Long Peony Belt (Custom Color)
+牡丹帯長柄あり（色変え可能） = Long Pattern Peony Belt (Custom Color)
+豹のシッポ = Leopard Tail
+大きな和柄リボン(赤) = Japanese Pattern Ribbon (Red)
+大きな和柄リボン(緑) = Japanese Pattern Ribbon (Green)
+猫シッポ(色変え可能) = Cat Tail (Custom Color)
+
+// back
+リュック(桃) = Backpack (Pink)
+リュック(緑) = Backpack (Green)
+リュック(黒) = Backpack (Black)
+革鞄(黒) = Leather Briefcase (Black)
+革鞄(褐) = Leather Briefcase (Brown)
+ダンボール = Cardboard Box
+シャチフロート = Orca Float
+黒猫 = Black Cat
+金属バット = Metal Bat
+木製バット = Wooden Bat
+モンキーレンチ = Monkey Wrench
+
+// arm
+SBS警備員腕章(色変え可能) = SBS Guards Armband (Custom Color)
+エキゾチックリング = Exotic Ring
+スタッズレザーアーム = Studded Leather Arm
+剣闘士の肩当て = Gladiator Shoulder Rest
+剣闘士の腕当て左用 = Gladiator Left Arm
+剣闘士の腕当て右用 = Gladiator Right Arm
+巫女袖左用(色変え可能) = Miko Sleeves Left (Custom Color)
+巫女袖右用(色変え可能) = Miko Sleeves Right (Custom Color)
+
+// hand
+レザーバングル(茶) = Leather Bangle (Brown)
+レザーバングル(白) = Leather Bangle (White)
+イルカとカラーストーン(緑) = Dolphin And Colored Stone (Green)
+イルカとカラーストーン(赤) = Dolphin And Colored Stone (Red)
+腕時計 = Watch
+丸型腕時計(桃) = Round Watch (Pink)
+丸型腕時計(黒) = Round Watch (Black)
+シルバーブレスレット = Silver Bracelet
+ゴールドブレスレット = Gold Bracelet
+三連石ブレスレット(銀) = Triplicate Stone Bracelet (Silver)
+三連石ブレスレット(金) = Triplicate Stone Bracelet (Gold)
+ベリーダンスブレスレット(赤) = Belly Dancer Bracelet (Red)
+ベリーダンスブレスレット(緑) = Belly Dancer Bracelet (Green)
+リストバンド(赤) = Wristband (Red)
+リストバンド(青) = Wristband (Blue)
+バニーカフス = Bunny Girl Cuffs
+メイドカフス左 = Maid Cuffs Left
+メイドカフス右 = Maid Cuffs Right
+シンプル(色変え可能) = Simple (Custom Color)
+チアポンポン(色変え可能) = Pom Poms (Custom Color)
+ダイヤモンドの指輪 = Diamond Ring
+宝石の指輪(色変え可能) = Jewelry Ring (Custom Color)
+トパーズの指輪 = Topaz Ring
+３連ハートの指輪 = Triple Heart Ring
+ハートの指輪 = Heart Ring
+ツインリング = Twin Ring
+フラワーリング = Flower Ring
+フラワーリング(色変え可能) = Flower Ring (Custom Color)
+三つ葉の指輪 = Trefoil Ring
+スカルヘッド(色変え可能) = Skull Head Ring (Custom Color)
+ドラゴンリング = Dragon Ring
+婚約指輪 = Engagement Ring
+サカキ = Sakaki Flower
+婚約指輪(色変え可能) = Engagement Ring (Custom Color)
+ウェディングブーケ(色変え可能) = Wedding Bouquet (Custom Color)
+ハニーバンド(色変え可能) = Honey Band (Custom Color)
+マジシャンステッキ(色変え可能) = Magician Stick (Custom Color)
+
+// leg
+ベリーダンスアンクレット(赤) = Belly Dancer Anklet (Red)
+ベリーダンスアンクレット(緑) = Belly Dancer Anklet (Green)
+レースガーターリング(赤)左 = Lace Garter Ring Left (Red)
+レースガーターリング(赤)右 = Lace Garter Ring Right (Red)
+レースガーターリング(黒)左 = Lace Garter Ring Left (Black)
+レースガーターリング(黒)右 = Lace Garter Ring Right (Black)
+注射器ガーターリング左（色変え可能） = Syringe Garter Ring Left (Custom Color)
+注射器ガーターリング右（色変え可能） = Syringe Garter Ring Right (Custom Color)
+
+// -----------------------------------------------------------------------------------------------
+// end
+// -----------------------------------------------------------------------------------------------

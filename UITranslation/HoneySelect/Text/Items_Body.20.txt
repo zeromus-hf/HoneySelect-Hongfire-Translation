@@ -1,0 +1,257 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  body 
+// -----------------------------------------------------------------------------------------------
+
+// facial types
+彫りの深さ１ = Carved Depth 1
+彫りの深さ２ = Carved Depth 2
+口元１ = Mouth 1
+目元１ = Eyes 1
+目元２ = Eyes 2
+目元３ = Eyes 3
+目元４ = Eyes 4
+全体詳細 = Full Detail
+ほっそり = Slender
+
+// cheeks
+頬側面上 = Upper Cheeks
+頬側面下 = Lower Cheeks
+頬 = Both Cheeks
+頬と鼻筋 = Cheeks & Bridge Of Nose
+目と鼻筋 = Eyes & Bridge Of Nose
+全体１ = Everywhere 1
+全体２ = Everywhere 2
+
+// moles
+左の口元 = Left Side Of Lower Mouth
+右の口元 = Right Side Of Lower Mouth
+左の口上 = Left Side Of Upper Mouth
+右の口上 = Right Side Of Upper Mouth
+左の目元 = Left Side Under Eye
+右の目元 = Right Side Under Eye
+両目の下 = Under Both Eyes
+額中央 = Center Of Forehead
+そばかす = Freckles
+
+// eyebrows
+普通(長) = Average (Long)
+普通(中) = Average (Medium)
+普通(短) = Average (Short)
+細め(長) = Thin (Long)
+細め(中) = Thin (Medium)
+細め(短) = Thin (Short)
+太め(長) = Thick (Long)
+太め(中) = Thick (Medium)
+太め(短) = Thick (Short)
+への字 = Pinched Corners
+アーチ = Arch
+尻上がり = Rising
+尻すぼみ = Tapering
+末広がり = Spreading
+細い = Small
+まろ = Stubby
+ちょび = Brief
+フェード = Fade
+かまぼこ = Broad
+ごんぶと = Bushy
+ファニー = Funny
+ストロング = Strong
+太めのカーブ = Thick Curve
+普通フェード = Fade
+ナチュラルA = Natural A
+ナチュラルB = Natural B
+ショートカーブ = Short Curve
+ゆるやかカーブ = Gentle Curve
+細カーブ = Fine Curve
+薄眉 = Thin Eyebrows
+
+// suntan
+ビキニラインA = Bikini Tan A
+ビキニラインB = Bikini Tan B
+マイクロビキニラインA = Micro-Bikini Tan A
+マイクロビキニラインB = Micro-Bikini Tan B
+チューブトップライン = Tube-Top Tan
+スクールライン = School Swimsuit Tan
+競泳ライン = Swim Competition Tan
+モノキニライン = Monokini Tan
+Vライン = V-Tan
+キャミソールとショートパンツ = Camisole & Short-Shorts Tan
+半袖とハーフパンツ = Short Sleeves & Shorts Tan
+チューブワンピースライン = Tube Dress Tan
+ランジェリーライン = Lingerie Tan
+亀甲ライン = Rope Harness Tan
+
+// face tattoos
+ハート = Heart
+星 = Star
+月 = Sun
+涙 = Tears
+双翼 = Tribal 
+イルカ = Dolphin
+イナズマ = Inazuma
+イマズマ = Lightning
+アイライン = Eyeliner
+アイマスク = Eye Mask
+トライアングル額 = Forehead Triangle
+トライアングル頬 = Face Triangle
+手形 = Handprint
+キスマーク = Kiss Mark
+額の目 = Third Eye
+ヒゲ = Mustache
+クレバスアイズ = Eye Crevasse
+骸骨 = Skull
+にく = Meat
+
+// body tattoos
+火炎 = Flames - Back, Arm & Front 
+蝶1 = Butterfly - Back
+蝶2 = Butterfly - Lower Back
+サンセットホテル = Sunset Hotel - Chest
+猫1 = Cat 1 - Belly
+猫2 = Cat 2 - Arm
+星1 = Star 1 - Chest
+星2 = Star 2 - Neck
+ドルフくん = Sexy Land - Back
+ハート1 = Heart - Lower Back
+ハート2 = Heart - Hip
+鎖1 = Chain - Around Neck
+鎖2 = Chain - Around Thigh
+肥 = Shit - Butt (Characters)
+命 = Life - Neck (Characters)
+愛 = Love - Chest (Characters)
+正の字1 = Counter 1 - Butt (Characters)
+正の字2 = Counter 2 - Leg (Characters)
+天使 = Angel - Chest
+胸の傷 = Chest Scar
+絡み合う蛇 = Entwined Snakes - Chest
+獅子 = Lion - Arms
+サラマンダー = Salamander Arm
+縫合 = Stitches - Arms & Legs
+サソリ = Scorpion - Back
+骸骨2 = Skull 2
+太陽 = Sun
+額の傷 = Forehead Scar
+頬の傷 = Cheek Scar
+一文字の傷 = Straight Line Scar
+二筋の傷 = Two Line Scars
+トライアングル = Triangles
+キスラッシュ = Multiple Kiss Marks
+口紅 = Lipstick
+ラインペイント = Painted Lines
+第3と第4の目 = Third And Fourth Eyes
+マル = Circle
+バッテン = Cross
+
+// bangs
+ぱっつんショート = Short, Straight Bangs
+ぱっつんロング = Long, Straight Bangs
+サイド分け = Side-Swept
+セミショート = Mid-Parted
+ウェーブロング = Long, Wavy
+リボンロング = Long, Ribbons
+シャギーショート = Short, Shaggy
+内ハネセミショート = Semi-Short, Inner Wings
+センター分けロング = Long, Center Parted
+シャギーセミショート = Semi-Short, Shaggy
+クロスショート = Short, Crisscross
+ゆるふわセミショート = Semi-Short, Easygoing
+チャイナ分け = China-Style Parting
+ぱっつんシャギー = Shaggy, Straight Bangs
+センター分けショート = Short, Center Parted
+ライトロング = Long, Right Side
+内ハネロング = Long, Inner Wings
+レフトロング = Long, Left Side
+センター分けシャギー = Shaggy, Center Parted
+ぱっつんストレート = Straight, Straight Bangs
+ガーリーボブ(前) = Feminine Bob
+チャイナシニヨン(前) = China Knots
+ハロウィンヘアー(前) = Halloween (Front)
+三つ編みロング(前) = Long, Braid (Fore Part)
+でこ出しロング = Decorative Outer Long
+ミディアムシャギー = Medium Shaggy
+ウインドショート(左) = Short, Swept Left
+ウインドショート(右) = Short, Swept Right
+外ハネシャギー(前) = Shaggy, Feathered (Front)
+バエル前髪 = Bael Bangs
+グラデーションボブ(前) = Gradient Bob (Front)
+うどん毛ロング(前) = Udon Long (Front)
+内巻きセミショート = Inner Winding Semi Short
+ベリーロングツインテール(前) = Berry Long Tails (Front) 
+ツーサイドアップ(前) = To Side Up (Front)
+チャイナシニヨン(飾り無し) = China Shiny Young
+
+// back hair
+外ハネショート = Short, Outer Wings
+ゆるふわロング = Long, Easygoing
+ロングポニー = Long, Ponytail
+ロングポニー(頭巾) = Long, Ponytail (With Hood)
+カジュアルショート = Short, Casual
+ロングストレート = Long, Straight
+ツインロール = Drill, Twintails
+外ハネロング = Long, Outer Wings
+お団子アレンジ = Top Bun
+ショートツイン = Short, Twintails
+ショートツインアクセ = Short, Twin Accessories
+ゆるふわレイヤー = Layered, Easygoing
+チャイナポンポン = Chinese Buns
+ロングツインテール = Long, Pigtails
+ツインシュリンプロール = Drill, Twin Shrimp
+サイドアップ = Sidetail
+リボンポニーロング = Long, Ponytail With Ribbon
+シャギーロング = Long, Shaggy
+リボンポニーショート = Short, Ponytail With Ribbon
+三つ編みツイン = Twin, Braided
+ガーリーボブ(後ろ) = Feminine Bob
+チャイナシニヨン(後ろ) = China Knots
+ハロウィンヘアー(後ろ) = Halloween (Back)
+三つ編みロング(後ろ) = Long Back Braid
+カールロングポニー = Long, Curls, Ponytail
+カールロングポニーリボン = Long, Curls, Ponytail With Ribbon
+おさげ = Pig Tails
+おさげリボン = Pig Tails With Ribbons
+ミディアムマッシュ = Medium Mash
+くせっ毛ロング = Long, Curly
+外ハネシャギー(後ろ) = Shaggy, Feathered (Back)
+バエル後ろ髪 = Bael (Back)
+グラデーションボブ(後ろ) = Gardient Bob (Back)
+うどん毛ロング(後ろ) = Udon Long (Back)
+アップポニー = Up Pony
+ベリーロングツインテール(後ろ) = Berry Long Tails (Back)
+ツーサイドアップ(後ろ) = To Side Up (Back)
+ベリーロングツインテール(太い) = Berry Long Tails (Thick)
+
+// side hair
+細ロング = Long, Fine
+太ロング = Long, Thick
+ショート = Short
+ベリーショート = Masculine
+ストレート = Straight
+ロール = Drill
+
+// hair sets
+フェミニンボブ = Feminine Bob
+ショートボブ = Short Bob
+サイドアップ(キャップ) = Side-Up (Cap)
+ボウズ = Bowes
+ミディアムウェーブ = Medium Wave
+シトリーの髪型 = Sitri
+ホイップカール = Whip Carl
+シスターベール = Sister Veil
+アレンジおさげ = Pigtail Arrangement
+
+// male hair settings
+丸刈り = Shaved
+スマートショート = Smart And Short
+テンショウ = Tenshou Era
+ツーブロック = Left Parted
+ミディアム = Medium
+シャギー = Shaggy
+セミロング = Semi-Long
+ブリム帽子(黒) = Fedora (Black)
+ブリム帽子(白) = Fedora (White)
+オールバック = Combed Back
+海賊バンダナ(色変え可能) = Pirate Bandana (Custom Color)
+
+// -----------------------------------------------------------------------------------------------
+// end
+// -----------------------------------------------------------------------------------------------

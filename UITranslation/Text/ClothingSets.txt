@@ -1,0 +1,88 @@
+﻿// -----------------------------------------------------------------------------------------------
+// clothing Sets
+// -----------------------------------------------------------------------------------------------
+
+// female cloth sets
+マジシャン赤 = Magician Red
+マジシャン黒 = Magician Black
+セーラーワンピース白 = Sailor One-piece White
+セーラーワンピース紺 = Sailor One-piece Navy
+キャンペーンガール = Campaign Girl
+ボンデージA = Bondage A
+ボンデージB = Bondage B
+ウエディングドレス(色変え可能) = Wedding Dress (Custom Color)
+バニースーツ(色変え可能) = Bunny Suit (Custom Color)
+修道服 = Nun
+ゴスロリズボン = Gothic Lolita Pants
+ゴスロリスカート = Gothic Lolita Skirt
+コンシェルジュスーツ = Concierge Suit
+黒バニー = Black Bunny
+赤バニー = Red Bunny
+乙姫 = Youngest Princess
+アイビーバイン = Ivy Vine
+サイバーブルー = Cyber ​​Blue
+サンタビキニ = Santa Bikini
+ハードレザー = Hard Leather
+赤いベリーダンサー = Red Belly Dancer
+青いベリーダンサー = Blue Belly Dancer
+セクシーシューター青 = Sexy Shooter Blue
+セクシーシューター緑 = Sexy Shooter Green
+デニムジャケット = Denim Jacket
+包帯 = Bandage
+ピンクチャイナ = Pink China
+グリーンチャイナ = Green China
+スウィーティー = Sweetie
+セクシーナース = Sexy Nurse
+柄パジャマピンク = Pattern Pajamas Pink
+着崩した制服Ａ = School Uniform A
+柄パジャマ青 = Pattern Pajamas Blue
+メイド服 = Maid Clothes
+着崩した制服Ｂ = School Uniform B
+裸エプロン = Naked Apron
+レオタードＢ = Leotard B
+レオタードＡ = Leotard A
+青チャイナドレス = Blue Cheongsam
+オレンジチャイナ = Orange China
+セーラースイマー = Serasuima
+ミニスカート巫女服 = Miko Mini Skirt
+エキゾチック = Exotic
+魔女 = Witch
+ディーラー = Dealer
+白衣 = White Coat
+白ナース = White Nurse
+警備員 = Security Guard
+スーツパンツ黒 = Suit Pants Black
+ベビードールB = Baby Doll B
+カウガール = Cowgirl
+チアガール = Cheerleader
+ブラウス = Blouse
+セーラー服 = Sailor Suit
+体操着 = Gym Clothes
+巫女服 = Miko Clothing
+ベビードールA = Baby Doll A
+エプロン(ピンク) = Apron (Pink)
+裸エプロン(ピンク) = Naked Apron (Pink)
+パジャマ = Pajamas
+短パンキャミソール = Short Bread Camisol
+グレージャケットキャミソール = Gray Jacket Camisole
+ウェディングドレス = Wedding Dress
+黒ジャケットキャミソール = Black Jacket Camisole
+豹柄ワンピース = Leopard Dress
+レトロウェイトレス = Retro Waitress
+ウェイトレス = Waitress
+セクシーセキュリティー = Sexy Security Dress
+バスタオル = Bath Towel
+女海賊衣装 = Pirate Costume
+女剣闘士衣装 = Gladiator Costume
+桃花魁 = Peach Courtesan
+黒花魁 = Black Courtesan
+カーディガンコーデ = Cardigan Kohde
+ゴス着物 = Goss Kimono
+
+// male cloth sets
+スイムパンツ = Swim Pants
+スラックス = Slacks
+ハーフパンツ = Half Pants
+レイヤードパーカー = Layered Parker
+
+// end

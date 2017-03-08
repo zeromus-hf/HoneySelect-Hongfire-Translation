@@ -1,0 +1,2102 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Dialogue c02 (おっとり) - Gentle
+// -----------------------------------------------------------------------------------------------
+
+//// トイレイベント
+
+// 通常セリフ
+あの・・・少しだけ待ってもらえませんか = That ... Could you wait just a little bit
+
+// 好意セリフ
+あの・・・少々、お花をつみに・・・・ = ... In that ... a little, crime flowers
+
+// 淫乱セリフ
+私・・・少し用があるんですよ、ちょっとお待ち下さいね = I ... I'm there is for a little, do a little wait
+
+// 嫌悪セリフ
+すみません・・・先に行っていて下さい = Excuse me... Please dont mind if i start
+
+// 隷属セリフ
+申し訳ございません。しばらくお時間を下さい = I'm sorry. Can i have some of your time
+
+// トイレ使用前セリフ１
+何とか、間にあったみたいですね = Somehow, I'd like was in time
+
+// トイレ使用前セリフ２
+はぁ…危ない危ない = Huh ... dangerous dangerous
+
+// トイレ使用前セリフ３
+さてと…ちょっと我慢しすぎちゃいましたね = Well then ... I also have little patience
+
+// オナニー判定
+
+// オナニー覗き好意
+・・あっ…なんだか今日は、あそこが、変な感じ・・・です・・・ = ...for some reason.....im having a strange feeling today
+
+// オナニー覗き淫乱
+はぁはぁ・・・どうしましょう、すっごくいじりたくなって…とまりませんよぉ = Nuke ... what about, and feel like messing sooo ... dont stop ok
+
+// 使用前セリフ１
+//<duplicate>何とか、間にあったみたいですね = Somehow, I'd like was in time
+
+// 使用前セリフ２
+//<duplicate>はぁ…危ない危ない = Huh ... dangerous dangerous
+
+// 使用前セリフ３
+//<duplicate>さてと…ちょっと我慢しすぎちゃいましたね = Well then ... I also have little patience
+
+// トイレ強姦Ｈシーン
+
+// 強姦通常セリフ
+きゃあ！　　ちょっと待ってください、狭いから出て行ってくださいよぉ = O my gosh! Please wait a minute, Yoo Please go out from narrow
+
+// 強姦好意セリフ
+きゃぁぁぁ！！ = Kyaaaa! !
+
+何で入ってくるんですかぁ！？ = Do you come to what in entering! ?
+
+空いてる所使って下さぃ！ = Below with the place where vacant Sai!
+
+// 強姦淫乱セリフ
+ちょ？！　何考えてるんですか、もう！　恥ずかしいじゃないですか！ = Cho? ! What are you thinking, anymore! Is not it embarrassing!
+
+// 強姦嫌悪セリフ
+//<duplicate>きゃああ！ = Kyaaa!
+
+あの、すみませんが、出てって下さいっ！！ = Um, I'm sorry, Tsu Please get out! !
+
+// 強姦隷属セリフ
+な、なんですか、こんな場所まで？！ = U want to do it in a place like this?!
+
+あの、御用でしたら後でお伺いしますけど・・・ = That, I will ask you later when it was patronized ...
+
+// 選択肢１-選択３
+
+// 漏らす通常セリフ
+え？　ちょっと待ってください、 = Huh? wait a minute
+
+あの私も結構急いでるんですけどぉ = Also i am in quite a hurry
+
+// 漏らす好意セリフ
+あの！？　なんですか？　どこに行くんですか？！ = What is it? Where are you going? !
+
+私、その、あの… = I, that, that ...
+
+// 漏らす淫乱セリフ
+あれ？！　ちょっと待ってください、 = What?! wait a minute
+
+私もあの、用事があるんですけどぉ！ = I also know, I have a errands only Do!
+
+// 漏らす嫌悪セリフ
+え？　あの私はいいですから、先に行って下さい… = Huh? Im fine with it, go ahead ...
+
+お願いですからぁ！ = Im asking Karaa!
+
+// 漏らす隷属セリフ
+え？　別の所にですか？ = Huh? Youre not here?
+
+でもですね、わ、私、そのぉ… = It is but, I, I, the per cent ...
+
+わ、わかりましたぁ… = I,... I understand ...
+
+// 選択肢１-選択４
+
+// 待ってる通常セリフ
+すみません、お待たせしてしまって・・・ = I'm sorry, ...I have kept you waiting
+
+//<duplicate>ありがとうございます = Thank you
+
+// 待ってる好意セリフ
+お待たせしました…待っててくださって、嬉しいです = I'm happy that you waited for me
+
+// 待ってる淫乱セリフ
+//<duplicate>待っててくれてありがとう。 = Thanks for waiting
+
+今度お詫びのしるし、考えておきます = Now I apologize sign, leave thinking
+
+// 待ってる嫌悪セリフ
+わざわざお待ちいただいて、ありがとうございます = I've been waiting all this time, Thank you
+
+// 待ってる隷属セリフ
+お待たせいたしまして申し訳ございません。 = I am sorry i kept you waiting.
+
+それではよろしくお願いします。 = Well then, I'm looking forward to doing it with you.
+
+// ばれた好意セリフ
+//<duplicate>！！ = !!
+
+・・・あうぅ、ばれちゃったんですね、恥ずかしいですよぉ = ... Au, its embarrassing you know
+
+// ばれた淫乱セリフ
+//<duplicate>！！ = !!
+
+もう、バレてたなんて…恥ずかしいですよ… = The other, Nante had Barre ... It's embarrassing ...
+
+でも、どうしてわかったんです？ = But, do you know why?
+
+// ばれない好意セリフ
+はぁ・・ごめんなさい、遅くなっちゃいました・・ = Huh ... I'm sorry, I have become exhausted...
+
+え、普通にお手洗いですよぉ = This is a restroom you know...
+
+// ばれない淫乱セリフ
+・・・ごめんなさい、お待たせしちゃいましたぁ。 = ... I'm sorry, I have kept you waiting.
+
+でも、なんだかドアの前でごそごそしてませんでした？ = But, did not somehow Gosogoso in front of the door?
+
+// ばれた
+
+// ばれた通常セリフ
+//<duplicate>！！ = !!
+
+//<duplicate>あぁ！　もしかして覗いてたんですか？ = Did you peep on me?
+もう！！ = Geez!!
+
+// ばれた好意セリフ
+//<duplicate>！！ = !!
+
+きゃっ！！ = Got you! !
+
+まさか、ずっと覗いてたんですか？ = No way, i hope you didnt look to much?
+
+は、恥ずかしい！ = It is embarrassing!
+
+// ばれた淫乱セリフ
+//<duplicate>！！ = !!
+
+あ・・・覗いてましたね・・・それだけですか？ = I was looking through ... Oh ... if only it?
+
+まぁ、いいですけど = Well, it is good
+
+// ばれた嫌悪セリフ
+//<duplicate>！！ = !!
+
+きゃあ！！　　あ、あの、まさか覗いてたんですか？ = O my gosh! ! Oh, that, did you not peek No way?
+
+もう、何してるんです！ = What are you doing!
+
+// ばれた隷属セリフ
+//<duplicate>！！ = !!
+
+あ・・まさか覗いてたんですね！ = Oh ... No way you peeked!
+
+そんな、あんな所を見られていたなんて… = Meanwhile, Nante had been looking at the Anna place...
+
+// ばれない
+
+// ばれない通常セリフ
+//<duplicate>すみません、おまたせしちゃいまして = I'm sorry, that i have kept you waiting
+
+// ばれない好意セリフ
+お待たせしましたぁ！ = Thank you for waiting
+
+すみません、おかげでもう大丈夫ですよ = I'm sorry, its all right now, thanks.
+
+// ばれない淫乱セリフ
+お待たせしました。 = Sorry I made you wait.
+
+実はですね、なんとなくドアの前に気配があった様な気がしてたんですけど… = It is a fact, but I had to feel like there was a somehow sign in front of the door...
+
+// ばれない嫌悪セリフ
+わざわざすみません。 = Bother I'm sorry.
+
+先に行っていただいてもよかったんですけどね = But it's was good even if i went ahead.
+
+// ばれない隷属セリフ
+//<duplicate>申し訳ありません、遅くなってしまいました = Sorry, im tired
+//// トイレ強姦Ｈシーン終了後
+
+// 強姦通常セリフ
+あんな所で急になんて、ビックリしちゃうじゃないですかぁ = Nante suddenly in Anna place, is not it Chau Bikkurishi
+
+// 強姦好意セリフ
+もう！　何考えてるんですか、あんな恥ずかしい所見られたくなかったのに = Already! What where you thinking, i did not want to be seen in such an embarrassing place.
+
+// 強姦淫乱セリフ
+もう！　ビックリしてあそこが変になったらどうするんですか、まったくぅ = Already! you surprised me, over there becomes strange, the KUU waited
+
+// 強姦嫌悪セリフ
+トイレは・・・あんな事する場所じゃないんですよぉ！ = The toilet is not the place for that kind of thing.
+
+// 強姦隷属セリフ
+あ、あの、言ってくれればもう少し落ち着いて対応できたと思うんですが… = Oh, that, I think I can handle a little more calm if give me to say, but ...
+//// 無理やり連れ出す
+
+// 漏らす通常セリフ
+・・・はぁはぁ・・　あのぉ、私・・あの、なんだか・・ = ... Nuke ... that per cent, I ... that, somehow ...
+
+ははは =
+
+// 漏らす好意セリフ
+えっとぉ…こ、ここ、ですか？ = Ehm ... This, here, really?
+
+あの…私、実は…その…ま、待ってくださぃ = That ... I, in fact ... that ... Well, wait Kudasai
+
+// 漏らす淫乱セリフ
+ちょっと・・・も、漏れちゃうかも…こまっちゃうわぁ = A little ... well, Wow it would be ... troubled leaks
+
+// 漏らす嫌悪セリフ
+ちょっと、本当に待って・・・くださぁい・・ = Hey, really wait...Kudasaai...
+
+私、これ以上はぁ…うぅ = I, this more than § ... UUI,
+
+// 漏らす隷属セリフ
+あのぉ・・・申し訳ありません…私、やっぱり、今は… = I am sorry that per cent... I, after all, is now ...
+
+あ、だめぇ… = Oh, Damee ...
+//// 無理やり連れ出すシーン終了後
+
+// 漏らす通常セリフ
+//<duplicate>はぁ… = Haa...
+
+ちょっと、別の意味できつかったですよぉ = Hey, it was difficult in a different way.
+// 漏らす好意セリフ
+あぁ、もう！　我慢しすぎておかしくなっちゃいそうでしたよぉ = Oh, anymore! It was likely to become amusing too much to endure Yoo
+
+// 漏らす淫乱セリフ
+あんなに恥ずかしかったのに… = Although i was so embarrassed....
+
+なんだかいつもより体が熱くなってしまいました = Somehow my body has become hotter than usual
+
+// 漏らす嫌悪セリフ
+あ～もうぉ、 = Oh also Wo,
+
+こういうのは許してくださぁい…おなかが壊れちゃいます = Kudasaai ... stomach you have any broken forgive this kind of is
+
+// 漏らす隷属セリフ
+も、申し訳ございません・・我慢できなくて… = Also, if you can not ... put up Sorry ...
+
+でも、気持ちは良かったかも… = But, maybe it felt good...
+//// 夜這いイベント
+//<duplicate>反応がないようだ・・・ = Reaction seems there is no ...
+
+// 汎用呼吸
+//<duplicate>すぅ……はぁ…… = Suu ...... Huh ......
+
+// 淫乱呼吸
+//<duplicate>んぅ……はぁ…… = Nu ...... Huh ......
+
+// 選択肢１-選択１
+
+// 通常Ｈ前セリフ
+//<duplicate>すぅ……はぁ……・・う～ん・・・・すぅ……はぁ…… = Suu ...... Huh ...... .. intends Mmm ... Suu ...... Huh ......
+
+// 好意Ｈ前セリフ
+//<duplicate>すぅ……はぁ……・・ = Suu ...... Huh ......
+
+また、会いたいです・・・・すぅ……はぁ…… = In addition, I wanted to meet ... Suu ...... Huh ......
+
+// 淫乱Ｈ前セリフ
+//<duplicate>すぅ……はぁ…… = Suu ...... Huh ......
+
+（どうやら・・来たみたいですね・・・） = (Apparently I'd like came...)
+
+//<duplicate>すぅ……はぁ…… = Suu ...... Huh ......
+
+// 嫌悪Ｈ前セリフ
+すぅ……はぁ……・ = Suu ...... Huh ......
+
+んん゛っ・・・なんだか・・変な感じ・・です・・すぅ……はぁ…… = I N Tsu ... somehow ... It is a strange feeling ... ... Suu ...... Huh ......
+
+// 選択肢１-選択２
+
+// 通常セリフ
+あ？　おはようございます。 = Ah? Good morning.
+
+ひょっとして私のこと待っててくれたんですか？ = Perhaps you wait while i do my thing?
+
+// 好意セリフ
+あら？！　す、すみません、お待たせしてるの気付かなくって… = Oh? ! I'm sorry, i didnt notice i kept you waiting.
+
+あの、ありがとう、ございます…。 = Well, thank you, there ....
+
+// 淫乱セリフ
+きゃ？　いたんですか？ = If Ke? Does it hurt?
+
+中に入ってくれても良かったんですよ？ = Also it was good to me went in?
+
+// 嫌悪セリフ
+うわっ？！ = Wow? !
+
+ど、どうも・・・あの、そこで何を？ = Etc., very much ... that, where the what?
+
+// 隷属セリフ
+わっっ？！　も、申し訳ございません！　あなたをお待たせしてしまうなんて！ = Wa'tsu? ! Also, I am sorry! nante would have kept you waiting for you!
+
+// ばれない
+
+// 通常セリフ
+はぁはぁ……うーん・・すごく、暑いです・・・・はぁはぁ…はぁ…… = Nuke ...... Hmm ... really, is hot ... Nuke ... Huh ......
+
+// 好意セリフ
+すぅ……はぁ……・・・ = Suu ...... Huh ......
+
+あら・・またきてくれたんですね・・・・ = Oh ... also it was me come ne ...
+//<duplicate>すぅ……はぁ…… = Suu ...... Huh ......
+
+// 淫乱セリフ
+//<duplicate>すぅ……はぁ…… = Suu ...... Huh ......
+
+（あれ？・・もう帰っちゃうんですか？・・・） = (If? ... Do you already would back? ...)
+
+//<duplicate>すぅ……はぁ…… = Suu ...... Huh ......
+
+// 嫌悪セリフ
+ん・・こんなの・・むちゃくちゃ…ですよぉ… = N ... this is such ... a mess ... Yoo ...
+
+// 隷属セリフ
+//<duplicate>はぁはぁ……ふふっ、・・・はぁはぁ…はぁ…… = Nuke ...... Fufu', ... Nuke ... Huh ......
+
+// ばれた
+//<duplicate>！！ = !!
+
+
+// 淫乱H
+//<duplicate>きゃ？！ = If Ke? !
+
+ええっと…ビックリしちゃいましたね = Let me see ... I was Chaimasu Bikkurishi
+
+// 通常H
+//<duplicate>きゃあっ？！ = Kyaa'? !
+
+あの、一体何なんですか、これは？ = That is how, this is do heck what?
+//// 通常H終了後
+
+// 通常セリフ
+何をするんですか！　寝こみを襲うなんて最低です！ = What are you to! It is the lowest Nante attack stagnation!
+
+// 好意セリフ
+もう！　こういうやり方は感心できません！ = Already! Such a manner can not be impressed!
+
+// 嫌悪セリフ
+・・・・ひどいですよぉ・・・あんまりですよぉぉ・・・ = ... It is a terrible Yoo ... so much is I Oo ...
+
+// 淫乱セリフ
+うぅ～ん…いくらなんでも寝込みを襲うなんて、良くないと思いますよ = Uu ~ N ... how much Nante anything attack stagnation, I think that is not good
+//// シャワーイベント
+//<duplicate>耳を澄ますと何かが聞こえてきた = Something and listen carefully have been heard
+
+// シャワー前セリフ１
+//<duplicate>るんるるんるる～ん♪ = Lun-lu-lun-lu~n♪
+
+// シャワー前セリフ２
+・・・はぁ・・・　　いい気持ち・・・・ = ... Huh ... good feeling ...
+
+// シャワー前セリフ３
+やっぱり、シャワーはちょっと熱めがちょうどいいですねぇ～。 = After all, Hey shower is a little just right Me heat ~.
+
+// 選択肢１-選択１
+
+// 選択肢１-選択２
+
+// 強姦通常セリフ
+きゃっ！！　　　突然なんですかぁ！？ = Cache! ! It's suddenly do! ?
+
+// 強姦好意セリフ
+ちょっ！！　どうして入ってくるんですか、もう！ = Chopper! ! Do you come Why entered, anymore!
+
+// 強姦淫乱セリフ
+え！！　ご一緒するんですか？ = Huh! ! Do you want to join me?
+
+どうぞどうぞ = Please do
+
+// 強姦嫌悪セリフ
+な、なんですかぁ！！ = It does not, what is the one! !
+
+ちょっと待ってください？！　やめてくださぁい！ = wait a minute? ! Stop it Please!
+
+// 強姦隷属セリフ
+//<duplicate>え！？　一緒に入るんですか？ = Huh! ? you want to go together?
+
+わかりました・・・あなたがそう望むなら…ちょっと狭いですけどね = But I ... you ... If a little narrow you want so that I understand
+
+// 選択肢１-選択３
+
+// 待ってる通常セリフ
+あ？　待っててくれたんですか？ = Ah? where you waiting?
+
+いいですよ、どこでもお付き合いします = It is good, anywhere and dating
+
+// 待ってる好意セリフ
+え！？　私を待っててくれたんですか？ = Huh! ? Did you wait for me?
+
+えっと、嬉しいです。　すぐ支度するんで少し待っててください！！ = Well, I'm happy. Please wait a little ill get ready immediatly.
+
+// 待ってる淫乱セリフ
+今からですか？ = It is from now?
+
+わかりました♪　シャワー浴びたし、ちょうど良かったです = It drew Was ♪ shower to understand, it was just right
+
+// 待ってる嫌悪セリフ
+//<duplicate>あ、いらっしゃいませ。 = Oh, can i help you?
+
+//<duplicate>今からですか？ = It is from now?
+
+とりあえず、大丈夫ですよ = Its allright for now.
+
+// 待ってる隷属セリフ
+い、今から二人でですか？ = There, Is in Futari from now?
+
+//<duplicate>はい、わかりました。お供いたしますよ = Yes, I understand. Do you wanne try?
+
+// ばれた好意セリフ
+//<duplicate>！！ = !!
+
+きゃあ！！ = O my gosh!!
+
+み、見てたんですか？！　もう、なにしてるんですか！ = Look, did you not see? ! The other, do you What are you doing!
+
+// ばれた淫乱セリフ
+//<duplicate>！！ = !!
+
+私がしてる所、見てたんですね… = Where you are is me, I've been watching...
+
+別に、手伝ってくれても良かったんですけど = Apart from, but I was also good for helping me
+
+// ばれない好意セリフ
+え？！　来てたんですか？！ = Huh? ! Did you come? !
+
+あのぉ、もしかして声がきこえてた、とか？ = That per cent, was perhaps not hear the voice, Toka?
+
+いえ、なんでもないです = No, I do not anything
+
+// ばれない淫乱セリフ
+あら、いらしてたんですね… = Oh, you did not need to...
+
+でも、できればもうちょっと早く来て欲しかったですねぇ = But, hey I wanted to come a little earlier, if possible.
+
+// ばれた
+
+// ばれた通常セリフ
+//<duplicate>！！ = !!
+
+//<duplicate>きゃあ！ = O my gosh!
+
+何覗いてるんですか！！　早く出ってって下さぁい！ = What are you peeps! ! Under me left early Sai!
+
+// ばれた好意セリフ
+//<duplicate>！！ = !!
+
+あの、さっきからそこで何してるんですか？ = Um, do you have anything there from a little while ago?
+
+もう、困っちゃいますねぇ・・・ = The other, Hey we are in trouble ...
+
+// ばれた淫乱セリフ
+//<duplicate>！！ = !!
+
+覗くだけなんですか？ = Did you just look in?
+
+思った以上に紳士的なんですね・・ = Youre more of a gentleman than i thought.
+
+// ばれた嫌悪セリフ
+//<duplicate>！！ = !!
+
+//<duplicate>きゃぁ！！ = Kyaa! !
+
+あの、すみません、覗かないで下さぁい！！ = Um, I'm sorry, please dont look!
+
+// ばれた隷属セリフ
+//<duplicate>！！ = !!
+
+あの・・流石に覗かれるのは、 = From being peeped on that truly is....
+
+ちょっと恥ずかしいというかなんと言うか… = I say what I mean and a little embarrassing ...
+
+// ばれない
+
+// ばれない通常セリフ
+//<duplicate>あっ・・ごめんなさい、ちょっとシャワー浴びてて気がつきませんでした = There ... I'm sorry, did not notice have bathed little shower
+
+// ばれない好意セリフ
+//<duplicate>あ・・・来てくれてたんですね。 = Oh you I had came ....
+
+ごめんなさい、ちょっと気がつきませんでした。 = I'm sorry, i did not notice.
+
+また来てくださいね = Please come also.
+
+// ばれない淫乱セリフ
+あらぁ・・ごめんなさい、ちょっとシャワー浴びてるんですよぉ… = Araa ... I'm sorry, I'm bathed in a little shower Yoo ...
+
+もうちょっと早く来てくれれば、一緒に浴びれたんですけどね = If you would have comed sooner we could have bathed together.
+
+// ばれない嫌悪セリフ
+きゃ？！　どうされたんですか、そんな所で？ = If Ke? ! How did is, in such a place?
+
+ごめんなさい、ちょっと手がはなせなかったんで・・・。 = I'm sorry, Nde little was not tied up ....
+
+// ばれない隷属セリフ
+//<duplicate>あ、いらしてたんですね？ = Oh, you were needed?
+
+//<duplicate>すみません、気がつきませんでした = I'm sorry, I did not notice
+//// 風呂強姦Ｈシーン終了後
+
+// 強姦通常セリフ
+シャワー室なのに、汗かいちゃったじゃないですか = Even though shower room, is not it had sweat
+
+// 強姦好意セリフ
+ビックリしましたよぉ。 = Yoo that I was surprised.
+
+一緒にシャワー浴びたいなら、先に言ってくださいね = If you want to take a shower together, u should have told me before.
+
+// 強姦淫乱セリフ
+ちょっと狭かったけど・・・結構楽しかったですね = It ... It was quite fun, but its a little narrow
+
+// 強姦嫌悪セリフ
+あのぉ・・・あとは一人でシャワー浴びてもいいですか？ = Can I take a shower in that per cent... After that one person?
+
+// 強姦隷属セリフ
+私とのシャワーはご満足いただけましたか？ = Where you satisfied with our shower?
+
+流し忘れてる所はありませんか？ = Is there a place to forget sink?
+//// 風呂待機Ｈシーン終了後
+
+// 待機通常セリフ
+//<duplicate>今日はありがとうございます。また誘ってくださいね = Thank you for today. Also please invite again.
+
+// 待機好意セリフ
+今日は楽しかったです。 = It was fun today.
+
+あとお待たせしちゃって、すみませんでした = I'm sorry i have kept you waiting.
+
+// 待機淫乱セリフ
+//<duplicate>今日は楽しかったです。 = It was fun today.
+
+もし良かったら今度は一緒にシャワー浴びましょう = Let's take a shower together now if thats ok
+
+// 待機嫌悪セリフ
+今日はお疲れ様です。 = Compliments on your hard work today.
+
+お待たせしちゃってすみませんでした。 = I'm sorry you had to wait.
+
+// 待機隷属セリフ
+//<duplicate>お誘いいただきありがとうございました。 = Thank you for your invitation.
+
+できれば今度は、あんまりお待たせしないようにしますね = If i could, i would not have kept you waiting so long.
+//// 誘いイベント
+
+// 通常セリフ１
+あの、私からお誘いしちゃってもいいですか？ = Is it okay if i invite you?
+
+// 通常セリフ２
+私からも声をかけてみようかと思って…よろしくお願いします = Wondering what Let's call out from me ... thank you
+
+// 好意セリフ１
+あ、あの、すみません… = Oh, that, I'm sorry ...
+
+ちょっと一緒に…私と一緒に過ごしませんか = Why dont you spend a little time with me?
+
+// 好意セリフ２
+あ、あの、一緒にいきませんか？ = Oh, that, or do not go together?
+
+もちろん、私と一緒にってことです、はい = Of course, if its with me then yes!
+
+// 淫乱セリフ１
+ごめんなさい、ちょっと付き合ってもらってもいいですか？ = Sorry, is it okay if we go on a little date?
+
+なんだか、体が熱くって… = My body is feeling hot...
+
+// 淫乱セリフ２
+あの、えっちしませんか？　私と… = Umm, are you feeling horny? I am...
+
+// 隷属セリフ１
+//<duplicate>あの、申し訳ございません。 = Uh, sorry about this...
+
+もしよろしければ私と、エッチなこと、してみませんか？ = Is it good if we go do some naughty things?
+
+// 隷属セリフ２
+あの・・よろしければ私と一緒に、エッチ、して下さい = Please would it be good if we had sex together?
+
+// 選択肢１-選択１
+
+// 通常選択
+ありがとう。それじゃあ、行きましょう = Thank you. Well then, let's go
+
+// 好意選択
+あ、ありがとう！ = Oh, thank you!
+
+えっと、それじゃあ、一緒に行きましょう！ = Well, Well then, let's go somewhere together!
+// 隷属選択
+//<duplicate>よろしくお願いします。 = Nice to meet you.
+
+それでは…どこでしましょうか？ = So... Where shall we do it?
+
+// マップ切り替え
+
+// 通常Ｈセリフ
+//<duplicate>それじゃあ・・・はじめましょうか = If you want to do it then lets begin...
+
+// 好意Ｈセリフ
+あの、私が誘ったから、私からしてもいいですか？ = Is it okay if we do it here?
+
+// 淫乱Ｈセリフ
+それじゃあ、今日は私が気持ちよくしてあげますね = Alright, I have a good feeling about this.
+
+// 隷属Ｈセリフ
+私ががんばりますので・・楽しんでくださいね・・・。 = I will do my best so please do enjoy...
+
+// 選択肢１-選択２
+
+// 通常ごめん
+い、いいんですよ。ごめんなさい、また今度お願いします = Yeah, thats good. But i will need your help...sorry
+
+// 好意ごめん
+あ、あぁ…だめなんですね… = Oh, Oh ... but it was useless ...
+
+わかりました、じゃあまた今度お誘いしますね = Okay, So i will invite you now.
+
+// 隷属ごめん
+すみません、ご無理を言ってしまったみたいで・・・また改めてお誘いいたしますね・・。 = I'm sorry, ... also I will invite you again ... i hope im not being unreasonable.
+
+// 通常
+
+// 通常Ｈセリフ
+どうもありがとう、お付き合いいただいて楽しかったです = Thank you very much, it was fun to our relationship you
+
+// 好意Ｈセリフ
+あの、今日はありがとうございました… = That, Thank you for today ...
+
+一緒に過ごせて、嬉しかったです = Im happy we spent some time together.
+
+// 淫乱Ｈセリフ
+//<duplicate>はぁはぁ、 = Haah haah
+
+すごく気持ちよかったですよ。 = This feels nice.
+
+今日はお付き合いしてくれて、どうもありがとうございました = Thanks for meeting up with me today.
+
+// 隷属Ｈセリフ
+//<duplicate>ありがとうございました。 = Thank you very much.
+
+お付き合いいただき幸せでした・・・また、お願いします = ... Also im happy to have met you, thanks.
+
+// 脱力
+
+// 通常脱力セリフ
+//<duplicate>はぁはぁはぁ・・ = Haahaahaa ...
+
+これ以上はもう無理です・・・ちょっと激しすぎですよぉ・・はぁはぁ・・。 = I was about to reach my limit....it was so intense.
+
+// 好意脱力セリフ
+//<duplicate>はぁはぁはぁ・・ = Haahaahaa ...
+
+ど、どうして・・・勝手に動いちゃうんですかぁ・・ = I didn't give you permission to take over....
+
+おかげで、気持ちよくなっちゃいましたよ… = Thanks, It felt so good...
+// 淫乱脱力セリフ
+//<duplicate>はぁはぁはぁ・・ = Haahaahaa ...
+
+こんなに気持ちよくなっちゃうなんて・・また誘いたくなっちゃいますよぉ。 = Yoo that we are tempted invitation or ... Nante become so comfortably.
+
+// 隷属脱力セリフ
+//<duplicate>はぁはぁはぁ・・ = Haahaahaa ...
+
+ビックリ、しましたぁ・・・ = I was suprised...
+
+はぁはぁ、あ、あの・・楽しんでいただけましたか？ = And?...did you enjoy it...?
+//// 逃走イベント
+//<duplicate>反応が無い・・・ = Reaction there is no ...
+
+//<duplicate>彼女の姿が見当たらない・・・ = Her figure is missing ...
+
+// 心配イベント
+//<duplicate>！！ = !!
+
+わざわざ探しに来てくれたんですか？ = Did you come all this way looking for me?
+
+ご苦労様です = Thank you for your hard work.
+
+それじゃ、もうしばらく一緒にいて下さい = Well then, i think we should spend some time together.
+// 説得イベント
+//<duplicate>！！ = !!
+
+あ、どうも・・・大丈夫ですよ、すぐに戻りますから…お構いなく = Oh, it 'is very much ... okay, because to go back soon ... DONT BOTHER
+//// 心配イベント終了後
+・・・・探しにきてくれてありがとうございます・・・本当に嬉しいです。 = ...Im really happy you came looking for me....Thank you.
+
+// 完全逃走
+//<duplicate>反応が無い・・・ =Reaction there is no ...
+
+//<duplicate>彼女の姿が見当たらない・・・ = Her figure is missing ...
+
+//<duplicate>失礼します。 = Excuse me.
+
+//<duplicate>怒って帰られてしまいましたね・・・まぁ、こんな時もありますよ。 = Well I I have been go home angry..., There is also a time like this.
+//// 怒って帰っちゃった
+//<duplicate>失礼します。 = Excuse me.
+
+//<duplicate>怒って帰られてしまいましたね・・・まぁ、こんな時もありますよ。 = Well I I have been go home angry..., There is also a time like this.
+//// 部屋に来るイベント
+あの・・こちらにいらっしゃいますか？ = Do you have to that ... here?
+
+// 誘い０
+よかったです。こちらにいてくれて。 = I'm glad, that you are here for me.
+
+あのちょっとお時間いいですか？ = Anochotto do you have time?
+
+あ、かるくおしゃべりとか… = Oh, lightly Toka chat ...
+
+// 誘い１
+//<duplicate>あ、あの、すみません… = Excuse me...
+
+なんだか、ちょっとだけあなたの声が聞きたくなって… = Somehow i was getting a little lonely i just needed to hear you voice...
+
+よかったら、お話とか、どうですか？ = If good, Toka story, how do?
+
+// 誘い汎用１
+すみません・・・また来ちゃいました = I'm sorry ... also I have come
+
+// 誘い汎用２
+あの、おじゃましても、よろしいですか？ = That, even if the Ojama, Are you sure you want?
+
+// 誘い汎用３
+//<duplicate>ごめんなさい… = Sorry...
+
+どういうわけだか、あなたの部屋が、すごく気に入っちゃったみたいで…その = There was something about your room...that i liked very much.
+
+// 仲良しトーク１
+昨日はお話ができてすごく楽しかったです、どうもありがとう。 = It was a lot of fun to talk to you yesterday, thank you very much.
+
+また時間がある時はお付き合い下さいね = Also, when there is a time please relationship you
+
+// 仲良しトーク２
+あなたとお話できてすごく楽しかったです。次はあなたのお話を聞かせて下さいね = It was really fun to be talking to you. Next Please let your story
+
+// 仲良しトーク３
+今日はありがとうございました。 = Thank you for your time today.
+
+また、来てもいいですか？ = In addition, Can you come?
+
+すごく、楽しかったから… = Really, because it was fun ...
+
+// 選択肢１-選択２
+あぁ、お留守みたいですね…残念ですが、またにしましょう = Oh, I'd like you out ... but I'm sorry, also let's
+
+// 脱力セリフ
+//<duplicate>はぁはぁ・・ = Nuke ...
+
+もう、自分の部屋だからってがんばりすぎですよ。　私、もう動けないですよぉ = The other, it too does my best just because it is their own room. I, I can not move anymore Yoo
+
+// 行動しないセリフ
+昨日はどうもありがと。いっぱいお話できて楽しかったです、 = The other, it too does my best just because it is their own room. I, I can not move anymore Yoo
+
+ウフフ = Planning is
+
+// 汎用１
+結局、こういう流れになってしまいましたねぇ… = After all, Hey it has become this kind of flow ...
+
+大丈夫、これはこれで、楽しかったです = Okay, this is now, it was fun
+
+// 汎用２－１
+あの、このまま帰りたくない場合は、住んじゃってもいいですか？ = That, if you do not want to leave this state is, do you also gone live?
+
+なんて、ちゃんと帰ります、はい = Yes i will most likely come back.
+
+// 汎用２－２
+あなたがいるから、なんでしょうか？ = Because you are, a? In
+
+この部屋で過ごすと、本当に楽しいんです = Spending time in this room really is a lot of fun.
+
+// 汎用２－３
+すごく、幸せでした。また、遊びに来てもいいですか？ = Really, I was happy. In addition, Can you come to play?
+//// 逆夜這いイベント
+あ、大丈夫です、そのまま寝ていてください、私が動くから問題ありませんよ = Oh, it's alright.  You can keep on sleeping, I'll do all the work.
+
+// 脱力
+//<duplicate>はぁはぁ・・ = Nuke ...
+
+楽しかったですね・・・たまにはこういうのもいいですね・・・！ = It is good also this kind of sounds ... Sometimes it was fun ...!
+
+// 汎用
+//<duplicate>はぁはぁはぁ・・・ = Pwew...
+
+こ、こんなに激しくされちゃったら…も、もう…むりですよぉ… = If you wait too long, I may get rough on you.
+
+// 初回Hイベント
+
+// 通常H１
+こんにちは、　はじめまして。 = Hello, nice to meet you.
+
+あなたがお相手してくださるんですか？ = Do you really want me to be you partner?
+
+あの、私不慣れなもので、ご迷惑をおかけするかも知れませんがよろしくお願いします。 = Im inexperienced i apologize in advance for the inconvenience thank you for putting up with me.
+
+// 通常H２
+//<duplicate>はじめまして。　こんにちは。 = Hello, nice to meet you.
+
+あ、えーと今はこんにちはで、大丈夫ですよね？ = Oh, Well now I am in Hello, I'm okay?
+
+すみません、私、初めてなものですからちょっと緊張しているみたいです。 = Im sorry i was a little nervous its because i did those things for the first time.
+
+// 通常H３
+あのぉ…はじめまして、よろしくお願いします。 = That per cent ... Nice to meet you, thank you.
+
+私、経験がないので、何をすればいいのかよく分からないのですが、がんばります。 = I have little experience so i might not know what to do, but ill do my best.
+
+// 好意H１
+初めまして、こんにちは。 = Hello, nice to meet you.
+
+あの私でよろしかったんですか？ = Do you were very well in that me?
+
+なんだか、初めてなので緊張しています。 = I am nervous because this is the first time for me.
+
+// 好意H２
+はじめまして。 = Nice to meet you.
+
+あの、私正直初めてなんです。 = To be honest that was the first time that i did this.
+
+ご迷惑をおかけするかも知れませんが、よろしくお願いしますね = I should apologize for the inconvenience, thank you.
+
+// 好意H３
+//<duplicate>あの…よろしくお願いします。 = Umm.... Welcome.
+
+私、初めてなので、やっぱり緊張してるみたいです。 = Because its the first time for me i still feel tense.
+
+// 好意H４
+//<duplicate>はじめまして。 = Nice to meet you.
+
+//<duplicate>あの、私正直初めてなんです。 = To be honest that was the first time that i did this.
+
+//<duplicate>ご迷惑をおかけするかも知れませんが、よろしくお願いしますね = I should apologize for the inconvenience, thank you.
+
+//<duplicate>初めまして、こんにちは。 = Hello, nice to meet you.
+
+//<duplicate>あの私でよろしかったんですか？ = Do you were very well in that me?
+
+//<duplicate>なんだか、初めてなので緊張しています。 = Im nervous because this is the first time for me.
+
+// 好意H６
+//<duplicate>あの…よろしくお願いします。 = Umm.... Welcome.
+
+//<duplicate>私、初めてなので、やっぱり緊張してるみたいです。 = Because its the first time for me i still feel tense.
+
+// 淫乱H１
+//<duplicate>初めまして、よろしくお願いします。 = Nice to meet you.
+
+すみません、不慣れなもので… = I'm sorry, im unfamiliar with this....
+でも、こういう事に興味がないわけじゃないんで大丈夫だと思います。 = But, I think that it is okay it doesnt mean i have no interest in these things.
+
+// 淫乱H２
+あなたが、お相手の方なんですね？ = You, I'm a person who partner?
+
+//<duplicate>よろしくお願いします。 = Nice to meet you.
+
+正直初めてなんですが…なんだか、すごく楽しみです = Honestly this is my first time, but....im really looking forward to it.
+
+// 淫乱H３
+あの… = that…
+
+初めてお会いするのに…こういうのってどうかと思うんですが… = But I think that if I though ... such to seeing for the first time you ...
+
+私、自分で動いてみたいと思ってたんです = I, I thought I want to move on their own
+
+// 淫乱H４
+それでは、よろしくお願いします。 = Well, then, I'm looking forward to working with you.
+
+正直初めてなので、緊張するのかと思ったけど、 = Honest because for the first time that, I thought whether to tension,
+
+あなたとなら大丈夫な気がします = Im okay with it if you are.
+
+// 淫乱H５
+あの、誘ってくれてありがとうございます。 = Thank you for inviting me.
+
+実は私、結構エッチなこと好きなんですよ。 = Actually I, I guite like naughty things.
+
+だから、楽しみです。 = So, I look forward to it.
+
+// 淫乱H６
+//<duplicate>今日はよろしくお願いします。 = I'm pleased to meet you.
+
+恥ずかしいんですが、私結構エッチな事に興味あるんですよ = It's kinda embarrassing, But i am quite interested in naughty things.
+
+// 嫌悪H１
+あ、こんにちは・・・ = Oh, hello ...
+
+そうですか、ここでするんですか。 = Is that so, do you do here.
+
+ここはそんなにおススメしないというか、したくないというか… = I mean here is not recommended so, or rather do not want to ...
+
+// 嫌悪H２
+//<duplicate>あのぅ・・・よろしく、お願いします。 = That U ... Best regards, thank you.
+
+不慣れなので、できれば遠慮したいなぁ、なんて思ってるんですが…無理でしょうか？ = Im so inexperienced and i think i want to refrain from it....but its impossible dont you think?
+
+// 嫌悪H３
+あなたとここでエッチするんですね・・ = We had sex, here....
+
+お互い初対面ですから、今回は挨拶だけで済ますっていうのは…難しいですか？ = Because it is each other first meeting, is it is ... difficult Tteyuu this time dispense with only greeting?
+
+// 嫌悪H４
+あの…はじめまして… = Ano ... Nice to meet you ...
+
+そうです、初めてなんです。 = Yes, I know for the first time.
+
+なので…やめておきませんか？　お互いのために… = So ... Do not leave quit? For each other ...
+
+// 嫌悪H５
+私、あまり理解できてないみたいなんですが… = I, I do like a do not make much sense ...
+
+やっぱりあなたと…しないといけないんですか？ = After all, do you not go with you ... and not if?
+
+他に何かないんですか？ = Do you not something else?
+
+// 嫌悪H６
+ど、どうも…初めまして… = Etc., very much ... Nice to meet you ...
+
+えーっと、それじゃ、これで… = Well, it 's, in this ...
+
+といワケにはいかないみたいですね… = It looks like we can not trough ...
+
+// 隷属H１
+//<duplicate>本日はよろしくお願いいたします。 = Thank you for today
+
+何なりとお申し付け下さいね。 = Please tell me what....
+
+// 隷属H２
+//<duplicate>初めまして。 = Nice to meet you.
+
+まだまだ不慣れですが、がんばってつとめさせていただきます = Im still inexperienced, but I will strive to do my best
+
+// 隷属H３
+//<duplicate>今回は私を選んでくれてありがとうございます。 = Thanks for choosing me this time.
+ご期待に沿えるようがんばらせていただきます = I will work hard to to meet your expectations
+
+// 隷属H４
+//<duplicate>初めまして。 = Nice to meet you.
+
+少々緊張していますが、ご満足していただけるように全力で頑張りますね。 = Although im a little nervous, I will do my best to satisfy you.
+
+// 隷属H５
+//<duplicate>初めまして。 = Nice to meet you
+
+がんばってあなたのご期待に応えたいので、 = I want to meet your expectations, wish me good luck.
+
+何でも好きなようにして下さいね = You just make sure you enjoy everything.
+
+// 隷属H６
+お呼びいただきありがとうございます。 = Thank's for your call
+
+ご期待に沿えるようせいいっぱいがんばりますね。 = I will do my best to live up to your expectations.
+//// 初回Hイベント終了後
+
+// 通常H１
+//<duplicate>今日はありがとうございました。 = Thank you for your time today.
+
+おかげですごく楽しい時間が過ごせました。 = I really had a fun time, thanks
+
+それでは気が向いたらまた連絡して下さいね。 = Please do contact me if you feel like it.
+
+// 通常H２
+とっても恥ずかしかったけど、素敵な時間がすごせました。 = I was very embarrassed, but it was fun.
+
+//<duplicate>ありがとうございます。 = Thank you very much.
+
+また、遊んで下さいね = In addition, please play
+
+// 通常H３
+//<duplicate>私がお相手で大丈夫でしたか？ = Was i alright as your partner?
+
+あなたが楽しかったなら、とっても嬉しいです。 = As long as i pleased you, im happy.
+
+もちろん、私はすごく楽しかったですよ。 = Of course i had a lot of fun.
+
+// 好意H１
+自分でもなんだかよく分からないくらい緊張しちゃいました。 = I have nervous much I do not know somehow may be on your own.
+
+なんだか、あなたと一緒だとすごくドキドキしちゃいます = Somehow, im really happy that it is with you
+
+// 好意H２
+//<duplicate>ふぅ・・・ = Whew
+
+エッチがあんなにどきどきしちゃうなんて、知りませんでした。 = I didnt expect us to end up fucking so hard.
+
+でも、あなたとなら、またしてみてもいいかな、なんて… = I was wondering if i could try this with you....
+
+// 好意H３
+//<duplicate>お疲れ様でした。 = Thank you for your hard work.
+
+実は私・・・まだちょっと緊張してるんですよ？ = In fact, you've been to me ... still a little nervous?
+
+なんだか、してる時より今の方が変にドキドキしてます = Somehow, is better now than when you have been strangely pounding
+
+// 淫乱H１
+どうやら私、エッチなことするの嫌いじゃないみたいです。 = Apparently it seems, i do not hate this sex thing.
+
+ひょっとして、お相手があなただからかもしれませんね、 = Perhaps im not opposed to it, maybe because of you.
+
+//<duplicate>うふふ = *giggles*
+
+// 淫乱H２
+//<duplicate>はぁ… = Haa...
+
+エッチがこんなに楽しいなんて、想像していたよりずっと素敵でした = Sex was so much fun, it was better than i had imagined.
+
+// 淫乱H３
+どうも、お疲れ様です。 = Thanks for your hard work.
+
+あの…気持ち、よかったですか？ = Was feeling like that.... good?
+
+私、すごく気持ちよかったですよ = I, i really felt good.
+
+// 嫌悪H１
+//<duplicate>はぁ… = Haa...
+
+も、もういいですよね？ = Also, but it is already good?
+
+//<duplicate>それでは失礼します = So you'll excuse me
+
+// 嫌悪H２
+お、お疲れ様です・・・・それでは、失礼します = You did so good,.... you will have to excuse me for a while.
+
+// 嫌悪H３
+どうも・・・終わりみたいですね… = It is very much like the end ... ...
+
+私にはこういうの、ちょっと厳しいみたいで… = I to this kind of is, is like a little harsh ...
+
+// 隷属H１
+いかが、でしたか？ = How was it?
+
+私、上手にできてましたでしょうか？ = Was i able to do it very well?
+
+あまり自信はありませんが、もし次があったらもっとがんばります = Although i dont feel very confident, ill do my best and hope there will be a next time.
+
+// 隷属H２
+//<duplicate>ふぅ… = Whew ...
+
+流石にちょっと疲れてしまいましたね。 = I feel a little tired indeed.
+
+でも慣れてくればもう少し上手にできる気がします = But i feel like it could have been better if you would have given me a turn also.
+
+// 隷属H３
+今ので、気持ちよかったですか？ = So, did i do good?
+
+お気遣い、ありがとうございます。 = Thank you for your concern.
+
+次からはもっとがんばりますね = I will do my best even more next time.
+//// 汎用
+
+// 通常H１
+//<duplicate>こんにちは。今日もよろしくお願いします = Hello. Thank you also today
+
+// 通常H２
+こんにちは、また私と遊んでくれるんですね。嬉しいです = Hello, im happy you played with me.
+
+// 通常H３
+//<duplicate>誘ってくれて、どうもありがとう。　今日もよろしくお願いします。 = You invited me, thank you very much.
+
+// 通常H４
+まだ少し不慣れかも知れませんが、今日もがんばります = I might be a little bit unfamiliar with it, but ill do my best today.
+
+// 好意H１－１
+えっと・・・なんでしょうね、　会ってすぐなのに、いきなりドキドキしてますよ。 = I didn't guess we would meet and immediately end up fucking.
+
+// 好意H１－２
+//<duplicate>誘ってくれてありがとうございます。 = Thank you for inviting me.
+
+今ちょうどあなたに会いたいなぁって思ってたところなんです。 = Now I just do a place that I thought I I want to meet you.
+
+// 好意H１－３
+//<duplicate>こんにちは… = Hello…
+
+あの、ちょっと緊張してるみたいなんですが、よろしくお願いします = Im a little nervous, but thank you.
+
+// 好意H１－４
+あ、どうも・・・よろしくお願いします。 = Oh, and thank you.... very much.
+
+なんだか、ちょっと胸が苦しい感じがしますが、問題ないとおもいます = Somehow i feel a little nervous, but there should be no problem
+
+// 好意H２－１
+//<duplicate>こんにちは… = Hello…
+
+あの、あなたからのお誘いだったんで…何故だか急いできてしまったみたいです = hat, Nde was the invitation from you ... I want had been in a hurry or it is why
+
+// 好意H２－２
+誘ってくれてありがとうございます。なんだか、すごく嬉しいです = Thanks for inviting me, it made me very happy.
+
+// 好意H２－３
+あの、せっかく誘っていただいたんですから・・・私から何かしてあげたいかな、なんて… = That, ... wonder if I want to do something from me because I was kindly invited much trouble, it is ....
+
+// 好意H２－４
+あの、今日はあなたの好きなことしていただいても… = That, today even if it has to be your pick ...
+
+あ、なんでもってワケじゃないですけどね = Oh, but it does not mean I anything
+
+// 好意H３－１
+あの…よろしくお願いします… = That ... Thank you ...
+
+えっと、何故だかわからないんですが、緊張してしまいます = I do not know what it is, but im nervous.
+
+// 好意H３－２
+ど、どうしましょうか？！ = Do you want to have sex?
+
+あなたに会った途端、顔から火が出るくらい熱くなってきちゃいました = As soon as I met you, my face started burning.
+
+// 好意H３－３
+//<duplicate>ありがとうございます。 = Thank you very much.
+
+あなたと過ごすのをすごく楽しみにしていました = I was very much looking forward to spending time with you.
+
+// 好意H３－４
+この場所はそれなりにお気に入りです = This place is special in its own way
+
+…あなたに会えたから、かも知れません = ... Because I see you, you might
+
+// 淫乱H１－１
+そうですね、私も興味がないわけじゃないんで、がんばってみます = Well, Nde I also does not mean there is no interest, try hard
+
+// 淫乱H１－２
+それなりに、エッチなことも楽しくなってきたかも知れません・・ = Its own way to, it might also have become fun and naughty thing ...
+
+// 淫乱H１－３
+あなたと、気持ちいい事するのが、すごく楽しみです = Im looking forward to it, because it feels very good.
+
+// 淫乱H１－４
+それでは、今日は私からしてみてもいいですか？ = So, Can I try something today?
+
+大丈夫です。こういう事にも慣れておかないといけないわけですから…ね = It's okay. Because I always do when you do not get used to these things ... I
+
+// 淫乱H２－１
+//<duplicate>あなたと、楽しいことをたぁくさん、しましょうね、 = Let's have fun
+
+//<duplicate>うふふふ = Ufufufu
+
+// 淫乱H２－２
+こまりましたね。 = I was troubled.
+
+最近あなたを見るだけで、体のとある部分が熱くなってくる気がするんです = Recently, when i see you my body becomes hot.
+
+// 淫乱H２－３
+あなたに誘われたと思うだけで、エッチなことをする想像で頭がいっぱいになってしまいます = When i get invited by you, i start to imagine all the naughty things we are going to do.
+
+// 淫乱H２－４
+あなたとお会いするだけで、なんだか体の奥がふわふわしてくるみたいです = When i meet you i start to become light headed.
+
+// 淫乱H３－１
+なんだか、今日は積極的に自分から動いてみたい気分なんですが、大丈夫ですか？ = I want to start off aggressively today, ok?
+
+// 淫乱H３－２
+最近、あなたが誘ってくれるのをずっと待ってるんです… = I have been waiting for you to invite me recently....
+
+どうしても、我慢ができなくなって来そうです = Absolutely, i will go, i can no longer wait.
+
+// 淫乱H３－３
+今日はたくさんあなたとエッチなことがしたいです。 = I want to have a lot of sex with you today.
+
+いっぱい遊んで下さいね = I want to go all out.
+
+// 淫乱H３－４
+今日は思いっきりエッチなことをしても大丈夫ですよ。 = I'm ok big time with doing naughty things today.
+
+たくさん気持ちよくなりたいです = I want you to make me feel good.
+
+// 嫌悪H１－１
+困りましたね・・・どうしてもしたいんですか？ = You want to do it, really?.... i was starting to get worried.
+
+困りましたねぇ = I was worried.
+
+// 嫌悪H１－２
+正直言いますと、あまりエッチなことは得意じゃないというか何というか… = When you say honestly, it means something that is not a good thing too etch ...
+
+// 嫌悪H１－３
+あなたに対して不慣れというか、エッチに対して不慣れというか… = Or rather unfamiliar to you, or rather unfamiliar to etch ...
+
+どちらともいえない感じです = Both and I feel not say
+
+// 嫌悪H１－４
+実をいいますと、正直エッチには乗り気じゃないです… = If you say the truth, the honest etch Is not willing ...
+
+お話くらいなら、いいですけど = If much talk, but it is nice
+
+// 嫌悪H２－１
+ま、待ってください？！　お尻になにをするんですか？ = Also, please wait?! Do you to do in the ass?
+
+できればお尻はそっとしておいていただけると… = When you do it in my butt be sure to be gentle...
+
+// 嫌悪H２－２
+あの・・ちょっと疲れが出てきてるようなので、あまり無茶なことはご遠慮下さい = Since that ... such as have been a little out tired, please refrain from it so much reckless
+
+// 嫌悪H２－３
+何をするんですか？ = What do you to do?
+
+お付き合いするの、体力的に難しいかもしれません = To your relationship, you might as physically difficult
+
+// 嫌悪H２－４
+今日も、なにかするんですね？ = Also today, I got to something?
+
+やめておいた方がいいんじゃないでしょうか = Would not it be better to leave quit
+
+// 嫌悪H３－１
+お誘いありがとうございます。 = thank you for the invitation.
+
+でも今日はあんまり日取りがよくないかと…。 = But whether not so much good date today ....
+
+// 嫌悪H３－２
+今日は私じゃなくて、ほかの人の方がよかったかもしれませんよ = Today is not my cup, it might was better for other people
+
+// 嫌悪H３－３
+私に構うと…あまりいい気分じゃなくなってしまいますよ… = When the cares to me ... will no longer not feel like a very good ...
+
+// 嫌悪H３－４
+困りましたね… = We were troubled ...
+
+正直、乗り気じゃないんですよ…体調が悪いのかも… = Honest, it is that bad is reluctant'm not I'm ... physical condition ...
+
+// 隷属H１－１
+お任せ下さい。しっかり勤めさせていただきます = Please leave. We will firmly served
+
+// 隷属H１－２
+がんばって、ご期待に応えてみせます。 = Good luck, giving the appearance to meet the expectations.
+
+私なりにですが… = I Nari is in, but ...
+
+// 隷属H１－３
+あなたの望みをできうる限りかなえて差し上げたいです = I want to do what ever it is you desire.
+
+// 隷属H１－４
+大丈夫です。あなたの望みがかなえられるようがんばります = It's okay. I will do my best so that your wish is granted
+
+// 隷属H２－１
+あなたに喜んでもらえるように、しっかりやりますね。 = Im willing, I'll do it firmly for you.
+
+// 隷属H２－２
+お任せ下さい。大丈夫です。 = Please leave. It's okay
+
+自分のためでもありますから = It may have some in for yourself
+
+// 隷属H２－３
+お誘いいただきありがとうございます。 = Thank you for inviting me.
+
+がんばりますから何かあったら指示して下さいね！ = Please just tell me what you want i will do my best.
+
+// 隷属H２－４
+あなたの望む通りに動いてください。 = Please just do whatever you want.
+
+がんばって応えて見せますから = Because it shows to meet Good luck
+
+// 隷属H３－１
+あなたに気持ちよくなっていただければ、私はそれで満足です = As long as you feel good i will be satisfied.
+
+// 隷属H３－２
+私でできることなら、なんでもします。 = You can do everything you want with me.
+
+一応限界はありますけどね = But I there a prima facie limit
+
+// 隷属H３－３
+ある程度無茶な要求でもがんばって応えます。 = I will fullfill all your requests.
+
+ある程度以上は難しいです = To some extent or more is difficult
+
+// 隷属H３－４
+・・・んふぅ、はぁ… = ... Nfuu, Haa ...
+
+こ、このくらいなら…まぁ、大丈夫です… = This, if this much ... Well, okay ...
+
+長引かなければ…はい = If not prolong ... Yes
+
+// 壊れH１
+//<duplicate>・・・・・。 = ........
+
+// 壊れH２
+・・誰ですかぁ？　　なんでもいいですねぇ・・・。 = .....For someone? anything is good hey.....
+
+// 壊れH３
+もう、なんでも…いいですよぉ… = The other, is anything ... good Yoo ...
+
+// 結果１
+・・・あは・・・あはは・・・　きもりひぃ・・・ = ... Aha ... Well done ... Kimori Hyi ...
+
+// 結果２
+ひい・・・もっろ・・・ひて・・・くらはい・・・ = Great-... Morro ... fire ... dark grayish ...
+
+// 結果３
+//<duplicate>もっろ、ひっぱい…きもひよく、ひてほしい…れふ… = Morro, Hippai ... can be fertile, Hitehoshii ... reflex ...
+
+// 結果４
+あははは・・も・・きもひりょくて・・・あんにも…かんがえ、られまへぇん・・ = Well done is ... well ... Kimohi force on ... An'nimo ... thinking, Rarema Hen ...
+
+// 通常H
+あの、もう回復できたみたいです…すみません、ご心配おかけして。 = That, it seems the longer recovery ... I'm sorry, I'm sorry to hear your concern.
+
+// 好意H
+ありがとうございます。おかげで感覚が戻ってきました… = Thank you very much. The sensation came back
+もう、あんまり無茶なことしないで下さいね = The other, I do not thing so much reckless
+
+// 淫乱H
+気持ちいいまま、どこかにいってたみたいですね… = Feels good while, I'd like was going somewhere ...
+
+でも、戻って来れて良かったです、 = But, it was good to come back
+
+//<duplicate>ふぅ… = Whew ...
+
+// 嫌悪H
+//<duplicate>はぁ… = Haa...
+
+完全に壊れちゃうんで、あんまり無茶な事はご遠慮下さいね = Im completely destroyed, but please refrain from so much crazy things
+
+// 隷属H
+どうやら、大変な状態になっていたみたいですね… = Apparently, I'd like had become a great state ...
+
+でも、おかげで助かりました。ありがとうございます。 = But, I was saved thanks. Thank you very much.
+
+// 通常H－１
+おかひいれふ・・・かららにひからが入りまへん・・ = Mahen ... contains from Okahiirefu ... Kararanihi
+
+// 通常H－２
+//<duplicate>はぁ… = Haa...
+
+怖いくらい、体が反応してしまいました・・しばらくは、控えた方がいいですね = Its scary the way my body reacts it might be better to refrain from it next time.
+
+// 通常H－３
+ありぇ？　　おかひいれふぅ・・・わらひ、かららにひから・・はいりまへんよぉ = Arie? Okahiire Whew ... Warahi, enter ... from Kararanihi Mahen Yoo
+
+// 通常H－４
+//<duplicate>はぁはぁ、 = Haah haah
+
+だ、ダメです…私にはちょっと、ハードすぎたみたいです・・・。 = It is no good ... to me a little, it seems was too hard ....
+
+// 好意H－１
+//<duplicate>はぁはぁ、 = Haah haah
+
+無茶しないで下さいぃ…なんだか気をうしないそうでしたよぉ = Ii Do not unreasonable ... Yoo was somehow going to lose the care
+
+// 好意H－２
+らめれふぅ…もう、はんはくがぁ、おかひくなって・・きまひたぁ・・・ = Ramerefuu ... anymore, Hanhakugaa, ... Kimahitaa ... become Okahiku
+
+// 好意H－３
+もうらめれふぅ、しゅこし・・・やしゅませて、くらはぁい・・・ = Another Ramerefuu, and Mase Shukoshi ... rustic, Kurawaai ...
+
+// 淫乱H－１
+うぅ～ん・・・ = UU ~ N ...
+
+こんな、飛ぶような感覚を味わえるなんて…あなたって本当にすごいんですね = It felt like i was flyng... you where amazing.
+
+// 淫乱H－２
+こんなに気持ちいいの初めてです…まだ、体の感覚がおかしいですよ = It's the first time it i felt so good ... my body feels funny.
+
+// 淫乱H－３
+しゅ、しゅごいれふぅ・・いきふぎて・・・からら、おかひいれふぅ… = Zhu, the patron put Whew ... Ikifugi on ... Carrara, Okahiire Whew ...
+
+// 嫌悪H－１
+ほ、ほれは…もぉ…むりれふぅ…ゆるひてくらはい = Ho, yes love is on ... Geez ... Murirefuu ... Yuruhi Kula
+
+// 嫌悪H－２
+ら、らめれふ・・苦ひすぎまふ…もう…おわりに、ひてくらはい = Et al., Sugimafu ... another ... Conclusion Ramerefu ... Kuhi, HiteKura Yes
+
+// 嫌悪H－３
+もうあそこまでいっちゃうのはきついんで…許してください = Nde tight to have gone the other until there is ... Please forgive me
+
+// 隷属H－１
+きもひ、よかっはれふか？　わたひも…よかっはれす… = Kimohi, good swelling shark? Watahimo ... it is swollen good ...
+
+// 隷属H－２
+・・・んぐぅ・・んはぁ・・・ = ... Nguu ... N Huh ...
+
+こ、これは・・かなり反応しちゃいましたねぇ = This, this is Hey I have pretty reaction ...
+
+// 隷属H－３
+おかげで、いき過ぎて、しまいましたぁ… = Thanks, § past live, it was put away ...
+
+// 通常H－１
+今のは、ちょっと厳しいです = Now the is a little tough
+
+// 通常H－２
+ごめんなさい・・・苦しいのはちょっと。 = I'm sorry ... painful for a little bit.
+
+// 好意H－１
+これは苦痛なんですけど… = But this is I know pain ...
+
+// 好意H－２
+あの…できれば遠慮したいです = That ... I want to refrain if possible
+
+// 淫乱H－１
+うぅん…こういう感覚なんですね？　知らなかったです = Un ... I'm this kind of sense of? I did not know
+
+// 淫乱H－２
+どうやら、ある程度苦痛の先に… = Apparently, to some extent ahead of the pain ...
+
+色々あるみたいですね = I'd like some variety
+
+// 嫌悪H－１
+えぇっと…これは、なんというか…やめて欲しいです = And Ee' ... This is, I want or ... quit say what
+
+// 嫌悪H－２
+厳しいですね、これ…違うことの方がまだいいかもしれません = It is tough, this ... more of that different might be still good
+
+// 隷属H－１
+これで満足していただけますか？　でも、苦しいですね = This Can you satisfied? But it is painful
+
+// 隷属H－２
+大丈夫です、我慢します。でも…頃合を見てやめて欲しいです = Okay, we put up. But ... I want you to stop looking at the suitable time
+
+// 通常H－１
+すごく恥ずかしかったですよ…もう、顔から火が出そうです = Really it's ...embarrassing, my face is all red.
+
+// 通常H－２
+こんなの恥ずかしすぎますよ = You kind of too shy
+
+// 通常H－３
+こんな恥ずかしい事するなんて、ちょっと困ってしまいます = I have a little trouble with these embarrassing things.
+
+// 好意H－１
+あの、さすがに恥ずかしすぎると思うんですが… = Ok, but im really shy...
+
+// 好意H－２
+どうして、こんな恥ずかしい事しちゃうんですか？ = I'm just so embarrassed.
+
+// 淫乱H－１
+恥ずかしかったけど…なんだか、刺激的でしたね = Even though i was embarrassed... somehow it was exciting.
+
+// 淫乱H－２
+うぅん…照れちゃいますけど…なんだか熱くなっちゃいますね = Uh...i am shy... and i feel hot.
+
+// 嫌悪H－１
+あの…できればこんな恥ずかしいのは遠慮したいです = I prefer to refrain from such embarrasing things, but its not...possible.
+
+// 嫌悪H－２
+恥ずかしすぎます…もう同じことは、控えて欲しいです = Too embarrassed ... the other the same thing, I want you to refrain from
+
+// 隷属H－１
+あの羞恥に耐えるのがお望みだったんですか？ = Even tho you are shy do you whitstand that what you want?
+
+かなり厳しかったですよ？ = It was pretty tough?
+
+// 隷属H－２
+恥ずかしかったです。 = It was embarrassing.
+
+でも、我慢しました。ご満足いただけましたか？ = Are you satisfied that i put up with it?
+
+// 通常H－１
+すみません、私だけ気持ちよくなってしまって = I'm sorry, and I only ended up comfortably
+
+// 通常H－２
+ありがとうございます、すごく気持ちよかったです = Thank you, it felt really good.
+
+// 通常H－３
+次は、一緒に行きたいですね = I next, I want to go together
+
+// 通常H－４
+がんばったんですけど、 = But we were working hard,
+
+いかされてしまいました = It has kept alive
+
+// 好意H－１
+あなたの前でいっちゃうなんて、なんだか妙に恥ずかしいです = Nante would say in front of you, it is to somehow strangely embarrassed
+
+// 好意H－２
+//<duplicate>ごめんなさい… = Sorry...
+
+でも次は一緒に気持ちよくなりたいですね = It is but the next want to be comfortably together
+
+// 好意H－３
+私だけでいっちゃうなんて、ちょっと寂しい気もしますね = Nante would say I just, I will also feel a little lonely
+
+// 淫乱H－１
+私だけ、気持ちよくなっちゃいましたね…とってもよかったです = I just, I Was I ... was very good become comfortably
+
+// 淫乱H－２
+気持ちよかったです。次はあなたもご一緒してくださいね = It was felt good. The following are but please please with you too
+
+// 淫乱H－３
+私だけいっちゃって終わりですか？ = Does it end and gone just me?
+
+あなたがそれでいいのなら… = If you are good in it ...
+
+// 嫌悪H－１
+無理やり・・いかされるのは…ちょっと苦しいですね。 = Force ... from being Ikasa is ... It is a little painful.
+
+// 嫌悪H－２
+・・・こ、こまりましたね…息が苦しいです = ... This, I was troubled ... is breath painful
+
+// 嫌悪H－３
+正直・・いかされるとは・・思ってませんでした・・ = Is to be Ikasa honest ... I did not expect ... ...
+
+// 隷属H－１
+すみません、なんだか私だけ気持ちよくなってしまって = I'm sorry, and I somehow become comfortable just me
+
+// 隷属H－２
+私だけですけど、よろしいんですか？ = But it's just, do you want?
+
+でしたら、いいんですけど = Could Once, I'm good
+
+// 隷属H－３
+次にするときはあなたと同時に…私、がんばります = Then when you are at the same time with you ... I, I'll do my best
+
+// 通常H－１
+あの…私まだだったんですが…まぁいいですね = That ... but I I was still ... It's nice Well
+
+// 通常H－２
+あなただけですか？ = Do you only?
+
+まぁそういう日もありますね = I Well, there is also a kind of day
+
+// 通常H－３
+あれ？　私の分は？　なしですか？ = that? My minute? Is None?
+
+// 通常H－４
+できれば、次はちゃんと・・お願いしたいです = If possible, the next step is you want to properly ... please
+
+// 好意H－１
+あ、あなたが気持ちよくなれたなら、それでいいんです、はい = Oh, if you were accustomed comfortably, so I say, yes
+
+// 好意H－２
+できれば、私もいきたかったですが… = If you can, but I'm also wanted to go ...
+
+タイミングもありますから = It may have some timing
+
+// 好意H－３
+気持ちよくなってもらえてよかったです。 = I'm glad i could make you feel good.
+
+まぁ、私も一緒ならなおよかったですけど… = Well, I also though it was if It should be noted that good together ...
+
+// 淫乱H－１
+あの、私はまだなんですが…終わりですか？ = Well, do I, but I'm still ... the end?
+
+// 淫乱H－２
+あの、そんなに気持ちよかったですか？　一人だけでいっちゃうくらい？ = That, Is was so much felt good? Much I would say only one person?
+
+// 淫乱H－３
+あなただけいっちゃいましたね・・・次は私もいきたいです = You I ... Next I have said only is I want also to go
+
+// 嫌悪H－１
+気持ち良かったですか？ = Did it feel good?
+
+・・・それはそれは結構なことで = ... It is it is something quite
+
+// 嫌悪H－２
+お疲れさまです…私はあまり疲れなかったのでよかったです = is cheers for good work ... I'm glad I did not tired too much
+
+// 嫌悪H－３
+//<duplicate>満足できましたか？ = Are you satisfied?
+
+そうですか。ではこれで失礼します = Is that so. In and rude in this
+
+// 隷属H－１
+//<duplicate>ご満足いただけましたか？ = Did i satisfy you?
+
+私はいってませんが、まるで気にしていませんよ = I do not say, but it does not have to worry about though
+
+// 隷属H－２
+あなたが気持ちよくなれたのなら…それで私は満足です。そのはずです。 = If you felt good ... then i am satisfied. You should know that.
+
+// 隷属H－３
+気にしないでください、私は大丈夫です。 = Please do not worry, I'm okay.
+
+いってなくても… = Even without saying ...
+
+// 通常H－１
+今日はありがとうございました、それじゃまたお会いしましょうね。 = Thank you for today, we'll see it 's also your.
+
+// 通常H－２
+それでは今日はこの辺で失礼します。　お元気で。 = So today we'll excuse me in this side. I hope you're fine
+
+// 通常H－３
+すごく楽しかったですよ。　またお誘い下さいね。 = It was really fun. Also please teaser.
+
+// 通常H－４
+ありがとうございました。また会ってくださいね = Thank you very much. Please, met also
+
+// 通常H－５
+楽しかったです。　良かったらまた声をかけて下さいね。 = it was fun. Please, multiplied by the voice also when it is good.
+
+// 好意H１－１－１
+なんだか、このままずっと一緒にいられたらって… = Somehow, i feel the need to remain together with you forever...
+
+いえ、なんでもありません = No, I do not have anything
+
+// 好意H１－１－２
+あの…いつか二人でお出かけとかしてみたいですね… = That ... I'd like to Toka reached in one day two people ...
+
+できればもっとこう健全な方向で = In more this healthy direction if possible
+
+// 好意H１－１－３
+私…何故だかあなたと一緒にいる時間が、 = I ... have time to be with you or it is why
+
+ものすごく愛おしい感じがします… = This is a terribly adorable feeling ...
+
+なんなんでしょうね、これ = I guess what such, this
+
+// 好意H１－２－１
+えっと、 = Well,
+
+できればまた、あなたにお会いしたいです = If you can also, I want to see you
+
+// 好意H１－２－２
+できれば、また誘ってもらえると嬉しいです/// = If possible, also I am happy to get invited
+
+// 好意H１－２－３
+//<duplicate>今日はお別れなんですね？ = But it was farewell today?
+
+なんだか、ちょっと寂しいですね = Somehow, it is a little lonely
+
+// 好意H２－１
+あの・・・ = that...
+
+またいつでも、誘ってくださいね = Please invite me, any time.
+
+// 好意H２－２
+また、次もさそって下さい、お待ちしてます！！ = In addition, it should next be invited, I am waiting! !
+
+// 好意H２－３
+今日はすごく楽しかったです・・ = Today really was fun ...
+
+ありがとう、ございました = Thank you very much
+
+// 淫乱H１－１－１
+//<duplicate>はぁ、はぁ・・ = Huh, huh ...
+
+困りましたね、こんなに気持ちよかったら、絶対クセになっちゃいそうですね = I was worried, but it felt so good, it is likely to become a habit.
+
+// 淫乱H１－１－２
+はぁ、はぁ・・・・ = Huh, huh ...
+
+もう、エッチの時はあなたじゃないと満足できなくなってるかも知れませんね = The other, when the etch it might have been can not be satisfied that it is not yours
+
+// 淫乱H１－１－３
+なんだか最近、あなたとのエッチのことばかり考えてるみたいなんです。 = Somehow recently, im only thinking of the sex im having with you.
+
+できれば、責任とって下さいね = If possible, please take responsibility
+
+// 淫乱H１－２－１
+//<duplicate>はぁ…気持ちよかったです。 = Huh ... it was good.
+
+もっと…いえ、なんでもないです = more… eh, that's it?
+
+// 淫乱H１－２－２<淫乱80～100②><01/01><頬赤0.4>
+良かったら、また誘ってくださいね・・・ = When it is good, also I please invite ...
+
+できれば、お相手はあなたがいいなと、思っていますので… = If possible, your opponent and you be nice, so I thought ...
+
+// 淫乱H１－２－３
+すごく良かったです。またいつでも誘ってくださいね。お待ちしています = Really it was good. Also please invite me at any time. I'll be looking forward to it.
+
+// 淫乱H２－１
+//<duplicate>はぁ、 = Huh,
+
+すごく気持ちよかったです。　また一緒にエッチしましょうね = Really it felt good. So let's have more sex together.
+
+// 淫乱H２－２
+今日はここまでですね？ = Are you up for it today?
+
+あなたとまだまだ気持ちよくなれる気がしますけど…まぁいいです = I feel to become still more comfortable with you but ... Well, whatever
+
+// 淫乱H２－３
+//<duplicate>はぁ、はぁ・・・・ =Huh, huh ...
+
+あなたとのエッチ、すごく幸せに感じます。 = Sex with you, i feel very happy.
+
+// 嫌悪H１－１－１
+どうも、かなり疲れてきたみたいです… = It seems that i have become pretty tired.
+
+帰って休みます = You just sit back.
+
+// 嫌悪H１－１－２
+そうですね… = I agree…
+
+できればしばらくはゆっくりと一人ですごしたいですね = I want to spend some time alone if possible.
+
+// 嫌悪H１－１－３
+・・・お疲れ様です。 = ....You did really good.
+
+…できれば、距離をおきましょう。それがお互いのためのような気がします = ... If possible, let's put the distance. It will feel like for each other
+
+// 嫌悪H１－２－１
+//<duplicate>はぁ・・・ = Huh ...
+
+ご苦労様です・・ではさようなら = Goodbye In hardship it is like ...
+
+// 嫌悪H１－２－２
+もう、いいですから…そのままお帰り下さい = The other, is because ... Please return your as it is good
+
+// 嫌悪H１－２－３
+いいですよ・・・気にせずに帰って下さい = Please back without'm good ... care
+
+// 嫌悪H２－１
+//<duplicate>はぁはぁ・・ = Nuke ...
+
+どうも、お疲れ様でした。私はこれで失礼します = Apparently, it was cheers for good work. I will excuse me in this
+
+// 嫌悪H２－２
+申し訳ありませんが、お先に失礼します。それでは = Sorry, but ahead rude. So
+
+// 嫌悪H２－３
+お疲れ様。お先に帰っていただいていいですよ = Cheers for good work. But i need to get going.
+
+// 隷属H１－１－１
+どうでしたか？ = how was it?
+
+私、あなたの希望に応えることができてましたか？ = Was i able to give you what you want?
+
+よかったらまた声をかけて下さいね = Please, multiplied by the good Tara also voice
+
+// 隷属H１－１－２
+//<duplicate>はぁ、はぁ・・ = Huh, huh ...
+
+あの満足出来ましたか？ = Are you satisfied?
+
+大丈夫です。あなたが望むならある程度無茶なことでもこなしてみせます = It's okay. Even giving the appearance by doing that to some extent reckless if you wish
+
+// 隷属H１－１－３
+いつでも、あなたの好きにしてくださいね。 = At any time, but please to your liking.
+
+私はあなたに満足して欲しいんですから… = I because I want to be satisfied with your ...
+
+// 隷属H１－２－１
+あなたが満足してくれるなら、この次もがんばりますね = If you are happy, i will also do my best next time.
+
+// 隷属H１－２－２
+またいつでも誘ってくださいね、全力でがんばりますから = Please invite me at any time, because i will do my best at everything you want.
+
+// 隷属H１－２－３
+これからもがんばって、あなたを気持ちよくしてみせますよ = Good luck in the future, giving the appearance and feel good for you
+
+// 隷属H２－１
+私と一緒にいってくださって、ありがとうございます = And who to go to with me, thank you
+
+// 隷属H２－２
+//<duplicate>ふぅ… = Whew ...
+
+これに懲りずにまた・・お誘いくださいね = Please do also ... invite to not learn by experience in this
+
+// 隷属H２－３
+満足・・・できました？ = Was i able to satisfy you...?
+
+だったら私も嬉しいです。 = I also hope you was.
+
+//<duplicate>ウフフ = Planning is
+
+// 通常H－１
+良かったです、恥ずかしいのがなくって = It was good, embarrassed by Naku' is
+
+// 通常H－２
+そうですよね、こんな恥ずかしい所でできませんよね = That's right, but it can not be in such a shameful place
+
+// 通常H－３
+わかりました。 = understood.
+
+ここは流石に恥ずかしいですよね = Here it's ashamed indeed
+
+// 好意H－１
+流石にここでするのは…思いとどまってくれて良かったです = In to here indeed it was good to me ... discouraged
+
+// 好意H－２
+まぁ、こんな場所でしないでくれてよかったです = Well, it was good to me not in a place like this
+
+// 淫乱H－１
+//<duplicate>しないんですか？ = You do not want to?
+
+私は別によかったんですけどね = I guess I'm was separately good
+
+// 淫乱H－２
+ここでは、何もしないんですね？ = Here, you do not do anything?
+
+そうですか、ちょっと残念です = Is that so, is a little disappointing
+
+// 嫌悪H－１
+ここではしないんですね… = It's not here ...
+
+ほっとしましたぁ = § was relieved
+
+// 嫌悪H－２
+あ、やめてくれるんですね？　すばらしい判断だと思います = Oh, it's me quit? I think that's a great decision
+
+// 隷属H－１
+おやめになるんですか？　どんな羞恥にも耐えてみせましたのに… = Do you become you quit? But was Mise endured to any shame ...
+
+// 隷属H－２
+本当にやめてしまうんですか？ = Do you I really quit?
+
+えっと…まぁ、その判断にしたがいます… = Well ... Well, it follows the decision ...
+
+// 通常H－１
+良かったです。 = It was good.
+
+痛いのは流石に遠慮したかったから = Since hurts wanted to refrain from truly
+
+// 通常H－２
+//<duplicate>良かったです。 = It was good
+
+こういう怖いのは私には無理そうです。 = Such scary is impossible seems to me.
+
+// 好意H－１
+そうですか。流石にこれをするのは難しいと思ってました = Is that so. I thought that it is difficult to do this truly
+
+// 好意H－２
+よかったです。 = I'm glad.
+
+こういうのは、なんというか、しなくてもいいです。 = Saying like this is, or rather what, you're good to not have to.
+
+// 淫乱H－１
+//<duplicate>これは、やらないんですか？ = This is, do you not do?
+
+あぁ…まぁ、それはそれでいいですけども。 = Ah ... Well, I Kedomo it is okay with it.
+
+// 淫乱H－２
+苦痛はある程度なら耐えてもいいですけど…まぁ、やらないならそれでいいです = Its good to endure pain to some extend... Well, you do not do is okay with it
+
+// 嫌悪H－１
+そうですか、やらないんですね？ = Is that so, I do not do?
+
+わかりました。良かったです = understood. It was good
+
+// 嫌悪H－２
+そうですか・・わかりました、やらないで良かったです = I understand ... Is that so, it was good not do
+
+// 隷属H－１
+やめるんですか？ = Do you quit?
+
+そのご判断、素敵だとおもいます = Its your decision, I think that it is nice
+
+// 隷属H－２
+やらないことをお望みなんですね。　では全力で応えます = But it was you want that you do not do. In respond with full force
+
+// 通常H－１
+//<duplicate>これで終わりですか？ = Is the end of it?
+
+はぁ…わかりました、お疲れ様です = Huh ... I understand, it is the cheers for good work
+
+// 通常H－２
+何も・・しなくてもいいんですか？　では、これで = What also do you good to not have to ...? In, in this
+
+// 通常H－３
+いいんですか、これで？ = It's good either, with this?
+
+では、失礼します = Now, let's rude
+
+// 通常H－４
+は、はぁ・・・、それではまた・・あの、お疲れですか？ = Is, huh ..., So also ... that, do you tired?
+
+// 好意H－１
+えっ？　終わりですか？　淡白ですね = eh? its over? it was bland.
+
+// 好意H－２
+これで終わりですか？　残念ですが、仕方ないですね = Its over? I guess it cant be helped.
+
+// 好意H－３
+あの、もういいんですか？ = Um, do you already say?
+
+わかりました、それではお疲れ様 = Okay, So cheers for good work
+
+// 淫乱H－１
+//<duplicate>え、もう終わりですか？ = For example, Is the other end?
+
+それはちょっと…うぅん = It is a little ... Un
+
+// 淫乱H－２
+ど、どうしたんですか？　お疲れなんですか？　癒しましょうか？ = Etc., did you do? Is that tired? Do you want healing?
+
+// 淫乱H－３
+あの、お互いものたりないと思うんですが・・・いいんですか？ = That, but I think that not enough each other do you say ...?
+
+// 嫌悪H－１
+//<duplicate>わかりました…ではお疲れ様です = In Okay ... it is cheers for good work
+
+// 嫌悪H－２
+どうもです。 = Thanks.
+
+私はこれくらいで十分です = I is about this is enough
+
+// 嫌悪H－３
+終わりですか？ = Its over?
+
+そうですね、これくらい淡白な方が好みです = Well, it is this much bland who prefer
+
+// 隷属H－１
+終了ですか？　何か忘れ物でも？ = Is the end? Something even left behind?
+
+// 隷属H－２
+あの、お疲れですか？　これで終わりなんて…どうかしたんですか？ = Um, do you tired? Nante end of it ... did you somehow?
+
+// 隷属H－３
+//<duplicate>わかりました・・・ = understood...
+
+それではお疲れ様です。　ゆっくり休んで下さいね = So is cheers for good work. Please rest slowly
+//// 初めてロビー
+
+// 通常H
+ここ、ロビーですけど？　しちゃっていいんでしたっけ？ = Here, it is the lobby? Did did you say I had a?
+
+// 好意H
+ま、待ってください、こんな所じゃ人の出入りがあるから…その、 = Hang on...here? People come and go here all the time...
+
+恥ずかしいですよ = It's awkward
+
+// 淫乱H
+なるほど、見られるのも、いいかも知れませんね、 = Indeed, even those seen, I do not know Iikamo,
+
+刺激的です = It is exciting
+
+// 嫌悪H
+えぇ～っとですね、ここは、ロビーですよ？ = Over here?.... In the lobby?
+
+わかってやってるんでしたら何も言う事はありません… = When it was'm doing I know you do not have anything to say ...
+
+// 隷属H
+こんな場所でするのがお望みなんですね…従います。 = Really in a place like this?.... Ok i will follow you.
+
+やめるとしても従いますけど… = It follows as a stop ...
+//// 初めて和室
+
+// 通常H
+なるほど、こんな部屋もあったんですね = Well, it there was also this room
+
+// 好意H
+落ち着いた雰囲気のいい部屋ですね。 = It is a nice room with a calm atmosphere.
+
+ここでならあなたと二人きりでも… = Here, if you and be alone with ...
+
+や、やっぱりなんかドキドキしちゃいますね = And, it will be still something pounding
+
+// 淫乱H
+いいですね。ここでならゆっくりできそうですね… = Sounds good. It is likely to be slow if here ...
+
+もちろん、早く動いてもいいですけどね = Of course, I though you are good to move quickly
+
+// 嫌悪H
+ここでするんですか？　・・・・お茶とかだけにしません？ = Do you do here? ... Not only to the Toka tea?
+
+無理ですかぁ… = It is impossible or ...
+
+// 隷属H
+ここでゆっくりと、遊ばれるんですね… = Here slowly, it's be played ...
+
+わかりました、お付き合いいたします = Okay, I will acquaintance you
+//// 初めて自室
+
+// 通常H
+//<duplicate>ここがあなたの部屋ですか？ = Here is your room?
+
+想像していたより綺麗ですね = It is more beautiful than I had imagined
+
+// 好意H
+あ、あの…あなたの部屋に入るの… = Oh, entering into that ... your room ...
+
+なんだかすごくドキドキして…変に緊張してるみたいなんですよ、私 = Somehow really nervous ... it's like a has been strangely tense, I
+
+// 淫乱H
+ここがあなたの部屋なんですね…ここで、何をして遊ぶんですか？ = So this is you room… what can we play with here?
+
+// 嫌悪H
+//<duplicate>ここが、あなたの部屋ですか？ = Here in ne ... here I know your room, do you play What do you do?
+
+なるほどいいお部屋ですね… = Well I hope the room ...
+
+あ、まだ帰っちゃダメなんですね？ = Oh, but it was no good is still home?
+
+…はぁい = …Yeesss
+
+// 隷属H
+//<duplicate>あなたの部屋に入ってもよろしいのですか？ = Do you sure that you want into your room?
+
+そうですか、ここがあなたの・・・ = Is that so, here is your ...
+
+で、どうすればいいんですか、私 = In, what do you say if, I
+//// 初めて女の子部屋
+
+// 通常H
+あ、いらっしゃい？ = Oh, Come?
+
+どうかしたんですか？　え、今日はここでするんですか？ = Did you somehow? For example, do you do here today?
+
+// 好意H
+いらっしゃい、どうぞお入り下さい。 = Welcome, Please come in.
+
+なんのお構いもできませんがゆっくりしていって下さいね。 = You can not be what of anyway, but please go slowly
+
+あ、でも一応・・・おかまい的な事はするつもりですけどね = Oh, but I I'm going to is prima facie ... anyway thing
+
+// 淫乱H
+どうぞ、入ってください。 = Please, please enter.
+
+あなたが来てくれるのをずっと待ってたんですよ。 = I've been waiting for you to come to me.
+
+さぁ、たっぷり遊びましょうね！ = Well, we'll play a lot!
+
+// 嫌悪H
+えっと、ここは私の部屋なんですが… = Well, here I know my room, but ...
+
+あの…今、片付いていないからその… = That that ... now, because not tidy ...
+
+やっぱり、入っちゃうんですかぁ… = After all, you would enter or ...
+
+// 隷属H
+//<duplicate>私の部屋でするんですか・・・ = I got to my room or ...
+
+あなたが望むなら問題ありません。 = There is no problem if you wish.
+
+でも、別になにもありませんよ？ = But, there is no separate from anything?
+//// 初めて混浴浴場
+
+// 通常H
+ここ、混浴ですよね。　なんだか照れちゃいますね = Here? Im a bit shy about mixed bathing...
+
+// 好意H
+こ、混浴、なんですよね？ = Is this what i think it is? Mixed bathing?
+
+どうしましょう、あなたと一緒にお風呂に入れるなんて、すごく緊張しちゃいます = I'm really nervous about being in the same bath as you.
+
+// 淫乱H
+一緒にお風呂に入るんですね？　で、そのまま？ = We're taking a bath together? In, as it is?
+
+//<duplicate>わかりました = understood
+
+// 嫌悪H
+お、お風呂、二人で一緒にですか？ = Oh, you want to bathe together?
+
+うぅん…並んで湯船につかるくらいなら、いいですけどぉ = If long soak in the tub at Un ... lined up, it is good only Do
+
+// 隷属H
+ご一緒に入浴ですね？ = We are bathing together?
+
+がんばってお背中流します。 = Ill do my best to wash your back.
+
+もちろん、他の所もがんばります = And i will also do my best to wash you elsewhere.
+//// 初めて中庭
+
+// 通常H
+こんな場所でするんですか？　あの、丸見えですよ、ここ = Are you sure? In such a place, where everybody can see us.
+
+// 好意H
+あの・・・こんな場所で、しかもあなたが相手なんて… = At that ... a place like this, yet you Nante opponent ...
+
+ものすごく恥ずかしくて困っちゃうんですけど… = I'm embarrassed, terribly embarrassed ...
+
+// 淫乱H
+あのここでするんですか？　見せ付けちゃうつもりなんですね？ = Are we going to show of here?
+
+やらしいです = Yea it seems
+
+// 嫌悪H
+ここは…そういう事をする場所じゃないですよ？ = Is this really the place to do this kind of thing?
+どうしてそんな無茶を考えるんですかぁ = Why do you think such a binge
+
+// 隷属H
+こんな場所ですることをお望みなんですね… = But you were you want to be in a place like this ...
+
+考え直したりは？ = Are you having second thoughts?
+
+しませんね、わかりました… = I do not, understand ...
+//// 初めてＳＭ部屋
+
+// 通常H
+ここですか？　あんまり見慣れないものがあるみたいなんですが… = Here? Although I like a certain thing unfamiliar so much ...
+
+// 好意H
+こ、ここですか？ = This, here?
+
+明らかに、何か目的のある場所ですね… = Clearly this location has a certain purpose....
+
+困りましたね = I was worried
+
+// 淫乱H
+ここは・・・痛くしないで下さいね・・・ = Here it does not hurt ... ...
+
+だったら、別にいいですよ = Once it was, is apart from good
+
+// 嫌悪H
+あのぉ・・・できればこういう怪しげなプレイは…ちょっと、待ってくださぁい… = If that per cent ... this kind of dubious play ... Hey, wait Kudasaai ...
+
+// 隷属H
+なるほど…こんな道具を使うんですね？ = I see ... you're using this tool?
+
+使うんですか？ = Do you use it?
+
+い、痛くしないで下さいね = There, it does not hurt

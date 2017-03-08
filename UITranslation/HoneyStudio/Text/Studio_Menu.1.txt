@@ -1,0 +1,390 @@
+﻿//
+// HoneySelect Studio translation (based on the SBPR translation.)
+//
+
+// -----------------------------------------------------------------------------------------------
+//  common strings
+// -----------------------------------------------------------------------------------------------
+
+H = H
+S = S
+V = V
+R = R
+G = G
+B = B
+A = A
+Load = Load
+Save = Save
+Import = Import
+する = Yes
+しない = No
+
+
+// -----------------------------------------------------------------------------------------------
+//  Top Menu
+// -----------------------------------------------------------------------------------------------
+
+男 = Man
+女 = Girl
+アイテム = Item
+背景 = BG
+表示 = Show
+注視点= Camera
+削除 = Delete
+カメラ速度 X軸 = Cam Speed X
+Y軸 = Y
+遅 = -
+速 = +
+1カメ = Cam 1
+2カメ = Cam 2
+3カメ = Cam 3
+4カメ = Cam 4
+5カメ = Cam 5
+save = save
+SAVE = SAVE
+LOAD = LOAD
+固定 = Fixed
+描画 = Draw
+
+
+// -----------------------------------------------------------------------------------------------
+//  Right Side Controls
+// -----------------------------------------------------------------------------------------------
+
+キャラ読込 = Characters
+衣装読込 = Clothing Set
+キャラ状態 = Character State
+アニメーション = Animation
+Hアニメ = H Animation
+ＩＫ = IK
+マップ = Map
+移動 = Move
+設定 = Configuration
+ライト・画面効果 = Effects
+ボイス = Voice
+サウンド = Sound
+移動オブジェクト = Controls
+シーン初期化 = Reset Scene
+終了 = Exit
+
+
+// -----------------------------------------------------------------------------------------------
+//  Characters Controller
+// -----------------------------------------------------------------------------------------------
+
+キャラ管理 = Character Management
+キャラ追加 = Add Character
+キャラ変更 = Replace Character
+
+
+// -----------------------------------------------------------------------------------------------
+//  Clothing Controller
+// -----------------------------------------------------------------------------------------------
+
+衣装切替 = Switch
+
+
+// -----------------------------------------------------------------------------------------------
+//  Character State Controller
+// -----------------------------------------------------------------------------------------------
+
+キャラクター状態 = Character State Controller
+//categories
+服装 = Dress Set
+一括変更 = Change All
+トップス = Tops
+ボトムス = Bottoms
+ブラ = Bra
+ショーツ = Shorts
+水着上 = Upper Swimsuit
+水着下 = Lower Swimsuit
+トップス（水着） = Tops (Swimsuit)
+ボトムス（水着） = Bottoms (Swimsuit)
+手袋 = Gloves
+パンスト = Pantyhose
+靴下 = Socks
+靴 = Shoes
+アクセスロット01 = Accessory 01
+アクセスロット02 = Accessory 02
+アクセスロット03 = Accessory 03
+アクセスロット04 = Accessory 04
+アクセスロット05 = Accessory 05
+アクセスロット06 = Accessory 06
+アクセスロット07 = Accessory 07
+アクセスロット08 = Accessory 08
+アクセスロット09 = Accessory 09
+アクセスロット10 = Accessory 10
+男根表示 = Show Penis
+男根以外表示 = Show Body
+涙 = Tears
+視線の向き = Eye Direction
+首の向き = Head Direction
+瞬き = Eye Blink
+目のパターン = Eye Pattern
+口のパターン = Mouth Pattern
+目の開き具合 = Eye Opening
+リップシンク = Lip-Sync
+口の開き具合 = Mouth Opening
+左手のパターン = Left Hand Pattern
+右手のパターン = Right Hand Pattern
+頬赤 = Blush
+汁（顔） = Juice (Face)
+汁（上半身前面） = Juice (Upper Body Front)
+汁（下半身前面） = Juice (Lower Body Front)
+汁（上半身背面） = Juice (Upper Body Back)
+汁（下半身背面） = Juice (Lower Body Back)
+胸操作 = Chest Controls
+乳首勃起 = Nipple Erection
+肌のツヤ = Skin Shine
+
+単色化 = Monochromatic Display
+単色表示の色 = Monochromatic Color
+
+
+// values
+日常 = Normal
+部屋 = Room
+風呂 = Bath
+着衣 = On
+半脱 = Half
+脱衣 = Undressed
+非表示 = Hide
+Lv1 = Lv1
+Lv2 = Lv2
+Lv3 = Lv3
+正面 = Straight
+こっち = Cam
+そらす = Divert
+アニメ = Animation
+操作 = Manual
+無し = None
+少 = Small
+多 = Full
+左胸操作 = Left Breast
+右胸操作 = Right Breast
+ターゲット描画 = Show Target Box
+ターゲット描画切替 = Show Target Boxes
+
+
+// -----------------------------------------------------------------------------------------------
+//  Animation Controller
+// -----------------------------------------------------------------------------------------------
+
+アニメコントローラー = Animation Controller
+アニメ速度 = Animation Speed
+アニメリスト = Animation Lists
+
+
+// -----------------------------------------------------------------------------------------------
+//  H Animation Controller
+// -----------------------------------------------------------------------------------------------
+
+Hアニメコントローラー = H-Animation Controller
+
+アニメ全体速度 = Animation Speed
+ループパターン = Loop Pattern
+キャラセット = Add Character
+※　注目しているキャラをH対象に指定します。 = ※ Specify the characters for\n H-animation.
+女位置へ男を移動 = Move Man To Girl
+オプション表示切替 = Show Objects
+
+Hアニメリスト = H-Animation List
+愛撫 = Fondle
+奉仕 = Service
+挿入 = Insert
+その他 = Other
+
+
+// -----------------------------------------------------------------------------------------------
+//  IK Controller
+// -----------------------------------------------------------------------------------------------
+
+IKコントローラー = IK Controller
+アニメーション位置参照 = Animation Reference
+ＯＮ／ＯＦＦ = ON / OFF
+IKターゲット表示 = IK Target Display
+IKポーズ = IK Pose
+Enter text... = Enter text...
+IKターゲットの大きさ = IK Target Size
+ポーズリスト = Pose List
+
+
+// -----------------------------------------------------------------------------------------------
+//  Map Controller
+// -----------------------------------------------------------------------------------------------
+
+マップコントローラー = Map Controller
+↑\n平行\n←　　　　→\n移動\n↓ = ↑\nParallel\n←　　　→\nMove\n↓
+↑\n上下\n\n移動\n↓ = ↑\nMove\n↓
+←　→\nX回転 = ← →\nX Rot
+←　→\nY回転 = ← →\nY Rot
+←　→\nZ回転 = ← →\nZ Rot
+回転\n(0,0,0) = Rot\n(0,0,0)
+位置\n(0,0,0) = Pos\n(0,0,0)
+初期化 = Reset\nBoth
+操\n作\n速\n度 = Manual\nSpeed\nDegree
+注視点の位置へマップを移動 = Move Map\n To Camera
+マップ位置へ\nカメラを移動 = Move Camera\n To Map
+
+マップリスト = Map List
+マップ読込 = Load Map
+マップ表示切替 = Clear Map
+
+
+// -----------------------------------------------------------------------------------------------
+//  Item Controller
+// -----------------------------------------------------------------------------------------------
+
+アイテムリスト = Item List
+家具 = Furniture
+壁、床 = Wall & Floor
+日用品 = House
+小物 = Small
+食材 = Food
+武器 = Weapons
+医療 = Medical
+Ｈアイテム = H-Items
+液体\t汁 = Liquid
+画面効果 = Screen
+エフェクト = Effect
+
+
+// -----------------------------------------------------------------------------------------------
+//  Move Controller
+// -----------------------------------------------------------------------------------------------
+
+キャラコントローラー１ = Move Controller 1
+↑\n平行\n←　　　→\n移動\n↓ = ↑\nParallel\n←　　　→\nMove\n↓
+←　→\nＹ回転 = ← →\nY Rot
+カメラ位置 = Move To\n Camera
+キャラ位置へ\nカメラを移動 = Move Camera\n To Character
+
+キャラコントローラー２ = Move Controller 2
+回転 = Rotate
+拡縮 = Scale
+移動Ｘ = Move X
+移動Ｙ = Move Y
+移動Ｚ = Move Z
+回転Ｘ = Rotate X
+回転Ｚ = Rotate Z
+回転Ｙ = Rotate Y
+拡縮Ｘ = Scale X
+拡縮Ｙ = Scale Y
+拡縮Ｚ = Scale Z
+
+
+// -----------------------------------------------------------------------------------------------
+//  Configuration Controller
+// -----------------------------------------------------------------------------------------------
+
+// category
+移動オブジェクト追加位置 = New Object Position
+原点 = Origin
+移動オブジェクト表示タイプ = Show Controls
+全表示 = All
+選択表示 = Selected
+
+イメージエフェクト = Image Effect
+SSAO（光を強調する効果）を有効にする = SSAO
+フォグを有効にする = Fog
+ブルームを有効にする = Bloom
+サンシャフトを有効にする（光の木漏れ日表現） = Sun Shaft
+ビネットを有効にする（画面の周囲を暗くする効果） = Vignette
+被写界深度を有効にする = Depth Of Field
+セルフシャドウを有効にする = Self Shadowing
+
+マスター音量 = Master Volume
+min = min
+max = max
+
+背景色 = Background Color
+
+// -----------------------------------------------------------------------------------------------
+//  Effects Controller
+// -----------------------------------------------------------------------------------------------
+
+ライトコントローラー = Light Controller
+X軸 = X
+ライトカラー = Light Color
+強さ = Strength
+
+エフェクトコントローラー = Effects Controller
+SSAO = SSAO
+カラー = Color
+Ｒ = Ｒ
+ブルーム = Bloom
+ブラー = Blur
+
+
+// -----------------------------------------------------------------------------------------------
+//  Voice Controller
+// -----------------------------------------------------------------------------------------------
+
+セリフ = Personality
+
+セリフリスト = Dialogue List
+Add = Add
+// Sitri
+システム = System
+オープニング = Opening
+// characters
+ADV = ADV
+H汎用 = H General
+特殊 = Special
+
+登録リスト = Play List
+Volume = Volume
+Play = Play
+Stop = Stop
+PlayAllChara = Play All
+Repeat = Repeat
+Clear = Clear
+StopAllChara = Stop All
+
+// -----------------------------------------------------------------------------------------------
+//  Sound Controller
+// -----------------------------------------------------------------------------------------------
+
+BGM = BGM
+なし = None
+タイトル = Title
+しっぽり = Tender
+キャラメイク = Char Maker
+出会い = Encounter
+疲れる = Tiring
+別れ = Farewell
+休憩 = Break
+好奇心 = Curiosity
+出来心 = Sudden Impulse
+待ち合わせ = Rendezvous
+不機嫌 = Bad Mood
+
+
+// -----------------------------------------------------------------------------------------------
+//  Dialogs
+// -----------------------------------------------------------------------------------------------
+
+はい = Yes
+いいえ = No
+
+// reset scene
+シーンを初期化します。よろしいですか？ = The scene will be reset. Are you sure?
+初期化しました = Scene reset.
+
+// Load scene
+ロード = Load
+インポート = Import
+キャンセル = Cancel
+ロードしました = Scene loaded.
+インポートしました = Scene imported.
+
+// Delete scene
+シーンデータを削除します。よろしいですか？\n※【注意】ゴミ箱ではなく直接削除されます！ = Delete the scene? \n Note: the scene will be deleted permanently, not moved to trash!
+
+// Save Scene
+セーブしました = Scene saved.
+
+
+// -----------------------------------------------------------------------------------------------
+//  End
+// -----------------------------------------------------------------------------------------------

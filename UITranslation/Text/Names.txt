@@ -1,0 +1,38 @@
+﻿
+// -----------------------------------------------------------------------------------------------
+//  Names
+// -----------------------------------------------------------------------------------------------
+
+俺 = Me
+シトリー = Sitri
+花魁 = Courtesan
+
+// Sample Character female
+ハニーサンプルキャラクター① = HoneySelect Sample Char ①
+ハニーサンプルキャラクター② = HoneySelect Sample Char ②
+ハニーサンプルキャラクター③ = HoneySelect Sample Char ③
+ハニーサンプルキャラクター④ = HoneySelect Sample Char ④
+ハニーサンプルキャラクター⑤ = HoneySelect Sample Char ⑤
+ハニーサンプルキャラクター⑥ = HoneySelect Sample Char ⑥
+ハニーサンプルキャラクター⑦ = HoneySelect Sample Char ⑦
+ハニーサンプルキャラクター⑧ = HoneySelect Sample Char ⑧
+ハニーサンプルキャラクター⑨ = HoneySelect Sample Char ⑨
+ハニーサンプルキャラクター⑩ = HoneySelect Sample Char ⑩
+ハニーサンプルキャラクター⑪ = HoneySelect Sample Char ⑪
+ハニーサンプルキャラクター⑫ = HoneySelect Sample Char ⑫
+ハニーサンプルキャラクター⑬ = HoneySelect Sample Char ⑬
+ハニーサンプルキャラクター⑭ = HoneySelect Sample Char ⑭
+ハニーサンプルキャラクター⑮ = HoneySelect Sample Char ⑮
+ハニーサンプルキャラクター⑯ = HoneySelect Sample Char ⑯
+ハニーサンプルキャラクター⑰ = HoneySelect Sample Char ⑰
+ハニーサンプルキャラクター⑱ = HoneySelect Sample Char ⑱
+
+// Sample Character male
+カスタム01 = Custom 01
+カスタム02 = Custom 02
+カスタム03 = Custom 03
+カスタム04 = Custom 04
+カスタム05 = Custom 05
+カスタム06 = Custom 06
+カスタム07 = Custom 07
+カスタム08 = Custom 08

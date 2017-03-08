@@ -1,0 +1,39 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Dialogue choices
+// -----------------------------------------------------------------------------------------------
+
+// トイレイベント
+トイレを覗く = Peep Into Bathroom
+トイレに押し入り、襲う = Break Into Bathroom And Attack Her
+無理やり連れ出す = Take Her Out By Force
+終わるのを待つ = Wait till she's done
+その場を離れる = Leave
+
+// 夜這いイベント
+こっそりＨする = Stealthily H her
+起きるのを待つ = Wait till she wakes up
+
+// シャワーイベント
+シャワー室を覗く = Peep Into Shower
+シャワー室に押し入る = Break Into Shower Stall
+
+// 誘いイベント
+ついて行く = Follow me.
+そんなことはない = It's nothing.
+
+// 逃走イベント
+すぐに探しにいく = Urgently look for her
+とりあえず探しにいく = Casually look for her
+放っておく = Choose someone else
+
+// 部屋に来るイベント
+うん、何？ = Yes, what is it?
+
+// トイレイベント
+こっそり覗く = Indiscreetly peep in toilet
+
+// シャワーイベント
+覗く = Peep
+風呂に押し入り、襲う = Break into the shower and attack
+
+// end

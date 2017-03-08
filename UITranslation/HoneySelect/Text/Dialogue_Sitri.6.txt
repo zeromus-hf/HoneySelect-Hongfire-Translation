@@ -1,0 +1,8 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Dialogue - Sitri (Game)
+// -----------------------------------------------------------------------------------------------
+
+// sitri tutorial
+１ルームに登録できる人数が決まっていますので、最大人数を超えてしまった場合はルーム編集で使用ルームの変更をお願いいたします = Because the number of girls in one room is limited, you can switch the room by going to "Room Edit" and selecting another one.
+準備が出来次第≪女の子に会いに行く≫を選択してください = Once prepared, select "See The Girls"
+

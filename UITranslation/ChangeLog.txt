@@ -1,0 +1,53 @@
+22-12-2016, new translations for hair, cloths, accessories, h-positions, sudio items, studio h-anim by Lewton.
+02-12-2016, updated audio sub c01, c02, c03, c05, c06, c07, c08, c09 from Rincewind00.
+14-11-2016, updated audio sub c04 from Cluster303.
+08-11-2016, updated audio sub c00 from misiek89.
+06-11-2016, removed audio subs for which the games itself shows subs. (by Lewton)
+06-11-2016, updated Dialogue_c00 and Dialogue_c03 from Zanti.
+06-11-2016, updated audio sub c00 from misiek89.
+03-11-2016, merged dialogue translations from asdfqwertyasdf.
+03-11-2016, updated Dialogue_c06 and Dialogue_c07 from misiek89.
+03-11-2016, updated Dialogue_c03 from rss2xx.
+31-10-2016, updated Dialogue_c01 and Dialogue_c04 from misiek89.
+31-10-2016, adapt image translation for personality to text translation (by Lewton).
+29-10-2016, merged dialogue translations from asdfqwertyasdf.
+29-10-2016, updated Dialogue_c02 and Dialogue_c03 from misiek89.
+29-10-2016, updated Dialogue_c03, Dialogue_c05 and Dialogue_Common from rss2xx.
+29-10-2016, updated Dialogue_c00, Dialogue_c01 and Dialogue_c08 from tolborg1.
+29-10-2016, updated audio subs c-1 and c00 from tolborg1.
+29-10-2016, added untranslated audio subs from akyryz.
+29-10-2016, cleanup of image translation config files (by Lewton)
+29-10-2016, added Map translation from DillDoe.
+08-10-2016, merge Tsundere dialogue from Fireburn180.
+08-10-2016, merge dialogues from asdfqwertyasdf.
+08-10-2016, reorder dialogues by order shown in studio voices dialog (by Lewton)
+08-10-2016, spelling fixes for clothes and items and better translations for personality (by Lewton)
+08-10-2016, copy dialogues from game to studio(by Lewton)
+01-10-2016, merge dialogues (translated + untranslated) by asdfqwertyasdf.
+30-09-2016, rename dialogue files (by Lewton)
+30-09-2016, new clothes and accessories (by Lewton)
+30-09-2016, add missing translations for char maker (by DeUglyOne)
+30-09-2016, adapt to studio changes (by Lewton)
+24-09-2016, merge some event dialogues by asdfqwertyasdf.
+24-09-2016, changes to personality, suggested by Dr.Yoshi.
+24-09-2016, merge some of the changes to maker, suggested by DeUglyOne.
+24-09-2016, fixes missing strings for studio + char maker (by Lewton)
+18-09-2016, added (Her Lead) to some H positions, share translations for name and personality with studio (by Lewton)
+18-09-2016, share name and personality translations with game and studio under Plugins\UITranslation\Text, fix for map & move control (by Lewton)
+17-09-2016, moved names and personality to Common.txt (by Lewton)
+17-09-2016, updated H Positions (by DillDoe)
+17-09-2016, more updates for character personality (by tmvaegis)
+17-09-2016, cleanup of item and animation translations in studio, renamed files (by Lewton)
+17-09-2016, added translations for studio (by DillDoe)
+16-09-2016, fixes for maker and more cloths and item translations (by Lewton)
+16-09-2016, updated RandomSearchScene (by Kneeso)
+16-09-2016, updated H Positions (by DillDoe)
+16-09-2016, updated maker for better translation of character personality (by tmvaegis)
+14-09-2016, added RandomSearchScene (by kyubiSSJ)
+13-09-2016, added dialogues (by Zeronder)
+13-09-2016, added H Positions (by akyryz)
+13-09-2016, renamed files, added optional regex for accessory item slots (by Lewton)
+12-09-2016, added some dialogues (by Zanti)
+11-09-2016, splitted the studio translation in own directory, added some preliminary translation for H-actions.
+11-09-2016, added more item translations (by Lewton)
+10-09-2016, initial translation for character maker and studio for released HoneySelect (based on the SBPR and HoneySelectTrial translation.) (by Lewton)

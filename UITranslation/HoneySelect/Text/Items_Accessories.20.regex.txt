@@ -1,0 +1,319 @@
+﻿// -----------------------------------------------------------------------------------------------
+// accessories (regex)
+// -----------------------------------------------------------------------------------------------
+
+// !!! Note: 
+// This is not a replacement for the accessory translations whitout the regex.
+// Most source strings here are shorter, because the names are cropped in the menu.
+// Some strings even collapsed into a single regex, because there where no difference left.
+// Also some translated strings were shortened to better fit. 
+
+// -----------------------------------------------------------------------------------------------
+// accessories in slot list on left menu (regex for "NN name" - NN= 01..10)
+// -----------------------------------------------------------------------------------------------
+
+// head
+R ((\d\d) 髪留め\(色変え可能\)) = $1 Barrette
+R ((\d\d) ヘアピン\(色変え可能\)) = $1 Hairpin
+R ((\d\d) リボン\(色変え可能\)) = $1 Ribbon
+R ((\d\d) カチューシャ\(色変え可) = $1 Katyusha
+R ((\d\d) アホ毛\(色変え可能\)) = $1 Ahoge
+R ((\d\d) 触覚毛\(色変え可能\)) = $1 Tactile Hair
+R ((\d\d) 付け三つ編み\(色変え可) = $1 Braid
+R ((\d\d) ヘッドホン\(黒\)) = $1 Headphones (Black)
+R ((\d\d) ヘッドホン\(白\)) = $1 Headphones (White)
+R ((\d\d) ヘッドホン\(赤\)) = $1 Headphones (Red)
+R ((\d\d) 麦わら帽子\(青\)) = $1 Straw Hat (Blue)
+R ((\d\d) 麦わら帽子\(赤\)) = $1 Straw Hat (Red)
+R ((\d\d) サンバイザーA\(赤\)) = $1 Sun Visor A (Red)
+R ((\d\d) サンバイザーA\(白\)) = $1 Sun Visor A (White)
+R ((\d\d) バニーカチューシャ\(黒) = $1 Bunny Headband (Black)
+R ((\d\d) バニーカチューシャ\(赤) = $1 Bunny Headband (Red)
+R ((\d\d) メイドカチューシャ) = $1 Maid Headband
+R ((\d\d) ナース帽子\(白\)) = $1 Nurse Hat (White)
+R ((\d\d) ナース帽子\(桃\)) = $1 Nurse Hat (Pink)
+R ((\d\d) セクシーナースキャップ) = $1 Sexy Nurse Cap
+R ((\d\d) セクシーナースブローチ) = $1 Sexy Nurse Brooch
+R ((\d\d) セキュリティーキャップ(01)?) = $1 Security Cap $2
+R ((\d\d) ギャリソンキャップ\(色) = $1 Garrison Cap
+R ((\d\d) 牡丹のかんざし（色変え) = $1 Peony Hairpin
+R ((\d\d) 花のかんざし（色変え可) = $1 Flower Hairpin
+R ((\d\d) 花のかんざし桃色（色変) = $1 Flower Hairpin Pink
+R ((\d\d) 花のかんざし紫色（色変) = $1 Flower Hairpin Purple
+R ((\d\d) 鉢巻\(色変え可能\)) = $1 Headband
+R ((\d\d) 赤いハイビスカス) = $1 Hibiscus (Red)
+R ((\d\d) 青いハイビスカス) = $1 Hibiscus (Blue)
+R ((\d\d) ハイビスカス\(色変え可) = $1 Hibiscus
+R ((\d\d) 花) = $1 Flower
+R ((\d\d) 葉っぱ) = $1 Leaves
+R ((\d\d) スイカ) = $1 Watermelon
+R ((\d\d) スイカヘッド) = $1 Watermelon Head
+R ((\d\d) キノコ) = $1 Mushroom
+R ((\d\d) 貝殻) = $1 Seashell
+R ((\d\d) カニ) = $1 Crab
+R ((\d\d) うなぎ) = $1 Eel
+R ((\d\d) メンダコ（色変え可能）) = $1 Squid
+R ((\d\d) ネジ) = $1 Screw
+R ((\d\d) ビール瓶) = $1 Beer Bottle
+R ((\d\d) 空き缶) = $1 Empty Can
+R ((\d\d) カニの空き缶) = $1 Empty Can Of Crab
+R ((\d\d) 王冠) = $1 Crown
+R ((\d\d) 海賊帽子) = $1 Pirate Hat
+R ((\d\d) 猫耳\(色変え可能\)) = $1 Cat Ears
+R ((\d\d) 魔女の帽子) = $1 Witch Hat 
+R ((\d\d) かぼちゃヘッド) = $1 Pumpkin Head
+R ((\d\d) ウエスタンハット) = $1 Western Hat
+R ((\d\d) トナカイカチューシャ) = $1 Reindeer Headband
+R ((\d\d) サンタ帽子) = $1 Santa Hat
+R ((\d\d) パーティーハット) = $1 Party Hat
+R ((\d\d) 野球メット\(黒\)) = $1 Baseball Met (Black)
+R ((\d\d) 野球メット\(赤\)) = $1 Baseball Met (Red)
+R ((\d\d) ワンダーバルーン\(赤\)) = $1 Wonder Balloon (Red)
+R ((\d\d) ワンダーバルーン\(青\)) = $1 Wonder Balloon (Blue)
+R ((\d\d) ワンダーバルーン\(黄\)) = $1 Wonder Balloon (Yellow)
+R ((\d\d) ワンダーバルーン\(白\)) = $1 Wonder Balloon (White)
+R ((\d\d) パンティ\(白\)) = $1 Panties On Head (White)
+R ((\d\d) パンティ\(縞\)) = $1 Panties On Head (Stripes)
+R ((\d\d) パンティ\(桃\)) = $1 Panties On Head (Pink)
+R ((\d\d) パンティ\(黒\)) = $1 Panties On Head (Black)
+R ((\d\d) 豚頭\(色変え可能\)) = $1 Pig Head
+R ((\d\d) ドルフくんの頭) = $1 Dolphie-Kun Head
+R ((\d\d) オルカヘッド) = $1 Orca Head
+R ((\d\d) 1号ヒーローヘッド\(編) = $1 Hero 1 Head
+R ((\d\d) ２号ヒーローヘッド\(編) = $1 Hero 2 Head
+R ((\d\d) ティアラ) = $1 Tiara
+R ((\d\d) コンシェルジュハット) = $1 Concierge Hat
+R ((\d\d) 豹耳) = $1 Leopard Ears
+R ((\d\d) 花魁クシ) = $1 Courtesan Comb
+R ((\d\d) 花魁カンザシ) = $1 Courtesan Hairpin
+R ((\d\d) 花魁カンザシ６本挿し) = $1 Courtesan Six Hairpins 
+R ((\d\d) ゴスロリハット\(色変え) = $1 Gothic Lolita Hat
+R ((\d\d) バラのコサージュ（色変) = $1 Rose Corsage
+R ((\d\d) ベール付き帽子\(色変え) = $1 Hat With Veil
+R ((\d\d) バニーカチューシャ\(色) = $1 Bunny Headband
+R ((\d\d) マジシャンハットA\(色) = $1 Magician Hat A
+R ((\d\d) マジシャンハットB\(色) = $1 Magician Hat B
+R ((\d\d) 鈴付き猫耳\(色変え可能) = $1 Cat Ears With Bells
+R ((\d\d) サンタ帽子\(色変え可能) = $1 Santa Hat
+
+// ear
+R ((\d\d) クローバー\(色変え可能) = $1 Clover
+R ((\d\d) エンジェル\(色変え可能) = $1 Angel
+R ((\d\d) ダイア\(色変え可能\)) = $1 Dialogic
+R ((\d\d) ハート\(色変え可能\)) = $1 Heart
+R ((\d\d) スペード\(青\)) = $1 Spade (Blue)
+R ((\d\d) スペード\(赤\)) = $1 Spade (Red)
+R ((\d\d) スター\(青\)) = $1 Stars (Blue)
+R ((\d\d) スター\(赤\)) = $1 Stars (Red)
+R ((\d\d) スターライト\(青\)) = $1 Starlight (Blue)
+R ((\d\d) スターライト\(赤\)) = $1 Starlight (Red)
+R ((\d\d) ドロップスター\(緑\)) = $1 Drop Star (Green)
+R ((\d\d) ドロップスター\(黄\)) = $1 Drop Star (Yellow)
+R ((\d\d) ソードスカル\(白\)) = $1 Sword Skull (White)
+R ((\d\d) ソードスカル\(黒\)) = $1 Sword Skull (Black)
+R ((\d\d) コウモリ) = $1 Bat
+R ((\d\d) 雪の結晶) = $1 Snowflake
+R ((\d\d) バラのイヤリング（色変) = $1 Rose
+
+// glasses
+R ((\d\d) スクエアA\(色変え可能) = $1 Square A
+R ((\d\d) スクエアB\(色変え可能) = $1 Square B
+R ((\d\d) スクエアC\(色変え可能) = $1 Square C
+R ((\d\d) オーバルA\(色変え可能) = $1 Oval A
+R ((\d\d) オーバルB\(色変え可能) = $1 Oval B
+R ((\d\d) オーバルC\(色変え可能) = $1 Oval C
+R ((\d\d) オーバルD\(色変え可能) = $1 Oval D
+R ((\d\d) ブロウ\(色変え可能\)) = $1 Blow
+R ((\d\d) ウェリントン\(色変え可) = $1 Wellington
+R ((\d\d) スポーツ赤\(色変え可能) = $1 Sport Red
+R ((\d\d) スポーツ青\(色変え可能) = $1 Sport Blue
+R ((\d\d) メタルフレーム\(色変え) = $1 Metal Frame
+R ((\d\d) 水泳ゴーグル\(黒\)) = $1 Swimming Goggles (Black)
+R ((\d\d) 水泳ゴーグル\(白\)) = $1 Swimming Goggles (White)
+R ((\d\d) パピヨン\(赤\)) = $1 Butterfly Mask (Red)
+R ((\d\d) パピヨン\(青\)) = $1 Butterfly Mask (Blue)
+R ((\d\d) パピヨン\(色変え可能\)) = $1 Butterfly Mask
+R ((\d\d) ゴーグル) = $1 Goggles
+R ((\d\d) アイマスク\(色変え可能) = $1 Eye Mask
+R ((\d\d) アイマスク\(黒\)) = $1 Eye Mask (Black)
+R ((\d\d) アイマスク\(赤\)) = $1 Eye Mask (Red)
+R ((\d\d) 眼帯右用) = $1 Eyepatch Right
+R ((\d\d) 眼帯左用) = $1 Eyepatch Left
+R ((\d\d) アンダーリム\(色変え可) = $1 Underling
+
+// face
+R ((\d\d) ピエロの鼻\(色変え可能) = $1 Clown Nose
+R ((\d\d) 天狗の鼻\(色変え可能\)) = $1 Tengu Nose
+R ((\d\d) 一輪のバラ) = $1 Rose
+R ((\d\d) 剣闘士の額当て) = $1 Gladiator Forehead
+R ((\d\d) 般若面) = $1 Tengu Mask
+R ((\d\d) 顔包帯) = $1 Face Bandage
+R ((\d\d) キョンシーの札) = $1 Vampire Tag
+R ((\d\d) リコーダー) = $1 Flute
+
+// neck
+R ((\d\d) ハートネックレス) = $1 Heart Necklace
+R ((\d\d) 金と碧のネックレス) = $1 Gold And Green Necklace
+R ((\d\d) リングネックレス) = $1 Ring Necklace
+R ((\d\d) フックネックレス) = $1 Hook Necklace
+R ((\d\d) ネイチャーネックレス) = $1 Nature Necklace
+R ((\d\d) カラーストーンネックレ) = $1 Color Stone Necklace
+R ((\d\d) フラワーネックレス\(色) = $1 Flower Necklace
+R ((\d\d) フラワーネックレス) = $1 Flower Necklace
+R ((\d\d) シルバーハートネックレ) = $1 Silver Heart Necklace
+R ((\d\d) エキゾチックネックレス) = $1 Exotic Necklace
+R ((\d\d) ベリーダンスネックレス) = $1 Belly Dancer Necklace
+R ((\d\d) ネッカチーフ\(色変え可) = $1 Neckerchief
+R ((\d\d) ネクタイリボン\(赤\)) = $1 Tie Ribbon (Red)
+R ((\d\d) ネクタイリボン\(青\)) = $1 Tie Ribbon (Blue)
+R ((\d\d) ネクタイリボン\(色変え) = $1 Tie Ribbon
+R ((\d\d) 警備員ネクタイ\(紺\)) = $1 Guards Necktie
+R ((\d\d) ネクタイ\(色変え可能\)) = $1 Necktie
+R ((\d\d) ネクタイショート\(色変) = $1 Necktie Short
+R ((\d\d) ルーズネクタイ（赤）) = $1 Loose Tie (Red)
+R ((\d\d) ルーズネクタイ（青）) = $1 Loose Tie (Blue)
+R ((\d\d) 蝶ネクタイ\(色変え可能) = $1 Bow Tie
+R ((\d\d) バニーネクタイ\(黒\)) = $1 Bunny Tie (Black)
+R ((\d\d) バニーネクタイ\(赤\)) = $1 Bunny Tie (Red)
+R ((\d\d) レースチョーカー\(赤\)) = $1 Lace Choker (Red)
+R ((\d\d) レースチョーカー\(青\)) = $1 Lace Choker (Blue)
+R ((\d\d) レースチョーカー\(黒\)) = $1 Lace Choker (Black)
+R ((\d\d) マフラー\(赤\)) = $1 Muffler (Red)
+R ((\d\d) マフラー\(黄\)) = $1 Muffler (Yellow)
+R ((\d\d) マフラー\(紫\)) = $1 Muffler (Purple)
+R ((\d\d) スカーフ（赤\)) = $1 Scarf (Red)
+R ((\d\d) スカーフ（黄\)) = $1 Scarf (Yellow)
+R ((\d\d) スカーフ（青\)) = $1 Scarf (Blue)
+R ((\d\d) レトロウェイトレススカ) = $1 Retro Waitress Scarf
+R ((\d\d) ウェイトレスリボン) = $1 Waitress Ribbon
+R ((\d\d) 革の首輪\(黒\)) = $1 Leather Collar (Black)
+R ((\d\d) 革の首輪\(茶\)) = $1 Leather Collar (Brown)
+R ((\d\d) 拘束用首輪) = $1 Restraint Collar
+R ((\d\d) デジタルカメラ) = $1 Digital Camera
+R ((\d\d) ウェルカムレイ黄色\(色) = $1 Welcome Lei Yellow
+R ((\d\d) ウェルカムレイ桃色\(色) = $1 Welcome Lei Red
+R ((\d\d) シトリースカーフ) = $1 Sitri Scarf
+R ((\d\d) 豹柄ファーリボン) = $1 Leopard Fur Ribbon
+R ((\d\d) ゴスロリブローチ\(色変) = $1 Gothic Lolita Brooch
+R ((\d\d) クロスネックレス\(色変) = $1 Cross Necklace
+R ((\d\d) バラのネックレス（色変) = $1 Rose Necklace
+R ((\d\d) バニーネクタイ\(色変え) = $1 Bunny Tie
+R ((\d\d) マジシャンリボン\（色変) = $1 Magician Ribbon
+R ((\d\d) サンタベルブローチ) = $1 Santa Bell Brooch
+
+// shoulder
+R ((\d\d) トートバッグ) = $1 Tote Bag
+R ((\d\d) スクールバッグ) = $1 School Bag
+R ((\d\d) オウムのおもちゃ\(青\)) = $1 Parrot Toy (Blue)
+R ((\d\d) オウムのおもちゃ\(赤\)) = $1 Parrot Toy (Red)
+R ((\d\d) 1号ヒーローショルダー) = $1 Hero 1 Pauldron
+R ((\d\d) 2号ヒーローショルダー) = $1 Hero 2 Pauldron
+
+// breast
+R ((\d\d) シンプルリング\(色変え) = $1 Simple Ring
+R ((\d\d) ジュエルリング\(色変え) = $1 Jewel Ring
+R ((\d\d) 洗濯バサミ\(青\)) = $1 Clothespin (Blue)
+R ((\d\d) 洗濯バサミ\(桃\)) = $1 Clothespin (Pink)
+R ((\d\d) 洗濯バサミ\(黄\)) = $1 Clothespin (Yellow)
+R ((\d\d) ローター) = $1 Rotor
+R ((\d\d) クリップ) = $1 Clip
+R ((\d\d) 中華結び飾り) = $1 Chinese Knot Ornaments
+
+// waist
+R ((\d\d) ウエストバッグ\(紫\)) = $1 Waist Bag (Purple)
+R ((\d\d) ウエストバッグ\(緑\)) = $1 Waist Bag (Green)
+R ((\d\d) ウエストバッグ\(黄\)) = $1 Waist Bag (Yellow)
+R ((\d\d) ウエストバッグ\(黒\)) = $1 Waist Bag (Black)
+R ((\d\d) ホテルのキー) = $1 Hotel Key
+R ((\d\d) 警備ベルト) = $1 Security Belt
+R ((\d\d) 手錠) = $1 Handcuffs
+R ((\d\d) 赤花柄浮き輪) = $1 Float (Red Floral)
+R ((\d\d) 青花柄浮き輪) = $1 Float (Blue Floral)
+R ((\d\d) カラフル浮き輪) = $1 Float (Colorful)
+R ((\d\d) 紅白浮き輪) = $1 Float (Red)
+R ((\d\d) レオタードリボン（色変) = $1 Leotard Ribbon
+R ((\d\d) リボン帯（色変え可能）) = $1 Ribbon Band
+R ((\d\d) リボン帯柄あり（色変え) = $1 Pattern Ribbon Band
+R ((\d\d) リボン帯長（色変え可能) = $1 Long Ribbon Band
+R ((\d\d) リボン帯長柄あり（色変) = $1 Long Pattern Ribbon Band
+R ((\d\d) 牡丹帯長（色変え可能）) = $1 Long Peony Belt
+R ((\d\d) 牡丹帯長柄あり（色変え) = $1 Long Pattern Peony Belt
+R ((\d\d) 豹のシッポ) = $1 Leopard Tail
+R ((\d\d) 大きな和柄リボン\(赤\)) = $1 Japanese Pattern Ribbon
+R ((\d\d) 大きな和柄リボン\(緑\)) = $1 Japanese Pattern Ribbon
+R ((\d\d) 猫シッポ\(色変え可能\)) = $1 Cat Tail
+
+// back
+R ((\d\d) リュック\(桃\)) = $1 Backpack (Pink)
+R ((\d\d) リュック\(緑\)) = $1 Backpack (Green)
+R ((\d\d) リュック\(黒\)) = $1 Backpack (Black)
+R ((\d\d) 革鞄\(黒\)) = $1 Leather Briefcase (Black)
+R ((\d\d) 革鞄\(褐\)) = $1 Leather Briefcase (Brown)
+R ((\d\d) ダンボール) = $1 Cardboard Box
+R ((\d\d) シャチフロート) = $1 Orca Float
+R ((\d\d) 黒猫) = $1 Black Cat
+R ((\d\d) 金属バット) = $1 Metal Bat
+R ((\d\d) 木製バット) = $1 Wooden Bat
+R ((\d\d) モンキーレンチ) = $1 Monkey Wrench
+
+// arm
+R ((\d\d) SBS警備員腕章\(色変) = $1 SBS Guards Armband
+R ((\d\d) エキゾチックリング) = $1 Exotic Ring
+R ((\d\d) スタッズレザーアーム) = $1 Studded Leather Arm
+R ((\d\d) 剣闘士の肩当て) = $1 Gladiator Shoulder Rest
+R ((\d\d) 剣闘士の腕当て左用) = $1 Gladiator Left Arm
+R ((\d\d) 剣闘士の腕当て右用) = $1 Gladiator Right Arm
+R ((\d\d) 巫女袖左用\(色変え可能) = $1 Miko Sleeves Left
+R ((\d\d) 巫女袖右用\(色変え可能) = $1 Miko Sleeves Right
+
+// hand
+R ((\d\d) レザーバングル\(茶\)) = $1 Leather Bangle (Brown)
+R ((\d\d) レザーバングル\(白\)) = $1 Leather Bangle (White)
+R ((\d\d) イルカとカラーストーン) = $1 Dolphin And Colored Stone
+R ((\d\d) 腕時計) = $1 Watch
+R ((\d\d) 丸型腕時計\(桃\)) = $1 Round Watch (Pink)
+R ((\d\d) 丸型腕時計\(黒\)) = $1 Round Watch (Black)
+R ((\d\d) シルバーブレスレット) = $1 Silver Bracelet
+R ((\d\d) ゴールドブレスレット) = $1 Gold Bracelet
+R ((\d\d) 三連石ブレスレット\(銀) = $1 Triplicate Stone Bracelet
+R ((\d\d) 三連石ブレスレット\(金) = $1 Triplicate Stone Bracelet
+R ((\d\d) ベリーダンスブレスレッ) = $1 Belly Dancer Bracele
+R ((\d\d) リストバンド\(赤\)) = $1 Wristband (Red)
+R ((\d\d) リストバンド\(青\)) = $1 Wristband (Blue)
+R ((\d\d) バニーカフス) = $1 Bunny Girl Cuffs
+R ((\d\d) メイドカフス左) = $1 Maid Cuffs Left
+R ((\d\d) メイドカフス右) = $1 Maid Cuffs Right
+R ((\d\d) シンプル\(色変え可能\)) = $1 Simple
+R ((\d\d) チアポンポン\(色変え可) = $1 Pom Poms
+R ((\d\d) ダイヤモンドの指輪) = $1 Diamond Ring
+R ((\d\d) 宝石の指輪\(色変え可能) = $1 Jewelry Ring
+R ((\d\d) トパーズの指輪) = $1 Topaz Ring
+R ((\d\d) ３連ハートの指輪) = $1 Triple Heart Ring
+R ((\d\d) ハートの指輪) = $1 Heart Ring
+R ((\d\d) ツインリング) = $1 Twin Ring
+R ((\d\d) フラワーリング) = $1 Flower Ring
+R ((\d\d) フラワーリング\(色変え) = $1 Flower Ring
+R ((\d\d) 三つ葉の指輪) = $1 Trefoil Ring
+R ((\d\d) スカルヘッド\(色変え可) = $1 Skull Head Ring
+R ((\d\d) ドラゴンリング) = $1 Dragon Ring
+R ((\d\d) 婚約指輪) = $1 Engagement Ring
+R ((\d\d) サカキ) = $1 Sakaki Flower
+R ((\d\d) 婚約指輪\(色変え可能\)) = $1 Engagement Ring
+R ((\d\d) ウェディングブーケ\(色) = $1 Wedding Bouquet
+R ((\d\d) ハニーバンド\(色変え可) = $1 Honey Band
+R ((\d\d) マジシャンステッキ\(色) = $1 Magician Stick
+
+// leg
+R ((\d\d) ベリーダンスアンクレッ) = $1 Belly Dancer Anklet
+R ((\d\d) レースガーターリング\() = $1 Lace Garter Ring
+R ((\d\d) レースガーターリング\(赤\)右) = $1 Lace Garter Ring Right
+R ((\d\d) レースガーターリング\(黒\)左) = $1 Lace Garter Ring Left
+R ((\d\d) レースガーターリング\(黒\)右) = $1 Lace Garter Ring Right
+R ((\d\d) 注射器ガーターリング左) = $1 Syringe Garter Ring Left
+R ((\d\d) 注射器ガーターリング右) = $1 Syringe Garter Ring Right
+
+
+
+// -----------------------------------------------------------------------------------------------
+// end
+// -----------------------------------------------------------------------------------------------
