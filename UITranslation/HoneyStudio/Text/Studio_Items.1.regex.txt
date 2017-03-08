@@ -274,13 +274,13 @@ R (固定ギロチン\（ハニー\）(\([\d]+\))?) = Fixed Guillotine (Honey) $
 R (錘\（ハニー\）(\([\d]+\))?) = Weight (Honey) $1
 R (カメラ\（ハニー\）(\([\d]+\))?) = Camera (Honey) $1
 R (ディルド\（ハニー\）(\([\d]+\))?) = Dildo (Honey) $1
-R (アナルバイブ\（ハニー\）(\([\d]+\))?) = Anal Vibratior (Honey) $1
-R (拘束台\（ハニー\）(\([\d]+\))?) = Restraint Board (Honey) $1
-R (ＳＭギロチン\（ハニー\）(\([\d]+\))?) = SM Guillotine (Honey) $1
-R (ＳＭ固定ギロチン\（ハニー\）(\([\d]+\))?) = SM Fixed Guillotine (Honey) $1
-R (鞭\（ハニー\）(\([\d]+\))?) = Whip (Honey) $1
-R (鞭三角木馬\（ハニー\）(\([\d]+\))?) = Whip Triangular Wooden Horse (Honey) $1
-R (ＳＭ三角木馬\（ハニー\）(\([\d]+\))?) = SM Triangular Horse (Honey) $1
+R (アナルバイブ[(（]ハニー[）)](\([\d]+\))?) = Anal Vibratior (Honey) $1
+R (拘束台[(（]ハニー[）)](\([\d]+\))?) = Restraint Board (Honey) $1
+R (ＳＭギロチン[(（]ハニー[）)](\([\d]+\))?) = SM Guillotine (Honey) $1
+R (ＳＭ固定ギロチン[(（]ハニー[）)](\([\d]+\))?) = SM Fixed Guillotine (Honey) $1
+R (鞭[(（]ハニー[）)](\([\d]+\))?) = Whip (Honey) $1
+R (鞭三角木馬[(（]ハニー[）)](\([\d]+\))?) = Whip Triangular Wooden Horse (Honey) $1
+R (ＳＭ三角木馬[(（]ハニー[）)](\([\d]+\))?) = SM Triangular Horse (Honey) $1
 
 // liquids
 R (液溜まり\（白\）(\([\d]+\))?) = Liquid Pool (White) $1
