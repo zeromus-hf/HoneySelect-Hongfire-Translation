@@ -1,0 +1,283 @@
+﻿// -----------------------------------------------------------------------------------------------
+// Clothing Mods
+// -----------------------------------------------------------------------------------------------
+
+//Outfits
+Zeaska T07 冬马和纱 = Touma's Outfit (White Album 2)
+尼尔机械纪元_2B = 2B's Outfit (Neir Automata)
+セクシーナース改 = Sexy Nurse Revision
+Basara春日套装 = Kasuga (Sengoku Basara)
+着物 = Kimono
+振袖 = Long-sleeved Kimono
+サンタ = Santa
+アイドル衣装赤 = Idol Costume (Red)
+アイドル衣装青 = Idol Costume (Blue)
+アイドル衣装黄 = Idol Costume (Yellow)
+yy-旗袍-中国龙 = yy Cheongsam - Chinese Dragon 
+yy-格子旗袍 = yy Checkered Cheongsam
+ロングドレス = Long Dress
+真紅の稲妻 = Crimson Lightning
+冬通学 = Winter School Outfit
+
+//Tops
+アイドルトップス(色変え可能) = Idol Top (Custom Color)
+前結びシャツ(桃)(Rape) = Front Knotted Shirt (Pink)(Rape)
+前結びデニム(Rape) = Front Knotted Shirt(Rape)
+オフショルダーフリル(黄)(Rape) = Off-the-shoulder Ruffle (Yellow)(Rape)
+オフショルダーフリル(紫)(Rape) = Off-the-shoulder Ruffle (Purple)(Rape)
+スーツ(黒)(Rape) = Suit (Black)(Rape)
+ブレザー(紺)(Rape) = Blazer (Navy Blue)(Rape)
+ブレザー(橙)(Rape) = Blazer (Orange)(Rape)
+シャツワンピース(水)(Rape) = Shirt Dress (Aqua)(Rape)
+シャツワンピース(赤)(Rape) = Shirt Dress (Red)(Rape)
+白衣・タンクトップ(Rape) = Coat + Tank Top(Rape)
+コート・タンクトップ(黒)(Rape) = Coat + Tank Top (Black)(Rape)
+コート・タンクトップ(橙)(Rape) = Coat + Tank Top (Orange)(Rape)
+ジャケットキャミソール(黒)(Rape) = Jacket + camisole (Black)(Rape)
+ジャケットキャミソール(白)(Rape) = Jacket + camisole (White)(Rape)
+ジャケットキャミソール(灰)(Rape) = Jacket + camisole (Gray)(Rape)
+ナツメのスーツ(灰)(Rape) = Jujube Suit (Gray)(Rape)
+スーツキャミソール(水)(Rape) = Suit Camisole (Aqua)(Rape)
+ブラウス(白)(Rape) = Blouse (White)(Rape)
+ブラウス(桃)(Rape) = Blouse (Pink)(Rape)
+キャミソール(白)(Rape) = Camisole (White)(Rape)
+キャミソール(黒)(Rape) = Camisole (Black)(Rape)
+ディーラー服(黒)(Rape) = Dealers Clothes (Black)(Rape)
+ランナー（赤黄x紺） = Athletic Bikini (Red, Yellow and Navy Blue)
+ランナー（橙白x黒） = Athletic Bikini (Orange, White and Black)
+ランナー（白黄x黒） = Athletic Bikini (White, Yellow and Black)
+Mコート = M Coat
+DW6甄姬外套 = Zhenji's Top (DW6)
+CARPシャツ = CARP Shirt
+knightトップス = Knight Top
+Valkyrie鎧 = Valkyrie Armor
+テニスシャツ = Tennis Shirt
+着物(C) = Kimono (Custom Color)
+着物（RP） = Kimono (RP) (Custom Color)
+喪服（黒） = Mourning Dress (Black)
+喪服（色変可能） = Mourning Dress (Custom Color)
+着物（桃） = Kimono (Peach)
+着物（黒） = Kimono (Black)
+着物（赤） = Kimono (Red)
+ジャンスカ（上） = Janska (Upper)
+サンタ服 = Santa Top
+SFXアーマー = SFX Armor
+ボンデージMod = Bondage Top
+ハーフトップドレス = Half-top Dress
+ファーハーフトップドレス無柄 = Half-top Fur Dress 
+ファーハーフトップドレス豹柄 = Half-top Leopard Print Fur Dress 
+tera裙子 = Tera Skirt
+愛花 = Manaka's Dress (RL)
+开胸毛衣@saw = Keyhole Turtleneck @saw
+露背毛衣@saw = Virgin-Killer Sweater @saw
+黒帯胴着 = Black Belt Gi
+黒帯胴着（Ｔシャツ無し） = Black Belt Gi (No T-shirt)
+黒帯胴着（袖無し） = Black Belt Gi (No Sleeves)
+白帯胴着 = White Belt Gi
+白帯胴着（Ｔシャツ無し） = White Belt Gi (No T-shirt)
+コンビニ = Convenience Store Uniform
+冬用コート = Winter Coat
+ロングドレス(上) = Long Dress (Top)
+[YY]格子旗袍 = yy Checkered Cheongsam
+
+//Bottoms
+アイドルスカート(色変え可能) = Idol skirt (Custom Color)
+モンペ = Monpe
+汎用ロングスカート = Universal Long Skirt
+DW6甄姬裙 = Zhenji's Bottoms (DW6)
+Valkyrie鎧（下） = Valkyrie Armor (Bottom)
+テニススカート = Tennis Skirt
+帯（着物） = Obi (Kimono)
+帯（喪服） = Obi (Mourning)
+ロングスカート = Janska (Bottom)
+OMRSスポーツパンツ(赤) = OMRS Sports Pants (Red)
+OMRSスポーツパンツ(青) = OMRS Sports Pants (Blue)
+スーパーマイクロPスカートチェック(灰) = Checkered Super Micro P Skirt (Grey)
+スーパーマイクロPスカートチェック(青) = Checkered Super Micro P Skirt (Blue)
+胴着下 = Gi Trousers
+ロングドレス(下) = Long Dress (Bottom)
+
+//Bra
+横縞紐(色変え可能) = Striped String Bra (Custom Color)
+サスペンダーL = Suspenders L
+サスペンダーS = Suspenders S
+猫柄（冬物） = Cat Pattern (Winter)
+千代紙 = Chiyogami Pattern
+ファンシー = Fancy
+毛糸 = Yarn
+レース（ムフフ） = Lace (Mufufu)
+レース = Lace
+花柄 = Floral
+水玉 = Polka Dot
+雪の結晶（ムフフ） = Snowflakes (Mufufu)
+肚兜 = Dudou 1
+肚兜2 = Dudou 2
+肚兜3 = Dudou 3
+肚兜4 = Dudou 4
+肚兜5 = Dudou 5
+肚兜6 = Dudou 6
+肚兜7 = Dudou 7
+肚兜8 = Dudou 8
+[MOD]スターニップレス = Star Shaped Pasties
+細）花(Flower) = Flowers (Small)
+星（前開き） = Star (Open Front)
+桜(Cherry) = Cherry Blossoms
+網(Net) = Netted
+細）桜(Cherry) = Cherry Blossoms (Small)
+細）星（Star） = Star (Small)
+細）ピンク（Pink） = Thin Bra (Pink)
+フリル）ピンク（Frill） = Frilly Bra (Pink)
+フリル）青（Frill） = Frilly Bra (Blue and Yellow)
+フリル）単色（Frill） = Frilly Bra (White)
+
+//Panties
+横縞ぱん(色変え可能) = Striped String Panties (Custom Color)
+OMRSホワイト = OMRS White
+OMRSレースホワイト = OMRS Lace White
+OMRSデザインレースホワイト = OMRS Design Lace White
+OMRSスポーツグレー = OMRS Sports Gray
+OMRS縞パン = OMRS Striped Panties (Shimapan)
+[MOD]パールパンツ = Pearl Panties
+[MOD]パールパンツ(細) = Pearl Panties (Fine String)
+星(Star) = Star
+花(Flower) = Flower
+縦縞(Stripe) = Vertical Stripes
+
+//Gloves
+虎手袋 = Tiger Gloves
+farつかみ = Far Gloves
+knight手袋 = Knight Gloves
+Valkyrie手袋 = Valkyrie Gloves
+サイバーアーム(色変え可能) = Cyber Sleeve (Custom Color)
+ファイティンググローブ = Fighting Gloves
+ミニジャケット = Mini Jacket
+ミニジャケット・袖(白) = Mini Jacket With Sleeves (White Trim)
+ミニジャケット・袖(黒) = Mini Jacket With Sleeves (Black Trim)
+ミニジャケット・袖(色変え) = Mini Jacket With Sleeves (Custom Color)
+フリルスリーブ(白) = Frilled Sleeves (White Trim)
+フリルスリーブ(黒) = Frilled Sleeves (Black Trim)
+フリルスリーブ(色変え) = Frilled Sleeves (Custom Color)
+ファーアーム無柄(色変え可能) = Half-top Fur Arms (Custom Color)
+ファーアーム豹柄(色変え可能) = Half-top Leopard Print Fur Arms(Custom Color)
+モフモフアームA(色変え可能) = Mohumov Arm A (Custom Color)
+モフモフアームB(色変え可能) = Mohumov Arm B (Custom Color)
+
+//Pantyhose
+スカジャン（色変可） = Sukajan Jacket (Custom Color)
+カーディガン（色変可） = Cardigan (Custom Color)
+汎用上着用中央フリル = General Wear Center Frills
+�T���^�W���P�b�g = Santa Jacket
+ベビードール(C) = Babydoll (Custom Color)
+ベビードール(C)透過 = Babydoll Transparent (Custom Color)
+OMRSスパッツ(色変え可) = OMRS Spats (Custom Color)
+Kims短丝袜 = Kims Short Stockings
+Kims无痕丝袜1 = Kims Seamless Stockings 1
+Kims无痕丝袜2 = Kims Seamless stockings 2
+Kims长筒袜1 = Kims Stockings 1
+Kims长筒袜2 = Kims Stockings 2
+Kims冬季丝袜1 = Kims Winter Stockings 1
+Kims冬季丝袜2 = Kims Winter Stockings 2
+Kims斑马丝袜 = Kims Zebra Stockings
+Kims爱心丝袜 = Kims Love Heart Stockings
+Kims皮裤1(调节亮度光泽) = Kims Leather 1 (Adjust Brightness & Gloss)
+Kims皮裤2(调节亮度光泽) = Kims Leather 2 (Adjust Brightness & Gloss)
+Kims80D丝袜1 = Kims 80D Stockings 1
+Kims80D丝袜2 = Kims 80D Stockings 2
+Kims花纹1 = Kims Leopard 1
+Kims花纹2 = Kims Leopard 2
+Kims花纹3 = Kims Diamond Checkered
+Kims连体1 = Kims Full Body Suit (Semi-Transparent)
+Kims连体2 = Kims Full Body Suit (White)
+Kims连体3 = Kims Full Body Suit (Transparent)
+Kims连体4 = Kims Full Body Suit (White Semi-Transparent)
+Kims连体5 = Kims Full Body Suit (Leopard)
+Kims连体6 = Kims Full Body Suit (Camo)
+Kims连体7 = Kims Full Body Suit (Scaley)
+Kims连体8 = Kims Full Body Suit (Snakeskin)
+mdzz(COLOR)大腿加固开裆 = mdzz Thigh Reinforcement Crotch
+mdzz(COLOR)大腿加固开裆无趾 = mdzz Thigh Reinforcement Crotch (No Toe)
+mdzz(COLOR)臀加固开档无趾 = mdzz Buttocks Fastening (No Toe)
+mdzz(COLOR)臀加固无趾（直接穿上啪啪） = mdzz Hip Reinforcement (No Toe, Directly Put On Flap)
+mdzz(COLOR)高腰加固开裆 = mdzz High Waist Reinforcement Crotch
+mdzz(COLOR)高腰加固开裆无趾 = mdzz High Waist Reinforcement Crotch (No Toe)
+mdzz(COLOR)高腰臀加固开档无趾 = mdzz High Waist And Hip Reinforcement (No Toe)
+mdzz(COLOR)高腰臀加固无趾（直接穿上啪啪） = mdzz High waist hip reinforcement (No Toe, Directly Put On Flap)
+mdzz(COLOR)Z大24号 = mdzz Z large 24
+mdzz(COLOR)Z大24号无趾 = mdzz Z large 24 (No Toe)
+mdzz(COLOR)超长筒袜无趾 = mdzz Long Tube Socks (No Toe)
+mdzz(COLOR)超长筒袜加固无趾 = mdzz Super Long Socks To Strengthen The Toe
+mdzz(COLOR)Z大26号 = mdzz Z large 26
+mdzz(COLOR)Z大7号 = mdzz Z large 7
+mdzz(COLOR)Z大25号 = mdzz Z large 25
+mdzz(COLOR)过膝半筒袜 = mdzz Knee High Stockings
+mdzz(COLOR)高腰官方无趾半脱开档 = mdzz High Waist Black (No Toe, Semi-off)
+mdzz(COLOR)高腰官方浓黑半脱开档 = mdzz High Waist Thick Black (Semi-off)
+mdzz(COLOR)高腰网纹半脱开档 = mdzz High Waist Reticulate (Semi-off)
+mdzz(COLOR)高腰臀加固半脱开档 = mdzz High Waist Hip Reinforcement (Semi-off)
+mdzz(COLOR)浓黑长简丝袜 = mdzz Thick Black Long Stockings
+mdzz(COLOR)撕破丝袜（半脱不脱） = mdzz Torn Stockings
+mdzz(COLOR)抓丝丝袜（半脱不脱） = mdzz Silk Stockings Runs
+mdzz(COLOR)Z大24号丝袜剪破 = mdzz Z large 24 Stockings (Holes)
+mdzz(COLOR)X吊带连裤袜A = mdzz X-Sling Pantyhose A
+mdzz(COLOR)X吊带连裤袜B = mdzz X-Sling Pantyhose B
+mdzz(COLOR)X吊带连裤袜C = mdzz X-Sling Pantyhose C
+mdzz(COLOR)我的烂作品 = mdzz Long Heart Lace Stockings
+
+//Socks
+ランソックス（黒） = Lansocks (Black)
+ランソックス（紺） = Lansocks (Navy Blue)
+ランソックス（赤） = Lansocks (Red)
+虎靴下 = Tiger Socks 
+farソックス = Far Socks
+サイバーニーソックス(色変え可能) = Cyber Knee Socks (Custom Color)
+ファーレッグ無柄(色変え可能) = Half-top Fur Leg (Custom Color)
+ファーレッグ豹柄(色変え可能) = Half-top Leopard Print Fur (Custom Color)
+モフモフレッグA(色変え可能) = Mohumov Leg A (Custom Color)
+モフモフレッグB(色変え可能) = Mohumov Leg B (Custom Color)
+
+//Shoes
+リボンパンプス（色変え可能） = Ribbon Pumps (Custom Color)
+つっかけ = Geta Sandles 
+長靴 = Boots 
+虎靴 = Tiger Shoes 
+ボアスリッパ（色変可） = Slippers (Custom Color)
+knightシューズ = Knight Shoes
+Valkyrie靴 = Valkyrie Shoes A
+Valkyrie靴（予備） = Valkyrie Shoes B
+サイバーシューズ(色変え可能) = Cyber Shoes (Custom Color)
+fireGirlシューズ = FireGirl Shoes
+SFXシューズ = SFX Shoes
+ファイティングシューズ = Fighting Shoes
+ザク２足 = Zaku 2 Leg
+冬用ブーツ = Winter Boots
+
+//Tops (Swimwear)
+サイバートップ(色変え可能) = Cyber Top (Custom Color)
+女神の戦衣・トップスA = Goddess's Battle Top A
+女神の戦衣・トップスB = Goddess's Battle Top B
+
+
+//Bottoms (Swimwear)
+サイバースカート(色変可能) = Cyber Skirt (Custom Color)
+fireGirlパレオ = FireGirl Pareo
+女神の戦衣・スカートA = Goddess's Battle Skirt A
+女神の戦衣・スカートB = Goddess's Battle Skirt B
+
+//Swimsuit
+競泳（紺水黒） = Competition Swimsuit (Navy Blue, Water and Black)
+競泳（青紺灰） = Competition Swimsuit (Blue, Navy Blue and Orange)
+競泳（青水白） = Competition Swimsuit (Blue, Water and White)
+競泳（白ピンク） = Competition Swimsuit (White and Pink)
+競泳（白青黄） = Competition Swimsuit (White, Blue and Yellow)
+競泳（白青黄）[透け] = Competition Swimsuit (White, Blue and Yellow) [Transparent]
+競泳（紺灰） = Competition Swimsuit (Navy Blue and Dark Blue)
+猫水着 = Cat Lingerie
+虎水着 = Tiger Swimsuit
+far水着 = Far Swimsuit
+セクシーナース改(色変え可能) = Sexy Nurse Reform (Custom Color)
+[MOD]_スク水(trans) = School Swimsuit (Transparent)
+[YY]旗袍-中国龙 = Cheongsam - Chinese Dragon
+
+// -----------------------------------------------------------------------------------------------
+// end
+// -----------------------------------------------------------------------------------------------
