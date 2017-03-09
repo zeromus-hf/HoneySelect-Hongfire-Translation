@@ -1,0 +1,321 @@
+﻿
+// -----------------------------------------------------------------------------------------------
+//  Mod Items (no regex)
+// -----------------------------------------------------------------------------------------------
+
+//  Furniture
+
+コタツ = Kotatsu
+
+//  Wall & Floor
+
+[ドーム]快晴 = [Dome] Fine Weather
+[ドーム]晴れ間 = [Dome] Sunny Day
+[ドーム]曇り = [Dome] Cloudy
+[ドーム]夏の空 = [Dome] Summer Sky
+[ドーム]宵闇 = [Dome] Dusk
+[ドーム]夜明け = [Dome] Dawn
+[ドーム]湖畔 = [Dome] The Lakeside
+[ドーム]満月の夜 = [Dome] Full Moon Night
+[ドーム]森 = [Dome] Forest
+[ドーム]岩山 = [Dome] Rocky Mountain
+[ドーム]月面 = [Dome] The Moon
+[ドーム]上空 = [Dome] Over The Sky
+
+//  House
+
+中式纸伞 = Chinese Paper Umbrella
+SL_機関車 = SL_Locomotive
+鏡_A = Mirror_A
+鏡_B = Mirror_B
+鏡_C = Mirror_C
+鏡_D = Mirror_D
+鏡_E = Mirror_E
+鏡_F = Mirror_F
+
+// Small
+
+おたま = Ladle
+フライ返し = Spatula
+竹箒 = Bamboo Broom
+買物カゴ = Shopping Basket
+がまぐち（閉） = Coin Purse (Closed)
+がまぐち（開） = Coin Purse (Open)
+和傘 = Umbrella
+扇子 = Folding Fan
+スクールバッグ = School Bag
+ショルダーバッグ = Shoulder Bag
+四季の窓（夏） = Seasonal Windows (Summer)
+花瓶（筒） = Vase (Tube)
+花瓶（丸） = Vase (Circle)
+花瓶（ピンク） = Vase (Pink)
+花瓶（陶器） = Vase (Pottery)
+カーネーション = Carnation
+トルコキキョウ = Prairie Gentian Flower
+コスモス = Cosmos Flower
+コスモス（束） = Cosmos Flower (Bunch)
+コスモス（散） = Cosmos Flower (Scattered)
+水仙 = Daffodil
+桜 = Cherry Blossoms
+アイビー = Ivy
+ラナンキュラス = Buttercup
+そり = Sled
+サンタ = Santa
+トナカイ = Reindeer
+キャンドル = Candle
+ツリー = X-Mas Tree
+ツリー２ = X-Mas Tree 2
+クッキー = Cookie
+雪オーナメント = Snow Ornament
+鈴オーナメント = Bell Ornament
+丸オーナメント = Bauble
+シャンパン = Champagne
+シャンパングラス = Champagne Glass
+
+//  Food
+
+たいやき = Taiyaki
+どら焼き = Dorayaki
+SB4ドリンク赤 = SB4 Drink (Red)
+SB4ドリンク青 = SB4 Drink (Blue)
+SB4ドリンク緑 = SB4 Drink (Green)
+
+//  Weapons
+
+キャプテンシールド = Captain America Shield
+紋章付き盾 = Shield With A Crest
+水晶の盾 = Crystal shield
+水晶の斧 = Crystal ax
+銀獅式改変_紅蓮 = Dragon Tooth Sword
+日本刀 = Katana
+鞘 = Katana Sheath
+[NZ666]ファンネル = [NZ666] Missile
+[NZ666]サーベル = [NZ666] Saber
+[NZ666]羽根 = [NZ666] Wings
+[RX0]ビームマグナム = [RX0] Beam Magnum
+[RX0]シールド = [RX0] Shield
+[GN0000]銃 = [GN0000] Gun
+[GN0000]剣 = [GN0000] Blade
+[GN0000] = [GN0000] Mech
+ヒートホーク = Heat Hawk Ax
+ザクマシンガン = Zaku Machine Gun
+咖喱棒 = Saber Excalibur
+阿瓦隆 = Avalon
+中式长剑 = Chinese Sword
+中式短剑 = Chinese Dagger
+魔化镰刀J = Enchanted Sickle
+贝瑟尔之爪 = Shaolin Claw
+黑色超渡 = Black Salvation
+魔化镰刀K = Magic Sickle K
+魔化战斧E = Enchanted Tomahawk E
+魔化护手C = Enchanted Gauntlets C
+苦无 = Kunai
+手里剑 = Shuriken
+魔化臂刃E = Magic Arm Edge E
+魔化臂刃F = Magic Arm Edge F
+魔化权杖A = Enchanted Scepter A
+魔化剑刃戟B = Magic Halberd B
+撕裂骨斧 = Tear Bone Ax
+魔化剑刃戟C = Magic Halberd C
+魔化重锤G = Magic Hammer G
+魔化之爪E = Magic Claws E
+魔化护手B = Magic Handguard B
+魔化镰刀H = Magic Sickle H
+魔化镰刀I = Magic Sickle I
+魔化权杖B = Enchanted Scepter B
+魔化护手D = Magic Handguard D
+魔化战斧F = Magic War Ax F
+魔化权杖C = Enchanted Scepter C
+魔化战斧G = Magic War Ax G
+魔化权杖D = Enchanted Scepter D
+魔火之舞 = Magic Fire Dance
+污秽之镰 = Filthy Sickle
+废黜君王的权杖 = Dismissed The King's Scepter
+魔化重锤H = Magic Hammer H
+魔化剑刃戟D = Magic Halberd D
+杜兰德尔之剑 = Durandr's Sword
+杜兰德尔之鞘 = Durandr's Sheath
+绯红女皇 = Crimson Queen
+骑士标枪 = Knight Javelin
+骑士刺枪 = Knight Spear
+静滞之刃 = Stagnant Blade
+阿凯德纳的獠牙 = Akadena's Fangs
+风暴之矛 = The Spear Of The Storm
+魔化剑刃戟E = Magic Halberd E
+魔化重锤I = Magic Hammer I
+防爆盾 = Riot Shield
+标枪导弹 = FGM-148 Javelin
+毒刺导弹 = FIM-92 Stinger
+M136AT4火箭筒 = M136AT4 Rocket Launcher
+RPG-7（传统） = RPG-7 (Traditional)
+RPG-7V2（标准） = RPG-7V2 (Standard)
+RPG-7V2（特战） = RPG-7V2（Special Warfare）
+Barrett XM500（迷彩） = Barrett XM500 (Camo)
+Barrett XM500（冬季） = Barrett XM500 (Winter)
+Barrett XM500（标准） = Barrett XM500 (Standard)
+AW50（标准） = AW50 (Standard)
+AW50（丛林） = AW50 (Jungle)
+AW50（火焰） = AW50 (Flame)
+AW50（冬季） = AW50 (Winter)
+DSR50（标准） = DSR50 (Standard)
+DSR50（迷彩） = DSR50 (Camo)
+DSR50（冬季） = DSR50 (Winter)
+土制炸弹 = Improvised Explosive Device
+C4-1（可吸附式） = C4-1 (Adsorption Type)
+C4-3（炸弹） = C4-3 (Bomb)
+C4-3（引爆器） = C4-3 (Detonator)
+C4-4（炸弹） = C4-4 (Bomb)
+C4-4（引爆器） = C4-4 (Detonator)
+高爆手雷 = Illuminating Grenade
+破片手雷 = Frag Grenade
+.50AE弹匣 = .50AE Magazine
+.50AE实弹 = .50AE Live Ammunition
+.50AE弹头 = .50AE Warheads
+RPG-7(未填装) = RPG-7 (Not Filled)
+M4A1(模块化) = M4A1 (Modular)
+40mm 榴弹实弹 = 40mm Grenade Live Ammunition
+40mm 榴弹弹头 = 40mm Grenade Warhead
+40mm 榴弹弹壳 = 40mm Grenade Shells
+40mm火箭弹(通常) = 40mm Rocket (Normal)
+40mm火箭弹(发射) = 40mm Rocket (Launch)
+霰弹 = Shotgun
+铅弹 = Lead Bombs
+步枪实弹 = Rifle Live Ammunition
+步枪弹头 = Rifle Warheads
+步枪弹壳 = Rifle Shells
+
+// H-Items
+
+アナルバイブ(ハニー) = Anal Vibrator (Honey)
+拘束台(ハニー) = Restraint Board (Honey)
+ＳＭギロチン(ハニー) = SM Guillotine (Honey)
+ＳＭ固定ギロチン(ハニー) = SM Fixed Guillotine (Honey)
+鞭(ハニー) = Whip (Honey)
+鞭三角木馬(ハニー) = Whip Triangle Horse (Honey)
+ＳＭ三角木馬(ハニー) = SM Triangular Horse (Honey)
+断面図 = Sectional View
+钢环 = Steel Ring
+直钢棍 = Straight Steel Bar
+圆头钩 = Round Head Hook
+铁链(直) = Iron Chain (Straight)
+铁链(弯) = Iron Chain
+铁链(一圈) = Iron Chain (Looped)
+肛塞 = Butt Plug
+跳蛋(粉) = Egg Vibrator (Pink)
+跳蛋(小) = Egg Vibrator (Small)
+跳蛋(无线紫) = Egg Vibrator (Wireless Pink)
+跳蛋(无线黑) = Egg Vibrator (Wireless Black)
+跳蛋控制器(粉) = Controller (Pink)
+跳蛋控制器(白) = Controller (White)
+跳蛋控制器(无线) = Controller (Wireless Black)
+无线跳蛋遥控器 = Wireless Remote Control
+无线跳蛋接收器 = Wireless Receiver
+直线(粉) = Straight Wire (Pink)
+4/1圆线(粉) = 1/4 Curved Wire (Pink)
+半圆线(粉) = Semicircle Wire (Pink)
+U型线(粉) = U Shaped Wire (Pink)
+一捆线(粉) = A Bundle of Wire (Pink)
+直线(黑) = Straight Wire (Black)
+4/1圆线(黑) = 1/4 Curved Wire (Black)
+半圆线(黑) = Semicircle Wire (Black)
+U型线(黑) = U Shaped Wire (Black)
+一捆线(黑) = A Bundle of Wire (Black)
+
+
+// Liquid
+
+スプレー(白) = Spray (White)
+スプレー(透明) = Spray (Transparent)
+スプレー(黄) = Spray (Yellow)
+液溜まりA(白) = Liquid Pool A (White)
+液溜まりA(透明) = Liquid Pool A (Transparent)
+液溜まりA(黄) = Liquid Pool A (Yellow)
+液溜まりB(白) = Liquid Pool B (White)
+液溜まりB(透明) = Liquid Pool B (Transparent)
+液溜まりB(黄) = Liquid Pool B (Yellow)
+液飛び(白) = Spurt (White)
+液飛び(透明) = Spurt (Transparent)
+液飛び(黄) = Spurt (Yellow)
+液垂れ(白) = Dripping (White)
+液垂れ(透明) = Dripping (Transparent)
+液垂れ(黄) = Dripping (Yellow)
+ゆらゆら水面_〇 = Water Surface (Circle)
+ゆらゆら水面_□ = Water Surface (Square)
+ゆらゆら水面_●大 = Water Surface (Huge)
+あわあわ = Bubbles
+海面用_反射抑え板 = Reflection plate for sea surface
+大きい海面_大きい波 = Huge Sea Surface (Big Waves)
+大きい海面_日差し有 = Huge Sea Surface (Sunlight)
+大きい海面_日差し無 = Huge Sea Surface (No Sunlight)
+丸い水面_小 = Small Water Surface (Circle)
+四角い水面_小 = Small Water Surface (Square)
+
+// Screen
+
+粉雪 = Powdery Snow
+半月 = Half Moon
+虹 = Rainbow
+星 = Star
+満月 = Full Moon
+光１ = Light 1
+光２ = Light 2
+光３ = Light 3
+渦 = Vortex
+雲 = Cloud
+波 = Wave
+雨 = Rain
+ブラシ = Brush
+煙 = Smoke
+黄ボケ = Yellow Blur
+赤ボケ = Red Blur
+炎１ = Flame 1
+炎２ = Flame 2
+魔方陣 = Magical Square
+桜の花びら = Cherry Blossom Petals
+紙吹雪 = Confetti
+HL_炎A = HL Fire
+HL_炎B = HL Fire
+HL_火花 = HL Spark
+HL_アフターバーナー = HL Afterburner
+HL_大きい煙_A = HL Big Smoke A
+HL_大きい煙_B = HL Big Smoke B
+HL_大きい煙_C = HL Big Smoke C
+HL_大きい煙_D = HL Big Smoke D
+HL_黒煙 = HL Black Smoke
+HL_白煙 = HL White Smoke
+HL_車の白煙 = HL Car Exhaust Fumes
+HL_湯気っぽい物 = HL Surface Steam (Big)
+HL_雨 = HL Rain
+HL_雪 = HL Snow
+HL_湯気っぽい物_中 = HL Rising Steam (Mid)
+ILLUの炎 = ILLU Flame
+
+//  Other
+
+东都洛阳 = East Of Luoyang
+死亡之翼 = Deathwing
+黄金麒麟 = Golden Kirin
+黑龙王 =  Black Dragon King
+悲恸之龙 = Dragon Of Sorrow
+徘徊者 = The Prowler
+狗肉 = Dog Meat (fallout)
+地狱火马 = Hellfire Horse
+不死马 = Undead Horse
+独角兽 = Unicorn
+战马 = Horse
+白虎 = White Tiger
+大老虎 = Big Tiger
+猫头鹰 = Owl
+血迹1 = Blood 1
+血迹2 = Blood 2
+血迹3 = Blood 3
+血迹4 = Blood 4
+血迹5 = Blood 5
+血迹6 = Blood 6
+血迹7 = Blood 7
+血迹8 = Blood 8
+血迹9 = Blood 9
+
+// -----------------------------------------------------------------------------------------------
+//  end
+// -----------------------------------------------------------------------------------------------
