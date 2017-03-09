@@ -725,8 +725,7 @@
 // -----------------------------------------------------------------------------
 
 //#sub "hs_01_001" あん、ああん、やん、ダメ、やめて、きゃっ、きゃあ、んっ、もう、いい
-#sub "hs_01_001" an, aan, it stopped, no good, it stopped, no good, stop, きゃっ、Kyā, I don't want to, 
-already, good
+#sub "hs_01_001" an, aan, it stopped, no good, it stopped, no good, stop, きゃっ、Kyā, I don't want to, already, good
 
 //#sub "hs_01_002" んっ、ん゛っ、んあ、う゛うっ、い゛っ、いや、きらい、やっ、くっ、くぅぅ、
 #sub "hs_01_002"  I don't want to,ん゛っ、Nya, う゛うっ、い゛っ、disagreeable, I hate it, doing, damn, くぅぅ、
@@ -758,7 +757,7 @@ already, good
 //#sub "hs_01_011" [はぁ……はぁ……」
 #sub "hs_01_011" [Huh …… Huh ……」
 
-/#sub "hs_01_012" [すぅ……はぁ……」
+//#sub "hs_01_012" [すぅ……はぁ……」
 #sub "hs_01_012" [ahh …… hah ……」
 
 //#sub "hs_01_013" [はぁ……はぁ……」
@@ -1203,7 +1202,7 @@ already, good
 #sub "hs_01_159" [wanne let it out...in my mouth...*suck*....your cum...]
 
 //#sub "hs_01_160" [（ぐっぽん……ぱも……はぽ……んぼ……）」
-#sub ''hs_01_160'' [（ぐっぽん……ぱも……はぽ……んぼ……）]
+#sub "hs_01_160" [（ぐっぽん……ぱも……はぽ……んぼ……）]
 
 //#sub "hs_01_161" [（ぐっぽん……ぱも……はぽ……んぼ……）」
 #sub "hs_01_161" [（ぐっぽん……ぱも……はぽ……んぼ……）」
@@ -1411,7 +1410,7 @@ already, good
 
 //#sub "hs_01_229" あんまり激しくしないでね
 #sub "hs_01_229" Do not make it so intense.
-.
+
 //#sub "hs_01_230" 慣れてないから、ちょっと怖いかな
 #sub "hs_01_230" Because I'm not experienced, I wonder if it will be a little scary.
 
@@ -1581,35 +1580,27 @@ already, good
 #sub "hs_01_285" No more i'm on the brink off--Wow!, and.　[Stop it, I'll die.]
 
 //#sub "hs_01_286" ひひッ、きもち゛ひい、きもちひいのぉ・・！！　　【ひひっ、気持ちいい、気持ちいいのぉ】
-#sub "hs_01_286" Fool!, feels amazing, feels great on!--!！！　　[Hi hi, it feels good, it feels really 
-good]
+#sub "hs_01_286" Fool!, feels amazing, feels great on!--!！！　　[Hi hi, it feels good, it feels really good]
 
 //#sub "hs_01_287" こんなにょはじみぇれ、きもちりょすぎれくりゅしぃ、くりゅしいにょお゛　【こんなの初めて、気持ちよすぎて苦しい、苦しいの】
-#sub "hs_01_287" I feel torn appart, im just not used to it ゛　【This is the first 
-time, it's too painful to enjoy.】
+#sub "hs_01_287" I feel torn appart, im just not used to it ゛　【This is the first time, it's too painful to enjoy.】
 
 //#sub "hs_01_288" もうひないれぇ、　もうむり・・こりぇいりょうらめらからぁ　　【もうしないで、もうむり・・これ以上だめだから】
 #sub "hs_01_288" [I'm not used to this, it's like im being ripped appart.]　　[No more, it's impossible for me to take anymore … because it is bad.]
 
 //#sub "hs_01_289" は、はりゃくひれ、はりゃくひれぇ、　へへ、はりゃくぅ！！　　【は、はやくして、はやくして～、へへ、　はやく～】
-#sub "hs_01_289" To fast, just to fast, eeee to fast!!　　[It is too fast, too fast, 
-you're moving too quickly.]
+#sub "hs_01_289" To fast, just to fast, eeee to fast!!　　[It is too fast, too fast, you're moving too quickly.]
 
 //#sub "hs_01_290" ついてくらはひゃい、いっぱいついれ・・へへ・・へへへへ・・　　【突いてください、いっぱい突いて　へへ、へへへへ】
 #sub "hs_01_290" Keep going, keep going, fill me up　　【Please poke, poke me full, Hehehe】
 
-//#sub "hs_01_291" もっろいっぱいこわひてぇ、もっろきもひりょくにゃりたいの゛ぉ！！【もっといっぱい壊してぇ、
-もっといっぱい気持ちよくなりたいの！！】
-#sub "hs_01_291" Faster i want it faster, i will come soon. 【Break me if you want,
-I want to enjoy this more! !】
+//#sub "hs_01_291" もっろいっぱいこわひてぇ、もっろきもひりょくにゃりたいの゛ぉ！！【もっといっぱい壊してぇ、もっといっぱい気持ちよくなりたいの！！】
+#sub "hs_01_291" Faster i want it faster, i will come soon. 【Break me if you want, I want to enjoy this more! !】
 
-//#sub "hs_01_292" こ、こんにゃにょいりゃ・・しりゃくにゃい・・・もうしりゃくにゃいにょぉ゛！【こんなの嫌、したくない
-・・・もうしたくないの！！】
-#sub "hs_01_292" こ、こんにゃにょいりゃ・・しりゃくにゃい・・・もうしりゃくにゃいにょぉ゛！【I hate it, I do not want to
-… I do not want to do this anymore!！】
+//#sub "hs_01_292" こ、こんにゃにょいりゃ・・しりゃくにゃい・・・もうしりゃくにゃいにょぉ゛！【こんなの嫌、したくない・・・もうしたくないの！！】
+#sub "hs_01_292" こ、こんにゃにょいりゃ・・しりゃくにゃい・・・もうしりゃくにゃいにょぉ゛！【I hate it, I do not want to… I do not want to do this anymore!！】
 
-//#sub "hs_01_293" りゃめて、ひんりゃう、もうひんりゃうかりゃぁあ！　【やめて、もう死んじゃう、死んじゃうからぁ
-！】
+//#sub "hs_01_293" りゃめて、ひんりゃう、もうひんりゃうかりゃぁあ！　【やめて、もう死んじゃう、死んじゃうからぁ！】
 #sub "hs_01_293" Slow down, i'm on the brink of death, oh my god oh!　【I'm already close to death, Stop it, or I'll die !】
 
 //#sub "hs_01_294" れんぶろうれもひい、ろうれもよきゅなひゃったかりゃ、きもちいいのひょうらい、ひょうらい！！　【全部どうでもいい、どうでも良くなっちゃったからぁ、　気持ちいいのちょうだい、ちょうだい！！】
@@ -1926,7 +1917,6 @@ I want to enjoy this more! !】
 
 //#sub "hs_01_398" は、恥ずかしいです
 #sub "hs_01_398" It is embarrassing.
-
 
 // -----------------------------------------------------------------------------
 // Caress
@@ -3602,7 +3592,7 @@ I want to enjoy this more! !】
 //#sub "hh_01_055" 強く踏んでも大丈夫なの？
 #sub "hh_01_055" Is it okay if i do it hard？
 
-//#sub"hh_01_056" ほんとに足でいいの？
+//#sub "hh_01_056" ほんとに足でいいの？
 #sub "hh_01_056" Really you like it when i use my foot？
  
 //#sub "hh_01_057" 足で・・ほんとに痛くないの？
@@ -4116,7 +4106,7 @@ I want to enjoy this more! !】
 #sub "hh_01_226" You came a lot, right?
 
 //#sub "hh_01_227" ぬうぐ・・・はぁ・・・んふふ、いっぱい出たわね☆
-sub "hh_01_227" Nuugu...hahaha oh, so much came out. Right?
+#sub "hh_01_227" Nuugu...hahaha oh, so much came out. Right?
 
 //#sub "hh_01_228" れえぇ・・、　まだでるの？
 #sub "hh_01_228" Oh yes...it's still coming out？
@@ -4291,7 +4281,7 @@ sub "hh_01_227" Nuugu...hahaha oh, so much came out. Right?
 #sub "hso_01_024" I didn't think it would be so much fun.
 
 //#sub "hso_01_025" 興奮して、気持ちよくなりすぎちゃう
-sub "hso_01_025" I'm getting so excited...it's amazing.
+#sub "hso_01_025" I'm getting so excited...it's amazing.
 
 //#sub "hso_01_026" んはぁ…すご、もういっちゃいそう
 #sub "hso_01_026" NHAA...i think i will cum soon. 
@@ -6346,462 +6336,1377 @@ sub "hso_01_025" I'm getting so excited...it's amazing.
 // Special
 // -----------------------------------------------------------------------------
 
-#sub "ht_01_001" 痛い、叩かないでよ・・
-#sub "ht_01_002" きゃぁ！！　ないするんですか！？
-#sub "ht_01_003" んぎい、お尻ぶたないで！！
-#sub "ht_01_004" うぐ・・！！　やめて！
-#sub "ht_01_005" もうだめ・・いぎぃ、　げんかい・・・・
-#sub "ht_01_006" いだい・・痛いのぉ・・・
-#sub "ht_01_007" んっく、こんなにきついなんて・・・
-#sub "ht_01_008" ぎゃふ、ごめん、やっぱりやめちゃダメ？
-#sub "ht_01_009" きゃぁぁ！！　思ったより痛いかも
-#sub "ht_01_010" んぐ・・・、ダメ、意識が飛びそう・・・
-#sub "ht_01_011" あぁ…やっぱり、やめとけばよかったぁ
-#sub "ht_01_012" んふっぅ…こ、これぐらいなら大丈夫です
-#sub "ht_01_013" いたぃ…あぁ、我慢、できます
-#sub "ht_01_014" ふぐぅ…だ、大丈夫です…いけます
-#sub "ht_01_015" あぁ…もう、もう、私…
-#sub "ht_01_016" うぅ…も、もう…こわれ、ちゃう
-#sub "ht_01_017" やめて、こすり付けないで！
-#sub "ht_01_018" い゛や、やめて・・痛い！
-#sub "ht_01_019" あぁ…やっぱり、下ろしてぇ…
-#sub "ht_01_020" いやぁ・・いたいのに・おかしくなっちゃう
-#sub "ht_01_021" う、うそぉ…だめえ、いっちゃうなんてぇ
-#sub "ht_01_022" あぁ…こ、こわれちゃうぅうう！
-#sub "ht_01_023" これは・・・、まだ・・私には・・・、んぐっ
-#sub "ht_01_024" うそぉ…こんなに、思わなかったかもぉ
-#sub "ht_01_025" やっぱり、ムリ、これきついわぁ！
-#sub "ht_01_026" やぁ…でもなんだか、いっちゃいそう
-#sub "ht_01_027" き、きついけど、いっちゃい、そう…
-#sub "ht_01_028" ひん、・・続けてください
-#sub "ht_01_029" くぅ…が、我慢するんで…続けて、下さい
-#sub "ht_01_030" ひぐっ・・だ、大丈夫です・・まだ、いけます
-#sub "ht_01_031" はぐぅ…擦れて、こわれちゃう
-#sub "ht_01_032" あぁ…もうあそこが、おかしく、あぁぁ…！
-#sub "ht_01_033" はぁはぁ・・だめ・・・体が動かない・・。
-#sub "ht_01_034" もうやめて・・・きついの
-#sub "ht_01_035" やっぱり、これ…私にはムリかも
-#sub "ht_01_036" おしおき・・・・おしおき・・・へへ
-#sub "ht_01_037" わらし・・だめなこ・・・
-#sub "ht_01_038" え゛へ・・へへへへ・・・
-#sub "ht_01_039" こわいろくる・・・まら、こわいのくる・・・へへへ
-#sub "ht_01_040" あはは…おこられちゃった
-#sub "ht_01_041" へへ・・わるいこ？・・・わらしわるいこ？　へへへ
-#sub "ht_01_042" ふぅ…ふぅ…もう…わかんない…
-#sub "ht_01_043" こんな・・はず・・ぁん、かしいの・・やん・・に・・しないといけないの？
-#sub "ht_01_044" だめ、・・あん、このままだと、すぐにいっちゃう・・はぁん
-#sub "ht_01_045" こんな事するなんて…んふぅ…す、ごく…
-#sub "ht_01_046" ダメ、撮られながら・・ぁん、自分でイっちゃう
-#sub "ht_01_047" あぁん…いっちゃうところ、カメラにのこっちゃうぅ
-#sub "ht_01_048" 撮られながら自分でしちゃった・・
-#sub "ht_01_049" オナニー撮影だから、自慰撮りなのよね
-#sub "ht_01_050" いつもより・・んく・・、感じちゃう
-#sub "ht_01_051" いいわぁ…しっかり映してね
-#sub "ht_01_052" 私の指、綺麗に映ってる？
-#sub "ht_01_053" い、いい…ぐちょぐちょの所、とってぇ！
-#sub "ht_01_054" んはぁあ…オナニーでいく所ちゃんと、とってぇ！
-#sub "ht_01_055" 気持ちいい、カメラがあると、興奮しちゃうぅう！
-#sub "ht_01_056" やだ・・こんなの・はぁん、撮らないで・・
-#sub "ht_01_057" んぎぃ・・、撮られてる・・・、恥ずかしいとこ取られて・・んはぁ
-#sub "ht_01_058" カメラとめて…んはぁ…こんなの、取っちゃだめぇん
-#sub "ht_01_059" んふぅ…いっちゃう、撮られてるのに、いっちゃうぅ！
-#sub "ht_01_060" あはぁ…恥ずかしいのに、止まらないぃ…
-#sub "ht_01_061" 撮影されながら・・あん・・激しくされると・・すごくゾクゾクする
-#sub "ht_01_062" もっと、いやらしい所、撮影してぇ
-#sub "ht_01_063" いいのぉ…いっぱい映してぇ！
-#sub "ht_01_064" 撮られながらいっちゃう！
-#sub "ht_01_065" ちゃんと、いく所、映してぇ！
-#sub "ht_01_066" あんあん、みんなに見られてる・・んぁ・・
-#sub "ht_01_067" 見られながらなんて、はずかしい
-#sub "ht_01_068" いやぁ…見られてるのぉ
-#sub "ht_01_069" あ、あ、あ、みんなに見られながらいっちゃう。
-#sub "ht_01_070" だめぇ…イ、いく所、見られちゃうぅ！
-#sub "ht_01_071" はぁはぁ、イくとこみんなに見られちゃった・・・
-#sub "ht_01_072" うぅ…見られながら、いちゃった…
-#sub "ht_01_073" あん、みんなに見られながらだと・・・ドキドキする！
-#sub "ht_01_074" 見られながらなんて、興奮しちゃう
-#sub "ht_01_075" い、いい…もっと見せ付けてあげたいわ
-#sub "ht_01_076" あぁ…見られながら、すごく、熱くなってぇ…
-#sub "ht_01_077" い、いい…見られながら、いっちゃいそうっ！
-#sub "ht_01_078" んはぁ…見られながらいっちゃった…気持ちいい
-#sub "ht_01_079" いいのぉ…見られるの、すごくよかったわぁ
-#sub "ht_01_080" ぎぃ、激しくされると・・んぐ・・縄が食い込んでいたい
-#sub "ht_01_081" い、いやぁ…解いて、痛いの
-#sub "ht_01_082" お願いだから、ひどいことしないで
-#sub "ht_01_083" い…いやぁ…いたいのに…いやぁぁ！
-#sub "ht_01_084" だめ、もうやめて…あ、ああああぁっ！
-#sub "ht_01_085" もういいでしょ…早くほどいてよ
-#sub "ht_01_086" もういや…はやく下ろして
-#sub "ht_01_087" い、いや…放して…もうやめてぇ！
-#sub "ht_01_088" 外して、こんなのひどいわ
-#sub "ht_01_089" やめて…も、もうはずしてぇ！
-#sub "ht_01_090" ひぃ、いやぁ…こんな、もいやぁぁ！
-#sub "ht_01_091" だめ…動かないでぇ、あ、あぁぁっ！
-#sub "ht_01_092" もう十分でしょ…はやく、外してよ
-#sub "ht_01_093" こんなの、早く外して…うぅ
-#sub "ht_01_094" あん、・・ンぁ、・・・はぁん、これいいかも・・・。
-#sub "ht_01_095" 拘束されて、興奮しちゃう
-#sub "ht_01_096" この格好、すごく、感じちゃうぅ
-#sub "ht_01_097" はん、あん、ぁん、こんな格好でイかされちゃう・・・
-#sub "ht_01_098" あぁ、いい…この格好、すごくいきそうよぉ！
-#sub "ht_01_099" 拘束されながらいっちゃった
-#sub "ht_01_100" こんな格好でいっちゃうなんて…気持ちいい
-#sub "ht_01_101" ふぅ…
-#sub "ht_01_102" はぁ…
-#sub "ht_01_103" ん…あぶなかったぁ
-#sub "ht_01_104" はぁ…あったかぁい
-#sub "ht_01_105" ふぅ…さっぱりするぅ
-#sub "ht_01_106" やっぱりシャワーは気持ちいいわねぇ…
-#sub "ht_01_107" あぁ…変な気分になってきちゃった
-#sub "ht_01_108" だめ…指が勝手に動いちゃう
-#sub "ht_01_109" どうしよ…もう、止めた方がいいかな
-#sub "ht_01_110" やっぱり…指、動いちゃう
-#sub "ht_01_111" い、いい…気持ちよくなってきちゃった
-#sub "ht_01_112" だめ…絶対止められなく、なってる
-#sub "ht_01_113" どうしよ、最後までいっちゃいそう…
-#sub "ht_01_114" だめ…も、もう…指が止まらない
-#sub "ht_01_115" あぁぁ…いい、すごく気持ちいい
-#sub "ht_01_116" だめぇ…もう気持ちよくって、止まらない
-#sub "ht_01_117" いいのぉ…指ぃ、すごく気持ちいいのぉ
-#sub "ht_01_118" あそこ、すごくいやらしくなってるのぉ…
-#sub "ht_01_119" い、いい…このままいっちゃうぅ
-#sub "ht_01_120" だめぇ…もう、いっちゃう、いちゃううぅう！
-#sub "ht_01_121" はぁ…自分で、いちゃった…
-#sub "ht_01_122" なんだか…ちょっと…疲れちゃった
-#sub "ht_01_123" 痛いの、もうやめてよぉ
-#sub "ht_01_124" 痛いってば、もう勘弁して
-#sub "ht_01_125" いぎぃ・・もう無理・・無理なのぉ
-#sub "ht_01_126" いやぁ…また、痛いのにいっちゃうぅ
-#sub "ht_01_127" い、痛いのに…も、もう、ああぁぁっ！
-#sub "ht_01_128" やっぱり、これ痛いってば
-#sub "ht_01_129" だめ、まだ…私には、む、むりぃ…
-#sub "ht_01_130" やぁん…あんまり、気持ちよくないわぁ
-#sub "ht_01_131" だめえ…ぶたれて、いきたく、なぁぁい！
-#sub "ht_01_132" やめてぇ！　お、おかしくなっちゃうぅ！
-#sub "ht_01_133" 大丈夫です。我慢します
-#sub "ht_01_134" はぁ…これくらい、平気ですよ
-#sub "ht_01_135" ぐっ・・・、はぁはぁはぁ…ど、どうぞ、続けてください
-#sub "ht_01_136" んふぅ…ぶたれながら、いきそうです
-#sub "ht_01_137" 痛みで、また、いきそうですぅ、あぁぁっ！
-#sub "ht_01_138" んはぁ…も、もう無理だってばぁ
-#sub "ht_01_139" だめぇ、もう乗りたくないのにぃ
-#sub "ht_01_140" い、いやぁ…お願いだからもう下ろしてぇ
-#sub "ht_01_141" だめ、下ろして…また、いっちゃううう！
-#sub "ht_01_142" こ、こわいのに、またいっちゃうぅう！
-#sub "ht_01_143" やっぱり、これむりみたぃい
-#sub "ht_01_144" これ乗るの、やっぱり、無理みたい
-#sub "ht_01_145" 痛い…全然痛い、やっぱりむりぃ
-#sub "ht_01_146" んふぁ…無理なのに、いけちゃうのぉ！
-#sub "ht_01_147" いやぁ…痛いのに、こすれて、いっちゃうぅう！
-#sub "ht_01_148" はぁ…まだ、乗れます
-#sub "ht_01_149" 動いても、大丈夫、です
-#sub "ht_01_150" このまま、上で、続けて、下さい
-#sub "ht_01_151" ひぃい…きつい、いい、いっちゃうぅう！
-#sub "ht_01_152" ま、また、乗ったままいっちゃいますぅ
-#sub "ht_01_153" ぜぇぜぇ・・・、もう・・無理です・・
-#sub "ht_01_154" ごめんなさい・・やっぱり、限界・・・です・・
-#sub "ht_01_155" また撮影してるの？
-#sub "ht_01_156" あんまりエッチな所撮られたくないのにぃ
-#sub "ht_01_157" カメラがあると、ちょっと緊張しちゃうわね
-#sub "ht_01_158" んふぅう…また、カメラの前で、いっちゃうぅう
-#sub "ht_01_159" い、イいちゃう所、また、撮られちゃうぅ！
-#sub "ht_01_160" んはぁ…撮った動画、どうするの？
-#sub "ht_01_161" もし良かったら、撮ったの、あとで見せて…
-#sub "ht_01_162" また、いっぱいいく所とってね
-#sub "ht_01_163" カメラの前だと、指が、すごく動くの
-#sub "ht_01_164" いいわぁ…カメラであそこもばっちり撮ってねぇ
-#sub "ht_01_165" い、いいのぉ…おなにぃ、きもちいのぉ！
-#sub "ht_01_166" また、オナニー撮られて、いっちゃうぅう！
-#sub "ht_01_167" こんな所、撮らないで
-#sub "ht_01_168" おかしいわよ、撮影、するなんて
-#sub "ht_01_169" やめて…カメラ、止めて…
-#sub "ht_01_170" い、いやぁ…こんな所、とらない、でぇ！
-#sub "ht_01_171" やめ…さ、撮影、しないでぇ！
-#sub "ht_01_172" いいわぁ…たっぷりカメラ回してね
-#sub "ht_01_173" アングルはそこでいいの？
-#sub "ht_01_174" 気持ちいいところ、撮ってね！
-#sub "ht_01_175" また、撮られながらいきそうよぉ！
-#sub "ht_01_176" いいのぉ…撮られるの、すごくきもちいいのぉ！
-#sub "ht_01_177" 見られてる…いや、もうやめて
-#sub "ht_01_178" やめて、見られてるなんて、いや
-#sub "ht_01_179" 恥ずかしいの…こんな所、もういや
-#sub "ht_01_180" だめぇ…人前で、いきたく、ないぃ
-#sub "ht_01_181" いぃやぁ…恥ずかしいの、だめえぇ！
-#sub "ht_01_182" …うぅ…も、もうココでは、いいでしょ
-#sub "ht_01_183" もう、見られるのは、いや…
-#sub "ht_01_184" すごぉい…やっぱり見られるのってゾクゾクしちゃう
-#sub "ht_01_185" また…興奮して…気持ちよくなっちってるわ！
-#sub "ht_01_186" 見られて、体が、すごく熱くなってるのぉ！
-#sub "ht_01_187" い、いいのぉ…また、見られながらいっちゃうぅう！
-#sub "ht_01_188" あぁ…見られて、すごくかんじちゃうのぉお！
-#sub "ht_01_189" はぁ…見られるのも、クセになりそう…
-#sub "ht_01_190" ふぅ…視線を感じるのって、気持ちいいわね
-#sub "ht_01_191" だめ…縄が、いたいの！
-#sub "ht_01_192" 続けて、吊るされたら…きついってば
-#sub "ht_01_193" お願いだから、解いて
-#sub "ht_01_194" だめぇ…こんな、こんな格好で、またぁ…
-#sub "ht_01_195" い、いやぁ…また、吊るされて、いっちゃうぅ！
-#sub "ht_01_196" んはぁ…もう、いいわよね？　とりあえず外してよぉ
-#sub "ht_01_197" はぁ…いっちゃった…余計食い込んじゃった
-#sub "ht_01_198" だめ！　痛いからやめて！
-#sub "ht_01_199" 痛いの、本当にもうやめて！
-#sub "ht_01_200" お願い、いたい、食い込んでいたいのぉ！
-#sub "ht_01_201" い、いやっぁ…こ、こんな、格好でぇ…
-#sub "ht_01_202" こんな、うそ…また、い、くぅう…
-#sub "ht_01_203" お、お願い…もう、解いて
-#sub "ht_01_204" これとって、お願い…
-#sub "ht_01_205" いいわぁ…動けなくって、興奮しちゃう
-#sub "ht_01_206" いいの、拘束したまま、続けてぇ！
-#sub "ht_01_207" そのまま、そのまま気持ちよく、してぇ！
-#sub "ht_01_208" あぁぁ…い、いい…この格好で、いくぅう！
-#sub "ht_01_209" すごい、また、このまま気持ち、いいぃ！
-#sub "ht_01_210" んはぁ…あぁ…拘束ってすごく、気持ちいい
-#sub "ht_01_211" んふぅ…興奮しすぎて、いき過ぎちゃったかも
-#sub "ht_01_212" またいっちゃう・・・
-#sub "ht_01_213" い、いい…指が、ゆびがぁぁ！
-#sub "ht_01_214" いいっちゃう、またいっちゃううう！
-#sub "ht_01_215" ふぅ…また新たなテクを見つけたかも…
-#sub "ht_01_216" 手伝って…くれないのねぇ…
-#sub "ht_01_217" ひはあ…も、もうひゃめてぇ
-#sub "ht_01_218" あふぅっ！！
-#sub "ht_01_219" んほぉぉぉぉぉ、たたからいれぇぇぇ
-#sub "ht_01_220" ひぎぃぃ！！
-#sub "ht_01_221" い゛い・・・い、意識がとんらうぅぅぅ
-#sub "ht_01_222" いやぁぁ…いたくれぇ、おかひくなっひゃうぅ
-#sub "ht_01_223" も、わらひ、らめぇえ！
-#sub "ht_01_224" ひぃ…もう、むり…おろひてぇ…
-#sub "ht_01_225" はひ…うごかさ、ないれぇ
-#sub "ht_01_226" いらいよぉ…らめぇ…
-#sub "ht_01_227" あふぅ…ぉぉ…また、いぐぅ…
-#sub "ht_01_228" うふぅ…これいじょうはぁ…はひぃい…
-#sub "ht_01_229" ぜぇぜぇぜぇ・・・もうらめぇ・・もうやめれ・・・・
-#sub "ht_01_230" お、おねがいひ…もう、ひゃめてぇ
-#sub "ht_01_231" んふ…も、もう、こふれていたいのぉ
-#sub "ht_01_232" なんか、感覚…なくなっちゃってるのぉ
-#sub "ht_01_233" んはぁ、、えぅ・・・んっふ、手がとまららいよ・・・
-#sub "ht_01_234" いやぁ…またぁ…またいっちゃうぅ
-#sub "ht_01_235" もぉ…指がぁ…わからないのぉ…
-#sub "ht_01_236" ひぐぅ…も、もう…つかれひゃったのぉ
-#sub "ht_01_237" もう、ゆびぃ…うごかな、いのぉ…
-#sub "ht_01_238" んはぁ…すぁりたく、なっひゃうぅ
-#sub "ht_01_239" お、おなにぃ…きもちいい
-#sub "ht_01_240" あぁ…また、うずうず…する
-#sub "ht_01_241" いいのぉ…ゆび、きもひいい
-#sub "ht_01_242" あふぅ…かってにぃ…うごい、ちゃう
-#sub "ht_01_243" はぁ…いいのぉ…ゆびがぁ…うごいてるぅ
-#sub "ht_01_244" おほぉぅぅぅ、てぎゃ、・・むほぁ、とまりゃにゃい・・・ひき゛ぃ！
-#sub "ht_01_245" もうらめぇ…また、てがとまらなひのぉ
-#sub "ht_01_246" いいのぉ…もぉ…おなにぃいきもちいいのぉ…
-#sub "ht_01_247" いぐ、イグイグイグ、まらいぐぅぅぅぅぅ！！
-#sub "ht_01_248" いっちゃううぅ…いちゃうのぉ…
-#sub "ht_01_249" お、おなにぃい…い、いいのぉ…
-#sub "ht_01_250" もうらめ・・・もうぐるじい゛・・・のに・・まらさわっちゃう
-#sub "ht_01_251" も゛ういぎだくない・・・のに・・手がとまららいおう・・・
-#sub "ht_01_252" やぁん、叩かないでよぉ
-#sub "ht_01_253" あ゛ぐ・・、叩かないでぇ・・
-#sub "ht_01_254" いぎ・・、はぁはぁはぁ
-#sub "ht_01_255" また・・意識が飛びそう・・
-#sub "ht_01_256" だめえぇ…いっちゃう
-#sub "ht_01_257" あはぁ…ちょ、なんかへんな感じ、です
-#sub "ht_01_258" す、すごい…ジンジン、します…
-#sub "ht_01_259" んあ・・、　続けて・・ください
-#sub "ht_01_260" い、いい…いっちゃそうですぅ
-#sub "ht_01_261" だめぇ…痛みで、いっちゃうぅ
-#sub "ht_01_262" これ・・痛いだけで・・んぐ、きもちよく・・ない・・んぐ
-#sub "ht_01_263" あんまり…たのしく、ない、かもぉ
-#sub "ht_01_264" やっぱり、乗るんじゃ、なかったぁ
-#sub "ht_01_265" あはぁ…つらいのにぃ、いっちゃうぅ
-#sub "ht_01_266" いやぁ…なんでいけちゃうのぉ！
-#sub "ht_01_267" んふぅ…なんだか、股間が、熱い、です
-#sub "ht_01_268" だ、だいじょうぶ…い、いい、かんじ、です
-#sub "ht_01_269" ん゛ん、・・い・・たく・・な゛い・・ぐはぁ、・・・はぁはぁ・・です・・
-#sub "ht_01_270" なにか・・・きそうです・・・ん゛ん
-#sub "ht_01_271" やぁ…すごい、こみあげて…あぁぁっ！
-#sub "ht_01_272" ぜぇぜぇ・・、もう・・げんかい
-#sub "ht_01_273" ふぅ…ふぅ…もう、無理、かも…
-#sub "ht_01_274" い、いいのぉ…痛くて、気持ち、いい…
-#sub "ht_01_275" 痛いのが、熱くて、いいのぉ
-#sub "ht_01_276" あん、もっとお願ぁい
-#sub "ht_01_277" い、いい…ジンジンしていいのぉ
-#sub "ht_01_278" これ、くりゅ、きもちいいのくりゅ！！
-#sub "ht_01_279" い、いい…いっちゃうのぉ！
-#sub "ht_01_280" これぇ…段々感じてきちゃう
-#sub "ht_01_281" すごぉい、くいこんでぇ、いいのぉ
-#sub "ht_01_282" これぇ、すごくぅ気持ちいいのぉ
-#sub "ht_01_283" もっとぉ、もっとくいこませてぇ！
-#sub "ht_01_284" はひぃ…いい、いっちゃいそう！
-#sub "ht_01_285" いっちゃうぅう…お馬でいっちゃううぅ
-#sub "ht_01_286" しゅごい！！これいい
-#sub "ht_01_287" 痛いのに・・くせになる
-#sub "ht_01_288" これ気持ちよくなっちゃう
-#sub "ht_01_289" こんなの撮影して、たのしいの？
-#sub "ht_01_290" 恥ずかしいんだから、あんまりみないでよぉ
-#sub "ht_01_291" もう、本当は恥ずかしいんだからね
-#sub "ht_01_292" い、いい…いちゃう所も撮るのね
-#sub "ht_01_293" あぁ…撮られてると、なんか…感じが…あぁぁ
-#sub "ht_01_294" んふぅ…やっぱり、ちょっと興奮したかも
-#sub "ht_01_295" はぁ…自分がしてる所って…あんまり見たくないかも…
-#sub "ht_01_296" い、いいのぉ…いっぱいとってぇ
-#sub "ht_01_297" そのまま、指もあそこもとってねぇ
-#sub "ht_01_298" 気持ちいい…カメラ、もっと近づけてもいいのよ
-#sub "ht_01_299" い、いい…気持ちいいのぉ！
-#sub "ht_01_300" 気持ちいい…おあにいでぇ、いくぅう！
-#sub "ht_01_301" こんなの・・・あん・・なにが・・いいの？
-#sub "ht_01_302" なんで、こんな事、しなきゃいけないの？
-#sub "ht_01_303" いやぁ…もう撮るのやめてぇ！
-#sub "ht_01_304" い、いや…こんな所、とらないでぇえ！
-#sub "ht_01_305" だめ…恥ずかしい、い、いやぁぁ！
-#sub "ht_01_306" あん・・はぁん、しっかりとってね二人で気持ちよくなるとこ
-#sub "ht_01_307" い、いい…気持ちいいところ、いっぱい撮ってぇ！
-#sub "ht_01_308" ごめんね・・・私だけいっちゃった・・・。
-#sub "ht_01_309" ふぅ…いった所、撮られちゃったのね
-#sub "ht_01_310" はぁはぁ、今の、記念になるかしら
-#sub "ht_01_311" ふぅ…一緒にいったよって記録になりそうね！
-#sub "ht_01_312" こんなのもう撮らないで
-#sub "ht_01_313" やめて、カメラ、と、とめてぇ！
-#sub "ht_01_314" 私の恥ずかしいとこいっぱい撮ってぇぇ！！
-#sub "ht_01_315" いいのぉ、そんのまま撮影してぇ！
-#sub "ht_01_316" みんなに見られながらイきそう
-#sub "ht_01_317" み、見られるの、変な感じぃ…！
-#sub "ht_01_318" はぁ…やっぱり、恥ずかしいわ
-#sub "ht_01_319" ふぅ…もう、こんなに恥ずかしいのに、いっちゃった
-#sub "ht_01_320" 恥ずかしいけど、あなたとなら・・・
-#sub "ht_01_321" いいわ、一緒なら、恥ずかしく、ない…
-#sub "ht_01_322" はぁ…今思うと、恥ずかしいわよね、やっぱり
-#sub "ht_01_323" ふぅ…気持ちよかったわ…見られながらだったけど…
-#sub "ht_01_324" はぁはぁ、気持ちよくなるとこ、もっと見て欲しい・・・
-#sub "ht_01_325" いいわぁ…もっと、いっぱい見せつけたいのぉ
-#sub "ht_01_326" はぁ…見られるのって、なんか燃えるわね
-#sub "ht_01_327" 視線で、あんなに興奮しちゃうなんて
-#sub "ht_01_328" こんな・・あん・・・・ところで・・いきたぐっ・ない・・
-#sub "ht_01_329" いやぁ…絶対、はずか、しいの、にぃ…
-#sub "ht_01_330" こんな場所で・・・、酷い
-#sub "ht_01_331" どうして…恥ずかしい事、しなきゃならないのよ…
-#sub "ht_01_332" はぐぅ…縄が、食い込んで、くる
-#sub "ht_01_333" やぁ…すごい、揺れる
-#sub "ht_01_334" あん・・ぐっ、激しくすると縄が痛いってば
-#sub "ht_01_335" あっ、ぐっ、この体勢でいきそう
-#sub "ht_01_336" 吊るされ、いっちゃうぅう
-#sub "ht_01_337" はぁはぁ、この体勢で・・気持ちよくなっちゃった・・。
-#sub "ht_01_338" はぁはぁ・・こんなので気持ちいいなんて、私、変態なのかも？
-#sub "ht_01_339" い、いいのぉ…吊るされたまま、気持ちいい！
-#sub "ht_01_340" もっと、もっと激しくてもいいの
-#sub "ht_01_341" すごく、きもちいい・・こんな激しいの初めて
-#sub "ht_01_342" いぃい…このまま、いきたいのぉ！
-#sub "ht_01_343" いかせてぇ、吊られたまま、いきたいいぃ！
-#sub "ht_01_344" ふぅ…食い込んだあとが、熱いわ
-#sub "ht_01_345" はぁ…吊るされるの、興奮しちゃった…
-#sub "ht_01_346" 縄が・・・痛い
-#sub "ht_01_347" い、いたい…もう解いて
-#sub "ht_01_348" 吊るすなんて、ひ、ひどい…
-#sub "ht_01_349" い、いやぁ…吊るされたままなんて…あぁっ！
-#sub "ht_01_350" だめぇ…こんなので、いきたく…ああぁぁっ！
-#sub "ht_01_351" こんなので・・イっちゃうなんて・・私、変態じゃないのに・・
-#sub "ht_01_352" うそよ…こんなので、いかされるなんて…
-#sub "ht_01_353" あん、・・んぐ、き、きもちいいです・・。
-#sub "ht_01_354" もっと、吊るしたまま、して下さい
-#sub "ht_01_355" もっと、強くても、大丈夫です
-#sub "ht_01_356" んふぅ…吊るされて、気持ち、いいです…
-#sub "ht_01_357" あぁぁ、いきそうです…私、吊るされたまま…ぁぁ
-#sub "ht_01_358" はぁ…吊るされたまま、いっちゃい、ました
-#sub "ht_01_359" 一人で、吊るされて、ごめんなさい
-#sub "ht_01_360" い、いや…こんな格好、ひどい
-#sub "ht_01_361" お願い、も、もうやめてぇ
-#sub "ht_01_362" 拘束、外してぇ、お願い…
-#sub "ht_01_363" いやぁ…っ　こんな、格好でなんて…あぁぁ
-#sub "ht_01_364" や…苦しいのに…どうしてぇ、あぁぁ！
-#sub "ht_01_365" いく、拘束されながらイっちゃう
-#sub "ht_01_366" いいのぉ…拘束、気持ちいい、ああぁっ！
-#sub "ht_01_367" もううすぐ・・イきそうです
-#sub "ht_01_368" い、いいです点この格好のまま、いっちゃいますぅ…
-#sub "ht_01_369" んふ…ちょっとだけ、しようかな
-#sub "ht_01_370" あぁ…いい感じになってるかも
-#sub "ht_01_371" ちょっと…むずむずしてる
-#sub "ht_01_372" どうしよう、もっと、しちゃおうかな
-#sub "ht_01_373" い、いい…感じてきてる
-#sub "ht_01_374" 自分でするの、気持ちいいかも
-#sub "ht_01_375" おなにぃ…気持ちいい
-#sub "ht_01_376" ゆび…勝手に動いちゃう
-#sub "ht_01_377" いぃいい…おなにぃ、いいのぉ
-#sub "ht_01_378" だめぇ…手が、全然、とまらないぃ
-#sub "ht_01_379" あぁ…どうしよう、もう、私…止められない…
-#sub "ht_01_380" 指、すごく動いてるのぉ！
-#sub "ht_01_381" いぃ、いっちゃう…指で、いっちゃうう！
-#sub "ht_01_382" おおなにい、気持ち、いい…
-#sub "ht_01_383" だめ…も、もう、我慢、できないぃい！
-#sub "ht_01_384" んはぁ…い、いい…オナニー、いいかも…
-#sub "ht_01_385" すごい…自分でも、ビックリするくらい気持ちよかった…
-#sub "ht_01_386" い、いいのぉ…痛いけど、気持ちいい
-#sub "ht_01_387" どうしよう…痛いけど、すごく感じちゃう
-#sub "ht_01_388" いいわぁ…痛いけど、もっとつづけてぇ
-#sub "ht_01_389" いぃい…痛みで…いっちゃいそうよぉ！
-#sub "ht_01_390" い、痛いのが、きもちいいのぉ…あぁ！
-#sub "ht_01_391" あふぅ…すごい…あそこがきつくて、いい
-#sub "ht_01_392" だめ…痛いのに、すごく、感じちゃうぅう！
-#sub "ht_01_393" き、気持ち、いい…あそこが、麻痺しちゃってるみたい
-#sub "ht_01_394" あぁ…だめぇ、痛くて、いっちゃうぅう！
-#sub "ht_01_395" いいのぉ…あそこがぐりぐりで、気持ち、いい！
-#sub "ht_01_396" んふあぁ…こんなのでいっちゃうなんて…どうしよう
-#sub "ht_01_397" んふうう…痛いのに、また、いっちゃったわ
-#sub "ht_01_398" やぁ…また、撮影してるの？
-#sub "ht_01_399" もう…こんな所、撮ってどうするの？
-#sub "ht_01_400" ちょっと、やっぱり恥ずかしくなってくるわ…
-#sub "ht_01_401" あふぅ…また、オナニーで、いっちゃいそうよぉ！
-#sub "ht_01_402" あぁ…お、オナニーでいく所、撮られちゃうわぁ
-#sub "ht_01_403" ふぅ…やっぱり、オナニーって気持ちいいわね
-#sub "ht_01_404" はぁ…ねぇ、やっぱり手伝ってくれないのね
-#sub "ht_01_405" いいのぉ、オナニー、気持ち、い、いいのぉ！
-#sub "ht_01_406" あぁ…いいわ、もっといっぱい私のオナニー撮影してぇ！
-#sub "ht_01_407" そうよ、そのまま、オナニー続ける姿、とっていいわ！
-#sub "ht_01_408" い、いい…指が擦れて、もう、飛んじゃう…
-#sub "ht_01_409" 一番気持ちいいところ、もっと撮ってぇえ！
-#sub "ht_01_410" い、いく所、映っちゃうわぁ…
-#sub "ht_01_411" だめ、恥ずかしい所、撮られ、ちゃうぅう！
-#sub "ht_01_412" はぁ…一人でいっちゃった…ちょっとはずかしいかも
-#sub "ht_01_413" ねぇ、私のいく所、興奮した？
-#sub "ht_01_414" ふぅ…気持ちよかったぁ…ちゃんと撮れてるかしら
-#sub "ht_01_415" も、もう…いい感じで撮影できたんじゃないの？
-#sub "ht_01_416" い、いやぁ…お願い、とめてぇ！
-#sub "ht_01_417" カメラは、やっぱり、いやぁぁっ！
-#sub "ht_01_418" いいのぉ！　いく所、しっかりとってぇ！
-#sub "ht_01_419" 気、気持ちよくなるとこ、また撮影してぇ！
-#sub "ht_01_420" また、みんなに見らてる、から
-#sub "ht_01_421" だめ、見られるの、やっぱり、恥ずかしい
-#sub "ht_01_422" はぁ…もうまた外でいっちゃったわ
-#sub "ht_01_423" こんなに恥ずかしいのに、気持ちいいなんて…
-#sub "ht_01_424" い、いい…見られてるのに、気持ち、いい！
-#sub "ht_01_425" あぁ…外なのに、も、もう、いっちゃうぅ！
-#sub "ht_01_426" はぁ…外でいっちゃうのって、ちょっと開放的
-#sub "ht_01_427" 案外、外で行くのも、慣れてきたかも
-#sub "ht_01_428" い、いいのぉ！　視線が、興奮するのぉ！
-#sub "ht_01_429" もっと、もっと、見られながら、いいのぉお！
-#sub "ht_01_430" はぁ…視線が、クセになっちゃったみたい
-#sub "ht_01_431" やっぱり、見られるのって気持ちいいかも…
-#sub "ht_01_432" あぁ…また、吊るされたまま、なのぉ
-#sub "ht_01_433" んふあぁ…すごい、食い込んで、くる
-#sub "ht_01_434" ゆれが、す、すごいのぉ！
-#sub "ht_01_435" やぁ…揺れて、すごい、いい！
-#sub "ht_01_436" また、吊るされて、いっちゃうぅ！
-#sub "ht_01_437" はぁ…食い込んで痛いけど…気持ちはいいかも
-#sub "ht_01_438" もう…あとが残っちゃうでしょ…
-#sub "ht_01_439" いやぁ…お願いだから下ろして
-#sub "ht_01_440" やめて、もう、もう吊るさないでぇ
-#sub "ht_01_441" いやぁ…もう痛いから、やめてぇ！
-#sub "ht_01_442" ひぃ…だめぇ…もう痛いから、い、いやぁ！
-#sub "ht_01_443" やめ、て…もぉ…あぁ、い、いくぅう！
-#sub "ht_01_444" んふぅ…はぁ…もう、これで、終わって…
-#sub "ht_01_445" はぁ…お願い、もう解いて…本当に、痛いの…
-#sub "ht_01_446" いやぁ…こんな格好、もういやぁ！
-#sub "ht_01_447" もうやめて…こんなの、苦しいのぉ
-#sub "ht_01_448" いやぁ…もう、ほんとに外してぇ！
-#sub "ht_01_449" あふぅう…もぉ、つ、つらいのにぃ、ああぁぁっ！
-#sub "ht_01_450" ふぅ…勝手に、からだがぁ…ああぁっ！
-#sub "ht_01_451" あはぁ…やっぱり、この格好、すごく興奮するわぁ！
-#sub "ht_01_452" いぃい…拘束されて、またいっちゃうぅ！
-#sub "ht_01_453" 気持ちいい、拘束、すごく気持ちいいのぉ！
-#sub "ht_01_454" あはぁ…指が、指が、全然、止まらないのぉ！
-#sub "ht_01_455" はぁ…い、いい…オナニーでいっちゃいそう！
-#sub "ht_01_456" ももうだめ…また、オナニーで、我慢…できないぃ！
-#sub "ht_01_457" ふぁぁ…オナニーで、いっぱいいっちゃったわ…
-#sub "ht_01_458" や、やっぱり…オナニーも、悪く、ないかも…
+//#sub "ht_01_001" 痛い、叩かないでよ・・
+#sub "ht_01_001" It hurts, please do not hit me.
+
+//#sub "ht_01_002" きゃぁ！！　ないするんですか！？
+#sub "ht_01_002" Come on!  It is!  Do not do that!  Is it?
+
+//#sub "ht_01_003" んぎい、お尻ぶたないで！！
+#sub "ht_01_003" Do not hurt your ass!  It is!
+
+//#sub "ht_01_004" うぐ・・！！　やめて！
+#sub "ht_01_004" Wow!  It is!  stop!
+
+//#sub "ht_01_005" もうだめ・・いぎぃ、　げんかい・・・・
+#sub "ht_01_005" Already, I can not do it...
+
+//#sub "ht_01_006" いだい・・痛いのぉ・・・
+#sub "ht_01_006" Mostly... it hurts...
+
+//#sub "ht_01_007" んっく、こんなにきついなんて・・・
+#sub "ht_01_007" A long time ago, so hard...
+
+//#sub "ht_01_008" ぎゃふ、ごめん、やっぱりやめちゃダメ？
+#sub "ht_01_008" Jagu, sorry, you should not stop it!
+
+//#sub "ht_01_009" きゃぁぁ！！　思ったより痛いかも
+#sub "ht_01_009" Hi!  It is!  Maybe it hurts than I thought
+
+//#sub "ht_01_010" んぐ・・・、ダメ、意識が飛びそう・・・
+#sub "ht_01_010" Well, no good, consciousness is likely to fly...
+
+//#sub "ht_01_011" あぁ…やっぱり、やめとけばよかったぁ
+#sub "ht_01_011" Ah... after all, I should have stopped
+
+//#sub "ht_01_012" んふっぅ…こ、これぐらいなら大丈夫です
+#sub "ht_01_012" Oh... here, this is fine.
+
+//#sub "ht_01_013" いたぃ…あぁ、我慢、できます
+#sub "ht_01_013" Oh... oh, I can endure it.
+
+//#sub "ht_01_014" ふぐぅ…だ、大丈夫です…いけます
+#sub "ht_01_014" Fukuu... it's okay, I can go...
+
+//#sub "ht_01_015" あぁ…もう、もう、私…
+#sub "ht_01_015" Oh... already, I,...
+
+//#sub "ht_01_016" うぅ…も、もう…こわれ、ちゃう
+#sub "ht_01_016" Uoo... well, it's already broken...
+
+//#sub "ht_01_017" やめて、こすり付けないで！
+#sub "ht_01_017" Stop it, do not scrape!
+
+//#sub "ht_01_018" い゛や、やめて・・痛い！
+#sub "ht_01_018" No... It hurts!
+
+//#sub "ht_01_019" あぁ…やっぱり、下ろしてぇ…
+#sub "ht_01_019" Oh... after all, please let me down...
+
+//#sub "ht_01_020" いやぁ・・いたいのに・おかしくなっちゃう
+#sub "ht_01_020" Well... I wish I'd be crazy
+
+//#sub "ht_01_021" う、うそぉ…だめえ、いっちゃうなんてぇ
+#sub "ht_01_021" U, lying... No, I do not wanna go
+
+//#sub "ht_01_022" あぁ…こ、こわれちゃうぅうう！
+#sub "ht_01_022" Oh... this, it is broken!
+
+//#sub "ht_01_023" これは・・・、まだ・・私には・・・、んぐっ
+#sub "ht_01_023" This... · · ·, yet · · · · · · · · · · · ·
+
+//#sub "ht_01_024" うそぉ…こんなに、思わなかったかもぉ
+#sub "ht_01_024" Lie... I did not think so much
+
+//#sub "ht_01_025" やっぱり、ムリ、これきついわぁ！
+#sub "ht_01_025" After all, Muri, this is tough!
+
+//#sub "ht_01_026" やぁ…でもなんだか、いっちゃいそう
+#sub "ht_01_026" Yeah... but somehow, it looks alright
+
+//#sub "ht_01_027" き、きついけど、いっちゃい、そう…
+#sub "ht_01_027" You are tight, but sometimes...
+
+//#sub "ht_01_028" ひん、・・続けてください
+#sub "ht_01_028" Please continue...
+
+//#sub "ht_01_029" くぅ…が、我慢するんで…続けて、下さい
+#sub "ht_01_029" Kuu... But, be patient... continue, please
+
+//#sub "ht_01_030" ひぐっ・・だ、大丈夫です・・まだ、いけます
+#sub "ht_01_030" Higurashita... That's OK, I can go still.
+
+//#sub "ht_01_031" はぐぅ…擦れて、こわれちゃう
+#sub "ht_01_031" Hagu... I rub, it will break
+
+//#sub "ht_01_032" あぁ…もうあそこが、おかしく、あぁぁ…！
+#sub "ht_01_032" Oh... that over there, it's strange, Oh...!
+
+//#sub "ht_01_033" はぁはぁ・・だめ・・・体が動かない・・。
+#sub "ht_01_033" Ha ha · · · No... body does not move · · ·.
+
+//#sub "ht_01_034" もうやめて・・・きついの
+#sub "ht_01_034" Stop it... It is too tight
+
+//#sub "ht_01_035" やっぱり、これ…私にはムリかも
+#sub "ht_01_035" After all, this... it might be irritating for me
+
+//#sub "ht_01_036" おしおき・・・・おしおき・・・へへ
+#sub "ht_01_036" Punishment · · · · Punishment · · · To
+
+//#sub "ht_01_037" わらし・・だめなこ・・・
+#sub "ht_01_037" I do not know...
+
+//#sub "ht_01_038" え゛へ・・へへへへ・・・
+#sub "ht_01_038" Hehehe... to He...
+
+//#sub "ht_01_039" こわいろくる・・・まら、こわいのくる・・・へへへ
+#sub "ht_01_039" It's cute... hey, it's scary...
+
+//#sub "ht_01_040" あはは…おこられちゃった
+#sub "ht_01_040" Haha... I was scolded
+
+//#sub "ht_01_041" へへ・・わるいこ？・・・わらしわるいこ？　へへへ
+#sub "ht_01_041" To the worse?  ... Wow Wow Lily?  To heaven
+
+//#sub "ht_01_042" ふぅ…ふぅ…もう…わかんない…
+#sub "ht_01_042" Fuu... Fuu... I do not know...
+
+//#sub "ht_01_043" こんな・・はず・・ぁん、かしいの・・やん・・に・・しないといけないの？
+#sub "ht_01_043" It should be such · · · Do I have to do it?
+
+//#sub "ht_01_044" だめ、・・あん、このままだと、すぐにいっちゃう・・はぁん
+#sub "ht_01_044" No, well, Ann, if it is as it is, I will soon go · · ·
+
+//#sub "ht_01_045" こんな事するなんて…んふぅ…す、ごく…
+#sub "ht_01_045" I do not want to do this...... Muu...
+
+//#sub "ht_01_046" ダメ、撮られながら・・ぁん、自分でイっちゃう
+#sub "ht_01_046" While being taken, being photographed... Oh, I'm going for it myself
+
+//#sub "ht_01_047" あぁん…いっちゃうところ、カメラにのこっちゃうぅ
+#sub "ht_01_047" Oh no... I will go to the camera, I will see you
+
+//#sub "ht_01_048" 撮られながら自分でしちゃった・・
+#sub "ht_01_048" I did it myself while being filmed...
+
+//#sub "ht_01_049" オナニー撮影だから、自慰撮りなのよね
+#sub "ht_01_049" It's a masturbation shoot, so it's a masturbation shoot
+
+//#sub "ht_01_050" いつもより・・んく・・、感じちゃう
+#sub "ht_01_050" I feel better than usual...
+
+//#sub "ht_01_051" いいわぁ…しっかり映してね
+#sub "ht_01_051" Sounds good... Please take a good look
+
+//#sub "ht_01_052" 私の指、綺麗に映ってる？
+#sub "ht_01_052" My finger, is it beautifully reflected?
+
+//#sub "ht_01_053" い、いい…ぐちょぐちょの所、とってぇ！
+#sub "ht_01_053" Good,... the place of the tochotake, even!
+
+//#sub "ht_01_054" んはぁあ…オナニーでいく所ちゃんと、とってぇ！
+#sub "ht_01_054" Ha ha... where to go with masturbation properly, well!
+
+//#sub "ht_01_055" 気持ちいい、カメラがあると、興奮しちゃうぅう！
+#sub "ht_01_055" Feeling comfortable, if you have a camera, let's get excited!
+
+//#sub "ht_01_056" やだ・・こんなの・はぁん、撮らないで・・
+#sub "ht_01_056" Ya · · · something like this · do not take pictures · · ·
+
+//#sub "ht_01_057" んぎぃ・・、撮られてる・・・、恥ずかしいとこ取られて・・んはぁ
+#sub "ht_01_057" It is being taken, · · · · shamefully taken · · · ·
+
+//#sub "ht_01_058" カメラとめて…んはぁ…こんなの、取っちゃだめぇん
+#sub "ht_01_058" Stop the camera...... ha... this is not the case
+
+//#sub "ht_01_059" んふぅ…いっちゃう、撮られてるのに、いっちゃうぅ！
+#sub "ht_01_059" Muhu... I said I was being filmed, I wanna go!
+
+//#sub "ht_01_060" あはぁ…恥ずかしいのに、止まらないぃ…
+#sub "ht_01_060" Ahh... I'm ashamed, but I will not stop...
+
+//#sub "ht_01_061" 撮影されながら・・あん・・激しくされると・・すごくゾクゾクする
+#sub "ht_01_061" While being photographed · · ·
+
+//#sub "ht_01_062" もっと、いやらしい所、撮影してぇ
+#sub "ht_01_062" More, a nasty place, I took a picture
+
+//#sub "ht_01_063" いいのぉ…いっぱい映してぇ！
+#sub "ht_01_063" Oh no... ___ ___ ___ 0
+
+//#sub "ht_01_064" 撮られながらいっちゃう！
+#sub "ht_01_064" I will go while being filmed!
+
+//#sub "ht_01_065" ちゃんと、いく所、映してぇ！
+#sub "ht_01_065" Properly, show you where it is!
+
+//#sub "ht_01_066" あんあん、みんなに見られてる・・んぁ・・
+#sub "ht_01_066" Anan, everyone is watching... · · ·
+
+//#sub "ht_01_067" 見られながらなんて、はずかしい
+#sub "ht_01_067" How difficult it is while being seen
+
+//#sub "ht_01_068" いやぁ…見られてるのぉ
+#sub "ht_01_068" Well... I'm seeing it.
+
+//#sub "ht_01_069" あ、あ、あ、みんなに見られながらいっちゃう。
+#sub "ht_01_069" Oh, oh, oh, I will go while being seen by everyone.
+
+//#sub "ht_01_070" だめぇ…イ、いく所、見られちゃうぅ！
+#sub "ht_01_070" No... I, I can see you where I go!
+
+//#sub "ht_01_071" はぁはぁ、イくとこみんなに見られちゃった・・・
+#sub "ht_01_071" Ha ha, it was seen by everyone...
+
+//#sub "ht_01_072" うぅ…見られながら、いちゃった…
+#sub "ht_01_072" Uoo... While I was being seen, I caught...
+
+//#sub "ht_01_073" あん、みんなに見られながらだと・・・ドキドキする！
+#sub "ht_01_073" Ah, it will be nice to be seen by everyone!
+
+//#sub "ht_01_074" 見られながらなんて、興奮しちゃう
+#sub "ht_01_074" How excited it is being seen
+
+//#sub "ht_01_075" い、いい…もっと見せ付けてあげたいわ
+#sub "ht_01_075" Good, I want to show you more
+
+//#sub "ht_01_076" あぁ…見られながら、すごく、熱くなってぇ…
+#sub "ht_01_076" Oh... while being seen, it gets really hot...
+
+//#sub "ht_01_077" い、いい…見られながら、いっちゃいそうっ！
+#sub "ht_01_077" Oh, nice... while being seen, it seems to go wrong!
+
+//#sub "ht_01_078" んはぁ…見られながらいっちゃった…気持ちいい
+#sub "ht_01_078" Ha ha... I went while being seen... I feel good
+
+//#sub "ht_01_079" いいのぉ…見られるの、すごくよかったわぁ
+#sub "ht_01_079" Okay... I can see it, it was awesome
+
+//#sub "ht_01_080" ぎぃ、激しくされると・・んぐ・・縄が食い込んでいたい
+#sub "ht_01_080" __ ___ ___ ___ 0
+
+//#sub "ht_01_081" い、いやぁ…解いて、痛いの
+#sub "ht_01_081" Oh, well... I solve it, it hurts.
+
+//#sub "ht_01_082" お願いだから、ひどいことしないで
+#sub "ht_01_082" Please do not do bad things
+
+//#sub "ht_01_083" い…いやぁ…いたいのに…いやぁぁ！
+#sub "ht_01_083" Oh... no... I wish there: I wish... I love you!
+
+//#sub "ht_01_084" だめ、もうやめて…あ、ああああぁっ！
+#sub "ht_01_084" No, stop it already... Oh, ah ah!
+
+//#sub "ht_01_085" もういいでしょ…早くほどいてよ
+#sub "ht_01_085" Alright already... please undo soon
+
+//#sub "ht_01_086" もういや…はやく下ろして
+#sub "ht_01_086" I can not take it any longer...
+
+//#sub "ht_01_087" い、いや…放して…もうやめてぇ！
+#sub "ht_01_087" No, please... let's stop it!
+
+//#sub "ht_01_088" 外して、こんなのひどいわ
+#sub "ht_01_088" Remove it, this is terrible.
+
+//#sub "ht_01_089" やめて…も、もうはずしてぇ！
+#sub "ht_01_089" Stop... well, remove it already!
+
+//#sub "ht_01_090" ひぃ、いやぁ…こんな、もいやぁぁ！
+#sub "ht_01_090" Hii, well... well, such a thing, too!
+
+//#sub "ht_01_091" だめ…動かないでぇ、あ、あぁぁっ！
+#sub "ht_01_091" No, do not move, oh, oh!
+
+//#sub "ht_01_092" もう十分でしょ…はやく、外してよ
+#sub "ht_01_092" It's already enough... quickly, please remove it
+
+//#sub "ht_01_093" こんなの、早く外して…うぅ
+#sub "ht_01_093" I took this out soon...
+
+//#sub "ht_01_094" あん、・・ンぁ、・・・はぁん、これいいかも・・・。
+#sub "ht_01_094" Anan, · · · · · · · · Ha, this is good... · · ·.
+
+//#sub "ht_01_095" 拘束されて、興奮しちゃう
+#sub "ht_01_095" I will be arrested and get excited
+
+//#sub "ht_01_096" この格好、すごく、感じちゃうぅ
+#sub "ht_01_096" I'm feeling this, I'm feeling awfully
+
+//#sub "ht_01_097" はん、あん、ぁん、こんな格好でイかされちゃう・・・
+#sub "ht_01_097" Han, Ah, Oh, I will be dressed like this...
+
+//#sub "ht_01_098" あぁ、いい…この格好、すごくいきそうよぉ！
+#sub "ht_01_098" Oh, nice... this looking, it looks like it will be really good!
+
+//#sub "ht_01_099" 拘束されながらいっちゃった
+#sub "ht_01_099" I was running while being restrained
+
+//#sub "ht_01_100" こんな格好でいっちゃうなんて…気持ちいい
+#sub "ht_01_100" It feels good to go with such a dress
+
+//#sub "ht_01_101" ふぅ…
+#sub "ht_01_101" Fuu...
+
+//#sub "ht_01_102" はぁ…
+#sub "ht_01_102" Huh
+
+//#sub "ht_01_103" ん…あぶなかったぁ
+#sub "ht_01_103" I... I have no idea.
+
+//#sub "ht_01_104" はぁ…あったかぁい
+#sub "ht_01_104" Huh... was it good?
+
+//#sub "ht_01_105" ふぅ…さっぱりするぅ
+#sub "ht_01_105" Fuu... I will refresh it.
+
+//#sub "ht_01_106" やっぱりシャワーは気持ちいいわねぇ…
+#sub "ht_01_106" After all the shower feels good...
+
+//#sub "ht_01_107" あぁ…変な気分になってきちゃった
+#sub "ht_01_107" Oh... it has turned into a strange feeling
+
+//#sub "ht_01_108" だめ…指が勝手に動いちゃう
+#sub "ht_01_108" No... My fingers move on my own
+
+//#sub "ht_01_109" どうしよ…もう、止めた方がいいかな
+#sub "ht_01_109" What should I do... should I stop now?
+
+//#sub "ht_01_110" やっぱり…指、動いちゃう
+#sub "ht_01_110" As expected... fingers move
+
+//#sub "ht_01_111" い、いい…気持ちよくなってきちゃった
+#sub "ht_01_111" Good, good... I got better feeling
+
+//#sub "ht_01_112" だめ…絶対止められなく、なってる
+#sub "ht_01_112" No, I can not absolutely stop it.
+
+//#sub "ht_01_113" どうしよ、最後までいっちゃいそう…
+#sub "ht_01_113" How do you like to go to the end...
+
+//#sub "ht_01_114" だめ…も、もう…指が止まらない
+#sub "ht_01_114" No, well... I can not stop my finger.
+
+//#sub "ht_01_115" あぁぁ…いい、すごく気持ちいい
+#sub "ht_01_115" Ahh... no, it feels really good
+
+//#sub "ht_01_116" だめぇ…もう気持ちよくって、止まらない
+#sub "ht_01_116" No... I feel better now, I can not stop
+
+//#sub "ht_01_117" いいのぉ…指ぃ、すごく気持ちいいのぉ
+#sub "ht_01_117" Ok... oh, I feel so comfortable
+
+//#sub "ht_01_118" あそこ、すごくいやらしくなってるのぉ…
+#sub "ht_01_118" Over there, I'm getting pretty nervous...
+
+//#sub "ht_01_119" い、いい…このままいっちゃうぅ
+#sub "ht_01_119" Good, good... I will not stay like this
+
+//#sub "ht_01_120" だめぇ…もう、いっちゃう、いちゃううぅう！
+#sub "ht_01_120" No... I will not stop seeing you anymore!
+
+//#sub "ht_01_121" はぁ…自分で、いちゃった…
+#sub "ht_01_121" Haa... You made me yourself...
+
+//#sub "ht_01_122" なんだか…ちょっと…疲れちゃった
+#sub "ht_01_122" Somehow... a bit... I got tired
+
+//#sub "ht_01_123" 痛いの、もうやめてよぉ
+#sub "ht_01_123" It hurts, please stop it already
+
+//#sub "ht_01_124" 痛いってば、もう勘弁して
+#sub "ht_01_124" If it hurts, I am already crying
+
+//#sub "ht_01_125" いぎぃ・・もう無理・・無理なのぉ
+#sub "ht_01_125" Iki · · It is impossible impossible · · ·
+
+//#sub "ht_01_126" いやぁ…また、痛いのにいっちゃうぅ
+#sub "ht_01_126" Well... I also have to say that it hurts
+
+//#sub "ht_01_127" い、痛いのに…も、もう、ああぁぁっ！
+#sub "ht_01_127" No, it hurts... well, already, ah!
+
+//#sub "ht_01_128" やっぱり、これ痛いってば
+#sub "ht_01_128" After all, if it hurts this
+
+//#sub "ht_01_129" だめ、まだ…私には、む、むりぃ…
+#sub "ht_01_129" No, not yet... To me, Mumiru...
+
+//#sub "ht_01_130" やぁん…あんまり、気持ちよくないわぁ
+#sub "ht_01_130" Ya... well, it does not feel good
+
+//#sub "ht_01_131" だめえ…ぶたれて、いきたく、なぁぁい！
+#sub "ht_01_131" Tame... I will hit you, I want to go!
+
+//#sub "ht_01_132" やめてぇ！　お、おかしくなっちゃうぅ！
+#sub "ht_01_132" It's hard!  Oh, it will be funny!
+
+//#sub "ht_01_133" 大丈夫です。我慢します
+#sub "ht_01_133" It's okay.  To endure
+
+//#sub "ht_01_134" はぁ…これくらい、平気ですよ
+#sub "ht_01_134" Huh... this is fine
+
+//#sub "ht_01_135" ぐっ・・・、はぁはぁはぁ…ど、どうぞ、続けてください
+#sub "ht_01_135" Kogu · · ·, Ha ha ha.. Well, please, please continue
+
+//#sub "ht_01_136" んふぅ…ぶたれながら、いきそうです
+#sub "ht_01_136" Muuu... it seems to be lost while being hit
+
+//#sub "ht_01_137" 痛みで、また、いきそうですぅ、あぁぁっ！
+#sub "ht_01_137" Pain, I'm going to lose again, Oh!
+
+//#sub "ht_01_138" んはぁ…も、もう無理だってばぁ
+#sub "ht_01_138" Haa... well, I can not do it anymore
+
+//#sub "ht_01_139" だめぇ、もう乗りたくないのにぃ
+#sub "ht_01_139" No, I do not want to ride anymore.
+
+//#sub "ht_01_140" い、いやぁ…お願いだからもう下ろしてぇ
+#sub "ht_01_140" Oh no... Please do not take it down already
+
+//#sub "ht_01_141" だめ、下ろして…また、いっちゃううう！
+#sub "ht_01_141" No, let me down... I will go back again!
+
+//#sub "ht_01_142" こ、こわいのに、またいっちゃうぅう！
+#sub "ht_01_142" Here, I am scared, I will go back again!
+
+//#sub "ht_01_143" やっぱり、これむりみたぃい
+#sub "ht_01_143" As expected after all, this is what I should do
+
+//#sub "ht_01_144" これ乗るの、やっぱり、無理みたい
+#sub "ht_01_144" I ride this, after all, it seems impossible
+
+//#sub "ht_01_145" 痛い…全然痛い、やっぱりむりぃ
+#sub "ht_01_145" It hurts... It hurts at all, as expected.
+
+//#sub "ht_01_146" んふぁ…無理なのに、いけちゃうのぉ！
+#sub "ht_01_146" Hmm... I can not do it though I can not do it!
+
+//#sub "ht_01_147" いやぁ…痛いのに、こすれて、いっちゃうぅう！
+#sub "ht_01_147" Well... Although it hurts, I will rub and go!
+
+//#sub "ht_01_148" はぁ…まだ、乗れます
+#sub "ht_01_148" Haa... You can still ride.
+
+//#sub "ht_01_149" 動いても、大丈夫、です
+#sub "ht_01_149" Even if it moves, it is OK.
+
+//#sub "ht_01_150" このまま、上で、続けて、下さい
+#sub "ht_01_150" Keep on, please continue on like this
+
+//#sub "ht_01_151" ひぃい…きつい、いい、いっちゃうぅう！
+#sub "ht_01_151" Hii... Heavy, nice, Ichaaou!
+
+//#sub "ht_01_152" ま、また、乗ったままいっちゃいますぅ
+#sub "ht_01_152" Well, I will keep on riding again
+
+//#sub "ht_01_153" ぜぇぜぇ・・・、もう・・無理です・・
+#sub "ht_01_153" Why...... is impossible anymore...
+
+//#sub "ht_01_154" ごめんなさい・・やっぱり、限界・・・です・・
+#sub "ht_01_154" I am sorry · After all, it is the limit · · ·
+
+//#sub "ht_01_155" また撮影してるの？
+#sub "ht_01_155" Are you shooting again?
+
+//#sub "ht_01_156" あんまりエッチな所撮られたくないのにぃ
+#sub "ht_01_156" I do not want to be photographed too much
+
+//#sub "ht_01_157" カメラがあると、ちょっと緊張しちゃうわね
+#sub "ht_01_157" With a camera, I'm a bit nervous
+
+//#sub "ht_01_158" んふぅう…また、カメラの前で、いっちゃうぅう
+#sub "ht_01_158" Huhu... Also, in front of the camera, I will go
+
+//#sub "ht_01_159" い、イいちゃう所、また、撮られちゃうぅ！
+#sub "ht_01_159" Well, yea place, I will be taken again!
+
+//#sub "ht_01_160" んはぁ…撮った動画、どうするの？
+#sub "ht_01_160" Ha ha... What did you do with the videos you took?
+
+//#sub "ht_01_161" もし良かったら、撮ったの、あとで見せて…
+#sub "ht_01_161" If it's okay, I took it, show me later...
+
+//#sub "ht_01_162" また、いっぱいいく所とってね
+#sub "ht_01_162" Also, take as many places as you can
+
+//#sub "ht_01_163" カメラの前だと、指が、すごく動くの
+#sub "ht_01_163" My finger moves very much in front of the camera
+
+//#sub "ht_01_164" いいわぁ…カメラであそこもばっちり撮ってねぇ
+#sub "ht_01_164" Sounds good... I took a picture too well with a camera
+
+//#sub "ht_01_165" い、いいのぉ…おなにぃ、きもちいのぉ！
+#sub "ht_01_165" Good, ok... oh my, than you!
+
+//#sub "ht_01_166" また、オナニー撮られて、いっちゃうぅう！
+#sub "ht_01_166" Also, take a masturbation and let's go!
+
+//#sub "ht_01_167" こんな所、撮らないで
+#sub "ht_01_167" Do not shoot like this
+
+//#sub "ht_01_168" おかしいわよ、撮影、するなんて
+#sub "ht_01_168" It's strange, to shoot
+
+//#sub "ht_01_169" やめて…カメラ、止めて…
+#sub "ht_01_169" Stop it... stop the camera...
+
+//#sub "ht_01_170" い、いやぁ…こんな所、とらない、でぇ！
+#sub "ht_01_170" Well, well... such a place, I will not take it!
+
+//#sub "ht_01_171" やめ…さ、撮影、しないでぇ！
+#sub "ht_01_171" Stop it, shoot, do not do!
+
+//#sub "ht_01_172" いいわぁ…たっぷりカメラ回してね
+#sub "ht_01_172" Okay... Please turn the camera a lot
+
+//#sub "ht_01_173" アングルはそこでいいの？
+#sub "ht_01_173" Is the angle right there?
+
+//#sub "ht_01_174" 気持ちいいところ、撮ってね！
+#sub "ht_01_174" Pleasant place, please take a picture!
+
+//#sub "ht_01_175" また、撮られながらいきそうよぉ！
+#sub "ht_01_175" Also, I will not miss it while being filmed!
+
+//#sub "ht_01_176" いいのぉ…撮られるの、すごくきもちいいのぉ！
+#sub "ht_01_176" I do not mind... it is very comfortable to be taken!
+
+//#sub "ht_01_177" 見られてる…いや、もうやめて
+#sub "ht_01_177" I have been watching... No, stop it.
+
+//#sub "ht_01_178" やめて、見られてるなんて、いや
+#sub "ht_01_178" I quit, I do not watch it, no
+
+//#sub "ht_01_179" 恥ずかしいの…こんな所、もういや
+#sub "ht_01_179" It's embarrassing... such a place, no more
+
+//#sub "ht_01_180" だめぇ…人前で、いきたく、ないぃ
+#sub "ht_01_180" No... in public, I do not want to go
+
+//#sub "ht_01_181" いぃやぁ…恥ずかしいの、だめえぇ！
+#sub "ht_01_181" Hey... it's embarrassing, no good!
+
+//#sub "ht_01_182" …うぅ…も、もうココでは、いいでしょ
+#sub "ht_01_182" ... Uoo... well, it's OK already here
+
+//#sub "ht_01_183" もう、見られるのは、いや…
+#sub "ht_01_183" I can not see anymore, no...
+
+//#sub "ht_01_184" すごぉい…やっぱり見られるのってゾクゾクしちゃう
+#sub "ht_01_184" Awesome... I can not stop seeing you after all.
+
+//#sub "ht_01_185" また…興奮して…気持ちよくなっちってるわ！
+#sub "ht_01_185" Also... excited... I feel comfortable!
+
+//#sub "ht_01_186" 見られて、体が、すごく熱くなってるのぉ！
+#sub "ht_01_186" It is seen, the body is getting really hot!
+
+//#sub "ht_01_187" い、いいのぉ…また、見られながらいっちゃうぅう！
+#sub "ht_01_187" Oh, okay... Also, let's say it while being seen!
+
+//#sub "ht_01_188" あぁ…見られて、すごくかんじちゃうのぉお！
+#sub "ht_01_188" Oh... I saw you very much!
+
+//#sub "ht_01_189" はぁ…見られるのも、クセになりそう…
+#sub "ht_01_189" Ha... it is likely to become a habit to be seen...
+
+//#sub "ht_01_190" ふぅ…視線を感じるのって、気持ちいいわね
+#sub "ht_01_190" Fuu... It feels good to feel a gaze
+
+//#sub "ht_01_191" だめ…縄が、いたいの！
+#sub "ht_01_191" No... I'd like a rope!
+
+//#sub "ht_01_192" 続けて、吊るされたら…きついってば
+#sub "ht_01_192" Continue, if hanging... If it is tight
+
+//#sub "ht_01_193" お願いだから、解いて
+#sub "ht_01_193" Please, please solve
+
+//#sub "ht_01_194" だめぇ…こんな、こんな格好で、またぁ…
+#sub "ht_01_194" No... hey, such a dressed look... well...
+
+//#sub "ht_01_195" い、いやぁ…また、吊るされて、いっちゃうぅ！
+#sub "ht_01_195" Well, well... I'm hung, I will go!
+
+//#sub "ht_01_196" んはぁ…もう、いいわよね？　とりあえず外してよぉ
+#sub "ht_01_196" Ha ha... are you OK already?  Anyway, please remove it
+
+//#sub "ht_01_197" はぁ…いっちゃった…余計食い込んじゃった
+#sub "ht_01_197" Haa... I ended up... I got a bit more
+
+//#sub "ht_01_198" だめ！　痛いからやめて！
+#sub "ht_01_198" No good!  Stop it because it hurts!
+
+//#sub "ht_01_199" 痛いの、本当にもうやめて！
+#sub "ht_01_199" It hurts, really stop it!
+
+//#sub "ht_01_200" お願い、いたい、食い込んでいたいのぉ！
+#sub "ht_01_200" Please, I want to dig into it!
+
+//#sub "ht_01_201" い、いやっぁ…こ、こんな、格好でぇ…
+#sub "ht_01_201" Oh no... well, this is cool...
+
+//#sub "ht_01_202" こんな、うそ…また、い、くぅう…
+#sub "ht_01_202" Such a lie...... again, I will say...
+
+//#sub "ht_01_203" お、お願い…もう、解いて
+#sub "ht_01_203" Okay, please... please solve it.
+
+//#sub "ht_01_204" これとって、お願い…
+#sub "ht_01_204" This, please...
+
+//#sub "ht_01_205" いいわぁ…動けなくって、興奮しちゃう
+#sub "ht_01_205" Okay... I can not move and get excited
+
+//#sub "ht_01_206" いいの、拘束したまま、続けてぇ！
+#sub "ht_01_206" Well, keep on binding, continue!
+
+//#sub "ht_01_207" そのまま、そのまま気持ちよく、してぇ！
+#sub "ht_01_207" As it is, feel comfortable, do it!
+
+//#sub "ht_01_208" あぁぁ…い、いい…この格好で、いくぅう！
+#sub "ht_01_208" Ahh... oh, okay... let's go with this look!
+
+//#sub "ht_01_209" すごい、また、このまま気持ち、いいぃ！
+#sub "ht_01_209" It's amazing, I feel like this again!
+
+//#sub "ht_01_210" んはぁ…あぁ…拘束ってすごく、気持ちいい
+#sub "ht_01_210" Ha ha... Oh... I feel so restrained, I feel good
+
+//#sub "ht_01_211" んふぅ…興奮しすぎて、いき過ぎちゃったかも
+#sub "ht_01_211" Mfuu... I was too excited, I guess I was over
+
+//#sub "ht_01_212" またいっちゃう・・・
+#sub "ht_01_212" I will tell you again...
+
+//#sub "ht_01_213" い、いい…指が、ゆびがぁぁ！
+#sub "ht_01_213" Good, finger, Yuna!
+
+//#sub "ht_01_214" いいっちゃう、またいっちゃううう！
+#sub "ht_01_214" Okay, I will say it again!
+
+//#sub "ht_01_215" ふぅ…また新たなテクを見つけたかも…
+#sub "ht_01_215" Fuu... maybe I have found a new tech...
+
+//#sub "ht_01_216" 手伝って…くれないのねぇ…
+#sub "ht_01_216" Please help me... do not...
+
+//#sub "ht_01_217" ひはあ…も、もうひゃめてぇ
+#sub "ht_01_217" Hi Ha... well, it's already over.
+
+//#sub "ht_01_218" あふぅっ！！
+#sub "ht_01_218" Ah-oh!  It is!
+
+//#sub "ht_01_219" んほぉぉぉぉぉ、たたからいれぇぇぇ
+#sub "ht_01_219" ___ ___ ___ 0
+
+//#sub "ht_01_220" ひぎぃぃ！！
+#sub "ht_01_220" Hi!  It is!
+
+//#sub "ht_01_221" い゛い・・・い、意識がとんらうぅぅぅ
+#sub "ht_01_221" No · · ·, consciousness is unbelievable
+
+//#sub "ht_01_222" いやぁぁ…いたくれぇ、おかひくなっひゃうぅ
+#sub "ht_01_222" Well... Well, I'm getting excited
+
+//#sub "ht_01_223" も、わらひ、らめぇえ！
+#sub "ht_01_223" Well, Warabeha!
+
+//#sub "ht_01_224" ひぃ…もう、むり…おろひてぇ…
+#sub "ht_01_224" Hii... Already, Muri... Haruhi...
+
+//#sub "ht_01_225" はひ…うごかさ、ないれぇ
+#sub "ht_01_225" Hahaha... moving, no
+
+//#sub "ht_01_226" いらいよぉ…らめぇ…
+#sub "ht_01_226" I do not care... Lame...
+
+//#sub "ht_01_227" あふぅ…ぉぉ…また、いぐぅ…
+#sub "ht_01_227" Afuu... ぉ ぉ... I will go again...
+
+//#sub "ht_01_228" うふぅ…これいじょうはぁ…はひぃい…
+#sub "ht_01_228" Uhu... this is awesome... hi...
+
+//#sub "ht_01_229" ぜぇぜぇぜぇ・・・もうらめぇ・・もうやめれ・・・・
+#sub "ht_01_229" ぜ ぇ ぇ ぇ... · · · ___ ___ ___ 0
+
+//#sub "ht_01_230" お、おねがいひ…もう、ひゃめてぇ
+#sub "ht_01_230" Oh, please!
+
+//#sub "ht_01_231" んふ…も、もう、こふれていたいのぉ
+#sub "ht_01_231" Well... well, I want to be overflowing with anymore
+
+//#sub "ht_01_232" なんか、感覚…なくなっちゃってるのぉ
+#sub "ht_01_232" Something, feeling... I'm gone
+
+//#sub "ht_01_233" んはぁ、、えぅ・・・んっふ、手がとまららいよ・・・
+#sub "ht_01_233" Ha ha,, Eh · · · muffu, the hands are rough...
+
+//#sub "ht_01_234" いやぁ…またぁ…またいっちゃうぅ
+#sub "ht_01_234" Well... well... I will go back again.
+
+//#sub "ht_01_235" もぉ…指がぁ…わからないのぉ…
+#sub "ht_01_235" Well... fingers... I do not know...
+
+//#sub "ht_01_236" ひぐぅ…も、もう…つかれひゃったのぉ
+#sub "ht_01_236" Hugo... well, it's already tired...
+
+//#sub "ht_01_237" もう、ゆびぃ…うごかな、いのぉ…
+#sub "ht_01_237" Already, Yubiri... Uwaga, I am...
+
+//#sub "ht_01_238" んはぁ…すぁりたく、なっひゃうぅ
+#sub "ht_01_238" Ha ha... I want to be sorry, it is going wrong
+
+//#sub "ht_01_239" お、おなにぃ…きもちいい
+#sub "ht_01_239" Oh, nice... I feel comfortable
+
+//#sub "ht_01_240" あぁ…また、うずうず…する
+#sub "ht_01_240" Oh... again, to arouse...
+
+//#sub "ht_01_241" いいのぉ…ゆび、きもひいい
+#sub "ht_01_241" Okay... Oh, yu, it is tasty
+
+//#sub "ht_01_242" あふぅ…かってにぃ…うごい、ちゃう
+#sub "ht_01_242" Ahhh... I guess... I'm sorry.
+
+//#sub "ht_01_243" はぁ…いいのぉ…ゆびがぁ…うごいてるぅ
+#sub "ht_01_243" Huh... okay... oh... I'm afraid... I am moving
+
+//#sub "ht_01_244" おほぉぅぅぅ、てぎゃ、・・むほぁ、とまりゃにゃい・・・ひき゛ぃ！
+#sub "ht_01_244" Oh oooooooooooooooooooooooh
+
+//#sub "ht_01_245" もうらめぇ…また、てがとまらなひのぉ
+#sub "ht_01_245" Loneliness... In addition, stinky noao
+
+//#sub "ht_01_246" いいのぉ…もぉ…おなにぃいきもちいいのぉ…
+#sub "ht_01_246" Okay... oh... oh nice...
+
+//#sub "ht_01_247" いぐ、イグイグイグ、まらいぐぅぅぅぅぅ！！
+#sub "ht_01_247" Going, Iguiguig, Carefully!  It is!
+
+//#sub "ht_01_248" いっちゃううぅ…いちゃうのぉ…
+#sub "ht_01_248" Ichya... Wow...
+
+//#sub "ht_01_249" お、おなにぃい…い、いいのぉ…
+#sub "ht_01_249" Oh, very nice... good, oh...
+
+//#sub "ht_01_250" もうらめ・・・もうぐるじい゛・・・のに・・まらさわっちゃう
+#sub "ht_01_250" Lumpy · · · · · · 
+
+//#sub "ht_01_251" も゛ういぎだくない・・・のに・・手がとまららいおう・・・
+#sub "ht_01_251" I do not want to go · · · · · 
+
+//#sub "ht_01_252" やぁん、叩かないでよぉ
+#sub "ht_01_252" Yeah, do not hit me.
+
+//#sub "ht_01_253" あ゛ぐ・・、叩かないでぇ・・
+#sub "ht_01_253" Do not hit me...
+
+//#sub "ht_01_254" いぎ・・、はぁはぁはぁ
+#sub "ht_01_254" Ii · · ·, ha ha ha
+
+//#sub "ht_01_255" また・・意識が飛びそう・・
+#sub "ht_01_255" Moreover... conscious seems to fly...
+
+//#sub "ht_01_256" だめえぇ…いっちゃう
+#sub "ht_01_256" No, I will not go...
+
+//#sub "ht_01_257" あはぁ…ちょ、なんかへんな感じ、です
+#sub "ht_01_257" Ahh... well, I feel something strange
+
+//#sub "ht_01_258" す、すごい…ジンジン、します…
+#sub "ht_01_258" Wow, that's... ginsin, you will...
+
+//#sub "ht_01_259" んあ・・、　続けて・・ください
+#sub "ht_01_259" Oh... please continue
+
+//#sub "ht_01_260" い、いい…いっちゃそうですぅ
+#sub "ht_01_260" Oh, okay... I do not think so
+
+//#sub "ht_01_261" だめぇ…痛みで、いっちゃうぅ
+#sub "ht_01_261" No... I'm in pain, I said that.
+
+//#sub "ht_01_262" これ・・痛いだけで・・んぐ、きもちよく・・ない・・んぐ
+#sub "ht_01_262" It · · · · · 
+
+//#sub "ht_01_263" あんまり…たのしく、ない、かもぉ
+#sub "ht_01_263" Not much... It is fun, not there, maybe
+
+//#sub "ht_01_264" やっぱり、乗るんじゃ、なかったぁ
+#sub "ht_01_264" After all, do not ride, you did not have it
+
+//#sub "ht_01_265" あはぁ…つらいのにぃ、いっちゃうぅ
+#sub "ht_01_265" Haha... It's hard for me, Icha-chan
+
+//#sub "ht_01_266" いやぁ…なんでいけちゃうのぉ！
+#sub "ht_01_266" Well... why can not I!
+
+//#sub "ht_01_267" んふぅ…なんだか、股間が、熱い、です
+#sub "ht_01_267" Mfuu... Somehow, my groin is hot.
+
+//#sub "ht_01_268" だ、だいじょうぶ…い、いい、かんじ、です
+#sub "ht_01_268" All right, it is all right, is it good, Kanji?
+
+//#sub "ht_01_269" ん゛ん、・・い・・たく・・な゛い・・ぐはぁ、・・・はぁはぁ・・です・・
+#sub "ht_01_269" Do not worry........ something...... ha ha......
+
+//#sub "ht_01_270" なにか・・・きそうです・・・ん゛ん
+#sub "ht_01_270" Something... I heard that...
+
+//#sub "ht_01_271" やぁ…すごい、こみあげて…あぁぁっ！
+#sub "ht_01_271" Hey... amazing, coming up... Ahh!
+
+//#sub "ht_01_272" ぜぇぜぇ・・、もう・・げんかい
+#sub "ht_01_272" Why...... already...
+
+//#sub "ht_01_273" ふぅ…ふぅ…もう、無理、かも…
+#sub "ht_01_273" Fuu... Fuu... It is impossible, yet...
+
+//#sub "ht_01_274" い、いいのぉ…痛くて、気持ち、いい…
+#sub "ht_01_274" Good, ok... oh, it makes me feel good...
+
+//#sub "ht_01_275" 痛いのが、熱くて、いいのぉ
+#sub "ht_01_275" It hurts, it hurts, it is good
+
+//#sub "ht_01_276" あん、もっとお願ぁい
+#sub "ht_01_276" Anan, please do more
+
+//#sub "ht_01_277" い、いい…ジンジンしていいのぉ
+#sub "ht_01_277" Oh, good... you can do ginsin
+
+//#sub "ht_01_278" これ、くりゅ、きもちいいのくりゅ！！
+#sub "ht_01_278" This, Kuri, Crispy Chestnut!  It is!
+
+//#sub "ht_01_279" い、いい…いっちゃうのぉ！
+#sub "ht_01_279" Good, okay!
+
+//#sub "ht_01_280" これぇ…段々感じてきちゃう
+#sub "ht_01_280" This... I feel it gradually
+
+//#sub "ht_01_281" すごぉい、くいこんでぇ、いいのぉ
+#sub "ht_01_281" Awesome, beautiful, nice
+
+//#sub "ht_01_282" これぇ、すごくぅ気持ちいいのぉ
+#sub "ht_01_282" I feel so good, this
+
+//#sub "ht_01_283" もっとぉ、もっとくいこませてぇ！
+#sub "ht_01_283" More, more and more!
+
+//#sub "ht_01_284" はひぃ…いい、いっちゃいそう！
+#sub "ht_01_284" Haha... good, it looks alright!
+
+//#sub "ht_01_285" いっちゃうぅう…お馬でいっちゃううぅ
+#sub "ht_01_285" Ichaaou... I will go horse riding
+
+//#sub "ht_01_286" しゅごい！！これいい
+#sub "ht_01_286" Great!  It is!  That's it.
+
+//#sub "ht_01_287" 痛いのに・・くせになる
+#sub "ht_01_287" It hurts though it hurts...
+
+//#sub "ht_01_288" これ気持ちよくなっちゃう
+#sub "ht_01_288" I will feel better.
+
+//#sub "ht_01_289" こんなの撮影して、たのしいの？
+#sub "ht_01_289" Are you enjoying shooting like this?
+
+//#sub "ht_01_290" 恥ずかしいんだから、あんまりみないでよぉ
+#sub "ht_01_290" It's embarrassing, so do not look so much
+
+//#sub "ht_01_291" もう、本当は恥ずかしいんだからね
+#sub "ht_01_291" It's really embarrassing already
+
+//#sub "ht_01_292" い、いい…いちゃう所も撮るのね
+#sub "ht_01_292" Good, well... I will take photos of plants too
+
+//#sub "ht_01_293" あぁ…撮られてると、なんか…感じが…あぁぁ
+#sub "ht_01_293" Oh... when being taken, something... feeling... ah
+
+//#sub "ht_01_294" んふぅ…やっぱり、ちょっと興奮したかも
+#sub "ht_01_294" Mfuu... After all, maybe I got a bit excited
+
+//#sub "ht_01_295" はぁ…自分がしてる所って…あんまり見たくないかも…
+#sub "ht_01_295" Haa... Where I am doing... I do not want to see it much...
+
+//#sub "ht_01_296" い、いいのぉ…いっぱいとってぇ
+#sub "ht_01_296" Good, ok... a lot of it
+
+//#sub "ht_01_297" そのまま、指もあそこもとってねぇ
+#sub "ht_01_297" As it is, do not take your fingers over there
+
+//#sub "ht_01_298" 気持ちいい…カメラ、もっと近づけてもいいのよ
+#sub "ht_01_298" Feel good... Camera, you can move closer
+
+//#sub "ht_01_299" い、いい…気持ちいいのぉ！
+#sub "ht_01_299" Oh, nice... It feels good!
+
+//#sub "ht_01_300" 気持ちいい…おあにいでぇ、いくぅう！
+#sub "ht_01_300" It feels good... Older broth, let's go!
+
+//#sub "ht_01_301" こんなの・・・あん・・なにが・・いいの？
+#sub "ht_01_301" Something like this... what... what?
+
+//#sub "ht_01_302" なんで、こんな事、しなきゃいけないの？
+#sub "ht_01_302" Why should I do this?
+
+//#sub "ht_01_303" いやぁ…もう撮るのやめてぇ！
+#sub "ht_01_303" Well... stop shooting anymore!
+
+//#sub "ht_01_304" い、いや…こんな所、とらないでぇえ！
+#sub "ht_01_304" No, no... Do not take such a place!
+
+//#sub "ht_01_305" だめ…恥ずかしい、い、いやぁぁ！
+#sub "ht_01_305" No, it's embarrassing, oh no!
+
+//#sub "ht_01_306" あん・・はぁん、しっかりとってね二人で気持ちよくなるとこ
+#sub "ht_01_306" Anan, well, take it firmly When you feel comfortable with two people
+
+//#sub "ht_01_307" い、いい…気持ちいいところ、いっぱい撮ってぇ！
+#sub "ht_01_307" Good, good... shoot a lot!
+
+//#sub "ht_01_308" ごめんね・・・私だけいっちゃった・・・。
+#sub "ht_01_308" I'm sorry... I only went....
+
+//#sub "ht_01_309" ふぅ…いった所、撮られちゃったのね
+#sub "ht_01_309" Fuu... when you went, you took it
+
+//#sub "ht_01_310" はぁはぁ、今の、記念になるかしら
+#sub "ht_01_310" Ha ha, now, I wonder if it will be a memorial
+
+//#sub "ht_01_311" ふぅ…一緒にいったよって記録になりそうね！
+#sub "ht_01_311" Fuu... It will be recorded as you go along!
+
+//#sub "ht_01_312" こんなのもう撮らないで
+#sub "ht_01_312" Do not take this anymore
+
+//#sub "ht_01_313" やめて、カメラ、と、とめてぇ！
+#sub "ht_01_313" Stop it, cameras, and so on!
+
+//#sub "ht_01_314" 私の恥ずかしいとこいっぱい撮ってぇぇ！！
+#sub "ht_01_314" Take a lot of my shameful things!  It is!
+
+//#sub "ht_01_315" いいのぉ、そんのまま撮影してぇ！
+#sub "ht_01_315" Okay, shoot like that!
+
+//#sub "ht_01_316" みんなに見られながらイきそう
+#sub "ht_01_316" While looking at everyone, it looks good
+
+//#sub "ht_01_317" み、見られるの、変な感じぃ…！
+#sub "ht_01_317" Only, it is seen, it is strange feeling...!
+
+//#sub "ht_01_318" はぁ…やっぱり、恥ずかしいわ
+#sub "ht_01_318" Haa... after all, it's embarrassing.
+
+//#sub "ht_01_319" ふぅ…もう、こんなに恥ずかしいのに、いっちゃった
+#sub "ht_01_319" Fuu... I am already ashamed so much, I went
+
+//#sub "ht_01_320" 恥ずかしいけど、あなたとなら・・・
+#sub "ht_01_320" It's embarrassing, but with you...
+
+//#sub "ht_01_321" いいわ、一緒なら、恥ずかしく、ない…
+#sub "ht_01_321" No, if it's together, it's embarrassing, not...
+
+//#sub "ht_01_322" はぁ…今思うと、恥ずかしいわよね、やっぱり
+#sub "ht_01_322" Haa... It seems embarrassing when I think now, after all
+
+//#sub "ht_01_323" ふぅ…気持ちよかったわ…見られながらだったけど…
+#sub "ht_01_323" Fuu... It felt good... It was while being seen...
+
+//#sub "ht_01_324" はぁはぁ、気持ちよくなるとこ、もっと見て欲しい・・・
+#sub "ht_01_324" Ha ha, when I feel comfortable, I want you to see more...
+
+//#sub "ht_01_325" いいわぁ…もっと、いっぱい見せつけたいのぉ
+#sub "ht_01_325" Okay... I want to show more, more
+
+//#sub "ht_01_326" はぁ…見られるのって、なんか燃えるわね
+#sub "ht_01_326" Haa... You can see something burning
+
+//#sub "ht_01_327" 視線で、あんなに興奮しちゃうなんて
+#sub "ht_01_327" I wonder why I'm so excited by my eyes
+
+//#sub "ht_01_328" こんな・・あん・・・・ところで・・いきたぐっ・ない・・
+#sub "ht_01_328" Ann...... By the way... Not as impressed as · · ·
+
+//#sub "ht_01_329" いやぁ…絶対、はずか、しいの、にぃ…
+#sub "ht_01_329" Well... Absolutely, Shizuno,...
+
+//#sub "ht_01_330" こんな場所で・・・、酷い
+#sub "ht_01_330" In such a place..., terrible
+
+//#sub "ht_01_331" どうして…恥ずかしい事、しなきゃならないのよ…
+#sub "ht_01_331" How come... I feel embarrassed, I must do it...
+
+//#sub "ht_01_332" はぐぅ…縄が、食い込んで、くる
+#sub "ht_01_332" Hagu... rope dig into it
+
+//#sub "ht_01_333" やぁ…すごい、揺れる
+#sub "ht_01_333" Hey... amazing, shaking
+
+//#sub "ht_01_334" あん・・ぐっ、激しくすると縄が痛いってば
+#sub "ht_01_334" Ah...... if the rope hurts if you intensify it
+
+//#sub "ht_01_335" あっ、ぐっ、この体勢でいきそう
+#sub "ht_01_335" Oh, I guess I'm going to get on with this position
+
+//#sub "ht_01_336" 吊るされ、いっちゃうぅう
+#sub "ht_01_336" Hanging and hanging
+
+//#sub "ht_01_337" はぁはぁ、この体勢で・・気持ちよくなっちゃった・・。
+#sub "ht_01_337" Ha ha, in this position... I got pleasant.
+
+//#sub "ht_01_338" はぁはぁ・・こんなので気持ちいいなんて、私、変態なのかも？
+#sub "ht_01_338" Ha ha... It seems I am a pervert because it feels like this?
+
+//#sub "ht_01_339" い、いいのぉ…吊るされたまま、気持ちいい！
+#sub "ht_01_339" Oh, okay... I feel comfortable while being suspended!
+
+//#sub "ht_01_340" もっと、もっと激しくてもいいの
+#sub "ht_01_340" More, more intense
+
+//#sub "ht_01_341" すごく、きもちいい・・こんな激しいの初めて
+#sub "ht_01_341" Extremely, comfortable · · for the first time such a fierce
+
+//#sub "ht_01_342" いぃい…このまま、いきたいのぉ！
+#sub "ht_01_342" Well... I want to go as I am!
+
+//#sub "ht_01_343" いかせてぇ、吊られたまま、いきたいいぃ！
+#sub "ht_01_343" Let me see, I will stay hanging, I want to go!
+
+//#sub "ht_01_344" ふぅ…食い込んだあとが、熱いわ
+#sub "ht_01_344" Fuu... After I got into you, it's hot
+
+//#sub "ht_01_345" はぁ…吊るされるの、興奮しちゃった…
+#sub "ht_01_345" Haa... hanging, I got excited...
+
+//#sub "ht_01_346" 縄が・・・痛い
+#sub "ht_01_346" Rope hurts...
+
+//#sub "ht_01_347" い、いたい…もう解いて
+#sub "ht_01_347" Good dear... Please solve it already
+
+//#sub "ht_01_348" 吊るすなんて、ひ、ひどい…
+#sub "ht_01_348" It is terrible to hang it...
+
+//#sub "ht_01_349" い、いやぁ…吊るされたままなんて…あぁっ！
+#sub "ht_01_349" Well, well... I have been suspended... Oh!
+
+//#sub "ht_01_350" だめぇ…こんなので、いきたく…ああぁぁっ！
+#sub "ht_01_350" No... I want to go to such a place... Ah!
+
+//#sub "ht_01_351" こんなので・・イっちゃうなんて・・私、変態じゃないのに・・
+#sub "ht_01_351" I wish I had a chance like this... I am a pervert, though...
+
+//#sub "ht_01_352" うそよ…こんなので、いかされるなんて…
+#sub "ht_01_352" Lie... like this, it's overwhelmed...
+
+//#sub "ht_01_353" あん、・・んぐ、き、きもちいいです・・。
+#sub "ht_01_353" Ann,... it is comfortable, · · ·.
+
+//#sub "ht_01_354" もっと、吊るしたまま、して下さい
+#sub "ht_01_354" Keep it hanging, please
+
+//#sub "ht_01_355" もっと、強くても、大丈夫です
+#sub "ht_01_355" Even if it is stronger, it's okay.
+
+//#sub "ht_01_356" んふぅ…吊るされて、気持ち、いいです…
+#sub "ht_01_356" Huhu... hanging, feeling, is good...
+
+//#sub "ht_01_357" あぁぁ、いきそうです…私、吊るされたまま…ぁぁ
+#sub "ht_01_357" Oh, it looks like it will be... I, being suspended... Ah
+
+//#sub "ht_01_358" はぁ…吊るされたまま、いっちゃい、ました
+#sub "ht_01_358" Haa... I stayed hung, I woke up
+
+//#sub "ht_01_359" 一人で、吊るされて、ごめんなさい
+#sub "ht_01_359" I am sorry, hung suspended alone
+
+//#sub "ht_01_360" い、いや…こんな格好、ひどい
+#sub "ht_01_360" No, no... I'm such a dressing, terrible
+
+//#sub "ht_01_361" お願い、も、もうやめてぇ
+#sub "ht_01_361" Please, please stop it.
+
+//#sub "ht_01_362" 拘束、外してぇ、お願い…
+#sub "ht_01_362" Restrain, remove it, please...
+
+//#sub "ht_01_363" いやぁ…っ　こんな、格好でなんて…あぁぁ
+#sub "ht_01_363" Well... I guess this is kind of dressed... Ah
+
+//#sub "ht_01_364" や…苦しいのに…どうしてぇ、あぁぁ！
+#sub "ht_01_364" Ya...... Although it is painful... How do you do, Ah!
+
+//#sub "ht_01_365" いく、拘束されながらイっちゃう
+#sub "ht_01_365" Well, I'll go crying while being restrained
+
+//#sub "ht_01_366" いいのぉ…拘束、気持ちいい、ああぁっ！
+#sub "ht_01_366" Okay... restraint, pleasant, Oh!
+
+//#sub "ht_01_367" もううすぐ・・イきそうです
+#sub "ht_01_367" It will be soon...
+
+//#sub "ht_01_368" い、いいです点この格好のまま、いっちゃいますぅ…
+#sub "ht_01_368" There is a nice point, I will stay with this outfit, I will...
+
+//#sub "ht_01_369" んふ…ちょっとだけ、しようかな
+#sub "ht_01_369" Hmm... I guess I should try it for a moment.
+
+//#sub "ht_01_370" あぁ…いい感じになってるかも
+#sub "ht_01_370" Oh... maybe it feels nice
+
+//#sub "ht_01_371" ちょっと…むずむずしてる
+#sub "ht_01_371" Hey... I'm aching
+
+//#sub "ht_01_372" どうしよう、もっと、しちゃおうかな
+#sub "ht_01_372" What shall I do, I will do more
+
+//#sub "ht_01_373" い、いい…感じてきてる
+#sub "ht_01_373" Good, I'm feeling it.
+
+//#sub "ht_01_374" 自分でするの、気持ちいいかも
+#sub "ht_01_374" Doing it yourself, maybe it feels good
+
+//#sub "ht_01_375" おなにぃ…気持ちいい
+#sub "ht_01_375" Sorry... I feel good
+
+//#sub "ht_01_376" ゆび…勝手に動いちゃう
+#sub "ht_01_376" Yu... I will move on my own
+
+//#sub "ht_01_377" いぃいい…おなにぃ、いいのぉ
+#sub "ht_01_377" Oh no... well, sorry, I do not mind.
+
+//#sub "ht_01_378" だめぇ…手が、全然、とまらないぃ
+#sub "ht_01_378" No... My hands are not boring at all
+
+//#sub "ht_01_379" あぁ…どうしよう、もう、私…止められない…
+#sub "ht_01_379" Oh... what shall I do, I can not stop... I can not stop...
+
+//#sub "ht_01_380" 指、すごく動いてるのぉ！
+#sub "ht_01_380" My fingers are moving really!
+
+//#sub "ht_01_381" いぃ、いっちゃう…指で、いっちゃうう！
+#sub "ht_01_381" Well, I said... I will go with my fingers!
+
+//#sub "ht_01_382" おおなにい、気持ち、いい…
+#sub "ht_01_382" Older, feeling, okay...
+
+//#sub "ht_01_383" だめ…も、もう、我慢、できないぃい！
+#sub "ht_01_383" No, I can not hold it anymore!
+
+//#sub "ht_01_384" んはぁ…い、いい…オナニー、いいかも…
+#sub "ht_01_384" Ha ha... Good, nice... Masturbation, nice things...
+
+//#sub "ht_01_385" すごい…自分でも、ビックリするくらい気持ちよかった…
+#sub "ht_01_385" Amazing... even myself was amazingly surprised to be surprised...
+
+//#sub "ht_01_386" い、いいのぉ…痛いけど、気持ちいい
+#sub "ht_01_386" Good, ok... oh, but it feels good
+
+//#sub "ht_01_387" どうしよう…痛いけど、すごく感じちゃう
+#sub "ht_01_387" What to do... It hurts, but I feel a lot
+
+//#sub "ht_01_388" いいわぁ…痛いけど、もっとつづけてぇ
+#sub "ht_01_388" It's good... it hurts, but keep on on more
+
+//#sub "ht_01_389" いぃい…痛みで…いっちゃいそうよぉ！
+#sub "ht_01_389" Oh... in pain... I guess I'm coming!
+
+//#sub "ht_01_390" い、痛いのが、きもちいいのぉ…あぁ！
+#sub "ht_01_390" Oh, it is painful, it's comfortable... Oh!
+
+//#sub "ht_01_391" あふぅ…すごい…あそこがきつくて、いい
+#sub "ht_01_391" Ahuu... awesome... over there is tight, nice
+
+//#sub "ht_01_392" だめ…痛いのに、すごく、感じちゃうぅう！
+#sub "ht_01_392" No, it hurts, but it will feel awfully!
+
+//#sub "ht_01_393" き、気持ち、いい…あそこが、麻痺しちゃってるみたい
+#sub "ht_01_393" Kimi, feelings, good... It seems like I'm paralyzed
+
+//#sub "ht_01_394" あぁ…だめぇ、痛くて、いっちゃうぅう！
+#sub "ht_01_394" Oh... No, I hurt, I will go!
+
+//#sub "ht_01_395" いいのぉ…あそこがぐりぐりで、気持ち、いい！
+#sub "ht_01_395" Okay... that overkill, I feel good!
+
+//#sub "ht_01_396" んふあぁ…こんなのでいっちゃうなんて…どうしよう
+#sub "ht_01_396" Fufa... no way to go with this...
+
+//#sub "ht_01_397" んふうう…痛いのに、また、いっちゃったわ
+#sub "ht_01_397" Though it hurts... I went back again.
+
+//#sub "ht_01_398" やぁ…また、撮影してるの？
+#sub "ht_01_398" Hey... are you shooting again?
+
+//#sub "ht_01_399" もう…こんな所、撮ってどうするの？
+#sub "ht_01_399" Already...... what do you do after taking a picture like this?
+
+//#sub "ht_01_400" ちょっと、やっぱり恥ずかしくなってくるわ…
+#sub "ht_01_400" Hey, after all I'm ashamed...
+
+//#sub "ht_01_401" あふぅ…また、オナニーで、いっちゃいそうよぉ！
+#sub "ht_01_401" Ahhu... Also, in a masturbation, it looks alright!
+
+//#sub "ht_01_402" あぁ…お、オナニーでいく所、撮られちゃうわぁ
+#sub "ht_01_402" Oh... Oh, where I'll be masturbating, I will be taken
+
+//#sub "ht_01_403" ふぅ…やっぱり、オナニーって気持ちいいわね
+#sub "ht_01_403" Fuu... after all, masturbation feels good
+
+//#sub "ht_01_404" はぁ…ねぇ、やっぱり手伝ってくれないのね
+#sub "ht_01_404" Huh... hey, you do not help me after all
+
+//#sub "ht_01_405" いいのぉ、オナニー、気持ち、い、いいのぉ！
+#sub "ht_01_405" Okay, Masturbation, Feels Good, Good!
+
+//#sub "ht_01_406" あぁ…いいわ、もっといっぱい私のオナニー撮影してぇ！
+#sub "ht_01_406" Oh... no, I'd like to shoot a lot more of my masturbation!
+
+//#sub "ht_01_407" そうよ、そのまま、オナニー続ける姿、とっていいわ！
+#sub "ht_01_407" That's right, just keep on masturbating, take it!
+
+//#sub "ht_01_408" い、いい…指が擦れて、もう、飛んじゃう…
+#sub "ht_01_408" Good,... My fingers rubbed, I will fly anymore...
+
+//#sub "ht_01_409" 一番気持ちいいところ、もっと撮ってぇえ！
+#sub "ht_01_409" The most pleasant place, please take more!
+
+//#sub "ht_01_410" い、いく所、映っちゃうわぁ…
+#sub "ht_01_410" Where are you going, I will show up...
+
+//#sub "ht_01_411" だめ、恥ずかしい所、撮られ、ちゃうぅう！
+#sub "ht_01_411" No, shameful place, let's shoot!
+
+//#sub "ht_01_412" はぁ…一人でいっちゃった…ちょっとはずかしいかも
+#sub "ht_01_412" Haa... I went alone... maybe it's a little difficult
+
+//#sub "ht_01_413" ねぇ、私のいく所、興奮した？
+#sub "ht_01_413" Hey, were you excited me where I am?
+
+//#sub "ht_01_414" ふぅ…気持ちよかったぁ…ちゃんと撮れてるかしら
+#sub "ht_01_414" Fuu... It was comfortable... I wonder if I can take it properly
+
+//#sub "ht_01_415" も、もう…いい感じで撮影できたんじゃないの？
+#sub "ht_01_415" Even... well... you did not feel like it was okay?
+
+//#sub "ht_01_416" い、いやぁ…お願い、とめてぇ！
+#sub "ht_01_416" Well, oh well... please!
+
+//#sub "ht_01_417" カメラは、やっぱり、いやぁぁっ！
+#sub "ht_01_417" After all, the camera is OK!
+
+//#sub "ht_01_418" いいのぉ！　いく所、しっかりとってぇ！
+#sub "ht_01_418" I do not mind!  Where you go, firmly!
+
+//#sub "ht_01_419" 気、気持ちよくなるとこ、また撮影してぇ！
+#sub "ht_01_419" Feelings, when you feel comfortable, please shoot again!
+
+//#sub "ht_01_420" また、みんなに見らてる、から
+#sub "ht_01_420" Also, everyone sees it, from
+
+//#sub "ht_01_421" だめ、見られるの、やっぱり、恥ずかしい
+#sub "ht_01_421" No, I can see, after all I am ashamed
+
+//#sub "ht_01_422" はぁ…もうまた外でいっちゃったわ
+#sub "ht_01_422" Haa... I have already gone out again
+
+//#sub "ht_01_423" こんなに恥ずかしいのに、気持ちいいなんて…
+#sub "ht_01_423" It's embarrassing so much, but it feels good...
+
+//#sub "ht_01_424" い、いい…見られてるのに、気持ち、いい！
+#sub "ht_01_424" Good, good... Although seen, it feels good!
+
+//#sub "ht_01_425" あぁ…外なのに、も、もう、いっちゃうぅ！
+#sub "ht_01_425" Oh... even though it is outside, I will go!
+
+//#sub "ht_01_426" はぁ…外でいっちゃうのって、ちょっと開放的
+#sub "ht_01_426" Haa... let me go outside, a bit open-minded
+
+//#sub "ht_01_427" 案外、外で行くのも、慣れてきたかも
+#sub "ht_01_427" It may be that I'm getting used to going outside, unexpectedly
+
+//#sub "ht_01_428" い、いいのぉ！　視線が、興奮するのぉ！
+#sub "ht_01_428" Good, oh!  The gaze is excited!
+
+//#sub "ht_01_429" もっと、もっと、見られながら、いいのぉお！
+#sub "ht_01_429" More, more seen, good oh you!
+
+//#sub "ht_01_430" はぁ…視線が、クセになっちゃったみたい
+#sub "ht_01_430" Ha... it seems that my eyes have become a habit
+
+//#sub "ht_01_431" やっぱり、見られるのって気持ちいいかも…
+#sub "ht_01_431" After all, you might feel comfortable to see...
+
+//#sub "ht_01_432" あぁ…また、吊るされたまま、なのぉ
+#sub "ht_01_432" Oh... and still being suspended
+
+//#sub "ht_01_433" んふあぁ…すごい、食い込んで、くる
+#sub "ht_01_433" Fufa... awesome, I will come and come
+
+//#sub "ht_01_434" ゆれが、す、すごいのぉ！
+#sub "ht_01_434" Shake, it is amazing!
+
+//#sub "ht_01_435" やぁ…揺れて、すごい、いい！
+#sub "ht_01_435" Hey... Shaking, wow, good!
+
+//#sub "ht_01_436" また、吊るされて、いっちゃうぅ！
+#sub "ht_01_436" Also hung, I will go!
+
+//#sub "ht_01_437" はぁ…食い込んで痛いけど…気持ちはいいかも
+#sub "ht_01_437" Huh... It hurts and it hurts... Maybe she feels good
+
+//#sub "ht_01_438" もう…あとが残っちゃうでしょ…
+#sub "ht_01_438" Already... the rest will be left...
+
+//#sub "ht_01_439" いやぁ…お願いだから下ろして
+#sub "ht_01_439" Well... please do it as you ask
+
+//#sub "ht_01_440" やめて、もう、もう吊るさないでぇ
+#sub "ht_01_440" Stop it, do not hang it anymore
+
+//#sub "ht_01_441" いやぁ…もう痛いから、やめてぇ！
+#sub "ht_01_441" Well... it hurts anymore, so it's hard to do!
+
+//#sub "ht_01_442" ひぃ…だめぇ…もう痛いから、い、いやぁ！
+#sub "ht_01_442" Hey... oh no... It hurts anymore, so, hey!
+
+//#sub "ht_01_443" やめ、て…もぉ…あぁ、い、いくぅう！
+#sub "ht_01_443" Stop it... well... oh yeah, let's go!
+
+//#sub "ht_01_444" んふぅ…はぁ…もう、これで、終わって…
+#sub "ht_01_444" Huh...... Haa, already, it's over...
+
+//#sub "ht_01_445" はぁ…お願い、もう解いて…本当に、痛いの…
+#sub "ht_01_445" Huh... please, please solve it... really, it hurts...
+
+//#sub "ht_01_446" いやぁ…こんな格好、もういやぁ！
+#sub "ht_01_446" Wow... this kind of clothes, oh no!
+
+//#sub "ht_01_447" もうやめて…こんなの、苦しいのぉ
+#sub "ht_01_447" Stop it already... It's painful like this
+
+//#sub "ht_01_448" いやぁ…もう、ほんとに外してぇ！
+#sub "ht_01_448" Well... already, really disconnect!
+
+//#sub "ht_01_449" あふぅう…もぉ、つ、つらいのにぃ、ああぁぁっ！
+#sub "ht_01_449" Ahuu... well, that one, it's hard for me, ah!
+
+//#sub "ht_01_450" ふぅ…勝手に、からだがぁ…ああぁっ！
+#sub "ht_01_450" Fuu... arbitrarily, the body is... Ah!
+
+//#sub "ht_01_451" あはぁ…やっぱり、この格好、すごく興奮するわぁ！
+#sub "ht_01_451" Ahh... after all, this form, I am very excited!
+
+//#sub "ht_01_452" いぃい…拘束されて、またいっちゃうぅ！
+#sub "ht_01_452" Well... I am restrained, I will go back again!
+
+//#sub "ht_01_453" 気持ちいい、拘束、すごく気持ちいいのぉ！
+#sub "ht_01_453" Feeling comfortable, restraint, it feels so comfortable!
+
+//#sub "ht_01_454" あはぁ…指が、指が、全然、止まらないのぉ！
+#sub "ht_01_454" Haha... fingers, fingers do not stop at all!
+
+//#sub "ht_01_455" はぁ…い、いい…オナニーでいっちゃいそう！
+#sub "ht_01_455" Haa... Good, nice... I guess I'm going to masturbate!
+
+//#sub "ht_01_456" ももうだめ…また、オナニーで、我慢…できないぃ！
+#sub "ht_01_456" No more... Also, with masturbation, be patient... can not do!
+
+//#sub "ht_01_457" ふぁぁ…オナニーで、いっぱいいっちゃったわ…
+#sub "ht_01_457" Faa... I got a lot of masturbation...
+
+//#sub "ht_01_458" や、やっぱり…オナニーも、悪く、ないかも…
+#sub "ht_01_458" And, after all... Masturbation is bad, even more...
 
