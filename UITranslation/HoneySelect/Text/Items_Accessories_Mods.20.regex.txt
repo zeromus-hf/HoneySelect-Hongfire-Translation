@@ -1,0 +1,138 @@
+﻿// -----------------------------------------------------------------------------------------------
+// Accessories Mods
+// -----------------------------------------------------------------------------------------------
+
+//Accessories
+//Head
+R ((\d\d) サイドリボンカチューシ) = $1 Side Ribbon Headband (Custom Color)
+R ((\d\d) DW6甄姬头饰) = $1 Zhenji's Headpiece (DW6)
+R ((\d\d) ベレー帽\（色変え可能\）) = $1 Beret (Custom Color)
+R ((\d\d) ベレー帽・斜\（色変え可) = $1 Beret (Diagonal) (Custom Color)
+R ((\d\d) ウシャンカ\（閉\）) = $1 Ushanka (Open)
+R ((\d\d) ウシャンカ\（開\）) = $1 Ushanka (Closed)
+R ((\d\d) 野球メット\(Carp\)) = $1 Baseball Cap (Carp)
+R ((\d\d) farウサ耳) = $1 Far Rabbit Ears
+R ((\d\d) Valkyrie兜) = $1 Valkyrie Helmet
+R ((\d\d) SFXメット) = $1 SFX Helmet
+R ((\d\d) ボンボン) = $1 Bonbon
+R ((\d\d) フラワーカチューシャ) = $1 Flower Headband
+R ((\d\d) 金のバレッタ) = $1 Gold Valetta
+R ((\d\d) 桜の髪飾り) = $1 Cherry Blossom Hair Ornament
+R ((\d\d) うさぎ) = $1 Rabbit
+R ((\d\d) ベネチアンマスク) = $1 Venetian mask
+R ((\d\d) シュシュ) = $1 Scrunchie
+R ((\d\d) 飾り付きバレッタ) = $1 Decorative Valetta
+R ((\d\d) トマトヘアピン) = $1 Tomato Hairpin
+R ((\d\d) 花冠) = $1 Flower Crown (Garland)
+R ((\d\d) ジオン公国) = $1 Principality of Zeon Crest
+R ((\d\d) \[MOD\]_ポンポンA) = $1 PomPom A
+R ((\d\d) \[MOD\]_ポンポンB) = $1 PomPom B
+R ((\d\d) ザク２頭) = $1 Zaku 2 Head
+R ((\d\d) ザク２アンテナ) = $1 Zaku 2 Antenna
+R ((\d\d) 耳あて) = $1 Earmuffs
+
+//Ears
+
+
+//Glasses
+R ((\d\d) スポーツグラス クリア) = $1 Sports Glasses Clear Red (Custom Color)
+R ((\d\d) スポーツグラス スモー) = $1 Sports Glasses Smokey (Custom Color)
+
+//Face
+
+
+//Neck
+R ((\d\d) リボン\（色変え可能\）) = $1 Ribbon (Custom Color)
+R ((\d\d) ネックポンポン) = $1 Neck Ponpon
+R ((\d\d) ロングマフラー\(襟\)) = $1 A Long Scarf (Collar)
+R ((\d\d) ロングマフラー\(帯\)) = $1 A Long Scarf (Band)
+R ((\d\d) 猫ファーリボン) = $1 Cat Fur Ribbon
+R ((\d\d) tera项链) = $1 Tera Necklace
+R ((\d\d) ザク２\（胸\）) = $1 Zaku 2 (Chest)
+R ((\d\d) 冬用マフラー) = $1 Winter Muffler
+
+//Shoulder
+R ((\d\d) 肩パッド) = $1 Shoulder Pad
+R ((\d\d) ザク２肩\(L\)) = $1 Zaku 2 Shoulder (L)
+R ((\d\d) ザク２肩\(R\)) = $1 Zaku 2 Shoulder (R)
+
+//Breast
+R ((\d\d) 鈴) = $1 Bell
+
+//Waist
+R ((\d\d) 镖) = $1 Surikens
+R ((\d\d) knightベルト) = $1 Knight Belt
+R ((\d\d) 3連ベルト) = $1 3 Continuous Belt
+R ((\d\d) ベルト1) = $1 Belt 1
+R ((\d\d) ベルト2) = $1 Belt 2
+R ((\d\d) ベルト3) = $1 Belt 3
+R ((\d\d) テールコート\（腰A\）) = $1 Tail Coat (Waist A)
+R ((\d\d) テールコート\（腰B\）) = $1 Tail Coat (Waist B)
+R ((\d\d) テールコート\(尾\)) = $1 Tail Coat (Tail)
+R ((\d\d) テールコート\(尾・固定) = $1 Tail Coat (Tail Fixed)
+R ((\d\d) ディルドA) = $1 Dildo A
+R ((\d\d) ディルドB) = $1 Dildo B
+R ((\d\d) ディルドC) = $1 Dildo C
+R ((\d\d) ロングディルドA) = $1 Long Dildo A
+R ((\d\d) ロングディルドB) = $1 Long Dildo B
+R ((\d\d) ロングディルドC) = $1 Long Dildo C
+R ((\d\d) 超ロングディルドA) = $1 Ultra Long Dildo A
+R ((\d\d) 超ロングディルドB) = $1 Ultra Long Dildo B
+R ((\d\d) 超ロングディルドC) = $1 Ultra Long Dildo C
+R ((\d\d) 双頭ディルドA) = $1 Two Head Dildo A
+R ((\d\d) 双頭ディルドB) = $1 Two Head Dildo B
+R ((\d\d) 双頭ディルドC) = $1 Two Head Dildo C
+R ((\d\d) シッポ無柄\(色変え可能) = $1 Fur Tail (Custom Color)
+R ((\d\d) シッポ豹柄\(色変え可能) = $1 Fur Tail Leopard (Custom Color)
+R ((\d\d) 猫シッポ2\(色変え可能) = $1 Cat Tail 2 (Custom Color)
+R ((\d\d) 猫シッポ3\(色変え可能) = $1 Cat Tail 3 (Custom Color)
+R ((\d\d) ザク２腰) = $1 Zaku 2 Waist
+
+//Back
+R ((\d\d) 華奢な翼) = $1 Delicate Wings
+R ((\d\d) ロングマント) = $1 Long Cape
+R ((\d\d) マント) = $1 Cloak
+R ((\d\d) マント\(固定\)) = $1 Cloak (fixed)
+R ((\d\d) 単色つばさ\(左\)) = $1 Single Color Wing (Left)
+R ((\d\d) 単色つばさ\(右\)) = $1 Single Color Wing (Right)
+R ((\d\d) 黒つばさA\(左\)) = $1 Black Wings A (Left)
+R ((\d\d) 黒つばさA\(右\)) = $1 Black Wings A (Right)
+R ((\d\d) 白つばさA\(左\)) = $1 White Wings A (Left)
+R ((\d\d) 白つばさA\(右\)) = $1 White Wings A (Right)
+R ((\d\d) 黒つばさB\(左\)) = $1 Black Wings B (Left)
+R ((\d\d) 黒つばさB\(右\)) = $1 Black Wings B (Right)
+R ((\d\d) 白つばさB\(左\)) = $1 White Wings B (Left)
+R ((\d\d) 白つばさB\(右\)) = $1 White Wings B (Right)
+R ((\d\d) デビルつばさ\(左\)) = $1 Devil Wing (Left)
+R ((\d\d) デビルつばさ\(右\)) = $1 evil Wing (Right)
+R ((\d\d) 黒デビルつばさ\(左\)) = $1 Black Devil Wing (Left)
+R ((\d\d) 黒デビルつばさ\(右\)) = $1 Black Devil Wing (Right)
+R ((\d\d) 白デビルつばさ\(左\)) = $1 White Devil Wing (Left)
+R ((\d\d) 白デビルつばさ\(右\)) = $1 White Devil Wing (Right)
+R ((\d\d) 赤デビルつばさ\(左\)) = $1 Red Devil Wing (Left)
+R ((\d\d) 赤デビルつばさ\(右\)) = $1 Red Devil Wing (Right)
+R ((\d\d) グレー膜つばさ\(左\)) = $1 Gray Membrane Wing (Left)
+R ((\d\d) グレー膜つばさ\(右\)) = $1 Gray Membrane Wing (Right)
+
+//Arm
+R ((\d\d) 振袖\（左\）) = $1 Long Sleeve (Left)
+R ((\d\d) 振袖\（右\）) = $1 Long Sleeve (Right)
+
+//Hand
+R ((\d\d) 苦无\(独立\)) = $1 Kunai (One)
+R ((\d\d) 苦无\(指环\)) = $1 Kunai (Many)
+R ((\d\d) サンタバッグ) = $1 Santa's Bag
+R ((\d\d) ウォーターガン) = $1 Water Gun
+R ((\d\d) ザク２腕) = $1 Zaku 2 Arms
+R ((\d\d) ヒートホーク) = $1 Heat Hawk
+R ((\d\d) ザクマシンガン) = $1 Zaku Machine Gun
+
+//Leg
+R ((\d\d) ガーターリング左\（色変) = $1 Garter Ring Left (Custom Color)
+R ((\d\d) ガーターリング右\（色変) = $1 Garter Ring Right (Custom Color)
+R ((\d\d) ザク２脚\(R\)) = $1 Zaku 2 Leg (R)
+R ((\d\d) ザク２脚\(L\)) = $1 Zaku 2 Leg (L)
+
+// -----------------------------------------------------------------------------------------------
+// end
+// -----------------------------------------------------------------------------------------------

@@ -1,0 +1,140 @@
+﻿// -----------------------------------------------------------------------------------------------
+// Accessories Mods
+// -----------------------------------------------------------------------------------------------
+
+//Accessories
+//Head
+サイドリボンカチューシャ(色変え可能) = Side Ribbon Headband (Custom Color)
+DW6甄姬头饰 = Zhenji's Headpiece (DW6)
+ベレー帽（色変え可能） = Beret (Custom Color)
+ベレー帽・斜（色変え可能） = Beret (Diagonal) (Custom Color)
+ウシャンカ（閉） = Ushanka (Open)
+ウシャンカ（開） = Ushanka (Closed)
+野球メット(Carp) = Baseball Cap (Carp)
+farウサ耳 = Far Rabbit Ears
+Valkyrie兜 = Valkyrie Helmet
+SFXメット = SFX Helmet
+ボンボン = Bonbon
+フラワーカチューシャ = Flower Headband
+金のバレッタ = Gold Valetta
+桜の髪飾り = Cherry Blossom Hair Ornament
+うさぎ = Rabbit
+ベネチアンマスク = Venetian Mask
+シュシュ = Scrunchie
+飾り付きバレッタ = Decorative Valetta
+トマトヘアピン = Tomato Hairpin
+花冠 = Flower Crown (Garland)
+ジオン公国 = Principality of Zeon Crest
+[MOD]_ポンポンA = PomPom A
+[MOD]_ポンポンB = PomPom B
+ザク２頭 = Zaku 2 Head
+ザク２アンテナ = Zaku 2 Antenna
+耳あて = Earmuffs
+
+//Ears
+
+
+//Glasses
+スポーツグラス クリアレッド(色変え可能) = Sports Glasses Clear Red (Custom Color)
+スポーツグラス スモーク(色変え可能) = Sports Glasses Smokey (Custom Color)
+
+//Face
+
+
+//Neck
+リボン（色変え可能） = Ribbon (Custom Color)
+ネックポンポン = Neck Ponpon
+ロングマフラー(襟) = A Long Scarf (Collar)
+ロングマフラー(帯) = A Long Scarf (Band)
+猫ファーリボン = Cat Fur Ribbon
+tera项链 = Tera Necklace
+ザク２（胸） = Zaku 2 (Chest)
+冬用マフラー = Winter Muffler
+
+//Shoulder
+肩パッド = Shoulder Pad
+ザク２肩(L) = Zaku 2 Shoulder (L)
+ザク２肩(R) = Zaku 2 Shoulder (R)
+
+//Breast
+鈴 = Bell
+
+//Waist
+镖 = Surikens
+knightベルト = Knight Belt
+3連ベルト = 3 Continuous Belt
+ベルト1 = Belt 1
+ベルト2 = Belt 2
+ベルト3 = Belt 3
+テールコート（腰A） = Tail Coat (Waist A)
+テールコート（腰B） = Tail Coat (Waist B)
+テールコート(尾) = Tail Coat (Tail)
+テールコート(尾・固定) = Tail Coat (Tail Fixed)
+ディルドA = Dildo A
+ディルドB = Dildo B
+ディルドC = Dildo C
+ロングディルドA = Long Dildo A
+ロングディルドB = Long Dildo B
+ロングディルドC = Long Dildo C
+超ロングディルドA = Ultra Long Dildo A
+超ロングディルドB = Ultra Long Dildo B
+超ロングディルドC = Ultra Long Dildo C
+双頭ディルドA = Two Head Dildo A
+双頭ディルドB = Two Head Dildo B
+双頭ディルドC = Two Head Dildo C
+シッポ無柄(色変え可能) = Fur Tail (Custom Color)
+シッポ豹柄(色変え可能) = Fur Tail Leopard (Custom Color)
+猫シッポ2(色変え可能) = Cat Tail 2 (Custom Color)
+猫シッポ3(色変え可能) = Cat Tail 3 (Custom Color)
+ザク２腰 = Zaku 2 Waist
+
+//Back
+華奢な翼 = Delicate Wings
+ロングマント = Long Cape
+マント = Cloak
+マント(固定) = Cloak (fixed)
+単色つばさ(左) = Single Color Wing (Left)
+単色つばさ(右) = Single Color Wing (Right)
+黒つばさA(左) = Black Wings A (Left)
+黒つばさA(右) = Black Wings A (Right)
+白つばさA(左) = White Wings A (Left)
+白つばさA(右) = White Wings A (Right)
+黒つばさB(左) = Black Wings B (Left)
+黒つばさB(右) = Black Wings B (Right)
+白つばさB(左) = White Wings B (Left)
+白つばさB(右) = White Wings B (Right)
+デビルつばさ(左) = Devil Wing (Left)
+デビルつばさ(右) = Devil Wing (Right)
+黒デビルつばさ(左) = Black Devil Wing (Left)
+黒デビルつばさ(右) = Black Devil Wing (Right)
+白デビルつばさ(左) = White Devil Wing (Left)
+白デビルつばさ(右) = White Devil Wing (Right)
+赤デビルつばさ(左) = Red Devil Wing (Left)
+赤デビルつばさ(右) = Red Devil Wing (Right)
+グレー膜つばさ(左) = Gray Membrane Wing (Left)
+グレー膜つばさ(右) = Gray Membrane Wing (Right)
+
+//Arm
+振袖（左） = Long Sleeve (Left)
+振袖（右） = Long Sleeve (Right)
+
+//Hand
+苦无(独立) = Kunai (One)
+苦无(指环) = Kunai (Many)
+サンタバッグ = Santa's Bag
+ウォーターガン = Water Gun
+ザク２腕 = Zaku 2 Arms
+ヒートホーク = Heat Hawk
+ザクマシンガン = Zaku Machine Gun
+
+//Leg
+ガーターリング左（色変え可能） = Garter Ring Left (Custom Color)
+ガーターリング右（色変え可能） = Garter Ring Right (Custom Color)
+ザク２脚(R) = Zaku 2 Leg (R)
+ザク２脚(L) = Zaku 2 Leg (L)
+
+
+
+// -----------------------------------------------------------------------------------------------
+// end
+// -----------------------------------------------------------------------------------------------
