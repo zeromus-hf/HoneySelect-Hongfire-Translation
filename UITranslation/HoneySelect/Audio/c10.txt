@@ -24,7 +24,7 @@
 #sub "hs_11_027" I...I can't stop...hmmm...
 
 //#sub "hs_11_028" んっ・・・んぁ・・
-#sub "hs_11_028" It's... inside me...
+#sub "hs_11_028" my brother is... inside me...
 
 //#sub "hs_11_029" や、んはぁ…
 #sub "hs_11_029" Aah, I can feel it...
@@ -48,7 +48,7 @@
 #sub "hs_11_039" Mmm... there...
 
 //#sub "hs_11_040" んご、・・
-#sub "hs_11_040" Take me...
+#sub "hs_11_040" Take me brother...
 
 //#sub "hs_11_062" 「んむぅ…はぁ、はぁ、はぁ…」
 #sub "hs_11_062" 「Oh yess... Huh, huh, huh...」
@@ -141,7 +141,7 @@
 #sub "hs_11_236" I do not want to kiss you
 
 //#sub "hs_11_237" よろしくね、お兄さん！　期待してるからね！
-#sub "hs_11_237" Nice to meet you, brother!  I've been expecting you!
+#sub "hs_11_237" Nice to see you, brother!  I've been expecting you!
 
 //#sub "hs_11_238" お兄さんに、たくさん気持ちよくしてもらいたいなぁ！
 #sub "hs_11_238" I want my big brother to have lots of fun!
@@ -225,7 +225,7 @@
 #sub "hs_11_264" Just as I thought brother, you can do it continuously! Oh I love you!
 
 //#sub "hs_11_265" お兄さんがんばっちゃうね！　私だって負けてられないね！
-#sub "hs_11_265" I'm giving my best today brother!  You won't out-fuck me!
+#sub "hs_11_265" I'm giving my best today brother!  You won't out-fuck your sister!
 
 //#sub "hs_11_266" いいよ！　私は続けても全然OKだからね…うふふ
 #sub "hs_11_266" OK!  Even if we do go on, it is OK...  Uh, naah...
@@ -234,7 +234,7 @@
 #sub "hs_11_267" Because we're family I thought I could just keep going...!
 
 //#sub "hs_11_268" 大丈夫だよ、お兄さん！　もっといっぱい続けていいから！
-#sub "hs_11_268" It's all right, Onisan!  You can keep going a lot more!
+#sub "hs_11_268" It's all right, Onisan!  You can keep going i can take a lot more!
 
 //#sub "hs_11_269" まだまだできちゃうんなんて、すごいね！　もっと気持ちよくしてねぇ！
 #sub "hs_11_269" It is amazing how you can do it!  Please call it quits already!
@@ -276,7 +276,7 @@
 #sub "hs_11_281" Will you continue soon?  Truly Onisan, your stamina is amazing...
 
 //#sub "hs_11_282" はぁはぁ、もうらめ・・もう壊れちゃうからぁぅ・・
-#sub "hs_11_282" Ha ha, buddy... You'll break me...
+#sub "hs_11_282" Ha ha, bro... You'll break me...
 
 //#sub "hs_11_283" まっれっよぉ・・・もうむり・・・らめへぇ・・
 #sub "hs_11_283" For sure · · · This is already not right · · ·  · · ·
@@ -291,10 +291,10 @@
 #sub "hs_11_286" Nnngh, Kimochi, Kimochi Hiiighhhng!  Oh yes!
 
 //#sub "hs_11_287" こんなに、きもひよしゅぎて、こわれ、ひゃうぅ…！
-#sub "hs_11_287" Hey, Break me, make me suffer!
+#sub "hs_11_287" Punish me, Break me, make me suffer!!
 
 //#sub "hs_11_288" もうらめぇ、　もうむり・・こりぇいりょうはぁ、おかひくなるぅ…
-#sub "hs_11_288" Let's give it up, I'm already exhausted... Unngh, you know, it will be okay...
+#sub "hs_11_288" Just give it up, I'm  exhausted... Unngh, you know, it will be okay...
 
 //#sub "hs_11_289" もっほぉ…は、はげひくひれ、ほしいのぉ…！！
 #sub "hs_11_289" You...... I want to..., oh...!  Oh yess!
@@ -339,7 +339,7 @@
 #sub "hs_11_302" Hehe... it seems I'm getting used to this
 
 //#sub "hs_11_303" いいよ、ちょっとぐらい激しくても…大丈夫だと思うよ
-#sub "hs_11_303" Okay, even if it's a little intense... I think that's fine.
+#sub "hs_11_303" Okay, this is a little intense... I think that's fine.
 
 //#sub "hs_11_304" 前より、ちょっと慣れてきた気がする
 #sub "hs_11_304" I feel like I'm getting used to a bit more
@@ -354,7 +354,7 @@
 #sub "hs_11_307" Thanks to my Big brother, it's easy for me to have sex.
 
 //#sub "hs_11_308" なんだか、前より感じやすくなってるかも…お兄さんが相手だからかな？
-#sub "hs_11_308" I think it's easier to have sex since you came along... Are you my boyfriend, brother?
+#sub "hs_11_308" I think it's easier to have sex since you came along... Are you my boyfriend now, brother?
 
 //#sub "hs_11_309" 最近、エッチに慣れてきた気がするんだよね…お兄さんのおかげだよ
 #sub "hs_11_309" Lately I feel like I'm getting used to sex... I owe it to my big brother
@@ -366,7 +366,7 @@
 #sub "hs_11_311" Hanging out with my big brother... It seems that somehow I got used to fucking... haha
 
 //#sub "hs_11_312" 私、お兄さんの所為で、すっごくエッチな体になってきちゃった…責任とってね？
-#sub "hs_11_312" Because you, my big brother, I'm really horny... what are you gonna do about it?
+#sub "hs_11_312" You turned your sister into quite the slut, big brother. What are you gonna do about it?
 
 //#sub "hs_11_313" お兄さんが私にエッチな事ばっかりするから、体までエッチになってきちゃった…うふふ
 #sub "hs_11_313" Because my brother is totally crazy about me, my body is getting fucked... Uufu
@@ -375,7 +375,7 @@
 #sub "hs_11_314" Thanks to my big brother, it seems I feel sexier than before......
 
 //#sub "hs_11_315" お兄さんのおかげでエッチに慣れてきたから、もっとエッチな事期待していい？
-#sub "hs_11_315" I am used to fucking thanks to my big brother, so can I expect more sexual things?
+#sub "hs_11_315" I am used to fucking thanks to my big brother, so can we try other dirty stuff?
 
 //#sub "hs_11_316" 私、前より感じ易くなってるから、もっと感じさせてね、お兄さん
 #sub "hs_11_316" Oh, I like it that way, give me more, brother
@@ -384,7 +384,7 @@
 #sub "hs_11_317" I, I did a lot of things with my big brother, now it seems I feel a lot better than before... Uhufu
 
 //#sub "hs_11_318" 好きにすればいいじゃん
-#sub "hs_11_318" You should love it.
+#sub "hs_11_318" You will love it.
 
 //#sub "hs_11_319" 別に、何でもいいけどね
 #sub "hs_11_319" Anything is fine
@@ -417,7 +417,7 @@
 #sub "hs_11_328" I'm starting to get a lot better at this, let me show you, I'll make you cum so hard!
 
 //#sub "hs_11_329" 私、お兄さんとエッチするの、結構慣れてきたから、もっとすごい事しちゃう気でいますよ！
-#sub "hs_11_329" I'm going to fuck my big brother, I'm getting very good, so I'm going to do awesome things to you!
+#sub "hs_11_329" I'm going to fuck my own brother, I'm getting very good, so I'm going to do awesome things to you!
 
 //#sub "hs_11_330" うん、続けてもいけるかな
 #sub "hs_11_330" Yeah, I wonder if I can continue.
@@ -429,13 +429,13 @@
 #sub "hs_11_332" Still going? It's okay...but I'd rather just hold you.
 
 //#sub "hs_11_333" いいよ、そのまま続けて
-#sub "hs_11_333" OK, continue as it is
+#sub "hs_11_333" OK, keep going, just like that...
 
 //#sub "hs_11_334" 大丈夫、続けてできちゃうから
-#sub "hs_11_334" All right, I will be able to continue
+#sub "hs_11_334" All right, I can keep going
 
 //#sub "hs_11_335" 慣れてきたから…続けても大丈夫だよ
-#sub "hs_11_335" Because you feel so good inside me... I do not mind continuing
+#sub "hs_11_335" Because you feel so good inside me... I do not mind if you want more...
 
 //#sub "hs_11_336" うん、すぐに続けても、大丈夫みたい
 #sub "hs_11_336" Yeah, it's okay if you want to keep going. I can go a little more.
@@ -450,7 +450,7 @@
 #sub "hs_11_339" Is it okay if you give me more? I still want you inside me.
 
 //#sub "hs_11_340" 私も、お兄さんともっともっとエッチしてたいなぁ…うふふ
-#sub "hs_11_340" I want more from my big brother... Uufu
+#sub "hs_11_340" I want more from my big brother... 
 
 //#sub "hs_11_341" なんで、まだ続けるの？・・
 #sub "hs_11_341" Why are you still going on?  · · ·
@@ -492,7 +492,7 @@
 #sub "hs_11_353" I feel so sexy when I'm with you big brother, only you!
 
 //#sub "hs_11_354" 私のおっぱい、お兄さんに気持ちよくしてもらいたいのぉ！　よろしくね！
-#sub "hs_11_354" My tits, yeah-- I want my brother to feel comfortable!  Thank you!
+#sub "hs_11_354" My tits, yeah-- I want my brother to feel comfortable!
 
 //#sub "hs_11_355" おっぱい、じっと見ないで
 #sub "hs_11_355" The stop looking at my boobs, dude.
@@ -501,7 +501,7 @@
 #sub "hs_11_356" Don't be a stranger to my tits! They're right here, ya know?
 
 //#sub "hs_11_357" どうぞ、私のおっぱい触ってくださいね…ついでに気持ちよくしてもらえたら最高でぇす！
-#sub "hs_11_357" Please, please touch my breasts... If you like it too it will be great!
+#sub "hs_11_357" Please, please touch my breasts... you will like it, i promise!
 
 //#sub "hs_11_358" いいですよぉ！　おっぱい、思いっきり触りまくってくださいねぇ！
 #sub "hs_11_358" That feels good! Come on, rough them up a bit!
@@ -579,7 +579,7 @@
 #sub "hs_11_382" I'm expecting that you're going to fuck my ass real good, okay?
 
 //#sub "hs_11_383" お尻、見ないでよ！
-#sub "hs_11_383" God! stop looking at my ass, you perv! I'm your little sister!
+#sub "hs_11_383" God! Stop looking at my ass, you perv! I'm your little sister!
 
 //#sub "hs_11_384" ちょっと、お尻に変な事しないでよ
 #sub "hs_11_384" It's okay if you do it just a little, but don't be weird to my ass.
@@ -591,7 +591,7 @@
 #sub "hs_11_386" It's okay, please enjoy my ass, my brother... but please do it, uh, normally I guess?
 
 //#sub "hs_11_387" お尻、触りたいなら触っていいですよ…あんまり、無茶はダメですけど
-#sub "hs_11_387" You can touch my butt if you want to touch... but too much, and no tea for you!
+#sub "hs_11_387" You can touch my butt if you want to... but too much, and no tea for you!
 
 //#sub "hs_11_388" お兄さん、私のお尻で遊びたいなら、どうぞ！　でも、一応普通な感じだと嬉しいです
 #sub "hs_11_388" Big brother, if you want to play with my butt, please, go right ahead! I'm just glad that it doesn't hurt anymore.
@@ -648,7 +648,7 @@
 #sub "hs_11_502_00" I do not understand it all that much, but I don't mind doing it, do you?
 
 //#sub "hs_11_502_01" 私、ご奉仕ってやってみたいの？　実験させてね？
-#sub "hs_11_502_01" Do you want me to suck you?  Come on, let me experiment on you.
+#sub "hs_11_502_01" Do you want me to suck you off?  Come on, let me experiment on you.
 
 //#sub "hs_11_502_02" 慣れてないけどいいでしょ？　私がやってあげるってば…あはは
 #sub "hs_11_502_02" I am not used to it, right?  But I will definitely need to learn... Haha
@@ -2354,7 +2354,7 @@
 #sub "hh_11_035" Hey...... again...... it's getting fuzzy?
 
 //#sub "hh_11_036" ちゅちゅ……じるぢる…だふなら…んぶ…じゅぷ…だひてね？
-#sub "hh_11_036" Chuchu...... If you... Truffle............ Jyupu... Is not it hot?
+#sub "hh_11_036" If you...  Is not it hot?
 
 //#sub "hh_11_037" んふぅ…もういや…はやく、おわってぇ…
 #sub "hh_11_037" Mfuu... no more... quickly, finished...
@@ -2444,7 +2444,7 @@
 #sub "hh_11_065" 
 
 //#sub "hh_11_066" げほげほ…けほけほ…
-#sub "hh_11_066" Fugen............
+#sub "hh_11_066" 
 
 //#sub "hh_11_067" 無理ぃ…なんか咳き込んじゃたぁ
 #sub "hh_11_067" Ugh, impossible... I'm gagging
@@ -2666,16 +2666,16 @@
 #sub "hh_11_139" Huh?  · · · You're joking, are you going to cum again?
 
 //#sub "hh_11_140" ちろ……ん、ちゅ、ろう、気持ちひいの？　・・・・ちゅ
-#sub "hh_11_140" *Slup*...., Huh, are you feeling good like this?  · ·*slurp*· ·
+#sub "hh_11_140" *Slup*...., Huh, are you feeling good like this?  
 
 //#sub "hh_11_141" ちゅ…ろう？…ちろろっ・・よわく・・なめるね？・・れろ・・
-#sub "hh_11_141" *Chup* ... Would you?  A little... Yowaku · · licking?  · ·Rero · ·
+#sub "hh_11_141" *Chup* ... Would you?  A little... licking? e
 
 //#sub "hh_11_142" ちろ・・・つよく・・なめらほうが・・ちろ・・ひい？・・・ちゅっ
-#sub "hh_11_142" *Slurp* · · · good luck · · · *Chup* ・・licking · · · Mmmfsore  .*Chup*.
+#sub "hh_11_142" *Slurp* · · · good luck · · · licking 
 
 //#sub "hh_11_143" ちろ……ん、ちゅ・・イきそうなのぉ？・・・
-#sub "hh_11_143" *Chup* ...... Huh...*Chup*... Does my brother seem to like it?  ...
+#sub "hh_11_143" *Does my brother seem to like it?  ...
 
 //#sub "hh_11_144" ん、ちゅるぅ・・しゅご、カチカチに…はれてるおぉ・・・ちろ・・・・ちゅ
 #sub "hh_11_144" It is swollen...
@@ -2696,19 +2696,19 @@
 #sub "hh_11_149" Would you like to come out?  Quit…?
 
 //#sub "hh_11_150" じゅちゅる…おおきふぎて・・たいへん・・んぁむ…かもぉ…
-#sub "hh_11_150" *Slup* *churp*... somewhere... *slurp* · · celebrate... maybe...
+#sub "hh_11_150"  somewhere... *slurp* · · celebrate... maybe...
 
 //#sub "hh_11_151" きもち・・じゅるっ・ひい？　なら・・ん、ちゅ・・いいへどね…
-#sub "hh_11_151" Feeling · *slup*· sore? · If... Huh..  Then... Ah... That's good...
+#sub "hh_11_151" Feeling sore? · If... Huh..  Then... Ah... That's good...
 
 //#sub "hh_11_152" いっぱい…にゅぷっ…感じれねぇ…じゅちゅ…んぶぅ
-#sub "hh_11_152" Full of you.... But I can not feel it... *slurp* *chup *slup*
+#sub "hh_11_152" Full of you.... But I can not feel it... 
 
 //#sub "hh_11_153" ちゅちゅ…ひいよぉ…じるぢる……ほのまま、だひてぇ…んぶ…じゅぷ…
-#sub "hh_11_153" *Chup* *chu*... *Mmmm*.....*Slup* *slop*...... You are good..... *shlop*...
+#sub "hh_11_153" *Mmmm*.....*Slup* *slop*...... You are good..... *shlop*...
 
 //#sub "hh_11_154" がまんひないれ…じゅぷんぶ…いっぱい、らひて…びゅずぢゅっ…
-#sub "hh_11_154" Patience... *JuPun*... I'm so full of... *Lala*...... *Juzu*...
+#sub "hh_11_154" Patience...  I'm so full of... 
 
 //#sub "hh_11_155" んむぅ…苦しいってば
 #sub "hh_11_155" Hmm... I'm struggling
@@ -3042,19 +3042,19 @@
 #sub "hso_11_004" If it's not good, don't move so much...
 
 //#sub "hso_11_005" だめ、も、もういっちゃいそう…あぁ
-#sub "hso_11_005" No, no, I do not want to go anymore... Oh
+#sub "hso_11_005" No, no, stop it, I don't want this anymore
 
 //#sub "hso_11_006" や…だめ、いきそうなのぉ…あぁ
-#sub "hso_11_006" Ya... No, I do not want to... oh
+#sub "hso_11_006" N-No, I don't want to... oh
 
 //#sub "hso_11_007" もう、だめ…私、い、いっちゃうぅ…
 #sub "hso_11_007" Already, no... I, I, I said...
 
 //#sub "hso_11_008" ねぇ…こんな感じで、大丈夫？
-#sub "hso_11_008" Hey... with such feeling, are you OK?
+#sub "hso_11_008" Hey does this feel right to you?
 
 //#sub "hso_11_009" こんな、感じでいいの、かな？
-#sub "hso_11_009" Are you okay with this feeling?
+#sub "hso_11_009" I wonder if it should feel this good, fucking my own brother...
 
 //#sub "hso_11_010" どう？　気持ちいいの？
 #sub "hso_11_010" Does it feel good?
@@ -3120,7 +3120,7 @@
 #sub "hso_11_030" Inside, it's running like a faucet...
 
 //#sub "hso_11_031" あ・・垂れてきてるよ・・
-#sub "hso_11_031" Ah... I'm drooling...
+#sub "hso_11_031" Ah... its dripping out...
 
 //#sub "hso_11_032" お兄さんの…垂れてきてる…なんか熱いね
 #sub "hso_11_032" My brother's cock... It is dripping... something hot
@@ -3144,10 +3144,10 @@
 #sub "hso_11_038" I feel soooooo
 
 //#sub "hso_11_039" 一緒にいけて、すっごく気持ちよかったぁ
-#sub "hso_11_039" I felt very comfortable when we're together.
+#sub "hso_11_039" I feet very comfortable when we're together.
 
 //#sub "hso_11_040" いいねぇ…一緒にいけて、楽しかったぁ…
-#sub "hso_11_040" Nice... I could have been together and had fun...
+#sub "hso_11_040" Nice... Being with you was fun, and it felt great
 
 //#sub "hso_11_041" これ、いつまで続けるの？
 #sub "hso_11_041" How long will this last?
@@ -3207,7 +3207,7 @@
 #sub "hso_11_059" Stop it, do not put your sperm in me!
 
 //#sub "hso_11_060" 変な所に・・・かけないでってば
-#sub "hso_11_060" In a strange place...
+#sub "hso_11_060" It's in a strange place...
 
 //#sub "hso_11_061" ぬるぬるで…気持ち悪いよ
 #sub "hso_11_061" It's slimy... It feels bad
@@ -3255,7 +3255,7 @@
 #sub "hso_11_075" It's hot... It's all over my ass!
 
 //#sub "hso_11_076" お兄さんのが…お尻に、いっぱいかかてる…
-#sub "hso_11_076" Big brother... You cam so much in my ass...
+#sub "hso_11_076" Big brother... You came so much in my ass...
 
 //#sub "hso_11_077" お兄さんの精液で、お尻がぬるぬる
 #sub "hso_11_077" My ass is slimy with my Big brother's sperm
@@ -3681,7 +3681,7 @@
 #sub "hso_11_217" I got a slimy slimy sliding from the butt...
 
 //#sub "hso_11_218" あはは・・・おしりからぁ、いっぱい、たれてきてるぅ…えへへ
-#sub "hso_11_218" Haha... from behind, a lot of people are leaning...
+#sub "hso_11_218" Haha... from behind, a lot of stuff is leaking...
 
 //#sub "hso_11_219" かかってるよぉ…あついよぉ
 #sub "hso_11_219" It took me... It's hot.
@@ -3714,7 +3714,7 @@
 #sub "hso_11_228" So much, if you continue, it will be strange
 
 //#sub "hso_11_229" お兄さん・・体力、ありすぎぃ
-#sub "hso_11_229" Big brother.... physical fitness, rashii
+#sub "hso_11_229" Big brother.... such physical fitness,
 
 //#sub "hso_11_230" だめぇ！！　まらいっじゃう、いじゃうのぉ
 #sub "hso_11_230" No!  !  I guess it will be a miracle, oh yeah
@@ -3726,13 +3726,13 @@
 #sub "hso_11_232" Haha, again... in a crowded place...
 
 //#sub "hso_11_233" まら…れてるぅ…おなかぁ、あつい…
-#sub "hso_11_233" Mira... it is... tummy... hot
+#sub "hso_11_233" It is... tummy... hot
 
 //#sub "hso_11_234" あぁ…あついの、たれてきてるぅ
 #sub "hso_11_234" Oh... It's hot, I'm getting tired
 
 //#sub "hso_11_235" んふぅ…おなかから、精液…たれてるからぁ
-#sub "hso_11_235" Mfuu... semen... in my womb...I'm getting down
+#sub "hso_11_235" Semen... in my womb...I'm getting down
 
 //#sub "hso_11_236" んふぅ…かかっへる
 #sub "hso_11_236" Huhu... that will cost me
@@ -3774,10 +3774,10 @@
 #sub "hso_11_248" I will cum, no... Please forgive me... Ahh!
 
 //#sub "hso_11_249" らめぇ…なかはもうらめぇ…
-#sub "hso_11_249" Lameha... Nana is licking...
+#sub "hso_11_249" Nana is licking...
 
 //#sub "hso_11_250" なかは、もうやめへぇ…！
-#sub "hso_11_250" Naka: Stop it!
+#sub "hso_11_250" Stop it!
 
 //#sub "hso_11_251" んふぅ…あぁぁ
 #sub "hso_11_251" Huhu... huh
@@ -3825,7 +3825,7 @@
 #sub "hso_11_265" In the butt... Oh, it does not come...!
 
 //#sub "hso_11_266" すごぃ…お尻のなかぁ…あついよぉ
-#sub "hso_11_266" Awesome... in the ass... Atsuiyo
+#sub "hso_11_266" Awesome... in the ass... 
 
 //#sub "hso_11_267" また…お尻の中で…でてるぅ
 #sub "hso_11_267" ...in the butt...
@@ -3984,7 +3984,7 @@
 #sub "hso_11_318" Just cum wherever you want, okay!
 
 //#sub "hso_11_319" 我慢しないで、いっぱい出してねぇ！
-#sub "hso_11_319" Do not hold back, baby do what you want!
+#sub "hso_11_319" Do not hold back, big brother, do what you want!
 
 //#sub "hso_11_320" 熱いの…中で、出てるぅ…
 #sub "hso_11_320" It's hot... I'm outta...
