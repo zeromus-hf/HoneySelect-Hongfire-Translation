@@ -856,7 +856,6 @@
 //#sub "hs_11_505_05" 私がご奉仕で、お兄さんを気持ちよくしてあげるね！
 #sub "hs_11_505_05" I will blow you, I will make my Onii-san cum!
 //#sub "hs_11_510_00" こんな所でオナニーなんて結構恥ずかしいんだけどぉ…
-#sub "hs_11_510_00" Masturbation in such a place is pretty embarrassing just...
 //#sub "hs_11_510_01" オナニーがいいの？　お兄さん、手伝ってくれればいいのに
 #sub "hs_11_510_00" Touching myself here pretty embarrassing... would help me
 //#sub "hs_11_510_02" いいよぉ、一人で気持ちよくなっちゃうから…うふふ
@@ -3434,8 +3433,6 @@
 #sub "hso_11_519" Ohh... good, soon, I'll cum
 //#sub "hso_11_520" だめぇ…感じやすくて…すぐ、いっちゃいそうなのぉ…！
 #sub "hso_11_520" No... I'm easy to feel... soon, I don't want to go...!
-//#sub "hs_11_520_00" カメラ止めて、絶対無理だから
-#sub "hs_11_520_00" Stop the camera and I absolutely will not do it
 //#sub "hso_11_521" お兄さんが続けたいなら…私は全然大丈夫
 #sub "hso_11_521" If my Onii-san wants to continue... I am good with it
 //#sub "hso_11_522" お兄さんががんばるなら、私もがんばっちゃうよ！
