@@ -468,7 +468,7 @@
 //#sub "he_01_270_00" えっ！？　ここで・・・ですか？
 //#sub "he_01_270_01" すごく恥ずかしいけど我慢します。
 //#sub "he_01_271_00" えっと・・・ここで・・？
-//#sub "he_01_271_00" 目的はっきりしすぎちゃってる気がするんだけど・・・
+//#sub "he_01_271_01" 目的はっきりしすぎちゃってる気がするんだけど・・・
 //#sub "he_01_272_00" こ、こんな場所でするの？
 //#sub "he_01_272_01" ・・・・痛いのは嫌、ほんとに痛くしないでね；
 //#sub "he_01_273_00" ここは・・・　ちょっと興味あるかも
@@ -1203,7 +1203,7 @@ already, good
 #sub "hs_01_159" [wanne let it out...in my mouth...*suck*....your cum...]
 
 //#sub "hs_01_160" [（ぐっぽん……ぱも……はぽ……んぼ……）」
-#sub ''hs_01_160'' [（ぐっぽん……ぱも……はぽ……んぼ……）]
+#sub "hs_01_160" [（ぐっぽん……ぱも……はぽ……んぼ……）]
 
 //#sub "hs_01_161" [（ぐっぽん……ぱも……はぽ……んぼ……）」
 #sub "hs_01_161" [（ぐっぽん……ぱも……はぽ……んぼ……）」
@@ -1598,18 +1598,14 @@ you're moving too quickly.]
 //#sub "hs_01_290" ついてくらはひゃい、いっぱいついれ・・へへ・・へへへへ・・　　【突いてください、いっぱい突いて　へへ、へへへへ】
 #sub "hs_01_290" Keep going, keep going, fill me up　　【Please poke, poke me full, Hehehe】
 
-//#sub "hs_01_291" もっろいっぱいこわひてぇ、もっろきもひりょくにゃりたいの゛ぉ！！【もっといっぱい壊してぇ、
-もっといっぱい気持ちよくなりたいの！！】
-#sub "hs_01_291" Faster i want it faster, i will come soon. 【Break me if you want,
-I want to enjoy this more! !】
+//#sub "hs_01_291" もっろいっぱいこわひてぇ、もっろきもひりょくにゃりたいの゛ぉ！！【もっといっぱい壊してぇ、もっといっぱい気持ちよくなりたいの！！】
+#sub "hs_01_291" Faster i want it faster, i will come soon. 【Break me if you want, I want to enjoy this more! !】
 
-//#sub "hs_01_292" こ、こんにゃにょいりゃ・・しりゃくにゃい・・・もうしりゃくにゃいにょぉ゛！【こんなの嫌、したくない
-・・・もうしたくないの！！】
+//#sub "hs_01_292" こ、こんにゃにょいりゃ・・しりゃくにゃい・・・もうしりゃくにゃいにょぉ゛！【こんなの嫌、したくない・・・もうしたくないの！！】
 #sub "hs_01_292" こ、こんにゃにょいりゃ・・しりゃくにゃい・・・もうしりゃくにゃいにょぉ゛！【I hate it, I do not want to
 … I do not want to do this anymore!！】
 
-//#sub "hs_01_293" りゃめて、ひんりゃう、もうひんりゃうかりゃぁあ！　【やめて、もう死んじゃう、死んじゃうからぁ
-！】
+//#sub "hs_01_293" りゃめて、ひんりゃう、もうひんりゃうかりゃぁあ！　【やめて、もう死んじゃう、死んじゃうからぁ！】
 #sub "hs_01_293" Slow down, i'm on the brink of death, oh my god oh!　【I'm already close to death, Stop it, or I'll die !】
 
 //#sub "hs_01_294" れんぶろうれもひい、ろうれもよきゅなひゃったかりゃ、きもちいいのひょうらい、ひょうらい！！　【全部どうでもいい、どうでも良くなっちゃったからぁ、　気持ちいいのちょうだい、ちょうだい！！】
@@ -2550,7 +2546,7 @@ I want to enjoy this more! !】
 //#sub "ha_01_206" いいの、舌が気持ちいいの
 #sub "ha_01_206" Your tongue, i love it.
 
-//#sub "ha_01_206" いいの、舌が気持ちいいの
+//#sub "ha_01_207" いいの、舌が気持ちいいの
 #sub "ha_01_207" Huh oh, your finger is down there? 
 
 //#sub "ha_01_208" 指、優しく動かしてね
@@ -4116,7 +4112,7 @@ I want to enjoy this more! !】
 #sub "hh_01_226" You came a lot, right?
 
 //#sub "hh_01_227" ぬうぐ・・・はぁ・・・んふふ、いっぱい出たわね☆
-sub "hh_01_227" Nuugu...hahaha oh, so much came out. Right?
+#sub "hh_01_227" Nuugu...hahaha oh, so much came out. Right?
 
 //#sub "hh_01_228" れえぇ・・、　まだでるの？
 #sub "hh_01_228" Oh yes...it's still coming out？
@@ -4291,7 +4287,7 @@ sub "hh_01_227" Nuugu...hahaha oh, so much came out. Right?
 #sub "hso_01_024" I didn't think it would be so much fun.
 
 //#sub "hso_01_025" 興奮して、気持ちよくなりすぎちゃう
-sub "hso_01_025" I'm getting so excited...it's amazing.
+#sub "hso_01_025" I'm getting so excited...it's amazing.
 
 //#sub "hso_01_026" んはぁ…すご、もういっちゃいそう
 #sub "hso_01_026" NHAA...i think i will cum soon. 
