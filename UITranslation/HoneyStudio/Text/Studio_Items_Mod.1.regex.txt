@@ -1,0 +1,321 @@
+﻿// -----------------------------------------------------------------------------------------------
+//  Mod Items (regex)
+// -----------------------------------------------------------------------------------------------
+
+//  Furniture
+
+R (コタツ(\([\d]+\))?) = Kotatsu $1
+
+//  Wall & Floor
+
+R (\[ドーム\]快晴(\([\d]+\))?) = [Dome] Fine Weather $1
+R (\[ドーム\]晴れ間(\([\d]+\))?) = [Dome] Sunny Day $1
+R (\[ドーム\]曇り(\([\d]+\))?) = [Dome] Cloudy $1
+R (\[ドーム\]夏の空(\([\d]+\))?) = [Dome] Summer Sky $1
+R (\[ドーム\]宵闇(\([\d]+\))?) = [Dome] Dusk $1
+R (\[ドーム\]夜明け(\([\d]+\))?) = [Dome] Dawn $1
+R (\[ドーム\]湖畔(\([\d]+\))?) = [Dome] The Lakeside $1
+R (\[ドーム\]満月の夜(\([\d]+\))?) = [Dome] Full Moon Night $1
+R (\[ドーム\]森(\([\d]+\))?) = [Dome] Forest $1
+R (\[ドーム\]岩山(\([\d]+\))?) = [Dome] Rocky Mountain $1
+R (\[ドーム\]月面(\([\d]+\))?) = [Dome] The Moon $1
+R (\[ドーム\]上空(\([\d]+\))?) = [Dome] Over The Sky $1
+
+//  House
+
+R (中式纸伞(\([\d]+\))?) = Chinese Paper Umbrella $1
+R (SL_機関車(\([\d]+\))?) = SL_Locomotive $1
+R (鏡_A(\([\d]+\))?) = Mirror_A $1
+R (鏡_B(\([\d]+\))?) = Mirror_B $1
+R (鏡_C(\([\d]+\))?) = Mirror_C $1
+R (鏡_D(\([\d]+\))?) = Mirror_D $1
+R (鏡_E(\([\d]+\))?) = Mirror_E $1
+R (鏡_F(\([\d]+\))?) = Mirror_F $1
+
+// Small
+
+R (おたま(\([\d]+\))?) = Ladle $1
+R (フライ返し(\([\d]+\))?) = Spatula $1
+R (竹箒(\([\d]+\))?) = Bamboo Broom $1
+R (買物カゴ(\([\d]+\))?) = Shopping Basket $1
+R (がまぐち\（閉\）(\([\d]+\))?) = Coin Purse (Closed) $1
+R (がまぐち\（開\）(\([\d]+\))?) = Coin Purse (Open) $1
+R (和傘(\([\d]+\))?) = Umbrella $1
+R (扇子(\([\d]+\))?) = Folding Fan $1
+R (スクールバッグ(\([\d]+\))?) = School Bag $1
+R (ショルダーバッグ(\([\d]+\))?) = Shoulder Bag $1
+R (四季の窓\（夏\）(\([\d]+\))?) = Seasonal Windows (Summer) $1
+R (花瓶\（筒\）(\([\d]+\))?) = Vase (Tube) $1
+R (花瓶\（丸\）(\([\d]+\))?) = Vase (Circle) $1
+R (花瓶\（ピンク\）(\([\d]+\))?) = Vase (Pink) $1
+R (花瓶\（陶器\）(\([\d]+\))?) = Vase (Pottery) $1
+R (カーネーション(\([\d]+\))?) = Carnation $1
+R (トルコキキョウ(\([\d]+\))?) = Prairie Gentian Flower $1
+R (コスモス(\([\d]+\))?) = Cosmos Flower $1
+R (コスモス（束）(\([\d]+\))?) = Cosmos Flower (Bunch) $1
+R (コスモス（散）(\([\d]+\))?) = Cosmos Flower (Scattered) $1
+R (水仙(\([\d]+\))?) = Daffodil $1
+R (桜(\([\d]+\))?) = Cherry Blossoms $1
+R (アイビー(\([\d]+\))?) = Ivy $1
+R (ラナンキュラス(\([\d]+\))?) = Buttercup $1
+R (そり(\([\d]+\))?) = Sled $1
+R (サンタ(\([\d]+\))?) = Santa $1
+R (トナカイ(\([\d]+\))?) = Reindeer $1
+R (キャンドル(\([\d]+\))?) = Candle $1
+R (ツリー(\([\d]+\))?) = X-Mas Tree $1
+R (ツリー２(\([\d]+\))?) = X-Mas Tree 2 $1
+R (クッキー(\([\d]+\))?) = Cookie $1
+R (雪オーナメント(\([\d]+\))?) = Snow Ornament $1
+R (鈴オーナメント(\([\d]+\))?) = Bell Ornament $1
+R (丸オーナメント(\([\d]+\))?) = Bauble $1
+R (シャンパン(\([\d]+\))?) = Champagne $1
+R (シャンパングラス(\([\d]+\))?) = Champagne Glass $1
+
+//  Food
+
+R (たいやき(\([\d]+\))?) = Taiyaki $1
+R (どら焼き(\([\d]+\))?) = Dorayaki $1
+R (SB4ドリンク赤(\([\d]+\))?) = SB4 Drink (Red) $1
+R (SB4ドリンク青(\([\d]+\))?) = SB4 Drink (Blue) $1
+R (SB4ドリンク緑(\([\d]+\))?) = SB4 Drink (Green) $1
+
+//  Weapons
+
+R (キャプテンシールド(\([\d]+\))?) = Captain America Shield $1
+R (紋章付き盾(\([\d]+\))?) = Shield With A Crest $1
+R (水晶の盾(\([\d]+\))?) = Crystal shield $1
+R (水晶の斧(\([\d]+\))?) = Crystal ax $1
+R (銀獅式改変_紅蓮(\([\d]+\))?) = Dragon Tooth Sword $1
+R (日本刀(\([\d]+\))?) = Katana $1
+R (鞘(\([\d]+\))?) = Katana Sheath $1
+R (\[NZ666\]ファンネル(\([\d]+\))?) = [NZ666] Missile $1
+R (\[NZ666\]サーベル(\([\d]+\))?) = [NZ666] Saber $1
+R (\[NZ666\]羽根(\([\d]+\))?) = [NZ666] Wings $1
+R (\[RX0\]ビームマグナム(\([\d]+\))?) = [RX0] Beam Magnum $1
+R (\[RX0\]シールド(\([\d]+\))?) = [RX0] Shield $1
+R (\[GN0000\]銃(\([\d]+\))?) = [GN0000] Gun $1
+R (\[GN0000\]剣(\([\d]+\))?) = [GN0000] Blade $1
+R (\[GN0000\](\([\d]+\))?) = [GN0000] Mech $1
+R (ヒートホーク(\([\d]+\))?) = Heat Hawk Ax $1
+R (ザクマシンガン(\([\d]+\))?) = Zaku Machine Gun $1
+R (咖喱棒(\([\d]+\))?) = Saber Excalibur $1
+R (阿瓦隆(\([\d]+\))?) = Avalon $1
+R (中式长剑(\([\d]+\))?) = Chinese Sword $1
+R (中式短剑(\([\d]+\))?) = Chinese Dagger $1
+R (魔化镰刀J(\([\d]+\))?) = Enchanted Sickle $1
+R (贝瑟尔之爪(\([\d]+\))?) = Shaolin Claw $1
+R (黑色超渡(\([\d]+\))?) = Black Salvation $1
+R (魔化镰刀K(\([\d]+\))?) = Magic Sickle K $1
+R (魔化战斧E(\([\d]+\))?) = Enchanted Tomahawk E $1
+R (魔化护手C(\([\d]+\))?) = Enchanted Gauntlets C $1
+R (苦无(\([\d]+\))?) = Kunai $1
+R (手里剑(\([\d]+\))?) = Shuriken $1
+R (魔化臂刃E(\([\d]+\))?) = Magic Arm Edge E $1
+R (魔化臂刃F(\([\d]+\))?) = Magic Arm Edge F $1
+R (魔化权杖A(\([\d]+\))?) = Enchanted Scepter A $1
+R (魔化剑刃戟B(\([\d]+\))?) = Magic Halberd B $1
+R (撕裂骨斧(\([\d]+\))?) = Tear Bone Ax $1
+R (魔化剑刃戟C(\([\d]+\))?) = Magic Halberd C $1
+R (魔化重锤G(\([\d]+\))?) = Magic Hammer G $1
+R (魔化之爪E(\([\d]+\))?) = Magic Claws E $1
+R (魔化护手B(\([\d]+\))?) = Magic Handguard B $1
+R (魔化镰刀H(\([\d]+\))?) = Magic Sickle H $1
+R (魔化镰刀I(\([\d]+\))?) = Magic Sickle I $1
+R (魔化权杖B(\([\d]+\))?) = Enchanted Scepter B $1
+R (魔化护手D(\([\d]+\))?) = Magic Handguard D $1
+R (魔化战斧F(\([\d]+\))?) = Magic War Ax F $1
+R (魔化权杖C(\([\d]+\))?) = Enchanted Scepter C $1
+R (魔化战斧G(\([\d]+\))?) = Magic War Ax G $1
+R (魔化权杖D(\([\d]+\))?) = Enchanted Scepter D $1
+R (魔火之舞(\([\d]+\))?) = Magic Fire Dance $1
+R (污秽之镰(\([\d]+\))?) = Filthy Sickle $1
+R (废黜君王的权杖(\([\d]+\))?) = Dismissed The King's Scepter $1
+R (魔化重锤H(\([\d]+\))?) = Magic Hammer H $1
+R (魔化剑刃戟D(\([\d]+\))?) = Magic Halberd D $1
+R (杜兰德尔之剑(\([\d]+\))?) = Durandr's Sword $1
+R (杜兰德尔之鞘(\([\d]+\))?) = Durandr's Sheath $1
+R (绯红女皇(\([\d]+\))?) = Crimson Queen $1
+R (骑士标枪(\([\d]+\))?) = Knight Javelin $1
+R (骑士刺枪(\([\d]+\))?) = Knight Spear $1
+R (静滞之刃(\([\d]+\))?) = Stagnant Blade $1
+R (阿凯德纳的獠牙(\([\d]+\))?) = Akadena's Fangs $1
+R (风暴之矛(\([\d]+\))?) = The Spear Of The Storm $1
+R (魔化剑刃戟E(\([\d]+\))?) = Magic Halberd E $1
+R (魔化重锤I(\([\d]+\))?) = Magic Hammer I $1
+R (防爆盾(\([\d]+\))?) = Riot Shield $1
+R (标枪导弹(\([\d]+\))?) = FGM-148 Javelin $1
+R (毒刺导弹(\([\d]+\))?) = FIM-92 Stinger $1
+R (M136AT4火箭筒(\([\d]+\))?) = M136AT4 Rocket Launcher $1
+R (RPG-7\（传统\）(\([\d]+\))?) = RPG-7 (Traditional) $1
+R (RPG-7V2\（标准\）(\([\d]+\))?) = RPG-7V2 (Standard) $1
+R (RPG-7V2\（特战\）(\([\d]+\))?) = RPG-7V2 (Special Warfare) $1
+R (Barrett XM500\（迷彩\）(\([\d]+\))?) = Barrett XM500 (Camo) $1
+R (Barrett XM500\（冬季\）(\([\d]+\))?) = Barrett XM500 (Winter) $1
+R (Barrett XM500\（标准\）(\([\d]+\))?) = Barrett XM500 (Standard) $1
+R (AW50\（标准\）(\([\d]+\))?) = AW50 (Standard) $1
+R (AW50\（丛林\）(\([\d]+\))?) = AW50 (Jungle) $1
+R (AW50\（火焰\）(\([\d]+\))?) = AW50 (Flame) $1
+R (AW50\（冬季\）(\([\d]+\))?) = AW50 (Winter) $1
+R (DSR50\（标准\）(\([\d]+\))?) = DSR50 (Standard) $1
+R (DSR50\（迷彩\）(\([\d]+\))?) = DSR50 (Camo) $1
+R (DSR50\（冬季\）(\([\d]+\))?) = DSR50 (Winter) $1
+R (土制炸弹(\([\d]+\))?) = Improvised Explosive Device $1
+R (C4-1\（可吸附式\）(\([\d]+\))?) = C4-1 (Adsorption Type) $1
+R (C4-3\（炸弹\）(\([\d]+\))?) = C4-3 (Bomb) $1
+R (C4-3\（引爆器\）(\([\d]+\))?) = C4-3 (Detonator) $1
+R (C4-4\（炸弹\）(\([\d]+\))?) = C4-4 (Bomb) $1
+R (C4-4\（引爆器\）(\([\d]+\))?) = C4-4 (Detonator) $1
+R (高爆手雷(\([\d]+\))?) = Illuminating Grenade $1
+R (破片手雷(\([\d]+\))?) = Frag Grenade $1
+R (.50AE弹匣(\([\d]+\))?) = .50AE Magazine $1
+R (.50AE实弹(\([\d]+\))?) = .50AE Live Ammunition $1
+R (.50AE弹头(\([\d]+\))?) = .50AE Warheads $1
+R (RPG-7\(未填装\)(\([\d]+\))?) = RPG-7 (Not Filled) $1
+R (M4A1\(模块化\)(\([\d]+\))?) = M4A1 (Modular) $1
+R (40mm 榴弹实弹(\([\d]+\))?) = 40mm Grenade Live Ammunition $1
+R (40mm 榴弹弹头(\([\d]+\))?) = 40mm Grenade Warhead $1
+R (40mm 榴弹弹壳(\([\d]+\))?) = 40mm Grenade Shells $1
+R (40mm火箭弹\(通常\)(\([\d]+\))?) = 40mm Rocket (Normal) $1
+R (40mm火箭弹\(发射\)(\([\d]+\))?) = 40mm Rocket (Launch) $1
+R (霰弹(\([\d]+\))?) = Shotgun $1
+R (铅弹(\([\d]+\))?) = Lead Bombs $1
+R (步枪实弹(\([\d]+\))?) = Rifle Live Ammunition $1
+R (步枪弹头(\([\d]+\))?) = Rifle Warheads $1
+R (步枪弹壳(\([\d]+\))?) = Rifle Shells $1
+
+// H-Items
+
+R (アナルバイブ\(ハニー\)(\([\d]+\))?) = Anal Vibrator (Honey) $1
+R (拘束台\(ハニー\)(\([\d]+\))?) = Restraint Board (Honey) $1
+R (ＳＭギロチン\(ハニー\)(\([\d]+\))?) = SM Guillotine (Honey) $1
+R (ＳＭ固定ギロチン\(ハニー\)(\([\d]+\))?) = SM Fixed Guillotine (Honey) $1
+R (鞭\(ハニー\)(\([\d]+\))?) = Whip (Honey) $1
+R (鞭三角木馬\(ハニー\)(\([\d]+\))?) = Whip Triangle Horse (Honey) $1
+R (ＳＭ三角木馬\(ハニー\)(\([\d]+\))?) = SM Triangular Horse (Honey) $1
+R (断面図(\([\d]+\))?) = Sectional View $1
+R (钢环(\([\d]+\))?) = Steel Ring $1
+R (直钢棍(\([\d]+\))?) = Straight Steel Bar $1
+R (圆头钩(\([\d]+\))?) = Round Head Hook $1
+R (铁链\(直\)(\([\d]+\))?) = Iron Chain (Straight) $1
+R (铁链\(弯\)(\([\d]+\))?) = Iron Chain $1
+R (铁链\(一圈\)(\([\d]+\))?) = Iron Chain (Looped) $1
+R (肛塞(\([\d]+\))?) = Butt Plug $1
+R (跳蛋\(粉\)(\([\d]+\))?) = Egg Vibrator (Pink) $1
+R (跳蛋\(小\)(\([\d]+\))?) = Egg Vibrator (Small) $1
+R (跳蛋\(无线紫\)(\([\d]+\))?) = Egg Vibrator (Wireless Pink) $1
+R (跳蛋\(无线黑\)(\([\d]+\))?) = Egg Vibrator (Wireless Black) $1
+R (跳蛋控制器\(粉\)(\([\d]+\))?) = Controller (Pink) $1
+R (跳蛋控制器\(白\)(\([\d]+\))?) = Controller (White) $1
+R (跳蛋控制器\(无线\)(\([\d]+\))?) = Controller (Wireless Black) $1
+R (无线跳蛋遥控器(\([\d]+\))?) = Wireless Remote Control $1
+R (无线跳蛋接收器(\([\d]+\))?) = Wireless Receiver $1
+R (直线\(粉\)(\([\d]+\))?) = Straight Wire (Pink) $1
+R (4/1圆线\(粉\)(\([\d]+\))?) = 1/4 Curved Wire (Pink) $1
+R (半圆线\(粉\)(\([\d]+\))?) = Semicircle Wire (Pink) $1
+R (U型线\(粉\)(\([\d]+\))?) = U Shaped Wire (Pink) $1
+R (一捆线\(粉\)(\([\d]+\))?) = A Bundle of Wire (Pink) $1
+R (直线\(黑\)(\([\d]+\))?) = Straight Wire (Black) $1
+R (4/1圆线\(黑\)(\([\d]+\))?) = 1/4 Curved Wire (Black) $1
+R (半圆线\(黑\)(\([\d]+\))?) = Semicircle Wire (Black) $1
+R (U型线\(黑\)(\([\d]+\))?) = U Shaped Wire (Black) $1
+R (一捆线\(黑\)(\([\d]+\))?) = A Bundle of Wire (Black) $1
+
+// Liquid
+
+R (スプレー\(白\)(\([\d]+\))?) = Spray (White) $1
+R (スプレー\(透明\)(\([\d]+\))?) = Spray (Transparent) $1
+R (スプレー\(黄\)(\([\d]+\))?) = Spray (Yellow) $1
+R (液溜まりA\(白\)(\([\d]+\))?) = Liquid Pool A (White) $1
+R (液溜まりA\(透明\)(\([\d]+\))?) = Liquid Pool A (Transparent) $1
+R (液溜まりA\(黄\)(\([\d]+\))?) = Liquid Pool A (Yellow) $1
+R (液溜まりB\(白\)(\([\d]+\))?) = Liquid Pool B (White) $1
+R (液溜まりB\(透明\)(\([\d]+\))?) = Liquid Pool B (Transparent) $1
+R (液溜まりB\(黄\)(\([\d]+\))?) = Liquid Pool B (Yellow) $1
+R (液飛び\(白\)(\([\d]+\))?) = Spurt (White) $1
+R (液飛び\(透明\)(\([\d]+\))?) = Spurt (Transparent) $1
+R (液飛び\(黄\)(\([\d]+\))?) = Spurt (Yellow) $1
+R (液垂れ\(白\)(\([\d]+\))?) = Dripping (White) $1
+R (液垂れ\(透明\)(\([\d]+\))?) = Dripping (Transparent) $1
+R (液垂れ\(黄\)(\([\d]+\))?) = Dripping (Yellow) $1
+R (ゆらゆら水面_〇(\([\d]+\))?) = Water Surface (Circle) $1
+R (ゆらゆら水面_□(\([\d]+\))?) = Water Surface (Square) $1
+R (ゆらゆら水面_●大(\([\d]+\))?) = Water Surface (Huge) $1
+R (あわあわ(\([\d]+\))?) = Bubbles $1
+R (海面用_反射抑え板(\([\d]+\))?) = Reflection plate for sea surface $1
+R (大きい海面_大きい波(\([\d]+\))?) = Huge Sea Surface (Big Waves) $1
+R (大きい海面_日差し有(\([\d]+\))?) = Huge Sea Surface (Sunlight) $1
+R (大きい海面_日差し無(\([\d]+\))?) = Huge Sea Surface (No Sunlight) $1
+R (丸い水面_小(\([\d]+\))?) = Small Water Surface (Circle) $1
+R (四角い水面_小(\([\d]+\))?) = Small Water Surface (Square) $1
+
+
+// Screen
+
+R (粉雪(\([\d]+\))?) = Powdery Snow $1
+R (半月(\([\d]+\))?) = Half Moon $1
+R (虹(\([\d]+\))?) = Rainbow $1
+R (星(\([\d]+\))?) = Star $1
+R (満月(\([\d]+\))?) = Full Moon $1
+R (光１(\([\d]+\))?) = Light 1 $1
+R (光２(\([\d]+\))?) = Light 2 $1
+R (光３(\([\d]+\))?) = Light 3 $1
+R (渦(\([\d]+\))?) = Vortex $1
+R (雲(\([\d]+\))?) = Cloud $1
+R (波(\([\d]+\))?) = Wave $1
+R (雨(\([\d]+\))?) = Rain $1
+R (ブラシ(\([\d]+\))?) = Brush $1
+R (煙(\([\d]+\))?) = Smoke $1
+R (黄ボケ(\([\d]+\))?) = Yellow Blur $1
+R (赤ボケ(\([\d]+\))?) = Red Blur $1
+R (炎１(\([\d]+\))?) = Flame 1 $1
+R (炎２(\([\d]+\))?) = Flame 2 $1
+R (魔方陣(\([\d]+\))?) = Magic Square $1
+R (桜の花びら(\([\d]+\))?) = Cherry Blossom Petals $1
+R (紙吹雪(\([\d]+\))?) = Confetti $1
+R (HL_炎A(\([\d]+\))?) = HL Fire $1
+R (HL_炎B(\([\d]+\))?) = HL Fire $1
+R (HL_火花(\([\d]+\))?) = HL Spark $1
+R (HL_アフターバーナー(\([\d]+\))?) = HL Afterburner $1
+R (HL_大きい煙_A(\([\d]+\))?) = HL Big Smoke A $1
+R (HL_大きい煙_B(\([\d]+\))?) = HL Big Smoke B $1
+R (HL_大きい煙_C(\([\d]+\))?) = HL Big Smoke C $1
+R (HL_大きい煙_D(\([\d]+\))?) = HL Big Smoke D $1
+R (HL_黒煙(\([\d]+\))?) = HL Black Smoke $1
+R (HL_白煙(\([\d]+\))?) = HL White Smoke $1
+R (HL_車の白煙(\([\d]+\))?) = HL Car Exhaust Fumes $1
+R (HL_湯気っぽい物(\([\d]+\))?) = HL Surface Steam (Big) $1
+R (HL_雨(\([\d]+\))?) = HL Rain $1
+R (HL_雪(\([\d]+\))?) = HL Snow $1
+R (HL_湯気っぽい物_中(\([\d]+\))?) = HL Rising Steam (Mid) $1
+R (ILLUの炎(\([\d]+\))?) = ILLU Flame $1
+
+
+//  Other
+
+R (东都洛阳(\([\d]+\))?) = East Of Luoyang $1
+R (死亡之翼(\([\d]+\))?) = Deathwing $1
+R (黄金麒麟(\([\d]+\))?) = Golden Kirin $1
+R (黑龙王(\([\d]+\))?) =  Black Dragon King $1
+R (悲恸之龙(\([\d]+\))?) = Dragon Of Sorrow $1
+R (徘徊者(\([\d]+\))?) = The Prowler $1
+R (狗肉(\([\d]+\))?) = Dog Meat (fallout) $1
+R (地狱火马(\([\d]+\))?) = Hellfire Horse $1
+R (不死马(\([\d]+\))?) = Undead Horse $1
+R (独角兽(\([\d]+\))?) = Unicorn $1
+R (战马(\([\d]+\))?) = Horse $1
+R (白虎(\([\d]+\))?) = White Tiger $1
+R (大老虎(\([\d]+\))?) = Big Tiger $1
+R (猫头鹰(\([\d]+\))?) = Owl $1
+R (血迹1(\([\d]+\))?) = Blood 1 $1
+R (血迹2(\([\d]+\))?) = Blood 2 $1
+R (血迹3(\([\d]+\))?) = Blood 3 $1
+R (血迹4(\([\d]+\))?) = Blood 4 $1
+R (血迹5(\([\d]+\))?) = Blood 5 $1
+R (血迹6(\([\d]+\))?) = Blood 6 $1
+R (血迹7(\([\d]+\))?) = Blood 7 $1
+R (血迹8(\([\d]+\))?) = Blood 8 $1
+R (血迹9(\([\d]+\))?) = Blood 9 $1
+
+// -----------------------------------------------------------------------------------------------
+//  end
+// -----------------------------------------------------------------------------------------------
