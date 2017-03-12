@@ -2,12 +2,11 @@
 // Accessories Mods
 // -----------------------------------------------------------------------------------------------
 
-//Accessories
 //Head
-サイドリボンカチューシャ(色変え可能) = Side Ribbon Headband (Custom Color)
+サイドリボンカチューシャ(色変え可能) = Side Ribbon Headband (CC)
 DW6甄姬头饰 = Zhenji's Headpiece (DW6)
-ベレー帽（色変え可能） = Beret (Custom Color)
-ベレー帽・斜（色変え可能） = Beret (Diagonal) (Custom Color)
+ベレー帽（色変え可能） = Beret (CC)
+ベレー帽・斜（色変え可能） = Beret (Diagonal) (CC)
 ウシャンカ（閉） = Ushanka (Open)
 ウシャンカ（開） = Ushanka (Closed)
 野球メット(Carp) = Baseball Cap (Carp)
@@ -30,19 +29,28 @@ SFXメット = SFX Helmet
 ザク２頭 = Zaku 2 Head
 ザク２アンテナ = Zaku 2 Antenna
 耳あて = Earmuffs
+二種軍装正帽 = Admiral Cap
+牛カチューシャ（タグ無） = Cow Ears Headband (No Tag)
+牛カチューシャ（タグ有） = Cow Ears Headband (Tag)
+[s_k] ナース帽子(色変可) = [s_k] Nurse Hat (CC)
 
 //Ears
 
 
 //Glasses
-スポーツグラス クリアレッド(色変え可能) = Sports Glasses Clear Red (Custom Color)
-スポーツグラス スモーク(色変え可能) = Sports Glasses Smokey (Custom Color)
+スポーツグラス クリアレッド(色変え可能) = Sports Glasses Clear Red (CC)
+スポーツグラス スモーク(色変え可能) = Sports Glasses Smokey (CC)
 
 //Face
-
+涙・鼻水 = Tears / Runny Nose
+泡（口用） = Foam (For Mouth)
+泡（単体） = Foam (Spherical)
+涎 = Drool
+[s_k] 口にガムテープ = Gum Tape (Mouth)
+[s_k] マスク = Mask
 
 //Neck
-リボン（色変え可能） = Ribbon (Custom Color)
+リボン（色変え可能） = Ribbon (CC)
 ネックポンポン = Neck Ponpon
 ロングマフラー(襟) = A Long Scarf (Collar)
 ロングマフラー(帯) = A Long Scarf (Band)
@@ -50,6 +58,9 @@ SFXメット = SFX Helmet
 tera项链 = Tera Necklace
 ザク２（胸） = Zaku 2 (Chest)
 冬用マフラー = Winter Muffler
+牛用首輪（黒） = Cow Bell Collar (Black)
+牛用首輪（赤） = Cow Bell Collar (Red)
+牛用首輪（桃） = Cow Bell Collar (Pink)
 
 //Shoulder
 肩パッド = Shoulder Pad
@@ -82,11 +93,21 @@ knightベルト = Knight Belt
 双頭ディルドA = Two Head Dildo A
 双頭ディルドB = Two Head Dildo B
 双頭ディルドC = Two Head Dildo C
-シッポ無柄(色変え可能) = Fur Tail (Custom Color)
-シッポ豹柄(色変え可能) = Fur Tail Leopard (Custom Color)
-猫シッポ2(色変え可能) = Cat Tail 2 (Custom Color)
-猫シッポ3(色変え可能) = Cat Tail 3 (Custom Color)
+シッポ無柄(色変え可能) = Fur Tail (CC)
+シッポ豹柄(色変え可能) = Fur Tail Leopard (CC)
+猫シッポ2(色変え可能) = Cat Tail 2 (CC)
+猫シッポ3(色変え可能) = Cat Tail 3 (CC)
 ザク２腰 = Zaku 2 Waist
+苗床セット = Nursery Bed Set
+妊婦腹 = Pregnant Stomach
+膣拡張 = Vaginal Dilatation
+3点拡張 = 3 Points Expansion
+子宮 = Vaginal Prolapse
+肛 = Rectal Prolapse
+クリ = Enlarge Clitoris
+尿道 = Urethral Prolapse
+腹ボコ = Stomach Deformation
+腹ボコ（空洞） = Stomach Deformation (No Vagina)
 
 //Back
 華奢な翼 = Delicate Wings
@@ -126,10 +147,11 @@ knightベルト = Knight Belt
 ザク２腕 = Zaku 2 Arms
 ヒートホーク = Heat Hawk
 ザクマシンガン = Zaku Machine Gun
+直突式ドリル = Direct-Drive Drill
 
 //Leg
-ガーターリング左（色変え可能） = Garter Ring Left (Custom Color)
-ガーターリング右（色変え可能） = Garter Ring Right (Custom Color)
+ガーターリング左（色変え可能） = Garter Ring Left (CC)
+ガーターリング右（色変え可能） = Garter Ring Right (CC)
 ザク２脚(R) = Zaku 2 Leg (R)
 ザク２脚(L) = Zaku 2 Leg (L)
 

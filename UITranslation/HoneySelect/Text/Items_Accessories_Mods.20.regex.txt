@@ -4,10 +4,10 @@
 
 //Accessories
 //Head
-R ((\d\d) サイドリボンカチューシ) = $1 Side Ribbon Headband (Custom Color)
+R ((\d\d) サイドリボンカチューシ) = $1 Side Ribbon Headband (CC)
 R ((\d\d) DW6甄姬头饰) = $1 Zhenji's Headpiece (DW6)
-R ((\d\d) ベレー帽\（色変え可能\）) = $1 Beret (Custom Color)
-R ((\d\d) ベレー帽・斜\（色変え可) = $1 Beret (Diagonal) (Custom Color)
+R ((\d\d) ベレー帽\（色変え可能\）) = $1 Beret (CC)
+R ((\d\d) ベレー帽・斜\（色変え可) = $1 Beret (Diagonal) (CC)
 R ((\d\d) ウシャンカ\（閉\）) = $1 Ushanka (Open)
 R ((\d\d) ウシャンカ\（開\）) = $1 Ushanka (Closed)
 R ((\d\d) 野球メット\(Carp\)) = $1 Baseball Cap (Carp)
@@ -30,19 +30,29 @@ R ((\d\d) \[MOD\]_ポンポンB) = $1 PomPom B
 R ((\d\d) ザク２頭) = $1 Zaku 2 Head
 R ((\d\d) ザク２アンテナ) = $1 Zaku 2 Antenna
 R ((\d\d) 耳あて) = $1 Earmuffs
+R ((\d\d) 二種軍装正帽) = $1 Admiral Cap
+R ((\d\d) 牛カチューシャ\（タグ無) = $1 Cow Ears Headband (No Tag)
+R ((\d\d) 牛カチューシャ\（タグ有) = $1 Cow Ears Headband (Tag)
+R ((\d\d) \[s_k\] ナース帽子) = $1 [s_k] Nurse Hat (CC)
 
 //Ears
 
 
 //Glasses
-R ((\d\d) スポーツグラス クリア) = $1 Sports Glasses Clear Red (Custom Color)
-R ((\d\d) スポーツグラス スモー) = $1 Sports Glasses Smokey (Custom Color)
+R ((\d\d) スポーツグラス クリア) = $1 Sports Glasses Clear Red (CC)
+R ((\d\d) スポーツグラス スモー) = $1 Sports Glasses Smokey (CC)
 
 //Face
+R ((\d\d) 涙・鼻水) = $1 Tears / Runny Nose
+R ((\d\d) 泡\（口用\）) = $1 Foam (For Mouth)
+R ((\d\d) 泡\（単体\）) = $1 Foam (Spherical)
+R ((\d\d) 涎) = $1 Drool
+R ((\d\d) \[s_k\] 口にガムテ) = $1 Gum Tape Over Mouth
+R ((\d\d) \[s_k\] マスク) = $1 Mask
 
 
 //Neck
-R ((\d\d) リボン\（色変え可能\）) = $1 Ribbon (Custom Color)
+R ((\d\d) リボン\（色変え可能\）) = $1 Ribbon (CC)
 R ((\d\d) ネックポンポン) = $1 Neck Ponpon
 R ((\d\d) ロングマフラー\(襟\)) = $1 A Long Scarf (Collar)
 R ((\d\d) ロングマフラー\(帯\)) = $1 A Long Scarf (Band)
@@ -50,6 +60,9 @@ R ((\d\d) 猫ファーリボン) = $1 Cat Fur Ribbon
 R ((\d\d) tera项链) = $1 Tera Necklace
 R ((\d\d) ザク２\（胸\）) = $1 Zaku 2 (Chest)
 R ((\d\d) 冬用マフラー) = $1 Winter Muffler
+R ((\d\d) 牛用首輪\（黒\）) = $1 Cow Bell Collar (Black)
+R ((\d\d) 牛用首輪\（赤\）) = $1 Cow Bell Collar (Red)
+R ((\d\d) 牛用首輪\（桃\）) = $1 Cow Bell Collar (Pink)
 
 //Shoulder
 R ((\d\d) 肩パッド) = $1 Shoulder Pad
@@ -82,11 +95,21 @@ R ((\d\d) 超ロングディルドC) = $1 Ultra Long Dildo C
 R ((\d\d) 双頭ディルドA) = $1 Two Head Dildo A
 R ((\d\d) 双頭ディルドB) = $1 Two Head Dildo B
 R ((\d\d) 双頭ディルドC) = $1 Two Head Dildo C
-R ((\d\d) シッポ無柄\(色変え可能) = $1 Fur Tail (Custom Color)
-R ((\d\d) シッポ豹柄\(色変え可能) = $1 Fur Tail Leopard (Custom Color)
-R ((\d\d) 猫シッポ2\(色変え可能) = $1 Cat Tail 2 (Custom Color)
-R ((\d\d) 猫シッポ3\(色変え可能) = $1 Cat Tail 3 (Custom Color)
+R ((\d\d) シッポ無柄\(色変え可能) = $1 Fur Tail (CC)
+R ((\d\d) シッポ豹柄\(色変え可能) = $1 Fur Tail Leopard (CC)
+R ((\d\d) 猫シッポ2\(色変え可能) = $1 Cat Tail 2 (CC)
+R ((\d\d) 猫シッポ3\(色変え可能) = $1 Cat Tail 3 (CC)
 R ((\d\d) ザク２腰) = $1 Zaku 2 Waist
+R ((\d\d) 苗床セット) = $1 Nursery Bed Set
+R ((\d\d) 妊婦腹) = $1 Pregnant Stomach
+R ((\d\d) 膣拡張) = $1 Vaginal Dilatation
+R ((\d\d) 3点拡張) = $1 3 Points Expansion
+R ((\d\d) 子宮) = $1 Vaginal Prolapse
+R ((\d\d) 肛) = $1 Rectal Prolapse
+R ((\d\d) クリ) = $1 Enlarge Clitoris
+R ((\d\d) 尿道) = $1 Urethral Prolapse
+R ((\d\d) 腹ボコ) = $1 Stomach Deformation
+R ((\d\d) 腹ボコ\（空洞\）) = $1 Stomach Deformation (No Vagina)
 
 //Back
 R ((\d\d) 華奢な翼) = $1 Delicate Wings
@@ -126,10 +149,11 @@ R ((\d\d) ウォーターガン) = $1 Water Gun
 R ((\d\d) ザク２腕) = $1 Zaku 2 Arms
 R ((\d\d) ヒートホーク) = $1 Heat Hawk
 R ((\d\d) ザクマシンガン) = $1 Zaku Machine Gun
+R ((\d\d) 直突式ドリル) = $1 Direct-Drive Drill
 
 //Leg
-R ((\d\d) ガーターリング左\（色変) = $1 Garter Ring Left (Custom Color)
-R ((\d\d) ガーターリング右\（色変) = $1 Garter Ring Right (Custom Color)
+R ((\d\d) ガーターリング左\（色変) = $1 Garter Ring Left (CC)
+R ((\d\d) ガーターリング右\（色変) = $1 Garter Ring Right (CC)
 R ((\d\d) ザク２脚\(R\)) = $1 Zaku 2 Leg (R)
 R ((\d\d) ザク２脚\(L\)) = $1 Zaku 2 Leg (L)
 
