@@ -1,4 +1,1316 @@
 // -----------------------------------------------
+// H - general purpose
+// -----------------------------------------------
+
+//#sub "hs_11_001" あん、ああん、やん、ダメ、やめて、きゃっ、きゃあ、んっ、もう、いい
+#sub "hs_11_001" Aghh, oww, no please, stop, stop, wait a minute, all right?  
+
+//#sub "hs_11_002" んっ、ん゛っ、んあ、う゛うっ、い゛っ、いや、きらい、やっ、くっ、くぅぅ、
+#sub "hs_11_002" *Gasp* I, can't, hmph...  This, don't do this to me!
+
+//#sub "hs_11_003" んほぉ、お゛ぉ、おほぅ、あふぅ、んはぁ、あひぃ、はうぅ、んはぁ、おふぉ、あおぉ
+#sub "hs_11_003" I, I'm going to *pant* going to explode...
+
+//#sub "hs_11_004" いたっ、い゛い、いたい、いだい、きゃふ、ぎゃふ、え゛ぇ、ぎぃ、あがぁ、はぐぅ
+#sub "hs_11_004" *Gasp* It's here inside me... my, my pussy... please, do it, make love to me.
+
+//#sub "hs_11_005" えへ、へへへ、ひひ、あ・・・、う・・・、うぅ・・、あはぁ…、んぅ…、んぁ、あぁ…
+#sub "hs_11_005" *Gasp* I, I feel it, it's filthy... in my private place... no, please keep going...
+
+//#sub "hs_11_006" 「すぅ……はぁ……」
+#sub "hs_11_006" 「*breath*」
+
+//#sub "hs_11_007" 「はひ、ふひっ、あはっ…あはぁ…はぁはぁ…んは…」
+#sub "hs_11_007" 「Kyaa!  Fua, aah... aah.. aah...」
+
+//#sub "hs_11_008" 「すぅ……はぁ……」
+#sub "hs_11_008" 「*breath*」
+
+//#sub "hs_11_009" 「はぁ……はぁ……」
+#sub "hs_11_009" "oh god yesss...... Haa..."
+
+//#sub "hs_11_010" 「すぅ……はぁ……」
+#sub "hs_11_010" 「*breath*」
+
+//#sub "hs_11_011" 「はぁ……はぁ……」
+#sub "hs_11_011" 「Haa oh yeah...... hunh...」
+
+//#sub "hs_11_012" 「すぅ……はぁ……」
+#sub "hs_11_012" 「*breath*」
+
+//#sub "hs_11_013" 「はぁ……はぁ……」
+#sub "hs_11_013" 「*breath*」
+
+//#sub "hs_11_014" 「すぅ……はぁ……」
+#sub "hs_11_014" 「*breath*」
+
+//#sub "hs_11_015" 「はぁ……はぁ……」
+#sub "hs_11_015" 「*breath*」
+
+//#sub "hs_11_016" 「すぅ……はぁ……」
+#sub "hs_11_016" 「*breath*」
+
+//#sub "hs_11_017" 「はぁ……はぁ……」
+#sub "hs_11_017" 「Haah... hunh...」
+
+//#sub "hs_11_018" 「すぅ……はぁ……」
+#sub "hs_11_018" 「*breath*」
+
+//#sub "hs_11_019" 「はぁ……はぁ……」
+#sub "hs_11_019" 「Haah... hunh...」
+
+//#sub "hs_11_020" 「んっ、・・・んっ、・・・・ふっ、んんっ、んっ、ぁふっ」
+#sub "hs_11_020" 「Huh, Mmm... fffu, hahh, haaaah」
+
+//#sub "hs_11_021" 「んっ、・・・んっ、・・・・ふっ、んんっ、んっ、ぁふっ」
+#sub "hs_11_021" 「Huh, Mmm... fffu, hahh, haaaah」
+
+//#sub "hs_11_022" 「んっ、んっ、んっ、ふっ、んんっ、んっ、ぁふっ」
+#sub "hs_11_022" 「Oohhh, huh, huh, hmm, huh」
+
+//#sub "hs_11_023" 「んっ、んっ、んっ、ふっ、んんっ、んっ、ぁふっ」
+#sub "hs_11_023" 「Ohhh, huh, huh, hmm, huh」
+
+//#sub "hs_11_024" 「ん、ん、ん、ん、ふっ、んんっ、んっ、ぁふっ」
+#sub "hs_11_024" 「Oh, aah, augh, hmm, huh」
+
+//#sub "hs_11_025" 「ん、ん、ん、ん、ふっ、んんっ、んっ、ぁふっ」
+#sub "hs_11_025" 「Oh, aah, augh, hmm, huh」
+
+//#sub "hs_11_026" 「すぅ……はぁ……」
+#sub "hs_11_026" 「*breath*」
+
+//#sub "hs_11_027" い゛・・・ん゛ぎっ・・・
+#sub "hs_11_027" I...I can't stop...hmmm...
+
+//#sub "hs_11_028" んっ・・・んぁ・・
+#sub "hs_11_028" My Onii-san is... inside me...
+
+//#sub "hs_11_029" や、んはぁ…
+#sub "hs_11_029" Aah, I can feel it...
+
+//#sub "hs_11_030" あっ・・はぁん・・
+#sub "hs_11_030" Oh I'm going to...
+
+//#sub "hs_11_031" んふぅ、あぁぁ…
+#sub "hs_11_031" Huhu, Ahhhh...
+
+//#sub "hs_11_032" そこ・・お、おしりぃ…待ってぇ・・
+#sub "hs_11_032" Oh, Baby... wait... *gasp*
+
+//#sub "hs_11_033" うぐぅ・・、入ってる・・・
+#sub "hs_11_033" *Gasp*...It's... it's in my ass...
+
+//#sub "hs_11_034" ん゛んっ、
+#sub "hs_11_034" I... *pant*
+
+//#sub "hs_11_035" はんぅ・・
+#sub "hs_11_035" No... please...
+
+//#sub "hs_11_036" んはぁ、はぁ、はぁ、
+#sub "hs_11_036" It's... *pant* it is...
+
+//#sub "hs_11_037" ん・・ちゅ・・
+#sub "hs_11_037" Mm.. *slurp*..
+
+//#sub "hs_11_038" ン゛ぐ・・・
+#sub "hs_11_038" Hummm... hmm...
+
+//#sub "hs_11_039" あ～むぅ・・
+#sub "hs_11_039" Mmm... there...
+
+//#sub "hs_11_040" んご、・・
+#sub "hs_11_040" Take me Onii-san...
+
+//#sub "hs_11_041" 「ふぁ……ん……」
+#sub "hs_11_041" 「Fu...mm...aah...」
+
+//#sub "hs_11_042" 「ふぁ……ん……」
+#sub "hs_11_042" 「Fu...mm...aah...」
+
+//#sub "hs_11_043" 「ふぁ……ん……」
+#sub "hs_11_043" 「Fu...mm...aah...」
+
+//#sub "hs_11_044" 「ふぁっ、んんぅ」
+#sub "hs_11_044" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_045" 「ふぁっ、んんぅ」
+#sub "hs_11_045" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_046" 「ふぁっ、んんぅ」
+#sub "hs_11_046" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_047" 「ふぁ……ん……」
+#sub "hs_11_047" 「Fu...Mmm...」
+
+//#sub "hs_11_048" 「ふぁ……ん……」
+#sub "hs_11_048" 「Fu...Mmm...」
+
+//#sub "hs_11_049" 「ふぁ……ん……」
+#sub "hs_11_049" 「Fu...Mmm...」
+
+//#sub "hs_11_050" 「ふぁっ、んんぅ」
+#sub "hs_11_050" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_051" 「ふぁっ、んんぅ」
+#sub "hs_11_051" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_052" 「ふぁっ、んんぅ」
+#sub "hs_11_052" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_053" 「ふぁっ！んんっ！」
+#sub "hs_11_053" 「Fuaa! Gah!」
+
+//#sub "hs_11_054" 「ふぁっ！んんっ！」
+#sub "hs_11_054" 「Fuaa! Gah!」
+
+//#sub "hs_11_055" 「ふぁっ！んんっ！」
+#sub "hs_11_055" 「Fuaa! Gah!」
+
+//#sub "hs_11_056" 「ちゅる……んっ……」
+#sub "hs_11_056" 「Slurp... mmmah」
+
+//#sub "hs_11_057" 「ちゅる……んっ……」
+#sub "hs_11_057" 「Slurp... mmmah」
+
+//#sub "hs_11_058" 「れろ、ん、ちゅるぅ」
+#sub "hs_11_058" 「lick, mmmm, slurp」
+
+//#sub "hs_11_059" 「れろ、ん、ちゅるぅ」
+#sub "hs_11_059" 「lick, mmmm, slurp」
+
+//#sub "hs_11_060" 「ふぁっ！んんっ！」
+#sub "hs_11_060" 「Fuaa! Gah!」
+
+//#sub "hs_11_061" 「ふぁっ！んんっ！」
+#sub "hs_11_061" 「Fuaa! Gah!」
+
+//#sub "hs_11_062" 「んむぅ…はぁ、はぁ、はぁ…」
+#sub "hs_11_062" 「Oh yess... Huh, huh, huh...」 
+
+//#sub "hs_11_063" 「（ふぁ……ん……）」
+#sub "hs_11_063" 「Fuaa... mmm...」
+
+//#sub "hs_11_064" 「（ふぁ……ん……）」
+#sub "hs_11_064" 「Fuaa... mmm...」
+
+//#sub "hs_11_065" 「（ふぁっ、んんぅ）」
+#sub "hs_11_065" 「Fuaa, mah」
+
+//#sub "hs_11_066" 「（ふぁっ、んんぅ）」
+#sub "hs_11_066" 「Fuaa, mah」
+
+//#sub "hs_11_067" 「（ふぁっ！んんっ！）」
+#sub "hs_11_067" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_068" 「（ふぁっ！んんっ！）」
+#sub "hs_11_068" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_069" 「ぁっ……うく……」
+#sub "hs_11_069" 「Aaaah...hmmmm..」
+
+//#sub "hs_11_070" 「ぁっ……うく……」
+#sub "hs_11_070" 「Aaaah...hmmmm..」
+
+//#sub "hs_11_071" 「ぁっ……うく……」
+#sub "hs_11_071" 「Aaaah...hmmmm..」
+
+//#sub "hs_11_072" 「うぐ、ん、っくぅ」
+#sub "hs_11_072" 「Ah, uh, ah」
+
+//#sub "hs_11_073" 「うぐ、ん、っくぅ」
+#sub "hs_11_073" 「Ah, uh, ah」
+
+//#sub "hs_11_074" 「うぐ、ん、っくぅ」
+#sub "hs_11_074" 「Ah, uh, ah」
+
+//#sub "hs_11_075" 「ふぁ……ん……」
+#sub "hs_11_075" 「Fuaa... mmm...」
+
+//#sub "hs_11_076" 「ふぁ……ん……」
+#sub "hs_11_076" 「Fuaa... mmm...」
+
+//#sub "hs_11_077" 「ふぁっ、んんぅ」
+#sub "hs_11_077" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_078" 「ふぁっ、んんぅ」
+#sub "hs_11_078" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_079" 「ふぁっ！んんっ！」
+#sub "hs_11_079" 「Fuaa! Gah!」
+
+//#sub "hs_11_080" 「ふぁっ！んんっ！」
+#sub "hs_11_080" 「Fuaa! Gah!」
+
+//#sub "hs_11_081" 「ふぁっ！んんっ！」
+#sub "hs_11_081" 「Fuaa! Gah!」
+
+//#sub "hs_11_082" 「ちゅる……んっ……」
+#sub "hs_11_082" 「Slurp... mmmah」
+
+//#sub "hs_11_083" 「ちゅる……んっ……」
+#sub "hs_11_083" 「Slurp... mmmah」
+
+//#sub "hs_11_084" 「れろ、ん、ちゅるぅ」
+#sub "hs_11_084" 「lick, mmmm, slurp」
+
+//#sub "hs_11_085" 「れろ、ん、ちゅるぅ」
+#sub "hs_11_085" 「lick, mmmm, slurp」
+
+//#sub "hs_11_086" 「じゅるっ！んぁっ！」
+#sub "hs_11_086" 「Urrg! *drool*」
+
+//#sub "hs_11_087" 「じゅるっ！んぁっ！」
+#sub "hs_11_087" 「Urrg! *drool*」
+
+//#sub "hs_11_088" 「ひう……はひぃ……」
+#sub "hs_11_088" 「*ehehehe.. hehehe*」
+
+//#sub "hs_11_089" 「ひう……はひぃ……」
+#sub "hs_11_089" 「*ehehehe.. hehehe*」
+
+//#sub "hs_11_090" 「ひう……はひぃ……」
+#sub "hs_11_090" 「*ehehehe.. hehehe*」
+
+//#sub "hs_11_091" 「あ゛ぁっ、っん゛あっ、」
+#sub "hs_11_091" 「Oooooo, Hmmmmm, mmmmmm」
+
+//#sub "hs_11_092" 「あ゛ぁっ、っん゛あっ、」
+#sub "hs_11_092" 「Oooooo, Hmmmmm, mmmmmm」
+
+//#sub "hs_11_093" 「あ゛ぁっ、っん゛あっ、」
+#sub "hs_11_093" 「Oooooo, Hmmmmm, mmmmmm」
+
+//#sub "hs_11_094" 「ひう……はひぃ……」
+#sub "hs_11_094" 「*ehehehe.. hehehe*」
+
+//#sub "hs_11_095" 「ひう……はひぃ……」
+#sub "hs_11_095" 「*ehehehe.. hehehe*」
+
+//#sub "hs_11_096" 「あ゛ぁっ、っん゛あっ、」
+#sub "hs_11_096" 「Oooooo, Hmmmmm, mmmmmm」
+
+//#sub "hs_11_097" 「あ゛ぁっ、っん゛あっ、」
+#sub "hs_11_097" 「Oooooo, Hmmmmm, mmmmmm」
+
+//#sub "hs_11_098" 「んぁっ！あんっ！ふぁっ！」
+#sub "hs_11_098" 「Arg! Heh！Ahahaha！」
+
+//#sub "hs_11_099" 「んぁっ！あんっ！ふぁっ！」
+#sub "hs_11_099" 「Arg! Heh！Ahahaha！」
+
+//#sub "hs_11_100" 「んぁっ！あんっ！ふぁっ！」
+#sub "hs_11_100" 「Arg! Heh！Ahahaha！」
+
+//#sub "hs_11_101" 「うっ……うう、……」
+#sub "hs_11_101" 「Ugh... *sob*」
+
+//#sub "hs_11_102" 「うっ……うう、……」
+#sub "hs_11_102" 「Ugh... *sob*」
+
+//#sub "hs_11_103" 「うっ……うう、……」
+#sub "hs_11_103" 「Ugh... *sob*」
+
+//#sub "hs_11_104" 「う゛っ、・・・あぐ、・・」
+#sub "hs_11_104" 「Ugh... hgh...」
+
+//#sub "hs_11_105" 「う゛っ、・・・あぐ、・・」
+#sub "hs_11_105" 「Ugh... hgh...」
+
+//#sub "hs_11_106" 「う゛っ、・・・あぐ、・・」
+#sub "hs_11_106" 「Ugh... hgh...」
+
+//#sub "hs_11_107" 「うっ……うう、……」
+#sub "hs_11_107" 「Ugh... *sob*」
+
+//#sub "hs_11_108" 「うっ……うう、……」
+#sub "hs_11_108" 「Ugh... *sob*」
+
+//#sub "hs_11_109" 「う゛っ、・・・あぐ、・・」
+#sub "hs_11_109" 「Ugh... hgh...」
+
+//#sub "hs_11_110" 「う゛っ、・・・あぐ、・・」
+#sub "hs_11_110" 「Ugh... hgh...」
+
+//#sub "hs_11_111" 「ん゛ぁっ！あんっ！ふぁっ！」
+#sub "hs_11_111" 「Arg! Heh！Ahahaha！」
+
+//#sub "hs_11_112" 「んぁっ！あんっ！ふぁっ！」
+#sub "hs_11_112" 「Arg! Heh！Ahahaha！」
+
+//#sub "hs_11_113" 「んぁっ！あんっ！ふぁっ！」
+#sub "hs_11_113" 「Arg! Heh！Ahahaha！」
+
+//#sub "hs_11_114" 「ちゅる……んっ……」
+#sub "hs_11_114" 「Slurp... mmmah」
+
+//#sub "hs_11_115" 「ちゅる……んっ……」
+#sub "hs_11_115" 「Slurp... mmmah」
+
+//#sub "hs_11_116" 「れろ、ん、ちゅるぅ」
+#sub "hs_11_116" 「lick, mmmm, slurp」
+
+//#sub "hs_11_117" 「れろ、ん、ちゅるぅ」
+#sub "hs_11_117" 「lick, mmmm, slurp」
+
+//#sub "hs_11_118" 「ふぁっ…んんっ…」
+#sub "hs_11_118" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_119" 「ふぁっ…んんっ…」
+#sub "hs_11_119" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_120" 「（うっ……うう……）」
+#sub "hs_11_120" 「Ugh... *sob*」
+
+//#sub "hs_11_121" 「（うっ……うう……）」
+#sub "hs_11_121" 「Ugh... *sob*」
+
+//#sub "hs_11_122" 「（う゛っ、・・・あぐ、・・）」
+#sub "hs_11_122" 「Ugh... hgh...」
+
+//#sub "hs_11_123" 「（う゛っ、・・・あぐ、・・）」
+#sub "hs_11_123" 「Ugh... hgh...」
+
+//#sub "hs_11_124" 「（ん゛ぁっ…あんっ…ふぁっ…）」
+#sub "hs_11_124" 「Ahh...ahh...ffu」
+
+//#sub "hs_11_125" 「（ん゛ぁっ…あんっ…ふぁっ…）」
+#sub "hs_11_125" 「Ahh...ahh...ffu」
+
+//#sub "hs_11_126" 「ふぁ……ん……」
+#sub "hs_11_126" 「Fuaa... mmm...」
+
+//#sub "hs_11_127" 「ふぁ……ん……」
+#sub "hs_11_127" 「Fuaa... mmm...」
+
+//#sub "hs_11_128" 「ふぁっ、んんぅ」
+#sub "hs_11_128" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_129" 「ふぁっ、んんぅ」
+#sub "hs_11_129" 「Ah, ah, he, he, ha」
+
+//#sub "hs_11_130" 「ふぁっ！んんっ！」
+#sub "hs_11_130" 「Fuaa! Gah!」
+
+//#sub "hs_11_131" 「ふぁっ！んんっ！」
+#sub "hs_11_131" 「Fuaa! Gah!」
+
+//#sub "hs_11_132" 「ふぁっ！んんっ！」
+#sub "hs_11_132" 「Fuaa! Gah!」
+
+//#sub "hs_11_133" 「ん……ちゅっ、んふ……ちゅ」
+#sub "hs_11_133" 「Mmm...slurp...suck」
+
+//#sub "hs_11_134" 「ん……ちゅっ、んふ……ちゅ」
+#sub "hs_11_134" 「Mmm...slurp...suck」
+
+//#sub "hs_11_135" 「ちゅ、ん、ぁむ」
+#sub "hs_11_135" 「Slurp, mmm, mwah」
+
+//#sub "hs_11_136" 「ちゅ、ん、ぁむ」
+#sub "hs_11_136" 「Slurp, mmm, mwah」
+
+//#sub "hs_11_137" 「んじゅ……じゅる……んむぅ、んふぅ……んむぅ……」
+#sub "hs_11_137" 「*drool* ...ugh...(thank you)... 」
+
+//#sub "hs_11_138" 「んじゅ……じゅる……んむぅ、んふぅ……んむぅ……」
+#sub "hs_11_138" 「*drool* ...ugh...(thank you)... 」
+
+//#sub "hs_11_139" 「ちゅっ、んっ、ちゅっ、ちゅちゅ」
+#sub "hs_11_139" 「*slurp* ...mmm... *slurp*」
+
+//#sub "hs_11_140" 「ちゅっ、んっ、ちゅっ、ちゅちゅ」
+#sub "hs_11_140" 「*slurp* ...mmm... *slurp*」
+
+//#sub "hs_11_141" 「ん……んんぅ……んじゅ……ぅ……んはぁ……」
+#sub "hs_11_141" 「Mm...ugh...urgh *drool*」
+
+//#sub "hs_11_142" 「ん……んんぅ……んじゅ……ぅ……んはぁ……」
+#sub "hs_11_142" 「Mm...ugh...urgh *drool*」
+
+//#sub "hs_11_143" 「ん、んぅっ、ん、うぅう、んずゅ」
+#sub "hs_11_143" 「Nn, huh, nn, unn, ha」
+
+//#sub "hs_11_144" 「ん、んぅっ、ん、うぅう、んずゅ」
+#sub "hs_11_144" 「Nn, huh, nn, unn, ha」
+
+//#sub "hs_11_145" 「ん、んぅっ、ん、うぅう、んずゅ」
+#sub "hs_11_145" 「Nn, huh, nn, unn, ha」
+
+//#sub "hs_11_146" 「ん、んぅっ、ん、うぅう、んずゅ」
+#sub "hs_11_146" 「Nn, huh, nn, unn, ha」
+
+//#sub "hs_11_147" 「ん、んぅっ、ん、うぅう、んずゅ」
+#sub "hs_11_147" 「Nn, huh, nn, unn, ha」
+
+//#sub "hs_11_148" 「（んふん……ふん……んっふ……ふん……ふぁ……）」
+#sub "hs_11_148" 「Hnn...umph...huh...urgh...ha」
+
+//#sub "hs_11_149" 「（んふん……ふん……んっふ……ふん……ふぁ……）」
+#sub "hs_11_149" 「Hnn...umph...huh...urgh...ha」
+
+//#sub "hs_11_150" 「（んふん……ふん……んっふ……ふん……ふぁ……）」
+#sub "hs_11_150" 「Hnn...umph...huh...urgh...ha」
+
+//#sub "hs_11_151" 「（むぁん……むふんっ……ぷもぉ）」
+#sub "hs_11_151" 「*gasp* ...mfuu...mfuu..」
+
+//#sub "hs_11_152" 「（むぁん……むふんっ……ぷもぉ）」
+#sub "hs_11_152" 「*gasp* ...mfuu...mfuu..」
+
+//#sub "hs_11_153" 「（むぁん……むふんっ……ぷもぉ）」
+#sub "hs_11_153" 「*gasp* ...mfuu...mfuu..」
+
+//#sub "hs_11_154" 「（んもぉ、おごっ、もねぇ、むもぉ）」
+#sub "hs_11_154" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+
+//#sub "hs_11_155" 「（んもぉ、おごっ、もねぇ、むもぉ）」
+#sub "hs_11_155" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+
+//#sub "hs_11_156" 「（んもぉ、おごっ、もねぇ、むもぉ）」
+#sub "hs_11_156" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+
+//#sub "hs_11_157" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
+#sub "hs_11_157" 「*slurp* (cum... in my mouth...) *drool*」
+
+//#sub "hs_11_158" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
+#sub "hs_11_158" 「*slurp* (cum... in my mouth...) *drool*」
+
+//#sub "hs_11_159" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
+#sub "hs_11_159" 「*slurp* (cum... in my mouth...) *drool*」
+
+//#sub "hs_11_160" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
+#sub "hs_11_160" 「*glug* (your cock is... in my mouth...) *gulp*」
+
+//#sub "hs_11_161" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
+#sub "hs_11_161" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+
+//#sub "hs_11_162" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
+#sub "hs_11_162" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+
+//#sub "hs_11_163" 「（んっ…おごっ…）」
+#sub "hs_11_163" 「Hmmm... *gulp*」
+
+//#sub "hs_11_164" 「（んっ…おごっ…）」
+#sub "hs_11_164" 「Hmmm... *gulp*」
+
+//#sub "hs_11_165" 「（んっ…おごっ…）」
+#sub "hs_11_165" 「Hmmm... *gulp*」
+
+//#sub "hs_11_166" 「（ちろ……ん、ちゅ……ちろろっ）」
+#sub "hs_11_166" 「*glance* ...slurp....mmmhmmm...」
+
+//#sub "hs_11_167" 「（ちろ……ん、ちゅ……ちろろっ）」
+#sub "hs_11_167" 「*glance* ...slurp....mmmhmmm...」
+
+//#sub "hs_11_168" 「（れろ……んん、ちゅる……）」
+#sub "hs_11_168" 「*slurp*  ...mmm... *suck*」
+
+//#sub "hs_11_169" 「（れろ……んん、ちゅる……）」
+#sub "hs_11_169" 「*slurp*  ...mmm... *suck*」
+
+//#sub "hs_11_170" 「（んっ、ちゅるっ、ぴちゅっ、ぺちゅ）」
+#sub "hs_11_170" 「Hmm, *slurp* mmm, *schlurp*」
+
+//#sub "hs_11_171" 「（んっ、ちゅるっ、ぴちゅっ、ぺちゅ）」
+#sub "hs_11_171" 「Hmm, *slurp* mmm, *schlurp*」
+
+//#sub "hs_11_172" 「（んっ、ちゅるっ、ぴちゅっ、ぺちゅ）」
+#sub "hs_11_172" 「Hmm, *slurp* mmm, *schlurp*」
+
+//#sub "hs_11_173" 「（んぅっ……ん……うぇ……ぐっ……んんっ……）」
+#sub "hs_11_173" 「Ah... ah... ah... haaa」
+
+//#sub "hs_11_174" 「（んぅっ……ん……うぇ……ぐっ……んんっ……）」
+#sub "hs_11_174" 「Ah... ah... ah... haaa」
+
+//#sub "hs_11_175" 「（ふぐっ！んっ！えぅっ！…）」
+#sub "hs_11_175" 「Huh! Ah! Mmm!」
+
+//#sub "hs_11_176" 「（ふぐっ！んっ！えぅっ！…）」
+#sub "hs_11_176" 「Huh! Ah! Mmm!」
+
+//#sub "hs_11_177" 「（ふぐっ！んっ！えぅっ！…）」
+#sub "hs_11_177" 「Huh! Ah! Mmm!」
+
+//#sub "hs_11_178" 「（ふぐっ！んっ！えぅっ！…）」
+#sub "hs_11_178" 「Huh! Ah! Mmm!」
+
+//#sub "hs_11_179" 「（んもぉ、おごっ、もねぇ、むもぉ）」
+#sub "hs_11_179" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+
+//#sub "hs_11_180" 「（んもぉ、おごっ、もねぇ、むもぉ）」
+#sub "hs_11_180" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+
+//#sub "hs_11_181" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
+#sub "hs_11_181" 「*slurp* (cum... in my mouth...) *drool*」
+
+//#sub "hs_11_182" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
+#sub "hs_11_182" 「*slurp* (cum... in my mouth...) *drool*」
+
+//#sub "hs_11_183" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
+#sub "hs_11_183" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+
+//#sub "hs_11_184" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
+#sub "hs_11_184" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+
+//#sub "hs_11_185" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
+#sub "hs_11_185" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+
+//#sub "hs_11_186" 「（んぅっ……ん……うぇ……ぐっ……んんっ……）」
+#sub "hs_11_186" 「Ah... ah... ah... haaa」
+
+//#sub "hs_11_187" 「（んぅっ……ん……うぇ……ぐっ……んんっ……）」
+#sub "hs_11_187" 「Ah... ah... ah... haaa」
+
+//#sub "hs_11_188" 「（ふぐっ！んっ！えぅっ！…）」
+#sub "hs_11_188" 「Huh! Ah! Mmm!」
+
+//#sub "hs_11_189" 「（ふぐっ！んっ！えぅっ！…）」
+#sub "hs_11_189" 「Huh! Ah! Mmm!」
+
+//#sub "hs_11_190" 「（ふぐっ！んっ！えぅっ！…）」
+#sub "hs_11_190" 「Huh! Ah! Mmm!」
+
+//#sub "hs_11_191" 「（ふぐっ！んっ！えぅっ！…）」
+#sub "hs_11_191" 「Huh! Ah! Mmm!」
+
+//#sub "hs_11_192" 「ふはぁぁ……はぁあ……はひ……あは……あはぁ……ぁは……」
+#sub "hs_11_192" 「Ahaaa... ah... ah... ah... haaaa...」
+
+//#sub "hs_11_193" 「ひはぁ……はぁあ……はひ……あは……あはぁ……ぁは……」
+#sub "hs_11_193" 「Ahaaa... ah... ah... ah... haaaa...」
+
+//#sub "hs_11_194" 「んやぁ…ふあぁ…んんぅ……あぁ…」
+#sub "hs_11_194" 「Kyaa! fua... ah... ha...  」
+
+//#sub "hs_11_195" 「あはぁ…あ、あぁ……ん、んん…」
+#sub "hs_11_195" 「Ooooa! mmmmhmmmm... mmm...」
+
+//#sub "hs_11_196" 「んっく！う……あ……あ゛ぁ……やぁ……」
+#sub "hs_11_196" 「Uhhh! You... your... your cock...」
+
+//#sub "hs_11_197" 「んぁっ！？やぁ……んぁ……うくぅ……」
+#sub "hs_11_197" 「Uhh!? huh... huh... *sigh*」
+
+//#sub "hs_11_198" 「んあぁぁっ……あっ……あっ……」
+#sub "hs_11_198" 「Ahhh ah ah」
+
+//#sub "hs_11_199" 「んぁ…あぁ…ぁ」
+#sub "hs_11_199" 「Aaaagh」
+
+//#sub "hs_11_200" 「はぁ…んふぅ……あぁ…」
+#sub "hs_11_200" 「Mmmm ah ha...」
+
+//#sub "hs_11_201" 「（んんぶぅ！！んん…んぉ……んぶ…へぁ……んふ）」
+#sub "hs_11_201" 「Mmmmmm!!! *slurp*」
+
+//#sub "hs_11_202" 「（んぐんん！！んぁ…んん……んふぅ……ぁ……むふん）」
+#sub "hs_11_202" 「Mmmmmm!!! *ssluurrp*」
+
+//#sub "hs_11_203" 「（んふぅぅっ！！
+#sub "hs_11_203" ""Huhuu!
+
+//#sub "hs_11_204" 「（ふぶぅぅっ！！んく……んく……んふっ……んんぅ……んぐっんぐっ……）」
+#sub "hs_11_204" 「Mmmmmmhmm...!! *puff pant*」
+
+//#sub "hs_11_205" 「（んぐぅ…んん…ぅ）」
+#sub "hs_11_205" 「*gasp*」
+
+//#sub "hs_11_206" 「（むぅう…んふぅ……ん…）」
+#sub "hs_11_206" 「*shriek*」
+
+//#sub "hs_11_207" 「あっああぁぁぁぁ―――――っ！ふぁっ、っぅぐ……っんぁ！……」
+#sub "hs_11_207" 「Ahhhaaaaa..........!!! Ffffu... ha.... huh...」
+
+//#sub "hs_11_208" 「ひあっ！！―――――っ―――――っ……っあ！っあ！っあ……」
+#sub "hs_11_208" 「Aiyaaaa!!.............Ah!...ah....ah...」
+
+//#sub "hs_11_209" 「んくうぅぅぅぅぅぅ～～～～～っ！！！……んんっ！……んっんっ……」
+#sub "hs_11_209" 「Aiyaaaa!!.............Ah!...ah....ah...」
+
+//#sub "hs_11_210" 「ん゛ん゛ん゛ん゛っっっ～～～～～～～～～～っ！！！……んくぅっ……」
+#sub "hs_11_210" 「Ah, ah aaaaaagh........!!! *Gasp*」
+
+//#sub "hs_11_211" 「はぁひぃっっ～～～～！！！！いひぃっあ゛ぁぁぁぁぁ～～～～～っ！！！！」
+#sub "hs_11_211" 「Mmmmmhmmm.......!!Aaaahhh....!!」
+
+//#sub "hs_11_212" 「うぁはぁぁぁぁぁっ―――――っ！！！、あはっあはっあはっぬはぁ！おほ、おぉ゛ーっ」
+#sub "hs_11_212" 「Ahaaahehe.....!! ehehehehe! ehehehe...」
+
+//#sub "hs_11_213" 「うぅぅぅ～～～～！！！！ひんっぐぅぅ～～～～～っ！！！！」
+#sub "hs_11_213" 「Eyaaa.....!!!Aaaah.......」
+
+//#sub "hs_11_214" 「んはぁぁぁぁぁっ―――――っ！！！うっうっうっうぎぃ・・」
+#sub "hs_11_214" 「Aaaaaaaghhhh.......!!! *moan*」
+
+//#sub "hs_11_215" 「あっああぁぁぁぁ―――――っ！ふぁっ、っぅぐ……っんぁ！……」
+#sub "hs_11_215" 「Kyaaaa....!!! *puff pant*」
+
+//#sub "hs_11_216" 「んはぁぁぁぁぁっ―――――っ！！！うっうっうっうぎぃ・・」
+#sub "hs_11_216" 「Aaaaaaaghhhh.......!!! *moan*」
+
+//#sub "hs_11_217" 「あっああぁぁぁぁ―――――っ！ふぁっ、っぅぐ……っんぁ！……」
+#sub "hs_11_217" 「Kyaaaa....!!! *puff pant*」
+
+//#sub "hs_11_218" 「んはぁぁぁぁぁっ―――――っ！！！うっうっうっうぎぃ・・」
+#sub "hs_11_218" 「Aaaaaaaghhhh.......!!! *moan*」
+
+//#sub "hs_11_219" 「（んふううぅぅ―っ、ん、んぅぅ…！）」
+#sub "hs_11_219" 「Mmmmmmmmmmm!! huh...」
+
+//#sub "hs_11_220" 「（んむうううぅぅ―っ、ん、んぐぅぅ…！）」
+#sub "hs_11_220" 「Mmmmmmmmmmm!! huh...」
+
+//#sub "hs_11_221" 「（んっ…ふぅ…うぅ…）」
+#sub "hs_11_221" 「Mmmm...uh...uh」
+
+//#sub "hs_11_222" 「（んむぅ…ん、んぐぅ…）」
+#sub "hs_11_222" 「Hmmmm...ugh...」
+
+//#sub "hs_11_223" 「（ん゛ぶうぅぅ～～～～～～っ！！！……んぐっ！……んっ！）」
+#sub "hs_11_223" 「Ahaaaa!!!! Agh! Ah! ah....」
+
+//#sub "hs_11_224" 「（おぶ、うぅぅ～～～～～～っ！！！ふぶっ、んんぉ……）」
+#sub "hs_11_224" 「Ahaaaa!!!! Agh! Ah! ah....」
+
+//#sub "hs_11_225" 「（むぐぅ…むぅう、うぅ…）」
+#sub "hs_11_225" 「Ahhh ah ah」
+
+//#sub "hs_11_226" 「（ん、んふぅ……んむぅ…）」
+#sub "hs_11_226" 「Ahhh ah ah」
+
+//#sub "hs_11_227" お兄さん、優しくしてね
+#sub "hs_11_227" Please Onii-san, be gentle
+
+//#sub "hs_11_228" お兄さんにお任せしちゃうね
+#sub "hs_11_228" I will leave it to you Onii-san
+
+//#sub "hs_11_229" お兄さん、一緒に気持ちよくなりたいね
+#sub "hs_11_229" Onii-san, I want to cum together
+
+//#sub "hs_11_230" 一緒に、楽しい時間にしたいね！
+#sub "hs_11_230" Let's have some fun
+
+//#sub "hs_11_231" なんだか、ドキドキする
+#sub "hs_11_231" Oh it pounds...
+
+//#sub "hs_11_232" 変なの、ちょっと緊張しちゃうね
+#sub "hs_11_232" It's weird I'm a bit nervous
+
+//#sub "hs_11_233" お兄さん、よろしくね
+#sub "hs_11_233" Onii-san, please.
+
+//#sub "hs_11_234" おっぱいが、ちょっと苦しいけど…全然、嫌じゃない
+#sub "hs_11_234" Breasts are a little bit sensitive, but... it doesn't bother me at all
+
+//#sub "hs_11_235" やっぱり…ちょっと緊張しちゃうね…
+#sub "hs_11_235" I'm a bit nervous...
+
+//#sub "hs_11_236" 私ね、キスとかして欲しいねぇ
+#sub "hs_11_236" I don't want to kiss you
+
+//#sub "hs_11_237" よろしくね、お兄さん！　期待してるからね！
+#sub "hs_11_237" Hello Onii-san!  I was expecting you!
+
+//#sub "hs_11_238" お兄さんに、たくさん気持ちよくしてもらいたいなぁ！
+#sub "hs_11_238" I want my Onii-san to have lots of fun!
+
+//#sub "hs_11_239" お兄さんとエッチして、いっぱい気持ちよくなりたいなぁ！
+#sub "hs_11_239" I'd like to really enjoy myself with my Onii-san!
+
+//#sub "hs_11_240" お兄さん…早く、エッチしちゃおうよ、ね！
+#sub "hs_11_240" Onii-san... hurry!
+
+//#sub "hs_11_241" お兄さんとだったら、絶対気持ちよくなれるって、私、信じてるからね！
+#sub "hs_11_241" When I'm with you Onii-san, it really makes me feel good!
+
+//#sub "hs_11_242" それじゃあ、思いっきりエッチしちゃおうね！　お兄さんの事、信頼してるから、よろしくね！
+#sub "hs_11_242" Well then, let's be awesome together!  I trust you baby, so please take all the time you want!
+
+//#sub "hs_11_243" あんまり、その気ないんだけど
+#sub "hs_11_243" Not much, but I don't care
+
+//#sub "hs_11_244" 気分が乗らないんだけど
+#sub "hs_11_244" I don't feel like it.
+
+//#sub "hs_11_245" あんまりやる気、ないと思う
+#sub "hs_11_245" I'm not really into it, I do not think so.
+
+//#sub "hs_11_246" あんまり楽しめないと思う
+#sub "hs_11_246" I don't think I'll enjoy this much
+
+//#sub "hs_11_247" 別に、一緒にいたくないかなぁ
+#sub "hs_11_247" I do wonder if I want to be with you
+
+//#sub "hs_11_248" もう帰りたいんだけど
+#sub "hs_11_248" I already want to go home
+
+//#sub "hs_11_249" お任せです！　私がんばっちゃいますよ、お兄さん！
+#sub "hs_11_249" You can be in charge, but I'm doing my very best, Onii-san!
+
+//#sub "hs_11_250" 私がお兄さんを気持ちよくしちゃいます！　よろしくです！
+#sub "hs_11_250" I will make my Onii-san feel good!  It's so nice of you to drop by!
+
+//#sub "hs_11_251" 大丈夫ですよ！　私ががんばってお兄さんを喜ばしちゃいますからね
+#sub "hs_11_251" No problem!  I will try my hardest to please my Onii-san
+
+//#sub "hs_11_252" 二人でいっぱいエッチしましょうね！　私、張り切っちゃいますよ
+#sub "hs_11_252" Let's fuck baby!  It'll be great
+
+//#sub "hs_11_253" お兄さんの事、いっぱい気持ちよくしちゃいますよ、お任せあれぇ！
+#sub "hs_11_253" I will make you feel VERY good Onii-san, leave it to me!
+
+//#sub "hs_11_254" 大丈夫です！　がんばって、お兄さんのご期待に応えちゃいますよぉ！
+#sub "hs_11_254" It's okay!  Let's just do our best, I swear I will meet your expectations!
+
+//#sub "hs_11_255" お、お兄さん、すぐに続けるのは、待ってよぉ
+#sub "hs_11_255" Oh, Onii-san, I will keep all my promises to you, just you wait
+
+//#sub "hs_11_256" 連続は、ちょっときついってばぁ
+#sub "hs_11_256" I'm sorry, I'm still a little tight.
+
+//#sub "hs_11_257" またすぐに始めちゃうのぉ？　疲れちゃうんじゃないの？
+#sub "hs_11_257" We're going again?  Are you not exhausted?
+
+//#sub "hs_11_258" お兄さん、もう続けられるんだ？　すごいね
+#sub "hs_11_258" Oh Onii-san, you're still going?  You're amazing
+
+//#sub "hs_11_259" 私、ちょっと休みたかったんだけど、まぁいいか！
+#sub "hs_11_259" I want to take a break for a while, OK?
+
+//#sub "hs_11_260" 本当にすぐ続けちゃうのぉ？　私、まだ感覚が…
+#sub "hs_11_260" Are you really going again?  I'm still shaking...
+
+//#sub "hs_11_261" えっと、待ってよぉ…少し休ませてよぉ！
+#sub "hs_11_261" Well, wait a minute... let me rest a while!
+
+//#sub "hs_11_262" お兄さん、回復力ありすぎなんじゃないの？
+#sub "hs_11_262" Onii-san, you're got more stamina than me...
+
+//#sub "hs_11_263" お兄さん、続けるの早すぎ！　少しくらい休めばいいのにぃ
+#sub "hs_11_263" Onii-san, it is too early to continue!  I wish I could take a little rest.
+
+//#sub "hs_11_264" さすがお兄さん、連続でできちゃう体力、大好きかも！
+#sub "hs_11_264" Just as I thought Onii-san, you just keep going, Oh I love you!
+
+//#sub "hs_11_265" お兄さんがんばっちゃうね！　私だって負けてられないね！
+#sub "hs_11_265" I'm giving my best today Onii-san!  You won't out-fuck me!
+
+//#sub "hs_11_266" いいよ！　私は続けても全然OKだからね…うふふ
+#sub "hs_11_266" OK!  Even if I do go on, it is OK...  Uh, naah...
+
+//#sub "hs_11_267" 私、お兄さんだったら、続けてできるって思ってた…！
+#sub "hs_11_267" Because we're family I thought I could just keep going...!
+
+//#sub "hs_11_268" 大丈夫だよ、お兄さん！　もっといっぱい続けていいから！
+#sub "hs_11_268" It's all right, Onii-san!  You can keep going i can take a lot more!
+
+//#sub "hs_11_269" まだまだできちゃうんなんて、すごいね！　もっと気持ちよくしてねぇ！
+#sub "hs_11_269" It is amazing how you can do it!  Please call it quits already!
+
+//#sub "hs_11_270" まだ続ける気なの？
+#sub "hs_11_270" Do you still want to keep going?
+
+//#sub "hs_11_271" いや、もうやめてよ！
+#sub "hs_11_271" No, stop it!
+
+//#sub "hs_11_272" やめて・・もう終わってよ・・
+#sub "hs_11_272" Stop it... end it already...
+
+//#sub "hs_11_273" 疲れてるから、終わりにして・・
+#sub "hs_11_273" I am tired, so please get to the end...
+
+//#sub "hs_11_274" いや・・もうやめてよ・・・
+#sub "hs_11_274" No... stop it already...
+
+//#sub "hs_11_275" もう、やめて・・休みたいのよ
+#sub "hs_11_275" Stop already... I'm going to need tomorrow off...
+
+//#sub "hs_11_276" まだ続けるんですか？　さすがお兄さん、すごいですね
+#sub "hs_11_276" Are you still going on?  As expected, my Onii-san is incredible
+
+//#sub "hs_11_277" まだ続けるんですか？　き、きついけど、がんばります
+#sub "hs_11_277" Are you still going on?  I'm very tight, but I will do my best.
+
+//#sub "hs_11_278" あの…休まないんですか？　だったら、私もがんばります、
+#sub "hs_11_278" Um, are not you resting?  Well, I will do my best too, then
+
+//#sub "hs_11_279" お兄さん、続けちゃうんですね？　もちろん、私もできちゃいますよ、多分
+#sub "hs_11_279" Does my Onii-san want to keep going?  Of course I can do it too, probably
+
+//#sub "hs_11_280" まだ続けるんですか？　わ、私はいいけど…お兄さんの体力が心配…
+#sub "hs_11_280" Are you still going on?  I'm fine, but I am worried you'll give out soon Onii-san...
+
+//#sub "hs_11_281" すぐに、続けちゃうんですか？　さすがお兄さん、回復力すごい…
+#sub "hs_11_281" Will you continue soon? Truly Onii-san, your stamina is amazing...
+
+//#sub "hs_11_282" はぁはぁ、もうらめ・・もう壊れちゃうからぁぅ・・
+#sub "hs_11_282" Ha ha, buddy... You'll break me...
+
+//#sub "hs_11_283" まっれっよぉ・・・もうむり・・・らめへぇ・・
+#sub "hs_11_283" For sure · · · This is already not right · · ·  · · ·
+
+//#sub "hs_11_284" はぁ、はぁ、はぁ、くりゅしい、もう、くりゅしぃのぉ
+#sub "hs_11_284" Haa, ha, ha, already, Kurisui
+
+//#sub "hs_11_285" もうりゃめへぇ、おかひくなひゃうからぁ・・
+#sub "hs_11_285" Too bad, okay?
+
+//#sub "hs_11_286" らめぇ、きもち゛ひい、きもちひいぃからぁ・・！！
+#sub "hs_11_286" Nnngh, it feels so good, wow! It feels soooooo good Hiiighhhng  Oh yes!
+
+//#sub "hs_11_287" こんなに、きもひよしゅぎて、こわれ、ひゃうぅ…！
+#sub "hs_11_287" Punish me, break me, make me suffer!
+
+//#sub "hs_11_288" もうらめぇ、　もうむり・・こりぇいりょうはぁ、おかひくなるぅ…
+#sub "hs_11_288" Let's give it up, I'm already exhausted... Unngh, you know, it will be okay...
+
+//#sub "hs_11_289" もっほぉ…は、はげひくひれ、ほしいのぉ…！！
+#sub "hs_11_289" You...... I want to..., oh...!  Oh yess!
+
+//#sub "hs_11_290" いいのぉ…もぉっろ、いっぱい…きもひよくひてぇ…
+#sub "hs_11_290" Okay... oh well... so many... too many...
+
+//#sub "hs_11_291" しゅごい、いい、きもちよくて、むひゃくひゃになっひゃうぅ！！
+#sub "hs_11_291" Good, nice, oh fuck yes, oh god!  Oh yesss!
+
+//#sub "hs_11_292" こ、こんにゃにょいやぁ・・・・もうやめへぇ…
+#sub "hs_11_292" Thank you, but...... I will stop...
+
+//#sub "hs_11_293" りゃめて、もうおかひくなっひゃう！
+#sub "hs_11_293" Ohh baby... will you cum? I need it in me!
+
+//#sub "hs_11_294" もうひやなのぉ、もうひゃめてぇ！！
+#sub "hs_11_294" Happy already
+
+//#sub "hs_11_295" しゅごぉいですよぉ、きもちおよくなっちゃてまふぅ
+#sub "hs_11_295" Ohhh this is okay, you feel great
+
+//#sub "hs_11_296" はぁ、はぁ、もうらめれすぅ、かららがおかひくなってまふぅ…
+#sub "hs_11_296" Haa, haa, I'm going to be wrecked, I'm floating...
+
+//#sub "hs_11_297" らめれすよぉぇ…もうおかひいですからぁ…
+#sub "hs_11_297" Let's do it hard baby... We've got a long night ahead of us...
+
+//#sub "hs_11_298" あは、あはは、きもひぃねぇ・・・あはは・・・しゅごいきもりひぃ・・
+#sub "hs_11_298" Ah, ahahaha, feels nice hee hee...
+
+//#sub "hs_11_299" きもひよふってぇ…もう、なんれもいいのぉ…あははは
+#sub "hs_11_299" Yes baby, anything is okay... Haha
+
+//#sub "hs_11_300" ・・あはは・・もっろぉ・・・・ひっぱい・・・きもひよくひてぇ・・・あははは・・
+#sub "hs_11_300" · · Haha, Hello... 
+
+//#sub "hs_11_301" もう、きもひよふぎて・・・おかしいのぉ・・・あはは・・
+#sub "hs_11_301" Already...... It's funny... aha...
+
+//#sub "hs_11_302" なんだか、慣れてきたみたい
+#sub "hs_11_302" Hehe... it seems I'm getting used to this
+
+//#sub "hs_11_303" いいよ、ちょっとぐらい激しくても…大丈夫だと思うよ
+#sub "hs_11_303" Okay, this is a little intense... but I am okay with that
+
+//#sub "hs_11_304" 前より、ちょっと慣れてきた気がする
+#sub "hs_11_304" I think I'm getting used to a bit more
+
+//#sub "hs_11_305" 前より、感じやすくなってきたかも
+#sub "hs_11_305" It may be easier to feel than before
+
+//#sub "hs_11_306" ちょっと、前より感じるようになってきたみたい…お兄さんのおかげかな
+#sub "hs_11_306" That feels really nice...and it's thanks to my Onii-san
+
+//#sub "hs_11_307" お兄さんのおかげで、全然楽になってきたよ
+#sub "hs_11_307" Thanks to my Onii-san, it's easy for me to have sex.
+
+//#sub "hs_11_308" なんだか、前より感じやすくなってるかも…お兄さんが相手だからかな？
+#sub "hs_11_308" I think it's easier to have sex since you came along... Are you my boyfriend, Onii-san?
+
+//#sub "hs_11_309" 最近、エッチに慣れてきた気がするんだよね…お兄さんのおかげだよ
+#sub "hs_11_309" Lately I feel like I'm getting used to sex... I owe it to my Onii-san
+
+//#sub "hs_11_310" お兄さんが気持ちよくしてくれるから感じ易くなってきたかも
+#sub "hs_11_310" It may be easier to have sex because my Onii-san makes it good
+
+//#sub "hs_11_311" お兄さんとエッチしてるから…なんだかエッチに慣れてきちゃったみたい…あはは
+#sub "hs_11_311" Because I'm hanging out with my Onii-san... It seems that somehow I got used to fucking... haha
+
+//#sub "hs_11_312" 私、お兄さんの所為で、すっごくエッチな体になってきちゃった…責任とってね？
+#sub "hs_11_312" You've turned your little sister into quite the slut Onii-san *grin*
+
+//#sub "hs_11_313" お兄さんが私にエッチな事ばっかりするから、体までエッチになってきちゃった…うふふ
+#sub "hs_11_313" Because my Onii-san wants me so much, I am getting fucked... Uufu
+
+//#sub "hs_11_314" お兄さんのおかげで、前よりいっぱい感じる体になったみたい…うふふ
+#sub "hs_11_314" Thanks to my Onii-san, I feel a lot sexier than before......
+
+//#sub "hs_11_315" お兄さんのおかげでエッチに慣れてきたから、もっとエッチな事期待していい？
+#sub "hs_11_315" I am used to fucking thanks to my Onii-san, so can we try other dirty stuff?
+
+//#sub "hs_11_316" 私、前より感じ易くなってるから、もっと感じさせてね、お兄さん
+#sub "hs_11_316" Oh, I like it that way, give me more, Onii-san
+
+//#sub "hs_11_317" 私、お兄さんといっぱいエッチしちゃったから、前より感じ易くなっちゃったみたい…うふふ
+#sub "hs_11_317" I, I did a lot of things with my Onii-san, now it seems I feel a lot better than before... Uhufu
+
+//#sub "hs_11_318" 好きにすればいいじゃん
+#sub "hs_11_318" You should love it.
+
+//#sub "hs_11_319" 別に、何でもいいけどね
+#sub "hs_11_319" Anything is fine
+
+//#sub "hs_11_320" 拒否してもいいの？　ならするけど
+#sub "hs_11_320" Can I refuse?  I will
+
+//#sub "hs_11_321" なんか、もういいかな
+#sub "hs_11_321" I wish it were different
+
+//#sub "hs_11_322" あんまり…やりたくないんだけど
+#sub "hs_11_322" Not much... I do not want to do it
+
+//#sub "hs_11_323" 何度やっても、こういうの好きになれない　
+#sub "hs_11_323" No matter how many times you ask, I won't like this
+
+//#sub "hs_11_324" 私に任せて下さい！　結構慣れてきたから大丈夫ですよぉ！
+#sub "hs_11_324" Please leave it to me!  I'm fine as I get used to it pretty quickly!
+
+//#sub "hs_11_325" 大丈夫です！　慣れてきたから、もっとがんばっちゃいますよ
+#sub "hs_11_325" It's okay!  I'm getting used to all this, so I will do my best
+
+//#sub "hs_11_326" 私、エッチするのに慣れてきたみたいです…だから、もっと激しくても大丈夫ですよ
+#sub "hs_11_326" I seem to have gotten used to sex...... so it's okay, you can do it harder...
+
+//#sub "hs_11_327" 任せて下さい！　エッチに慣れた私が、すごいテクとか使える気がします！
+#sub "hs_11_327" Please let me do it! I feel like my technique is improving!
+
+//#sub "hs_11_328" エッチに慣れた私が、いっぱい感じさせてあげます！　多分
+#sub "hs_11_328" I'm starting to get a lot better at this, let me show you, I'll make you cum so hard!
+
+//#sub "hs_11_329" 私、お兄さんとエッチするの、結構慣れてきたから、もっとすごい事しちゃう気でいますよ！
+#sub "hs_11_329" I'm going to fuck my Onii-san, I'm getting very good, so I'm going to do awesome things to you!
+
+//#sub "hs_11_330" うん、続けてもいけるかな
+#sub "hs_11_330" Yeah, I wonder if I can continue.
+
+//#sub "hs_11_331" 続けてしても、大丈夫だと思うよ…慣れてきたし
+#sub "hs_11_331" It should be fine if we keep going... I'm getting used to it
+
+//#sub "hs_11_332" まだ続けるの？　私は大丈夫だけどね
+#sub "hs_11_332" Still going? It's okay...but I'd rather just hold you.
+
+//#sub "hs_11_333" いいよ、そのまま続けて
+#sub "hs_11_333" OK, keep going
+
+//#sub "hs_11_334" 大丈夫、続けてできちゃうから
+#sub "hs_11_334" All right, I can keep going
+
+//#sub "hs_11_335" 慣れてきたから…続けても大丈夫だよ
+#sub "hs_11_335" Because you feel so good inside me... I do not mind continuing
+
+//#sub "hs_11_336" うん、すぐに続けても、大丈夫みたい
+#sub "hs_11_336" Yeah, it's okay if you want to keep going. I can go a little more.
+
+//#sub "hs_11_337" いいね、私も、もっと続けて欲しいって思ってたんだよねぇ
+#sub "hs_11_337" Like, keep going...I want more.
+
+//#sub "hs_11_338" お兄さんのおかげで、続けても、すぐに気持ちよくなっちゃいそう！
+#sub "hs_11_338" As long as it's with you, Onii-san, I don't ever want to stop!
+
+//#sub "hs_11_339" まだまだ続けても大丈夫！　もっと感じさせてね
+#sub "hs_11_339" Is it okay if you give me more? I still want you inside me.
+
+//#sub "hs_11_340" 私も、お兄さんともっともっとエッチしてたいなぁ…うふふ
+#sub "hs_11_340" I want more from my Onii-san... Uufu
+
+//#sub "hs_11_341" なんで、まだ続けるの？・・
+#sub "hs_11_341" Why are you still going on?  · · ·
+
+//#sub "hs_11_342" もう…終わったら？
+#sub "hs_11_342" Is it over...?
+
+//#sub "hs_11_343" もう、続けないで欲しいんだけど
+#sub "hs_11_343" Let's stop this
+
+//#sub "hs_11_344" あんまり…続けて欲しくないから…
+#sub "hs_11_344" Jeez, will you stop already...
+
+//#sub "hs_11_345" 続けるんですね？　今なら全然問題ないですよぉ！
+#sub "hs_11_345" You're still hard?  Now there is no problem at all!
+
+//#sub "hs_11_346" 私は、慣れてきたから連続でも全然いけます
+#sub "hs_11_346" I have got used to it, so I can get it all at once.
+
+//#sub "hs_11_347" お兄さんが続けたいなら、もっとがんばちゃいますよ！
+#sub "hs_11_347" If my Onii-san wants to continue, I will do my best to please him!
+
+//#sub "hs_11_348" 大丈夫です、もっと続けてもいいですよ！
+#sub "hs_11_348" Come on, give me more.
+
+//#sub "hs_11_349" そんなにおっぱいばっかり見ないでよ
+#sub "hs_11_349" God, stop staring at my tits...my eyes are up here, you know?
+
+//#sub "hs_11_350" そんなにおっぱいばっかり見られたら、ちょっと恥ずかしいってば
+#sub "hs_11_350" You're just looking my boobs, stop it, it's a bit embarrassing
+
+//#sub "hs_11_351" 私のおっぱい…気に入ったの？　なんか、嬉しいかも
+#sub "hs_11_351" My boobs... did you like them?  I'd be happy if you did!
+
+//#sub "hs_11_352" そんなにおっぱいばっかり見られたら…やっぱり恥ずかしいってば
+#sub "hs_11_352" Why are you just looking at my tits all the time... it's embarrassing
+
+//#sub "hs_11_353" それじゃ、お兄さんの技で、おっぱい、いっぱい感じさせてね！
+#sub "hs_11_353" I feel so sexy when I'm with you Onii-san, only you!
+
+//#sub "hs_11_354" 私のおっぱい、お兄さんに気持ちよくしてもらいたいのぉ！　よろしくね！
+#sub "hs_11_354" My tits, yeah-- I want my Onii-san to feel good!
+
+//#sub "hs_11_355" おっぱい、じっと見ないで
+#sub "hs_11_355" The stop looking at my boobs, dude.
+
+//#sub "hs_11_356" おっぱいに変な事しないでよね
+#sub "hs_11_356" Don't be a stranger to my tits! They're right here, ya know?
+
+//#sub "hs_11_357" どうぞ、私のおっぱい触ってくださいね…ついでに気持ちよくしてもらえたら最高でぇす！
+#sub "hs_11_357" Please, please touch my breasts... you will like them, I promise
+
+//#sub "hs_11_358" いいですよぉ！　おっぱい、思いっきり触りまくってくださいねぇ！
+#sub "hs_11_358" That feels good! Come on, rough them up a bit!
+
+//#sub "hs_11_359" あそこは…優しく触ってね
+#sub "hs_11_359" Right here... touch it gently
+
+//#sub "hs_11_360" あんまり、強くしないでね
+#sub "hs_11_360" You're so strong! Be easy with me.
+
+//#sub "hs_11_361" そんなに見ないでよ、恥ずかしいでしょ、もう！
+#sub "hs_11_361" Do not look so much, it's embarrassing!
+
+//#sub "hs_11_362" だめ…そんなにじっと見られたら、変な感じになっちゃう
+#sub "hs_11_362" Wow dude, It's kinda wierd you want to stare at your little sister so much...
+
+//#sub "hs_11_363" そこ…優しくしてくれたら、嬉しいなぁ
+#sub "hs_11_363" There... be gentle...it's kind of sensitive
+
+//#sub "hs_11_364" お兄さんに…そこ…触られるって思ったら…なんか、熱くなってきちゃう
+#sub "hs_11_364" Onii-san... There...I think you found my spot... I'm staring to get really wet!
+
+//#sub "hs_11_365" お兄さん…そこぉ…思いっきり感じさせてね！
+#sub "hs_11_365" Onii-san... there... please let me feel it all!
+
+//#sub "hs_11_366" お兄さぁん！　見ててもいいけど、早く気持ちよくしてよぉ！
+#sub "hs_11_366" Onii-san!  You may watch, but please cum soon!
+
+//#sub "hs_11_367" 焦らさないで、早く触ってほしいなぁ…ね、お兄さん！
+#sub "hs_11_367" Be a little patient, you can touch me soon enough... you're my Onii-san after all!
+
+//#sub "hs_11_368" どこ見てるのよ
+#sub "hs_11_368" Hey! What are you looking at?
+
+//#sub "hs_11_369" そんな所、見ないでよ
+#sub "hs_11_369" Don't look at me like that.
+
+//#sub "hs_11_370" そこに…変な事しないで！
+#sub "hs_11_370" C'mon... don't be weird
+
+//#sub "hs_11_371" あの、見てるだけなんですか？　触ってもいいですよ
+#sub "hs_11_371" Um, why are you just looking at me?  You can touch it, too, ya know?
+
+//#sub "hs_11_372" そこ、触って大丈夫です…お兄さんの事、信頼してます
+#sub "hs_11_372" It's okay for you to touch me there... I trust my Onii-san
+
+//#sub "hs_11_373" 好きに触っていいですよ…大丈夫、お任せしちゃいます
+#sub "hs_11_373" You can touch whatever you like... okay?
+
+//#sub "hs_11_374" お尻は、あんまり変な事しないでね
+#sub "hs_11_374" Don't do weird stuff with my butt
+
+//#sub "hs_11_375" やっぱり、お尻は、ちょっと恥ずかしいかも
+#sub "hs_11_375" It's a bit embarrassing when you put it in my ass like that...
+
+//#sub "hs_11_376" お尻ばっかり見ないで…なんか、恥ずかしいよ
+#sub "hs_11_376" Stop staring at my ass... It's embarrassing
+
+//#sub "hs_11_377" お兄さんが、お尻好きなら…別にいいけど
+#sub "hs_11_377" If my Onii-san loves my ass so much...
+
+//#sub "hs_11_378" あの、あんまりお尻で無茶しないでね…まぁ、ちょっとだけならいいけど
+#sub "hs_11_378" Um, do not be so weird with my ass... well, maybe... if only a little bit...
+
+//#sub "hs_11_379" お尻…あんまり変な事しないでね…よろしくね、お兄さん
+#sub "hs_11_379" Don't do anything weird with my ass Onii-san
+
+//#sub "hs_11_380" お兄さん、おねがぁい…私のお尻、いっぱい気持ちよくしてぇ！
+#sub "hs_11_380" Onii-san, my butt, please make it feel good!
+
+//#sub "hs_11_381" お兄さんにぃ…私のお尻、お任せしちゃうから…！
+#sub "hs_11_381" My Onii-san... my ass, it belongs only to you!
+
+//#sub "hs_11_382" お尻、いっぱい感じさせてね！　期待してるから　
+#sub "hs_11_382" I'm expecting that you're going to fuck my ass real good, okay?
+
+//#sub "hs_11_383" お尻、見ないでよ！
+#sub "hs_11_383" God! stop looking at my ass, you perv! I'm your little sister!
+
+//#sub "hs_11_384" ちょっと、お尻に変な事しないでよ
+#sub "hs_11_384" It's okay if you do it just a little, but don't be weird to my ass.
+
+//#sub "hs_11_385" そんなに、お尻ばっかり、見ないで！
+#sub "hs_11_385" Just fuck it, but don't look at me when it's in my butt, you're my Onii-san after all...
+
+//#sub "hs_11_386" いいですよ、私のお尻、お兄さんの好きにしてください…でも、普通ぐらいでお願いします
+#sub "hs_11_386" It's okay, please enjoy my ass, Onii-san... but please do it, uh, normally I guess?
+
+//#sub "hs_11_387" お尻、触りたいなら触っていいですよ…あんまり、無茶はダメですけど
+#sub "hs_11_387" You can touch my butt if you want to touch... but too much, and no tea for you!
+
+//#sub "hs_11_388" お兄さん、私のお尻で遊びたいなら、どうぞ！　でも、一応普通な感じだと嬉しいです
+#sub "hs_11_388" Onii-san, if you want to play with my butt, please, go right ahead! I'm just glad that it doesn't hurt anymore.
+
+//#sub "hs_11_389" うそでしょ？　私こんなの無理だってばぁ！　
+#sub "hs_11_389" You must be kidding? I don't think I can even do this! Pffft, Whatever...
+
+//#sub "hs_11_390" いくらお兄さんが相手でも…痛いのはちょっと怖いかなぁ
+#sub "hs_11_390" How mean do you have to be to me, Onii-san... It is a bit scary...
+
+//#sub "hs_11_391" こういうの、気持ちよくなるのって難しいんじゃないの？　お兄さん、大丈夫？
+#sub "hs_11_391" Is it so hard to just let me feel good?  Onii-san, are you all right?
+
+//#sub "hs_11_392" 私、こんなの嫌なんだけど！
+#sub "hs_11_392" I hate this! You shouldn't do such things to your little sister...
+
+//#sub "hs_11_393" お、お兄さんが望むなら…痛くてもガマン…できないかもぉ～
+#sub "hs_11_393" Even if my Onii-san wants it... It hurts too much... I can't do it...
+
+//#sub "hs_11_394" なんだかこの格好…かなり恥ずかしいんだけど…
+#sub "hs_11_394" The way you're looking at me... it's pretty embarrassing...
+
+//#sub "hs_11_395" こんな格好…お兄さんが相手じゃなかったら、絶対できないと思う…
+#sub "hs_11_395" There's no way I could do these things, if it wasn't with you, my Onii-san...
+
+//#sub "hs_11_396" お兄さんすごぉい！　この格好で、すごくエッチな事しちゃうんでしょ？　なんか期待しちゃうかも！
+#sub "hs_11_396" Onii-san!  I'm dressed like this, and you know what you're doing, right?  I'm expecting something good from you!
+
+//#sub "hs_11_397" 何するのよ！　こんな格好いやぁ！
+#sub "hs_11_397" What are you doing!  Such a good-looking... hey!
+
+//#sub "hs_11_398" この格好はさすがに恥ずかしいけど…お兄さんのためにがんばります！
+#sub "hs_11_398" It's embarrassing when I'm dressed like this... but I will do my best for my Onii-san!
+
+//#sub "hs_11_501_00" 私が、お兄さんの事…気持ちよくしてあげるから
+#sub "hs_11_501_00" Because I will make you feel good baby...
+
+//#sub "hs_11_501_01" 私がやってみてもいい？　あんまり上手じゃないと思うけどがんばってみるから
+#sub "hs_11_501_01" Can I try?  I don't know how good I'll be, but I will do my best
+
+//#sub "hs_11_501_02" 私が、してあげる…お兄さんに喜んで欲しいし…
+#sub "hs_11_501_02" I will do it... I want to make my Onii-san cum!
+
+//#sub "hs_11_501_03" 私に任せて…お兄さんを気持ちよくしてあげる！
+#sub "hs_11_501_03" Leave it to me... I will make my Onii-san feel good!
+
+//#sub "hs_11_501_04" 私が…お兄さんにご奉仕してあげるから
+#sub "hs_11_501_04" I will... I will serve my Onii-san
+
+//#sub "hs_11_501_05" お兄さんにだったら、私からご奉仕してあげてもいいから
+#sub "hs_11_501_05" Since you're my Onii-san, you can serve me, too, ya know.
+
+//#sub "hs_11_502_00" よくわかんないけど、私がやってもいいでしょ、ね？
+#sub "hs_11_502_00" I don't understand it all that much, but I don't mind doing it, do you?
+
+//#sub "hs_11_502_01" 私、ご奉仕ってやってみたいの？　実験させてね？
+#sub "hs_11_502_01" Do you want me to suck you off?  Come on, let me experiment on you.
+
+//#sub "hs_11_502_02" 慣れてないけどいいでしょ？　私がやってあげるってば…あはは
+#sub "hs_11_502_02" I am not used to it, right?  But I will definitely need to learn... Haha
+
+//#sub "hs_11_502_03" 任せてぇ！　私がばっちりご奉仕してあげる！
+#sub "hs_11_502_03" Leave it to me!  I will wrap my lips around you perfectly!
+
+//#sub "hs_11_502_04" 私が、お兄さんの事、思いっきり気持ちよくしちゃうからね！
+#sub "hs_11_502_04" I will make you cum so hard, Onii-san!
+
+//#sub "hs_11_502_05" それじゃ、私がお兄さんをご奉仕で、気持ちよくしてあげる！
+#sub "hs_11_502_05" Well then, I will use my lips on you Onii-san, I will make you feel good!
+
+//#sub "hs_11_503_00" 私がするなんて嫌よ…！
+#sub "hs_11_503_00" I don't want to do it...!
+
+//#sub "hs_11_503_01" どうして、私がこんな事…絶対嫌！
+#sub "hs_11_503_01" Why, such a thing... absolutely disgusting!
+
+//#sub "hs_11_503_02" ウソでしょ？　こんなことしたくないのに
+#sub "hs_11_503_02" You're kidding, right?  I don't want to do this
+
+//#sub "hs_11_503_03" これって、何が楽しいの？
+#sub "hs_11_503_03" How is this fun?
+
+//#sub "hs_11_503_04" 私、こんなの嫌なのに…
+#sub "hs_11_503_04" I do not want such a thing...
+
+//#sub "hs_11_503_05" もういや、こんな事させないでよ！
+#sub "hs_11_503_05" No more, stop this now!
+
+//#sub "hs_11_504_00" あの、とりあえず、がんばってご奉仕します
+#sub "hs_11_504_00" Um, for now, I will do my best to serve you
+
+//#sub "hs_11_504_01" 私、不慣れですけど…ご奉仕、がんばります
+#sub "hs_11_504_01" I've not really done this kind of thing much, but... I will do my best to serve you.
+
+//#sub "hs_11_504_02" 私が、がんばってご奉仕しちゃいますね！
+#sub "hs_11_504_02" I will do my best to serve you!
+
+//#sub "hs_11_504_03" 任せてください！　ご奉仕、結構なれてきたんですよ！
+#sub "hs_11_504_03" Let me take care of that!  My mouth and lips, you will get used to them!
+
+//#sub "hs_11_504_04" 私のご奉仕も、大分サマになってきたと思います
+#sub "hs_11_504_04" I think that my blowjobs have become world-class!
+
+//#sub "hs_11_504_05" 私、ご奉仕のやり方、結構わかって来たと思うんですよ！　だから、大丈夫です！
+#sub "hs_11_504_05" I think that I know what you want from my mouth!  So it's all good!
+
+//#sub "hs_11_505_00" えっと、私がやってみてもいいでしょ？
+#sub "hs_11_505_00" Well, may I try it?
+
+//#sub "hs_11_505_01" ご奉仕、してあげる…やり方は、まぁなんとなくがんばるね
+#sub "hs_11_505_01" I will get down on my knees for you... It's one way of doing a good job.
+
+//#sub "hs_11_505_02" とりあえず、私がご奉仕してあげるね…あんまり慣れてないけど
+#sub "hs_11_505_02" I guess I'll use my mouth... I'm not used to it though.
+
+//#sub "hs_11_505_03" それじゃ、私がご奉仕してあげる…大丈夫、まかせて
+#sub "hs_11_505_03" Well then, I will serve you... OK, so just leave it me!
+
+//#sub "hs_11_505_04" いいよ、私がやってあげる…大丈夫、結構やり方わかってきたから
+#sub "hs_11_505_04" Okay, I'll do it... yeah, I know how it is
+
+//#sub "hs_11_505_05" 私がご奉仕で、お兄さんを気持ちよくしてあげるね！
+#sub "hs_11_505_05" I will blow you, I will make my Onii-san feel good!
+
+//#sub "hs_11_510_00" こんな所でオナニーなんて結構恥ずかしいんだけどぉ…
+#sub "hs_11_510_00" Masturbation in such a place is pretty embarrassing...
+
+//#sub "hs_11_510_01" オナニーがいいの？　お兄さん、手伝ってくれればいいのに
+#sub "hs_11_510_01" Is masturbation good?  Onii-san, I wish you would help me
+
+//#sub "hs_11_510_02" いいよぉ、一人で気持ちよくなっちゃうから…うふふ
+#sub "hs_11_510_02" Okay, I will feel good alone... Uhufu
+
+//#sub "hs_11_511_00" 私のオナニーがみたいんだ？　意味わかんない
+#sub "hs_11_511_00" Do you want me to finger myself? Okay, but I'd rather you did it...
+
+//#sub "hs_11_511_01" 何でこんな、恥ずかしい事しなくちゃいけないのぉ…
+#sub "hs_11_511_01" Why should I be ashamed like this...
+
+//#sub "hs_11_511_02" こんなの嫌…恥ずかしいのにぃ…
+#sub "hs_11_511_02" God, this is disgusting... It's embarrassing...
+
+//#sub "hs_11_520_00" カメラ止めて、絶対無理だから
+#sub "hs_11_520_00" Stop the camera! I absolutely can not do this anymore!
+
+//#sub "hs_11_520_01" あの、カメラで撮影するんですか？　エッチしてる所？　お兄さんも映っちゃうけど大丈夫、なの？
+#sub "hs_11_520_01" Well, are you actually filming with that?  Are you going to have sex?  My Onii-san will also be in the picture, but is that okay?
+
+// -----------------------------------------------
 // Caress
 // -----------------------------------------------
 
@@ -1503,1316 +2815,785 @@
 #sub "ha_11_500" My... here, let me cum!!
 
 // -----------------------------------------------
-// H - general purpose
+// Service
 // -----------------------------------------------
 
-//#sub "hs_11_001" あん、ああん、やん、ダメ、やめて、きゃっ、きゃあ、んっ、もう、いい
-#sub "hs_11_001" Aghh, oww, no please, stop, stop, wait a minute, all right?  
+//#sub "hh_11_001" ねぇ、これでいいの？
+#sub "hh_11_001" Hey, is this OK?
 
-//#sub "hs_11_002" んっ、ん゛っ、んあ、う゛うっ、い゛っ、いや、きらい、やっ、くっ、くぅぅ、
-#sub "hs_11_002" *Gasp* I, can't, hmph...  This, don't do this to me!
+//#sub "hh_11_002" 大丈夫？　気持ちいいのかな？
+#sub "hh_11_002" All right?  Does it feel good?
 
-//#sub "hs_11_003" んほぉ、お゛ぉ、おほぅ、あふぅ、んはぁ、あひぃ、はうぅ、んはぁ、おふぉ、あおぉ
-#sub "hs_11_003" I, I'm going to *pant* going to explode...
+//#sub "hh_11_003" こんな感じでいいの？
+#sub "hh_11_003" Is it okay with this feeling?
 
-//#sub "hs_11_004" いたっ、い゛い、いたい、いだい、きゃふ、ぎゃふ、え゛ぇ、ぎぃ、あがぁ、はぐぅ
-#sub "hs_11_004" *Gasp* It's here inside me... my, my pussy... please, do it, make love to me.
+//#sub "hh_11_004" これ、痛くないの？
+#sub "hh_11_004" Is this painful?
 
-//#sub "hs_11_005" えへ、へへへ、ひひ、あ・・・、う・・・、うぅ・・、あはぁ…、んぅ…、んぁ、あぁ…
-#sub "hs_11_005" *Gasp* I, I feel it, it's filthy... in my private place... no, please keep going...
+//#sub "hh_11_005" え、出ちゃうの・・？　どうなっちゃうの？
+#sub "hh_11_005" Well, I guess?  What's happening right now for you?
 
-//#sub "hs_11_006" 「すぅ……はぁ……」
-#sub "hs_11_006" 「*breath*」
+//#sub "hh_11_006" 何これ、すごく熱くなってる！
+#sub "hh_11_006" What this is getting really hot!
 
-//#sub "hs_11_007" 「はひ、ふひっ、あはっ…あはぁ…はぁはぁ…んは…」
-#sub "hs_11_007" 「Kyaa!  Fua, aah... aah.. aah...」
+//#sub "hh_11_007" 出すの？　だったら、我慢しなくてもいいからね
+#sub "hh_11_007" Are you coming?  Then, you do not have to endure it for long
 
-//#sub "hs_11_008" 「すぅ……はぁ……」
-#sub "hs_11_008" 「*breath*」
+//#sub "hh_11_008" なんで、私がこんな事
+#sub "hh_11_008" Oh, I like this
 
-//#sub "hs_11_009" 「はぁ……はぁ……」
-#sub "hs_11_009" "oh god yesss...... Haa..."
+//#sub "hh_11_009" 別に面白くないでしょ？
+#sub "hh_11_009" Isn't it nice?
 
-//#sub "hs_11_010" 「すぅ……はぁ……」
-#sub "hs_11_010" 「*breath*」
+//#sub "hh_11_010" こんなの、何が楽しいの？
+#sub "hh_11_010" What's fun about this?
 
-//#sub "hs_11_011" 「はぁ……はぁ……」
-#sub "hs_11_011" 「Haa oh yeah...... hunh...」
+//#sub "hh_11_011" 私、もう嫌なんだけど…
+#sub "hh_11_011" I do not want it anymore...
 
-//#sub "hs_11_012" 「すぅ……はぁ……」
-#sub "hs_11_012" 「*breath*」
+//#sub "hh_11_012" 何これ？　妙な感じがするけど？
+#sub "hh_11_012" What's this?  I feel strange, but?
 
-//#sub "hs_11_013" 「はぁ……はぁ……」
-#sub "hs_11_013" 「*breath*」
+//#sub "hh_11_013" 何これ？　まさか、射精するの？　ちょっと、やめてよ
+#sub "hh_11_013" What's this?  No way, are you coming?  Just stop it.
 
-//#sub "hs_11_014" 「すぅ……はぁ……」
-#sub "hs_11_014" 「*breath*」
+//#sub "hh_11_014" ちょっと待って？　こんな所で出さないでよ！
+#sub "hh_11_014" Wait a minute?  Don't cum there!
 
-//#sub "hs_11_015" 「はぁ……はぁ……」
-#sub "hs_11_015" 「*breath*」
+//#sub "hh_11_015" いいから、はやく終わらせて・・・
+#sub "hh_11_015" Okay, let's finish quickly...
 
-//#sub "hs_11_016" 「すぅ……はぁ……」
-#sub "hs_11_016" 「*breath*」
+//#sub "hh_11_016" もう・・動かさないで・・
+#sub "hh_11_016" Already... Don't move...
 
-//#sub "hs_11_017" 「はぁ……はぁ……」
-#sub "hs_11_017" 「Haah... hunh...」
+//#sub "hh_11_017" いや…強くしないで・・・
+#sub "hh_11_017" No... don't make do it so hard...
 
-//#sub "hs_11_018" 「すぅ……はぁ……」
-#sub "hs_11_018" 「*breath*」
+//#sub "hh_11_018" やめて・・・もう嫌なんだけど・・
+#sub "hh_11_018" Stop it... I don't want it anymore...
 
-//#sub "hs_11_019" 「はぁ……はぁ……」
-#sub "hs_11_019" 「Haah... hunh...」
+//#sub "hh_11_019" なによ！・・・急に激しくしないで！
+#sub "hh_11_019" What!  · · · Don't make it so intense all of a sudden!
 
-//#sub "hs_11_020" 「んっ、・・・んっ、・・・・ふっ、んんっ、んっ、ぁふっ」
-#sub "hs_11_020" 「Huh, Mmm... fffu, hahh, haaaah」
+//#sub "hh_11_020" 何よ、変な事しないでよ！
+#sub "hh_11_020" Whatever, don't be strange!
 
-//#sub "hs_11_021" 「んっ、・・・んっ、・・・・ふっ、んんっ、んっ、ぁふっ」
-#sub "hs_11_021" 「Huh, Mmm... fffu, hahh, haaaah」
+//#sub "hh_11_021" ウソでしょ？　やめて、もう放して・・！
+#sub "hh_11_021" This is a joke, right?  Stop it, please let go!
 
-//#sub "hs_11_022" 「んっ、んっ、んっ、ふっ、んんっ、んっ、ぁふっ」
-#sub "hs_11_022" 「Oohhh, huh, huh, hmm, huh」
+//#sub "hh_11_022" ちろ……ん、ちゅ、気持ちいいの？
+#sub "hh_11_022" Does that make you feel good?
 
-//#sub "hs_11_023" 「んっ、んっ、んっ、ふっ、んんっ、んっ、ぁふっ」
-#sub "hs_11_023" 「Ohhh, huh, huh, hmm, huh」
+//#sub "hh_11_023" んちゅ、ゆっくり・・ちゅろ・・・なめてみるねぇ・・あ、んむ
+#sub "hh_11_023" Muchu, slowly · · · Chiro · · · I will not let you lick it
 
-//#sub "hs_11_024" 「ん、ん、ん、ん、ふっ、んんっ、んっ、ぁふっ」
-#sub "hs_11_024" 「Oh, aah, augh, hmm, huh」
+//#sub "hh_11_024" ちろ・・・なんか、変な…あじ・・・ちゅっ
+#sub "hh_11_024" Clear... something, strange... aji...
 
-//#sub "hs_11_025" 「ん、ん、ん、ん、ふっ、んんっ、んっ、ぁふっ」
-#sub "hs_11_025" 「Oh, aah, augh, hmm, huh」
+//#sub "hh_11_025" ん、ちゅるぅ・・なんかあちゅく・・・ちろ・・なっへきた　・・・ちゅ
+#sub "hh_11_025" Cum.
 
-//#sub "hs_11_026" 「すぅ……はぁ……」
-#sub "hs_11_026" 「*breath*」
+//#sub "hh_11_026" 我慢・・・ん、ちゅ・・しらいで・・れろ・・いっへね・ちゅるぅ
+#sub "hh_11_026" Patience
 
-//#sub "hs_11_027" い゛・・・ん゛ぎっ・・・
-#sub "hs_11_027" I...I can't stop...hmmm...
+//#sub "hh_11_027" ろうして、わらしが、こんな、こと…
+#sub "hh_11_027" Just me and your cock
 
-//#sub "hs_11_028" んっ・・・んぁ・・
-#sub "hs_11_028" My Onii-san is... inside me...
+//#sub "hh_11_028" いいはら、はやく、おわらへて…
+#sub "hh_11_028" Okay, quickly, for now...
 
-//#sub "hs_11_029" や、んはぁ…
-#sub "hs_11_029" Aah, I can feel it...
+//#sub "hh_11_029" もういや…こんなの、やりたふ…ないのに…
+#sub "hh_11_029" Well... I do not want to do this... yet...
 
-//#sub "hs_11_030" あっ・・はぁん・・
-#sub "hs_11_030" Oh I'm going to...
+//#sub "hh_11_030" な…なんだか…大きく、なってる
+#sub "hh_11_030" What... did it just get... bigger.
 
-//#sub "hs_11_031" んふぅ、あぁぁ…
-#sub "hs_11_031" Huhu, Ahhhh...
+//#sub "hh_11_031" ん…なんか、あちゅく、なっへきへるんだけどぉ…
+#sub "hh_11_031" I... somehow, ah, you just go off, hurry...
 
-//#sub "hs_11_032" そこ・・お、おしりぃ…待ってぇ・・
-#sub "hs_11_032" Oh, Baby... wait... *gasp*
+//#sub "hh_11_032" んぁむ・・・ぜんぶ・・くわえれ、みるからねぇ…じゅぷ・・
+#sub "hh_11_032" Oh yeah... All of your cum... All of it, glee... *slup*...
 
-//#sub "hs_11_033" うぐぅ・・、入ってる・・・
-#sub "hs_11_033" *Gasp*...It's... it's in my ass...
+//#sub "hh_11_033" ろぉ？　きもち・・じゅるっ・いいの・・ん、ちゅ・・ねぇ？
+#sub "hh_11_033" Wow?  Feelings · · · · · · · · · · · · · Hey?
 
-//#sub "hs_11_034" ん゛んっ、
-#sub "hs_11_034" I... *pant*
+//#sub "hh_11_034" ちゅちゅ…もっほ……じるぢる…したぁ、うごかふほうが・・いい？・・
+#sub "hh_11_034" Wow, is moving OK?
 
-//#sub "hs_11_035" はんぅ・・
-#sub "hs_11_035" No... please...
+//#sub "hh_11_035" くひのなかれ…にゅぷっ…また…あふく…なっへる？
+#sub "hh_11_035" Hey...... again...... it's getting fuzzy?
 
-//#sub "hs_11_036" んはぁ、はぁ、はぁ、
-#sub "hs_11_036" It's... *pant* it is...
+//#sub "hh_11_036" ちゅちゅ……じるぢる…だふなら…んぶ…じゅぷ…だひてね？
+#sub "hh_11_036" Chuchu...... If you... Truffle............ Jyupu... Is not it hot?
 
-//#sub "hs_11_037" ん・・ちゅ・・
-#sub "hs_11_037" Mm.. *slurp*..
+//#sub "hh_11_037" んふぅ…もういや…はやく、おわってぇ…
+#sub "hh_11_037" Mfuu... no more... quickly, finished...
 
-//#sub "hs_11_038" ン゛ぐ・・・
-#sub "hs_11_038" Hummm... hmm...
+//#sub "hh_11_038" わらしが、ん…なんで…ふぅ…こんあ…こほ…うぐぅ
+#sub "hh_11_038" I do not know...
 
-//#sub "hs_11_039" あ～むぅ・・
-#sub "hs_11_039" Mmm... there...
+//#sub "hh_11_039" いき…苦しい、からぁ…んふぅ…
+#sub "hh_11_039" Iki... It's painful...
 
-//#sub "hs_11_040" んご、・・
-#sub "hs_11_040" Take me Onii-san...
+//#sub "hh_11_040" んふぅ…なに…どうする気よぉ…？
+#sub "hh_11_040" Mfuu... What are you going to do...?
 
-//#sub "hs_11_041" 「ふぁ……ん……」
-#sub "hs_11_041" 「Fu...mm...aah...」
+//#sub "hh_11_041" やぁ…なに、こへぇ…なんか熱くなっへるぅ？
+#sub "hh_11_041" Hey... what... is this... something's getting harder?
 
-//#sub "hs_11_042" 「ふぁ……ん……」
-#sub "hs_11_042" 「Fu...mm...aah...」
+//#sub "hh_11_042" 私のおっぱい、気持ちいい？
+#sub "hh_11_042" My boobs, do they make you feel good?
 
-//#sub "hs_11_043" 「ふぁ……ん……」
-#sub "hs_11_043" 「Fu...mm...aah...」
+//#sub "hh_11_043" こうやって、挟んであげちゃうから
+#sub "hh_11_043" In this way I will make you cum for me.
 
-//#sub "hs_11_044" 「ふぁっ、んんぅ」
-#sub "hs_11_044" 「Ah, ah, he, he, ha」
+//#sub "hh_11_044" これで気持ちいいんでしょ、ね？
+#sub "hh_11_044" It feels good like this, right?
 
-//#sub "hs_11_045" 「ふぁっ、んんぅ」
-#sub "hs_11_045" 「Ah, ah, he, he, ha」
+//#sub "hh_11_045" 私のおっぱい…悪くない、でしょ？
+#sub "hh_11_045" My boobs... not bad, eh?
 
-//#sub "hs_11_046" 「ふぁっ、んんぅ」
-#sub "hs_11_046" 「Ah, ah, he, he, ha」
+//#sub "hh_11_046" こんな感じで、問題ないよね？　
+#sub "hh_11_046" This is legal, right? But there's no problem feeling like this, don't you think?
 
-//#sub "hs_11_047" 「ふぁ……ん……」
-#sub "hs_11_047" 「Fu...Mmm...」
+//#sub "hh_11_047" このくらいのおっぱいも…いい感じでしょ？
+#sub "hh_11_047" It feels good between my tits, don't you agree?
 
-//#sub "hs_11_048" 「ふぁ……ん……」
-#sub "hs_11_048" 「Fu...Mmm...」
+//#sub "hh_11_048" どう、私のおっぱいで、気持ちよくなってきたの？
+#sub "hh_11_048" How have you become so comfortable with my tits?
 
-//#sub "hs_11_049" 「ふぁ……ん……」
-#sub "hs_11_049" 「Fu...Mmm...」
+//#sub "hh_11_049" 私のおっぱいで、いっぱい感じちゃってね！
+#sub "hh_11_049" I feel your cock between my tits!
 
-//#sub "hs_11_050" 「ふぁっ、んんぅ」
-#sub "hs_11_050" 「Ah, ah, he, he, ha」
+//#sub "hh_11_050" 亀頭、いじるね
+#sub "hh_11_050" The tip of your cock, I like to play with it.
 
-//#sub "hs_11_051" 「ふぁっ、んんぅ」
-#sub "hs_11_051" 「Ah, ah, he, he, ha」
+//#sub "hh_11_051" 亀頭って、なんで亀頭って言うの？　どうでもいいけど
+#sub "hh_11_051" What do you call it, glans or dick head?  It doesn't really matter.
 
-//#sub "hs_11_052" 「ふぁっ、んんぅ」
-#sub "hs_11_052" 「Ah, ah, he, he, ha」
+//#sub "hh_11_052" 手でこんなに風にして、痛くないの？
+#sub "hh_11_052" Doesn't this hurt with my hands?
 
-//#sub "hs_11_053" 「ふぁっ！んんっ！」
-#sub "hs_11_053" 「Fuaa! Gah!」
+//#sub "hh_11_053" 亀頭が、さっきより大きくなってるみたい
+#sub "hh_11_053" It seems that your tip is getting bigger than before
 
-//#sub "hs_11_054" 「ふぁっ！んんっ！」
-#sub "hs_11_054" 「Fuaa! Gah!」
+//#sub "hh_11_054" これって、もしかして、射精しちゃうの？
+#sub "hh_11_054" Could this make you cum I wonder?
 
-//#sub "hs_11_055" 「ふぁっ！んんっ！」
-#sub "hs_11_055" 「Fuaa! Gah!」
+//#sub "hh_11_055" 足でするなんて、なんか変わってるね
+#sub "hh_11_055" It's kinda weird to do this with my feet, but whatever.
 
-//#sub "hs_11_056" 「ちゅる……んっ……」
-#sub "hs_11_056" 「Slurp... mmmah」
+//#sub "hh_11_056" 足で踏んづけられて、ちゃんと感じてるの？
+#sub "hh_11_056" When I'm stepping on it with my feet, does it feel good to you?
 
-//#sub "hs_11_057" 「ちゅる……んっ……」
-#sub "hs_11_057" 「Slurp... mmmah」
+//#sub "hh_11_057" 足でするなんて…やっぱり不思議な感覚なんだけど
+#sub "hh_11_057" You're so wierd, this is getting you off?
 
-//#sub "hs_11_058" 「れろ、ん、ちゅるぅ」
-#sub "hs_11_058" 「lick, mmmm, slurp」
+//#sub "hh_11_058" 踏んでも、反発がすごいんだけど…もう、出しちゃうとかなの？
+#sub "hh_11_058" Even if I step on it hard, it bounces right back... Is it supposed to do that?
 
-//#sub "hs_11_059" 「れろ、ん、ちゅるぅ」
-#sub "hs_11_059" 「lick, mmmm, slurp」
+//#sub "hh_11_059" 足の裏で、すごく硬くなってるみたいだけど・・
+#sub "hh_11_059" It seems that it is very hard on the bottom of my foot.
 
-//#sub "hs_11_060" 「ふぁっ！んんっ！」
-#sub "hs_11_060" 「Fuaa! Gah!」
+//#sub "hh_11_060" すごい…ぬるぬるがいっぱいかかちゃった
+#sub "hh_11_060" It was amazing... lots of slime
 
-//#sub "hs_11_061" 「ふぁっ！んんっ！」
-#sub "hs_11_061" 「Fuaa! Gah!」
+//#sub "hh_11_061" わぁ…もう精液でべとべとになっちゃってる
+#sub "hh_11_061" Wow... I'm already sticky with semen
 
-//#sub "hs_11_062" 「んむぅ…はぁ、はぁ、はぁ…」
-#sub "hs_11_062" 「Oh yess... Huh, huh, huh...」 
+//#sub "hh_11_062" んぐ、・・・・ふぅ・・これは・・あんまり、味しないね
+#sub "hh_11_062" So much....so much...
 
-//#sub "hs_11_063" 「（ふぁ……ん……）」
-#sub "hs_11_063" 「Fuaa... mmm...」
+//#sub "hh_11_063" ん・・んぐ・・ふぅ・・飲んじゃった、けど…おいしくはないね
+#sub "hh_11_063" I swallowed it all down... but it's not really tasty
 
-//#sub "hs_11_064" 「（ふぁ……ん……）」
-#sub "hs_11_064" 「Fuaa... mmm...」
+//#sub "hh_11_064" （んべぇ…んはぁ）
+#sub "hh_11_064" (Hey, well)
 
-//#sub "hs_11_065" 「（ふぁっ、んんぅ）」
-#sub "hs_11_065" 「Fuaa, mah」
+//#sub "hh_11_065" （んふぅ…べぇ…）
+#sub "hh_11_065" (Huhu... ba...)
 
-//#sub "hs_11_066" 「（ふぁっ、んんぅ）」
-#sub "hs_11_066" 「Fuaa, mah」
+//#sub "hh_11_066" げほげほ…けほけほ…
+#sub "hh_11_066" Fugen............
 
-//#sub "hs_11_067" 「（ふぁっ！んんっ！）」
-#sub "hs_11_067" 「Ah, ah, he, he, ha」
+//#sub "hh_11_067" 無理ぃ…なんか咳き込んじゃたぁ
+#sub "hh_11_067" Ugh, impossible... I'm gagging
 
-//#sub "hs_11_068" 「（ふぁっ！んんっ！）」
-#sub "hs_11_068" 「Ah, ah, he, he, ha」
+//#sub "hh_11_068" もういや！　変なものかけないでよ！
+#sub "hh_11_068" I can not bear anymore!  Do not make me do these terrible things!
 
-//#sub "hs_11_069" 「ぁっ……うく……」
-#sub "hs_11_069" 「Aaaah...hmmmm..」
+//#sub "hh_11_069" 勝手に射精しないでよ、もう！
+#sub "hh_11_069" Gross! Do not ejaculate on my hands!
 
-//#sub "hs_11_070" 「ぁっ……うく……」
-#sub "hs_11_070" 「Aaaah...hmmmm..」
+//#sub "hh_11_070" ぶふっ・・おぇ、・・げほ、げほ・・
+#sub "hh_11_070" Dizzy... oh,... *cough*, *cough*
 
-//#sub "hs_11_071" 「ぁっ……うく……」
-#sub "hs_11_071" 「Aaaah...hmmmm..」
+//#sub "hh_11_071" げほ、げほげほげほ・・え゛ぇ・・・
+#sub "hh_11_071" *cough*, Fuuughhhh · · Aahh·  · · ·
 
-//#sub "hs_11_072" 「うぐ、ん、っくぅ」
-#sub "hs_11_072" 「Ah, uh, ah」
+//#sub "hh_11_072" もっと続けてもいいの？
+#sub "hh_11_072" Can I keep going?
 
-//#sub "hs_11_073" 「うぐ、ん、っくぅ」
-#sub "hs_11_073" 「Ah, uh, ah」
+//#sub "hh_11_073" ・・・もう回復したの？　お兄さんすごいね
+#sub "hh_11_073" ... Have you recovered already?  My Onii-san is incredible.
 
-//#sub "hs_11_074" 「うぐ、ん、っくぅ」
-#sub "hs_11_074" 「Ah, uh, ah」
+//#sub "hh_11_074" すごい回復力…お兄さん元気だね
+#sub "hh_11_074" Great stamina... my Onii-san is fine
 
-//#sub "hs_11_075" 「ふぁ……ん……」
-#sub "hs_11_075" 「Fuaa... mmm...」
+//#sub "hh_11_075" あれ？　またいっちゃうの？
+#sub "hh_11_075" What?  Are you going again?
 
-//#sub "hs_11_076" 「ふぁ……ん……」
-#sub "hs_11_076" 「Fuaa... mmm...」
+//#sub "hh_11_076" また出すの？　いいよ、いっぱい出してね
+#sub "hh_11_076" You're going again?  Okay, give me a lot this time
 
-//#sub "hs_11_077" 「ふぁっ、んんぅ」
-#sub "hs_11_077" 「Ah, ah, he, he, ha」
+//#sub "hh_11_077" ウソでしょ？　まだ、続ける気なの？
+#sub "hh_11_077" It's a joke, right?  Are you still going?
 
-//#sub "hs_11_078" 「ふぁっ、んんぅ」
-#sub "hs_11_078" 「Ah, ah, he, he, ha」
+//#sub "hh_11_078" 何よ！　さっさと、終わりにして
+#sub "hh_11_078" What!  Quickly, finish
 
-//#sub "hs_11_079" 「ふぁっ！んんっ！」
-#sub "hs_11_079" 「Fuaa! Gah!」
+//#sub "hh_11_079" もう…いい加減したら？
+#sub "hh_11_079" Why don't you just cum already?
 
-//#sub "hs_11_080" 「ふぁっ！んんっ！」
-#sub "hs_11_080" 「Fuaa! Gah!」
+//#sub "hh_11_080" 何よ、また出すの？
+#sub "hh_11_080" What, are you going to pull it out again?
 
-//#sub "hs_11_081" 「ふぁっ！んんっ！」
-#sub "hs_11_081" 「Fuaa! Gah!」
+//#sub "hh_11_081" うそ、まだ出てくるの？
+#sub "hh_11_081" You're joking, how do you still have cum in your those balls?
 
-//#sub "hs_11_082" 「ちゅる……んっ……」
-#sub "hs_11_082" 「Slurp... mmmah」
+//#sub "hh_11_082" もう続けたくないのよ！
+#sub "hh_11_082" I do not want to continue anymore!
 
-//#sub "hs_11_083" 「ちゅる……んっ……」
-#sub "hs_11_083" 「Slurp... mmmah」
+//#sub "hh_11_083" もういや、いい加減にして
+#sub "hh_11_083" Well, no more.
 
-//#sub "hs_11_084" 「れろ、ん、ちゅるぅ」
-#sub "hs_11_084" 「lick, mmmm, slurp」
+//#sub "hh_11_084" いつまで続ける気よ？　早く休んだら？
+#sub "hh_11_084" How long do you want to continue? Can't we take a break?
 
-//#sub "hs_11_085" 「れろ、ん、ちゅるぅ」
-#sub "hs_11_085" 「lick, mmmm, slurp」
+//#sub "hh_11_085" ちょっと、また出す気なの？
+#sub "hh_11_085" Hey, are you going again?
 
-//#sub "hs_11_086" 「じゅるっ！んぁっ！」
-#sub "hs_11_086" 「Urrg! *drool*」
+//#sub "hh_11_086" もう嫌よ！　何度も出さないで！
+#sub "hh_11_086" I do not want it anymore!  Do not pull it out again!
 
-//#sub "hs_11_087" 「じゅるっ！んぁっ！」
-#sub "hs_11_087" 「Urrg! *drool*」
+//#sub "hh_11_087" んちゅ・・・、まら・・ん・・・きもちよふ・・ちゅ・・しゅるから・んふ
+#sub "hh_11_087" Yeah baby
 
-//#sub "hs_11_088" 「ひう……はひぃ……」
-#sub "hs_11_088" 「*ehehehe.. hehehe*」
+//#sub "hh_11_088" こんなにつづへて・・んん・・ちゅかれないの？　・・ちゅちゅ・・
+#sub "hh_11_088" I can't wait. Are you ready?
 
-//#sub "hs_11_089" 「ひう……はひぃ……」
-#sub "hs_11_089" 「*ehehehe.. hehehe*」
+//#sub "hh_11_089" まら・・・ちゅっ・・・れきるの？　おにいさんしゅごい…んぶぅ
+#sub "hh_11_089" Are you ready?  Oniimmgfh..Mmmunh
 
-//#sub "hs_11_090" 「ひう……はひぃ……」
-#sub "hs_11_090" 「*ehehehe.. hehehe*」
+//#sub "hh_11_090" まら・・いきほうなの？　んちゅ・・んふ
+#sub "hh_11_090" Mmuh...She is such a lucky person.
 
-//#sub "hs_11_091" 「あ゛ぁっ、っん゛あっ、」
-#sub "hs_11_091" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hh_11_091" ちゅ・・・れそうなの？　んふぅ・・・むちゅ・・
+#sub "hh_11_091" *slurp* Will it be soon?...  Huhu...  Mfuu · · ·
 
-//#sub "hs_11_092" 「あ゛ぁっ、っん゛あっ、」
-#sub "hs_11_092" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hh_11_092" んちゅ…もうやめたい…
+#sub "hh_11_092" Muchu... I want to quit...
 
-//#sub "hs_11_093" 「あ゛ぁっ、っん゛あっ、」
-#sub "hs_11_093" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hh_11_093" いい加減に、終わって
+#sub "hh_11_093" It can't be helped, it has to finish
 
-//#sub "hs_11_094" 「ひう……はひぃ……」
-#sub "hs_11_094" 「*ehehehe.. hehehe*」
+//#sub "hh_11_094" ん…いみが、わかんあい…
+#sub "hh_11_094" I... I can not understand...
 
-//#sub "hs_11_095" 「ひう……はひぃ……」
-#sub "hs_11_095" 「*ehehehe.. hehehe*」
+//#sub "hh_11_095" んふぅ…うそ、また、出す気？　
+#sub "hh_11_095" Huhu... are you kidding, are you going to give it again?  Ohh
 
-//#sub "hs_11_096" 「あ゛ぁっ、っん゛あっ、」
-#sub "hs_11_096" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hh_11_096" んちゅ…もう、さっさと、出してよぉ…
+#sub "hh_11_096" Hey... let's go on ahead, please...
 
-//#sub "hs_11_097" 「あ゛ぁっ、っん゛あっ、」
-#sub "hs_11_097" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hh_11_097" まら・・んちゅ・・かはくて、おおきく…なっへる・・ん・
+#sub "hh_11_097" *Mmmf* · *Owooah*· · · *Mmmah*...... coming · · ·
 
-//#sub "hs_11_098" 「んぁっ！あんっ！ふぁっ！」
-#sub "hs_11_098" 「Arg! Heh！Ahahaha！」
+//#sub "hh_11_098" もう・・びゅじゅ・・回復・・じゅ・じゅぅ・・してるぅ・・…げんきらね…
+#sub "hh_11_098" I do... 
 
-//#sub "hs_11_099" 「んぁっ！あんっ！ふぁっ！」
-#sub "hs_11_099" 「Arg! Heh！Ahahaha！」
+//#sub "hh_11_099" ぶちゅぅ・・もっろ・・おくまれ・・くわへて・あげるぅ…
+#sub "hh_11_099" Bukku 
 
-//#sub "hs_11_100" 「んぁっ！あんっ！ふぁっ！」
-#sub "hs_11_100" 「Arg! Heh！Ahahaha！」
+//#sub "hh_11_100" まら・・・んぶ、・・おくひで・・・んふぅ・・いっひゃうの？
+#sub "hh_11_100" Mara · · · · · · · · · · · · Pleasure
 
-//#sub "hs_11_101" 「うっ……うう、……」
-#sub "hs_11_101" 「Ugh... *sob*」
+//#sub "hh_11_101" まら・・じゅじゅ・・・・いっぱい、らしてねぇ・・じゅる・・
+#sub "hh_11_101" Maru · · Ju 
 
-//#sub "hs_11_102" 「うっ……うう、……」
-#sub "hs_11_102" 「Ugh... *sob*」
+//#sub "hh_11_102" んふぅ…もう、くるしい…
+#sub "hh_11_102" I'm already overjoyed...
 
-//#sub "hs_11_103" 「うっ……うう、……」
-#sub "hs_11_103" 「Ugh... *sob*」
+//#sub "hh_11_103" んん…息がつらいからぁ…
+#sub "hh_11_103" I have bad breath now...
 
-//#sub "hs_11_104" 「う゛っ、・・・あぐ、・・」
-#sub "hs_11_104" 「Ugh... hgh...」
+//#sub "hh_11_104" んふぅ…もう、はきそうだからぁ
+#sub "hh_11_104" Mfuu... it's already gonna hurt
 
-//#sub "hs_11_105" 「う゛っ、・・・あぐ、・・」
-#sub "hs_11_105" 「Ugh... hgh...」
+//#sub "hh_11_105" んふぅ…もう、終わりにしてよ…
+#sub "hh_11_105" Mfuu... Finish already...
 
-//#sub "hs_11_106" 「う゛っ、・・・あぐ、・・」
-#sub "hs_11_106" 「Ugh... hgh...」
+//#sub "hh_11_106" んむぅ、出して…それで、終わって
+#sub "hh_11_106" Muu Muu, take out it... So, it's over
 
-//#sub "hs_11_107" 「うっ……うう、……」
-#sub "hs_11_107" 「Ugh... *sob*」
+//#sub "hh_11_107" あぁ…すごい、ぬるぬるしてる
+#sub "hh_11_107" Oh... wow, it's slimy.
 
-//#sub "hs_11_108" 「うっ……うう、……」
-#sub "hs_11_108" 「Ugh... *sob*」
+//#sub "hh_11_108" 精液、すごく熱いね
+#sub "hh_11_108" Semen, it is very hot
 
-//#sub "hs_11_109" 「う゛っ、・・・あぐ、・・」
-#sub "hs_11_109" 「Ugh... hgh...」
+//#sub "hh_11_109" うん・・飲んじゃったけど・・・やっぱり変な味
+#sub "hh_11_109" Yeah... I swallowed it... but it has a weird taste
 
-//#sub "hs_11_110" 「う゛っ、・・・あぐ、・・」
-#sub "hs_11_110" 「Ugh... hgh...」
+//#sub "hh_11_110" うへぇ・・これはやっぱり、飲めないかも
+#sub "hh_11_110" Well... Ugh.  I guess I have a gag reflex after all
 
-//#sub "hs_11_111" 「ん゛ぁっ！あんっ！ふぁっ！」
-#sub "hs_11_111" 「Arg! Heh！Ahahaha！」
+//#sub "hh_11_111" ノドにつっかえて、むせちゃた…
+#sub "hh_11_111" Jamming down my throat like that, you were choking me...
 
-//#sub "hs_11_112" 「んぁっ！あんっ！ふぁっ！」
-#sub "hs_11_112" 「Arg! Heh！Ahahaha！」
+//#sub "hh_11_112" 生臭くて…最悪…
+#sub "hh_11_112" It is filthy... the worst...
 
-//#sub "hs_11_113" 「んぁっ！あんっ！ふぁっ！」
-#sub "hs_11_113" 「Arg! Heh！Ahahaha！」
+//#sub "hh_11_113" もう…生ぬるくって…気持ち悪い
+#sub "hh_11_113" It's already... ticklish... unpleasant
 
-//#sub "hs_11_114" 「ちゅる……んっ……」
-#sub "hs_11_114" 「Slurp... mmmah」
+//#sub "hh_11_114" 無理…こんなの、飲めないから
+#sub "hh_11_114" Impossible... I can not swallow such a thing
 
-//#sub "hs_11_115" 「ちゅる……んっ……」
-#sub "hs_11_115" 「Slurp... mmmah」
+//#sub "hh_11_115" ・・・あははは・・・しろいのぉ…いっっぱいかかっちゃったぁ…
+#sub "hh_11_115" · · · Haha... · · · · · · · · · · It took a lot of...
 
-//#sub "hs_11_116" 「れろ、ん、ちゅるぅ」
-#sub "hs_11_116" 「lick, mmmm, slurp」
+//#sub "hh_11_116" えへへ・・・せーしがぁ…いっぱいでたよぉ・・・あはは
+#sub "hh_11_116" Well... Well... You filled me up to bursting...... Haha
 
-//#sub "hs_11_117" 「れろ、ん、ちゅるぅ」
-#sub "hs_11_117" 「lick, mmmm, slurp」
+//#sub "hh_11_117" ぬるぬるで…あっついよぉ…あははは
+#sub "hh_11_117" It's slimy... It's pretty awful... haha
 
-//#sub "hs_11_118" 「ふぁっ…んんっ…」
-#sub "hs_11_118" 「Ah, ah, he, he, ha」
+//#sub "hh_11_118" ・・え゛ぇ・・・・はぁはぁ
+#sub "hh_11_118" · · Yes· · · · · · Ha ha
 
-//#sub "hs_11_119" 「ふぁっ…んんっ…」
-#sub "hs_11_119" 「Ah, ah, he, he, ha」
+//#sub "hh_11_119" どう動かすのがいいの？
+#sub "hh_11_119" Do you like it when I move like this?
 
-//#sub "hs_11_120" 「（うっ……うう……）」
-#sub "hs_11_120" 「Ugh... *sob*」
+//#sub "hh_11_120" このくらいはどう？　気持ちいい？
+#sub "hh_11_120" How about this much?  Does it feel good?
 
-//#sub "hs_11_121" 「（うっ……うう……）」
-#sub "hs_11_121" 「Ugh... *sob*」
+//#sub "hh_11_121" どうするの？　もっといっぱい動かしてみる？
+#sub "hh_11_121" What to do?  Want me to move a lot more?
 
-//#sub "hs_11_122" 「（う゛っ、・・・あぐ、・・）」
-#sub "hs_11_122" 「Ugh... hgh...」
+//#sub "hh_11_122" これ、気持ちいいの？
+#sub "hh_11_122" Does this feel good?
 
-//#sub "hs_11_123" 「（う゛っ、・・・あぐ、・・）」
-#sub "hs_11_123" 「Ugh... hgh...」
+//#sub "hh_11_123" うわ・・もうパンパン・・我慢しないでだしてね？
+#sub "hh_11_123" Wow... already bursting... don't hold back!
 
-//#sub "hs_11_124" 「（ん゛ぁっ…あんっ…ふぁっ…）」
-#sub "hs_11_124" 「Ahh...ahh...ffu」
+//#sub "hh_11_124" 出したくなったら、出しちゃっていいからね！
+#sub "hh_11_124" If you want to shoot it out, you can shoot it out!
 
-//#sub "hs_11_125" 「（ん゛ぁっ…あんっ…ふぁっ…）」
-#sub "hs_11_125" 「Ahh...ahh...ffu」
+//#sub "hh_11_125" 我慢しないで、いっぱい出してね！
+#sub "hh_11_125" Do not hold back, give me a lot!
 
-//#sub "hs_11_126" 「ふぁ……ん……」
-#sub "hs_11_126" 「Fuaa... mmm...」
+//#sub "hh_11_126" まだ続けなきゃダメなの？
+#sub "hh_11_126" Do I still have to continue?
 
-//#sub "hs_11_127" 「ふぁ……ん……」
-#sub "hs_11_127" 「Fuaa... mmm...」
+//#sub "hh_11_127" いい加減、やめたいんだけど
+#sub "hh_11_127" I want to quit, just stop please
 
-//#sub "hs_11_128" 「ふぁっ、んんぅ」
-#sub "hs_11_128" 「Ah, ah, he, he, ha」
+//#sub "hh_11_128" いつまで続ける気なの
+#sub "hh_11_128" How long do you want to continue?
 
-//#sub "hs_11_129" 「ふぁっ、んんぅ」
-#sub "hs_11_129" 「Ah, ah, he, he, ha」
+//#sub "hh_11_129" さっさと終わらせてよ
+#sub "hh_11_129" Please let me go quickly.
 
-//#sub "hs_11_130" 「ふぁっ！んんっ！」
-#sub "hs_11_130" 「Fuaa! Gah!」
+//#sub "hh_11_130" 何よ？　まさか出す気なの？
+#sub "hh_11_130" What?  Isn't it supposed to shoot out?
 
-//#sub "hs_11_131" 「ふぁっ！んんっ！」
-#sub "hs_11_131" 「Fuaa! Gah!」
+//#sub "hh_11_131" もう、早く出して、終わりにして
+#sub "hh_11_131" Already, pull out early and get to the finish
 
-//#sub "hs_11_132" 「ふぁっ！んんっ！」
-#sub "hs_11_132" 「Fuaa! Gah!」
+//#sub "hh_11_132" 出したら、それで終わりにしてよ
+#sub "hh_11_132" If you do, please make it over with that
 
-//#sub "hs_11_133" 「ん……ちゅっ、んふ……ちゅ」
-#sub "hs_11_133" 「Mmm...slurp...suck」
+//#sub "hh_11_133" もう、はやく・・終わっ・て…
+#sub "hh_11_133" Already, finished...
 
-//#sub "hs_11_134" 「ん……ちゅっ、んふ……ちゅ」
-#sub "hs_11_134" 「Mmm...slurp...suck」
+//#sub "hh_11_134" く・・・もう、やめにしてよ・・・・んっ・・
+#sub "hh_11_134" Stop it already... · · · · · ·
 
-//#sub "hs_11_135" 「ちゅ、ん、ぁむ」
-#sub "hs_11_135" 「Slurp, mmm, mwah」
+//#sub "hh_11_135" もう、こんなの嫌だから・・
+#sub "hh_11_135" I don't want such a thing anymore...
 
-//#sub "hs_11_136" 「ちゅ、ん、ぁむ」
-#sub "hs_11_136" 「Slurp, mmm, mwah」
+//#sub "hh_11_136" 私、こんなのもうやりたくないんだけど！
+#sub "hh_11_136" I don't want to do this anymore!
 
-//#sub "hs_11_137" 「んじゅ……じゅる……んむぅ、んふぅ……んむぅ……」
-#sub "hs_11_137" 「*drool* ...ugh...(thank you)... 」
+//#sub "hh_11_137" 待って？・・また出す気なの？！
+#sub "hh_11_137" Wait?  · · Are you ready again? 
 
-//#sub "hs_11_138" 「んじゅ……じゅる……んむぅ、んふぅ……んむぅ……」
-#sub "hs_11_138" 「*drool* ...ugh...(thank you)... 」
+//#sub "hh_11_138" もういや！　好きにしたら！
+#sub "hh_11_138" I can not bear it anymore!
 
-//#sub "hs_11_139" 「ちゅっ、んっ、ちゅっ、ちゅちゅ」
-#sub "hs_11_139" 「*slurp* ...mmm... *slurp*」
+//#sub "hh_11_139" え？・・・ウソでしょ、出す気なの？
+#sub "hh_11_139" Huh?  · · · You're joking, are you going to cum again?
 
-//#sub "hs_11_140" 「ちゅっ、んっ、ちゅっ、ちゅちゅ」
-#sub "hs_11_140" 「*slurp* ...mmm... *slurp*」
+//#sub "hh_11_140" ちろ……ん、ちゅ、ろう、気持ちひいの？　・・・・ちゅ
+#sub "hh_11_140" *Slup*...., Huh, are you feeling good like this?  · ·*slurp*· ·
 
-//#sub "hs_11_141" 「ん……んんぅ……んじゅ……ぅ……んはぁ……」
-#sub "hs_11_141" 「Mm...ugh...urgh *drool*」
+//#sub "hh_11_141" ちゅ…ろう？…ちろろっ・・よわく・・なめるね？・・れろ・・
+#sub "hh_11_141" *Chup* ... Would you?  A little... Yowaku · · licking?  · ·Rero · ·
 
-//#sub "hs_11_142" 「ん……んんぅ……んじゅ……ぅ……んはぁ……」
-#sub "hs_11_142" 「Mm...ugh...urgh *drool*」
+//#sub "hh_11_142" ちろ・・・つよく・・なめらほうが・・ちろ・・ひい？・・・ちゅっ
+#sub "hh_11_142" *Slurp* · · · good luck · · · *Chup* ・・licking · · · Mmmfsore  .*Chup*.
 
-//#sub "hs_11_143" 「ん、んぅっ、ん、うぅう、んずゅ」
-#sub "hs_11_143" 「Nn, huh, nn, unn, ha」
+//#sub "hh_11_143" ちろ……ん、ちゅ・・イきそうなのぉ？・・・
+#sub "hh_11_143" *Chup* ...... Huh...*Chup*... Does my Onii-san seem to like it?  ...
 
-//#sub "hs_11_144" 「ん、んぅっ、ん、うぅう、んずゅ」
-#sub "hs_11_144" 「Nn, huh, nn, unn, ha」
+//#sub "hh_11_144" ん、ちゅるぅ・・しゅご、カチカチに…はれてるおぉ・・・ちろ・・・・ちゅ
+#sub "hh_11_144" It is swollen...
 
-//#sub "hs_11_145" 「ん、んぅっ、ん、うぅう、んずゅ」
-#sub "hs_11_145" 「Nn, huh, nn, unn, ha」
+//#sub "hh_11_145" んちゅ…舐めたく、ない
+#sub "hh_11_145" I don't want to lick it.
 
-//#sub "hs_11_146" 「ん、んぅっ、ん、うぅう、んずゅ」
-#sub "hs_11_146" 「Nn, huh, nn, unn, ha」
+//#sub "hh_11_146" んふぅ…口が、気持ち悪い
+#sub "hh_11_146" Muuu... mouth is disgusting
 
-//#sub "hs_11_147" 「ん、んぅっ、ん、うぅう、んずゅ」
-#sub "hs_11_147" 「Nn, huh, nn, unn, ha」
+//#sub "hh_11_147" んふぅ…舌が…疲れる
+#sub "hh_11_147" Muhu... tongue... exhausted
 
-//#sub "hs_11_148" 「（んふん……ふん……んっふ……ふん……ふぁ……）」
-#sub "hs_11_148" 「Hnn...umph...huh...urgh...ha」
+//#sub "hh_11_148" うそ、このまま出すの？
+#sub "hh_11_148" What, are you leaving as it is?
 
-//#sub "hs_11_149" 「（んふん……ふん……んっふ……ふん……ふぁ……）」
-#sub "hs_11_149" 「Hnn...umph...huh...urgh...ha」
+//#sub "hh_11_149" ちょ、出す気なの？　やめてよ…？
+#sub "hh_11_149" Would you like to come out?  Quit…?
 
-//#sub "hs_11_150" 「（んふん……ふん……んっふ……ふん……ふぁ……）」
-#sub "hs_11_150" 「Hnn...umph...huh...urgh...ha」
+//#sub "hh_11_150" じゅちゅる…おおきふぎて・・たいへん・・んぁむ…かもぉ…
+#sub "hh_11_150" *Slup* *churp*... somewhere... *slurp* · · celebrate... maybe...
 
-//#sub "hs_11_151" 「（むぁん……むふんっ……ぷもぉ）」
-#sub "hs_11_151" 「*gasp* ...mfuu...mfuu..」
+//#sub "hh_11_151" きもち・・じゅるっ・ひい？　なら・・ん、ちゅ・・いいへどね…
+#sub "hh_11_151" Feeling · *slup*· sore? · If... Huh..  Then... Ah... That's good...
 
-//#sub "hs_11_152" 「（むぁん……むふんっ……ぷもぉ）」
-#sub "hs_11_152" 「*gasp* ...mfuu...mfuu..」
+//#sub "hh_11_152" いっぱい…にゅぷっ…感じれねぇ…じゅちゅ…んぶぅ
+#sub "hh_11_152" Full of you.... But I can not feel it... *slurp* *chup *slup*
 
-//#sub "hs_11_153" 「（むぁん……むふんっ……ぷもぉ）」
-#sub "hs_11_153" 「*gasp* ...mfuu...mfuu..」
+//#sub "hh_11_153" ちゅちゅ…ひいよぉ…じるぢる……ほのまま、だひてぇ…んぶ…じゅぷ…
+#sub "hh_11_153" *Chup* *chu*... *Mmmm*.....*Slup* *slop*...... You are good..... *shlop*...
 
-//#sub "hs_11_154" 「（んもぉ、おごっ、もねぇ、むもぉ）」
-#sub "hs_11_154" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hh_11_154" がまんひないれ…じゅぷんぶ…いっぱい、らひて…びゅずぢゅっ…
+#sub "hh_11_154" Patience... *JuPun*... I'm so full of... *Lala*...... *Juzu*...
 
-//#sub "hs_11_155" 「（んもぉ、おごっ、もねぇ、むもぉ）」
-#sub "hs_11_155" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hh_11_155" んむぅ…苦しいってば
+#sub "hh_11_155" Hmm... I'm struggling
 
-//#sub "hs_11_156" 「（んもぉ、おごっ、もねぇ、むもぉ）」
-#sub "hs_11_156" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hh_11_156" んぐぅ…はやく、やめてよ
+#sub "hh_11_156" Huh... why, stop it.
 
-//#sub "hs_11_157" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
-#sub "hs_11_157" 「*slurp* (cum... in my mouth...) *drool*」
+//#sub "hh_11_157" んふぅ…いいから、終わりにしてよ
+#sub "hh_11_157" Mfuu... OK, come over it
 
-//#sub "hs_11_158" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
-#sub "hs_11_158" 「*slurp* (cum... in my mouth...) *drool*」
+//#sub "hh_11_158" んふぅ…早く、出してってば
+#sub "hh_11_158" Mfuu... If you get out early
 
-//#sub "hs_11_159" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
-#sub "hs_11_159" 「*slurp* (cum... in my mouth...) *drool*」
+//#sub "hh_11_159" んむぅ…さっさと、終わってよ
+#sub "hh_11_159" Mmmm... finish quickly
 
-//#sub "hs_11_160" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
-#sub "hs_11_160" 「*glug* (your cock is... in my mouth...) *gulp*」
+//#sub "hh_11_160" 私のおっぱい、気持ちいいの？
+#sub "hh_11_160" My boobs, do you feel good?
 
-//#sub "hs_11_161" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
-#sub "hs_11_161" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+//#sub "hh_11_161" 挟んで、擦っちゃうからね
+#sub "hh_11_161" I will stroke it and rub it
 
-//#sub "hs_11_162" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
-#sub "hs_11_162" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+//#sub "hh_11_162" どう？　もっと動いちゃった方がいいの？
+#sub "hh_11_162" How?  Should I move more?
 
-//#sub "hs_11_163" 「（んっ…おごっ…）」
-#sub "hs_11_163" 「Hmmm... *gulp*」
+//#sub "hh_11_163" おっぱいで、お兄さんを喜ばせてあげちゃうね！
+#sub "hh_11_163" My tits are all yours, Onii-san!
 
-//#sub "hs_11_164" 「（んっ…おごっ…）」
-#sub "hs_11_164" 「Hmmm... *gulp*」
+//#sub "hh_11_164" こんな感じで大丈夫？
+#sub "hh_11_164" Are you okay with this?
 
-//#sub "hs_11_165" 「（んっ…おごっ…）」
-#sub "hs_11_165" 「Hmmm... *gulp*」
+//#sub "hh_11_165" 私のおっぱいだと、ちゃんとできるか不安なんだけど
+#sub "hh_11_165" I am worried if I can do it properly with my boobs
 
-//#sub "hs_11_166" 「（ちろ……ん、ちゅ……ちろろっ）」
-#sub "hs_11_166" 「*glance* ...slurp....mmmhmmm...」
+//#sub "hh_11_166" このおっぱいで、大丈夫なの…？
+#sub "hh_11_166" Are you okay with this...?
 
-//#sub "hs_11_167" 「（ちろ……ん、ちゅ……ちろろっ）」
-#sub "hs_11_167" 「*glance* ...slurp....mmmhmmm...」
+//#sub "hh_11_167" 一応これでもがんばってるんだけどね、うん
+#sub "hh_11_167" Once at a time, I'm doing my best, yeah.
 
-//#sub "hs_11_168" 「（れろ……んん、ちゅる……）」
-#sub "hs_11_168" 「*slurp*  ...mmm... *suck*」
+//#sub "hh_11_168" 私のおっぱいでいきそうなの？　出していいよ！
+#sub "hh_11_168" Are you going cum all over my boobs?  You can back off!
 
-//#sub "hs_11_169" 「（れろ……んん、ちゅる……）」
-#sub "hs_11_169" 「*slurp*  ...mmm... *suck*」
+//#sub "hh_11_169" 私のおっぱいで、いっぱい出しちゃって・・！
+#sub "hh_11_169" With my boobs, I got a lot of it!
 
-//#sub "hs_11_170" 「（んっ、ちゅるっ、ぴちゅっ、ぺちゅ）」
-#sub "hs_11_170" 「Hmm, *slurp* mmm, *schlurp*」
+//#sub "hh_11_170" 亀頭って、感じちゃうんでしょ？
+#sub "hh_11_170" It feels good on your tip, right?
 
-//#sub "hs_11_171" 「（んっ、ちゅるっ、ぴちゅっ、ぺちゅ）」
-#sub "hs_11_171" 「Hmm, *slurp* mmm, *schlurp*」
+//#sub "hh_11_171" 指でいっぱい弄ってあげるね
+#sub "hh_11_171" I will use my fingers a lot with you
 
-//#sub "hs_11_172" 「（んっ、ちゅるっ、ぴちゅっ、ぺちゅ）」
-#sub "hs_11_172" 「Hmm, *slurp* mmm, *schlurp*」
+//#sub "hh_11_172" こんなに強く弄っても大丈夫なの？
+#sub "hh_11_172" Is it okay if I stroke you this hard?
 
-//#sub "hs_11_173" 「（んぅっ……ん……うぇ……ぐっ……んんっ……）」
-#sub "hs_11_173" 「Ah... ah... ah... haaa」
+//#sub "hh_11_173" ちょと強くしてみる？　こんな感じでどう？
+#sub "hh_11_173" Would you like me to do it harder?  How about like this?
 
-//#sub "hs_11_174" 「（んぅっ……ん……うぇ……ぐっ……んんっ……）」
-#sub "hs_11_174" 「Ah... ah... ah... haaa」
+//#sub "hh_11_174" なんか、もうパンパンなんだけど？
+#sub "hh_11_174" Something is already bad.
 
-//#sub "hs_11_175" 「（ふぐっ！んっ！えぅっ！…）」
-#sub "hs_11_175" 「Huh! Ah! Mmm!」
+//#sub "hh_11_175" 出さないと、爆発しちゃうよ？
+#sub "hh_11_175" Will you explode if I don't make you cum?
 
-//#sub "hs_11_176" 「（ふぐっ！んっ！えぅっ！…）」
-#sub "hs_11_176" 「Huh! Ah! Mmm!」
+//#sub "hh_11_176" 本当に足で感じちゃってるの？
+#sub "hh_11_176" Are you really feeling good with my feet?
 
-//#sub "hs_11_177" 「（ふぐっ！んっ！えぅっ！…）」
-#sub "hs_11_177" 「Huh! Ah! Mmm!」
+//#sub "hh_11_177" 踏まれるのが好きなんて、お兄さんて、ある意味すごいね
+#sub "hh_11_177" Onii-san loves to be stepped on-- that's kind of awesome
 
-//#sub "hs_11_178" 「（ふぐっ！んっ！えぅっ！…）」
-#sub "hs_11_178" 「Huh! Ah! Mmm!」
+//#sub "hh_11_178" 足でするのって・・加減が難しいんだけど
+#sub "hh_11_178" It is tough to be gentle with my feet
 
-//#sub "hs_11_179" 「（んもぉ、おごっ、もねぇ、むもぉ）」
-#sub "hs_11_179" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hh_11_179" 強めに踏んでも、大丈夫なの？
+#sub "hh_11_179" Even if I step on you stronger, are you OK?
 
-//#sub "hs_11_180" 「（んもぉ、おごっ、もねぇ、むもぉ）」
-#sub "hs_11_180" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hh_11_180" 私の足で、いきそうになっちゃってるの？
+#sub "hh_11_180" Are you getting lost with my feet?
 
-//#sub "hs_11_181" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
-#sub "hs_11_181" 「*slurp* (cum... in my mouth...) *drool*」
+//#sub "hh_11_181" 私の足で感じまくっちゃってるのね…うふふ
+#sub "hh_11_181" I'm fascinated with my feet too...
 
-//#sub "hs_11_182" 「（にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……）」
-#sub "hs_11_182" 「*slurp* (cum... in my mouth...) *drool*」
+//#sub "hh_11_182" あちこちに、いっぱいかかっちゃった
+#sub "hh_11_182" There's so much of it here and there
 
-//#sub "hs_11_183" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
-#sub "hs_11_183" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+//#sub "hh_11_183" 精液…どろどろで、すごく熱いね…！
+#sub "hh_11_183" Semen... mushy, it is very hot too...!
 
-//#sub "hs_11_184" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
-#sub "hs_11_184" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+//#sub "hh_11_184" んぐ・・・・んふぅ・・うん…まぁ、変な味だね、うん
+#sub "hh_11_184" Well... well, well, it is a strange taste, yeah
 
-//#sub "hs_11_185" 「（ぐっぽん……ぱも……はぽ……んぼ……）」
-#sub "hs_11_185" 「*glug* (my Onii-san is... in my mouth...) *gulp*」
+//#sub "hh_11_185" ん・・んぐ・・ふぅ・・全部飲んじゃったからね…うふふ
+#sub "hh_11_185" *gulp* I... I swallowed everything... Uufu
 
-//#sub "hs_11_186" 「（んぅっ……ん……うぇ……ぐっ……んんっ……）」
-#sub "hs_11_186" 「Ah... ah... ah... haaa」
+//#sub "hh_11_186" （んべぇ…んはぁ）
+#sub "hh_11_186" (Hey, well)
 
-//#sub "hs_11_187" 「（んぅっ……ん……うぇ……ぐっ……んんっ……）」
-#sub "hs_11_187" 「Ah... ah... ah... haaa」
+//#sub "hh_11_187" （んふぅ…べぇ…）
+#sub "hh_11_187" (Huhu... ba...)
 
-//#sub "hs_11_188" 「（ふぐっ！んっ！えぅっ！…）」
-#sub "hs_11_188" 「Huh! Ah! Mmm!」
+//#sub "hh_11_188" だめ、なんか、飲めない
+#sub "hh_11_188" No, I can not swallow it.
 
-//#sub "hs_11_189" 「（ふぐっ！んっ！えぅっ！…）」
-#sub "hs_11_189" 「Huh! Ah! Mmm!」
+//#sub "hh_11_189" げほ・・げほ・・・なんかちょっと、飲み難いかもぉ…
+#sub "hh_11_189" Cloudy... goopy... it's something that's a little bit difficult to swallow...
 
-//#sub "hs_11_190" 「（ふぐっ！んっ！えぅっ！…）」
-#sub "hs_11_190" 「Huh! Ah! Mmm!」
+//#sub "hh_11_190" ぬるぬるして…気持ち悪いんだけど
+#sub "hh_11_190" I feel slimy... I feel sick.
 
-//#sub "hs_11_191" 「（ふぐっ！んっ！えぅっ！…）」
-#sub "hs_11_191" 「Huh! Ah! Mmm!」
+//#sub "hh_11_191" 変な所にかけないでよ！
+#sub "hh_11_191" Do not put it on a weird place!
 
-//#sub "hs_11_192" 「ふはぁぁ……はぁあ……はひ……あは……あはぁ……ぁは……」
-#sub "hs_11_192" 「Ahaaa... ah... ah... ah... haaaa...」
+//#sub "hh_11_192" ぶふっ・・おぇ、・・げほ、げほ・・くっ・・
+#sub "hh_11_192" Oh, oh,...............
 
-//#sub "hs_11_193" 「ひはぁ……はぁあ……はひ……あは……あはぁ……ぁは……」
-#sub "hs_11_193" 「Ahaaa... ah... ah... ah... haaaa...」
+//#sub "hh_11_193" もういや・・・気持ち悪い・
+#sub "hh_11_193" I don't feel bad anymore ·
 
-//#sub "hs_11_194" 「んやぁ…ふあぁ…んんぅ……あぁ…」
-#sub "hs_11_194" 「Kyaa! fua... ah... ha...  」
+//#sub "hh_11_194" で、このまま続けちゃって大丈夫？
+#sub "hh_11_194" So, you can continue as it is, okay?
 
-//#sub "hs_11_195" 「あはぁ…あ、あぁ……ん、んん…」
-#sub "hs_11_195" 「Ooooa! mmmmhmmmm... mmm...」
+//#sub "hh_11_195" すぐに続けちゃっていいんだ・・お兄さん、強いね♪
+#sub "hh_11_195" You can continue right away... Onii-san, you are strong 
 
-//#sub "hs_11_196" 「んっく！う……あ……あ゛ぁ……やぁ……」
-#sub "hs_11_196" 「Uhhh! You... your... your cock...」
+//#sub "hh_11_196" イったばかりだけど、すぐ続けちゃっていいの？
+#sub "hh_11_196" You just did it, but can you continue right now?
 
-//#sub "hs_11_197" 「んぁっ！？やぁ……んぁ……うくぅ……」
-#sub "hs_11_197" 「Uhh!? huh... huh... *sigh*」
+//#sub "hh_11_197" すごい、またいきそうになってる
+#sub "hh_11_197" It's amazing, it's gonna be bad again
 
-//#sub "hs_11_198" 「んあぁぁっ……あっ……あっ……」
-#sub "hs_11_198" 「Ahhh ah ah」
+//#sub "hh_11_198" いいよ、お兄さんの気が済むまで出しちゃって！
+#sub "hh_11_198" Okay, now get out until my Onii-san's disgusting shit is finished!
 
-//#sub "hs_11_199" 「んぁ…あぁ…ぁ」
-#sub "hs_11_199" 「Aaaagh」
+//#sub "hh_11_199" こんなの、もう続けたくないわよ！
+#sub "hh_11_199" I don't want to continue like this anymore!
 
-//#sub "hs_11_200" 「はぁ…んふぅ……あぁ…」
-#sub "hs_11_200" 「Mmmm ah ha...」
+//#sub "hh_11_200" いやなの！　もう、いい加減して！
+#sub "hh_11_200" I don't like that!  Alright, now!
 
-//#sub "hs_11_201" 「（んんぶぅ！！んん…んぉ……んぶ…へぁ……んふ）」
-#sub "hs_11_201" 「Mmmmmm!!! *slurp*」
+//#sub "hh_11_201" さっき出したんだから、もう終わってよ！
+#sub "hh_11_201" I got it just a while ago, please close it!
 
-//#sub "hs_11_202" 「（んぐんん！！んぁ…んん……んふぅ……ぁ……むふん）」
-#sub "hs_11_202" 「Mmmmmm!!! *ssluurrp*」
+//#sub "hh_11_202" 何よ、また出すの？　もうやめて！
+#sub "hh_11_202" What are you going to take it out again?  stop it!
 
-//#sub "hs_11_203" 「（んふぅぅっ！！
-#sub "hs_11_203" ""Huhuu!
+//#sub "hh_11_203" まだ出すの？　どうしてそんなに出しちゃうのよ！
+#sub "hh_11_203" Is your cock still out?  How are you even cumming so much!
 
-//#sub "hs_11_204" 「（ふぶぅぅっ！！んく……んく……んふっ……んんぅ……んぐっんぐっ……）」
-#sub "hs_11_204" 「Mmmmmmhmm...!! *puff pant*」
+//#sub "hh_11_204" いやよ、もう十分でしょ！
+#sub "hh_11_204" Absolutely enough already!
 
-//#sub "hs_11_205" 「（んぐぅ…んん…ぅ）」
-#sub "hs_11_205" 「*gasp*」
+//#sub "hh_11_205" どうして続けるの！　さっきので終わってよ！
+#sub "hh_11_205" How do you keep going!  Please finish earlier!
 
-//#sub "hs_11_206" 「（むぅう…んふぅ……ん…）」
-#sub "hs_11_206" 「*shriek*」
+//#sub "hh_11_206" いい加減に、満足してよ！
+#sub "hh_11_206" To no avail, please be satisfied!
 
-//#sub "hs_11_207" 「あっああぁぁぁぁ―――――っ！ふぁっ、っぅぐ……っんぁ！……」
-#sub "hs_11_207" 「Ahhhaaaaa..........!!! Ffffu... ha.... huh...」
+//#sub "hh_11_207" ウソでしょ？　どうしてまだ出せるの？
+#sub "hh_11_207" It's a joke, isn't it?  How are you still going?
 
-//#sub "hs_11_208" 「ひあっ！！―――――っ―――――っ……っあ！っあ！っあ……」
-#sub "hs_11_208" 「Aiyaaaa!!.............Ah!...ah....ah...」
+//#sub "hh_11_208" もういや、これで最後にしてよ！
+#sub "hh_11_208" No more, please call it off!
 
-//#sub "hs_11_209" 「んくうぅぅぅぅぅぅ～～～～～っ！！！……んんっ！……んっんっ……」
-#sub "hs_11_209" 「Aiyaaaa!!.............Ah!...ah....ah...」
+//#sub "hh_11_209" んちゅ・・・まら・・ん・・いっぱい・なめへ・・ちゅ・・あげるぅ…んふ
+#sub "hh_11_209" I'm so full of licks, I will wrap my lips...
 
-//#sub "hs_11_210" 「ん゛ん゛ん゛ん゛っっっ～～～～～～～～～～っ！！！……んくぅっ……」
-#sub "hs_11_210" 「Ah, ah aaaaaagh........!!! *Gasp*」
+//#sub "hh_11_210" まらまら・・んん・・・なめへあげるねぇ…ちゅちゅ・・
+#sub "hh_11_210" I'll give you a lick... *slurp*......
 
-//#sub "hs_11_211" 「はぁひぃっっ～～～～！！！！いひぃっあ゛ぁぁぁぁぁ～～～～～っ！！！！」
-#sub "hs_11_211" 「Mmmmmhmmm.......!!Aaaahhh....!!」
+//#sub "hh_11_211" おにぃひゃん…まら・・イっちゃうろ？　んちゅ・・んふ
+#sub "hh_11_211" Onii-chan... *Mmmmfh*?  Huh
 
-//#sub "hs_11_212" 「うぁはぁぁぁぁぁっ―――――っ！！！、あはっあはっあはっぬはぁ！おほ、おぉ゛ーっ」
-#sub "hs_11_212" 「Ahaaahehe.....!! ehehehehe! ehehehe...」
+//#sub "hh_11_212" ちゅ・・・れそうなの？　おにいひゃん…んふぅ・・・むちゅ・・
+#sub "hh_11_212" It's so big! It's like a... cucumber...
 
-//#sub "hs_11_213" 「うぅぅぅ～～～～！！！！ひんっぐぅぅ～～～～～っ！！！！」
-#sub "hs_11_213" 「Eyaaa.....!!!Aaaah.......」
+//#sub "hh_11_213" いつまで舐めさせる気よ
+#sub "hh_11_213" I'm going to let you lick it
 
-//#sub "hs_11_214" 「んはぁぁぁぁぁっ―――――っ！！！うっうっうっうぎぃ・・」
-#sub "hs_11_214" 「Aaaaaaaghhhh.......!!! *moan*」
+//#sub "hh_11_214" んちゅ…もう舐めたくないのにぃ
+#sub "hh_11_214" Muchu... I don't want to lick it anymore
 
-//#sub "hs_11_215" 「あっああぁぁぁぁ―――――っ！ふぁっ、っぅぐ……っんぁ！……」
-#sub "hs_11_215" 「Kyaaaa....!!! *puff pant*」
+//#sub "hh_11_215" 出るの？　はやく出してよ
+#sub "hh_11_215" Are you cumming?  Cum soon.
 
-//#sub "hs_11_216" 「んはぁぁぁぁぁっ―――――っ！！！うっうっうっうぎぃ・・」
-#sub "hs_11_216" 「Aaaaaaaghhhh.......!!! *moan*」
+//#sub "hh_11_216" まだ、出すの？　早く全部出してよ…
+#sub "hh_11_216" Are you still full?  Get it all out soon...
 
-//#sub "hs_11_217" 「あっああぁぁぁぁ―――――っ！ふぁっ、っぅぐ……っんぁ！……」
-#sub "hs_11_217" 「Kyaaaa....!!! *puff pant*」
+//#sub "hh_11_217" まら・・びゅじゅ・・・・じゅ・じゅぅ…おくひで…くわへちゃうからぁ…んふぅ・
+#sub "hh_11_217" *Muwaaah* · · ·*bjjju* · · I'm going to· · *Huhn* · ·
 
-//#sub "hs_11_218" 「んはぁぁぁぁぁっ―――――っ！！！うっうっうっうぎぃ・・」
-#sub "hs_11_218" 「Aaaaaaaghhhh.......!!! *moan*」
+//#sub "hh_11_218" んじゅ・・いっはい・・おくちで・・ひてあげるぅ…じゅぶ・・
+#sub "hh_11_218" Let's finish... Juu...
 
-//#sub "hs_11_219" 「（んふううぅぅ―っ、ん、んぅぅ…！）」
-#sub "hs_11_219" 「Mmmmmmmmmmm!! huh...」
+//#sub "hh_11_219" んぶ、・・・まは・・・んふぅ・・いっひゃうのね？　あはは
+#sub "hh_11_219" Mmm...... Muhu... Well, huh?  Haha
 
-//#sub "hs_11_220" 「（んむうううぅぅ―っ、ん、んぐぅぅ…！）」
-#sub "hs_11_220" 「Mmmmmmmmmmm!! huh...」
+//#sub "hh_11_220" じゅぶぅ・・・らしていいから・・んぶ…おくちに、らして・・んっ、んふぅ
+#sub "hh_11_220" Juuu · · You can do it· · ·Mmm...Here it comes · ·*Huhuu*
 
-//#sub "hs_11_221" 「（んっ…ふぅ…うぅ…）」
-#sub "hs_11_221" 「Mmmm...uh...uh」
+//#sub "hh_11_221" むふぅ…苦しい
+#sub "hh_11_221" Mufu... painful
 
-//#sub "hs_11_222" 「（んむぅ…ん、んぐぅ…）」
-#sub "hs_11_222" 「Hmmmm...ugh...」
+//#sub "hh_11_222" むぅ…もう、いい加減に、してよぉ…
+#sub "hh_11_222" Muu... I'm sorry to keep it short...
 
-//#sub "hs_11_223" 「（ん゛ぶうぅぅ～～～～～～っ！！！……んぐっ！……んっ！）」
-#sub "hs_11_223" 「Ahaaaa!!!! Agh! Ah! ah....」
+//#sub "hh_11_223" んん…いやぁ、また出すの？
+#sub "hh_11_223" Mmm... Well, are you going to do it again?
 
-//#sub "hs_11_224" 「（おぶ、うぅぅ～～～～～～っ！！！ふぶっ、んんぉ……）」
-#sub "hs_11_224" 「Ahaaaa!!!! Agh! Ah! ah....」
+//#sub "hh_11_224" むぅ…もうやめてぇ、出さないで…
+#sub "hh_11_224" Mu... stop it, don't pull it out...
 
-//#sub "hs_11_225" 「（むぐぅ…むぅう、うぅ…）」
-#sub "hs_11_225" 「Ahhh ah ah」
+//#sub "hh_11_225" はぁ…いっぱい、かかっちゃった…お兄さん、出しすぎぃ
+#sub "hh_11_225" Huh... a lot of it came out... Onii-san, you cum too much
 
-//#sub "hs_11_226" 「（ん、んふぅ……んむぅ…）」
-#sub "hs_11_226" 「Ahhh ah ah」
+//#sub "hh_11_226" まだ、こんなに出てきちゃうなんて…どこから湧いてくるの？
+#sub "hh_11_226" It can't come out so much... Where is it even coming from?
 
-//#sub "hs_11_227" お兄さん、優しくしてね
-#sub "hs_11_227" Please Onii-san, be gentle
+//#sub "hh_11_227" うぐ・・・はぁ…もう、量が多いから…すぐに飲み切れない
+#sub "hh_11_227" There is so much... I can not swallow it right away
 
-//#sub "hs_11_228" お兄さんにお任せしちゃうね
-#sub "hs_11_228" I will leave it to you Onii-san
+//#sub "hh_11_228" れえぇ・・量多すぎて、飲めないってばぁ
+#sub "hh_11_228" Mmmfffgh.... I have too much in my mouth and I can not swallow it
 
-//#sub "hs_11_229" お兄さん、一緒に気持ちよくなりたいね
-#sub "hs_11_229" Onii-san, I want to cum together
+//#sub "hh_11_229" げほ、げほげほ・・だめ、ノドに絡まっちゃう
+#sub "hh_11_229" *cough* *cough* · · · No, it gets all stuck in my throat
 
-//#sub "hs_11_230" 一緒に、楽しい時間にしたいね！
-#sub "hs_11_230" Let's have some fun
+//#sub "hh_11_230" はぁ…もういや、何回も出さないで
+#sub "hh_11_230" Haa... No, don't shoot it out again
 
-//#sub "hs_11_231" なんだか、ドキドキする
-#sub "hs_11_231" Oh it pounds...
+//#sub "hh_11_231" 出すなら、一回で全部出してよ
+#sub "hh_11_231" If you shoot it out, shoot it all out at once
 
-//#sub "hs_11_232" 変なの、ちょっと緊張しちゃうね
-#sub "hs_11_232" It's weird I'm a bit nervous
+//#sub "hh_11_232" ・・げほ、げほ・・・こんな量、飲めるワケないでしょ！
+#sub "hh_11_232" · · · *cough* *cough*... I cannot swallow all this!
 
-//#sub "hs_11_233" お兄さん、よろしくね
-#sub "hs_11_233" Onii-san, please.
+//#sub "hh_11_233" むぅ…げほ、げほ…むりぃ…気持ち・悪いってばぁ…
+#sub "hh_11_233" Muu... *cough*, *cough*... You're killing me.. Ughhh I feel horrible...
 
-//#sub "hs_11_234" おっぱいが、ちょっと苦しいけど…全然、嫌じゃない
-#sub "hs_11_234" Breasts are a little bit sensitive, but... it doesn't bother me at all
+//#sub "hh_11_234" それじゃあ、私がお兄さんを喜ばせてあげちゃうよぉ！
+#sub "hh_11_234" Well then, I will make my Onii-san happy!
 
-//#sub "hs_11_235" やっぱり…ちょっと緊張しちゃうね…
-#sub "hs_11_235" I'm a bit nervous...
+//#sub "hh_11_235" 遠慮しないで、いっぱい気持ちよくなってね！
+#sub "hh_11_235" Do not hold back, let it all out!
 
-//#sub "hs_11_236" 私ね、キスとかして欲しいねぇ
-#sub "hs_11_236" I don't want to kiss you
+//#sub "hh_11_236" まだまだ、もっと気持ちよくしてあげる！　あはは
+#sub "hh_11_236" I will make you feel so good!  Haha
 
-//#sub "hs_11_237" よろしくね、お兄さん！　期待してるからね！
-#sub "hs_11_237" Hello Onii-san!  I was expecting you!
+//#sub "hh_11_237" どう？　気持ちいい？　大丈夫、もっと続けちゃうよぉ！
+#sub "hh_11_237" How?  Does it feel good?  All right, I will continue more!
 
-//#sub "hs_11_238" お兄さんに、たくさん気持ちよくしてもらいたいなぁ！
-#sub "hs_11_238" I want my Onii-san to have lots of fun!
+//#sub "hh_11_238" いいよ、思いっきり出しちゃって！
+#sub "hh_11_238" Okay, I got it all out!
 
-//#sub "hs_11_239" お兄さんとエッチして、いっぱい気持ちよくなりたいなぁ！
-#sub "hs_11_239" I'd like to really enjoy myself with my Onii-san!
+//#sub "hh_11_239" 出すの？　だったら、ガマンしないで出してぇ！
+#sub "hh_11_239" Is it still coming? Please do not pass out!
 
-//#sub "hs_11_240" お兄さん…早く、エッチしちゃおうよ、ね！
-#sub "hs_11_240" Onii-san... hurry!
+//#sub "hh_11_240" いいよぉ！　このまま全部出しちゃってぇ…！
+#sub "hh_11_240" OK!  Please leave it all this way...!
 
-//#sub "hs_11_241" お兄さんとだったら、絶対気持ちよくなれるって、私、信じてるからね！
-#sub "hs_11_241" When I'm with you Onii-san, it really makes me feel good!
+//#sub "hh_11_241" おいしぃ…ろう？　きもひいいでしょ？…んちゅ
+#sub "hh_11_241" Tasty... huh?  It's so good!
 
-//#sub "hs_11_242" それじゃあ、思いっきりエッチしちゃおうね！　お兄さんの事、信頼してるから、よろしくね！
-#sub "hs_11_242" Well then, let's be awesome together!  I trust you baby, so please take all the time you want!
+//#sub "hh_11_242" んちゅ…あぁぁん、あつくって、なんか、味がするみたい…
+#sub "hh_11_242" Muchu... Ayan, making it hot, something, seems to taste...
 
-//#sub "hs_11_243" あんまり、その気ないんだけど
-#sub "hs_11_243" Not much, but I don't care
+//#sub "hh_11_243" どう、きもちいい？　もっと感じさせてあげちゃう！
+#sub "hh_11_243" How is it?  I will make you cum even more!
 
-//#sub "hs_11_244" 気分が乗らないんだけど
-#sub "hs_11_244" I don't feel like it.
+//#sub "hh_11_244" ろう、私のご奉仕は、気持ちいい？　だったら、もっとしてあげちゃう！
+#sub "hh_11_244" Baby, Do you feel good in my mouth?  Then, I will give you more!
 
-//#sub "hs_11_245" あんまりやる気、ないと思う
-#sub "hs_11_245" I'm not really into it, I do not think so.
+//#sub "hh_11_245" いいよぉ？　私の、舌で気持ちよくなっちゃてねぇ！
+#sub "hh_11_245" OK?  My, my tongue makes you feel better!
 
-//#sub "hs_11_246" あんまり楽しめないと思う
-#sub "hs_11_246" I don't think I'll enjoy this much
+//#sub "hh_11_246" いいから！　そのまま、いっぱい出してぇ！
+#sub "hh_11_246" Okay! Time for you to give me lots of sperm!
 
-//#sub "hs_11_247" 別に、一緒にいたくないかなぁ
-#sub "hs_11_247" I do wonder if I want to be with you
+//#sub "hh_11_247" 我慢しないで、全部出しちゃってぇ！
+#sub "hh_11_247" Do not hold back, get it all out!
 
-//#sub "hs_11_248" もう帰りたいんだけど
-#sub "hs_11_248" I already want to go home
+//#sub "hh_11_248" んぶぅ…んはぁ…お兄さんの、これ、すっごく、大きいねぇ…あはは
+#sub "hh_11_248" Huh... Huh Onii-san, this is sooooo big!
 
-//#sub "hs_11_249" お任せです！　私がんばっちゃいますよ、お兄さん！
-#sub "hs_11_249" You can be in charge, but I'm doing my very best, Onii-san!
+//#sub "hh_11_249" んふぅ…咥えるだけで、なんだか、興奮してきちゃう
+#sub "hh_11_249" Muuu... just getting in, I get excited somehow
 
-//#sub "hs_11_250" 私がお兄さんを気持ちよくしちゃいます！　よろしくです！
-#sub "hs_11_250" I will make my Onii-san feel good!  It's so nice of you to drop by!
+//#sub "hh_11_250" そのまま…私のお口で、いっぱい出してねぇ
+#sub "hh_11_250" Don't drown me, you're in my mouth, remember?
 
-//#sub "hs_11_251" 大丈夫ですよ！　私ががんばってお兄さんを喜ばしちゃいますからね
-#sub "hs_11_251" No problem!  I will try my hardest to please my Onii-san
+//#sub "hh_11_251" いいから、我慢しないでたくさん出しちゃってね…あはは
+#sub "hh_11_251" Okay, don't hold back, give me lots...
 
-//#sub "hs_11_252" 二人でいっぱいエッチしましょうね！　私、張り切っちゃいますよ
-#sub "hs_11_252" Let's fuck baby!  It'll be great
+//#sub "hh_11_252" お兄さんの精液、いっぱい出してぇ！
+#sub "hh_11_252" Fill me with my Onii-san's semen!
 
-//#sub "hs_11_253" お兄さんの事、いっぱい気持ちよくしちゃいますよ、お任せあれぇ！
-#sub "hs_11_253" I will make you feel VERY good Onii-san, leave it to me!
+//#sub "hh_11_253" 我慢しないで、好きなだけ出しちゃってぇ！
+#sub "hh_11_253" Do not hold back, just let out as much as you want!
 
-//#sub "hs_11_254" 大丈夫です！　がんばって、お兄さんのご期待に応えちゃいますよぉ！
-#sub "hs_11_254" It's okay!  Let's just do our best, I swear I will meet your expectations!
+//#sub "hh_11_254" すごぉい、熱いのが、いっぱいかかっちゃったぁ
+#sub "hh_11_254" It was awesome, it was hot, and there's so much!
 
-//#sub "hs_11_255" お、お兄さん、すぐに続けるのは、待ってよぉ
-#sub "hs_11_255" Oh, Onii-san, I will keep all my promises to you, just you wait
+//#sub "hh_11_255" これ、どろどろで…すごく熱いよぉ
+#sub "hh_11_255" This is muffled... It's really hot
 
-//#sub "hs_11_256" 連続は、ちょっときついってばぁ
-#sub "hs_11_256" I'm sorry, I'm still a little tight.
+//#sub "hh_11_256" ねぇ、お兄さん…こんなに出しても、まだ元気なんでしょ？　うふふ
+#sub "hh_11_256" Hey, Onii-san... Even if you cum so much, you are still okay, right?  Just checking.
 
-//#sub "hs_11_257" またすぐに始めちゃうのぉ？　疲れちゃうんじゃないの？
-#sub "hs_11_257" We're going again?  Are you not exhausted?
+//#sub "hh_11_257" んぐ・・ふぅ・・すっごく、おいしい気がする
+#sub "hh_11_257" Your sperm tastes so good.
 
-//#sub "hs_11_258" お兄さん、もう続けられるんだ？　すごいね
-#sub "hs_11_258" Oh Onii-san, you're still going?  You're amazing
+//#sub "hh_11_258" ん、んむぅ…はぁ…のど越しが…生ぬるぅ～い
+#sub "hh_11_258" I love the way your sperm tastes!
 
-//#sub "hs_11_259" 私、ちょっと休みたかったんだけど、まぁいいか！
-#sub "hs_11_259" I want to take a break for a while, OK?
-
-//#sub "hs_11_260" 本当にすぐ続けちゃうのぉ？　私、まだ感覚が…
-#sub "hs_11_260" Are you really going again?  I'm still shaking...
-
-//#sub "hs_11_261" えっと、待ってよぉ…少し休ませてよぉ！
-#sub "hs_11_261" Well, wait a minute... let me rest a while!
-
-//#sub "hs_11_262" お兄さん、回復力ありすぎなんじゃないの？
-#sub "hs_11_262" Onii-san, you're got more stamina than me...
-
-//#sub "hs_11_263" お兄さん、続けるの早すぎ！　少しくらい休めばいいのにぃ
-#sub "hs_11_263" Onii-san, it is too early to continue!  I wish I could take a little rest.
-
-//#sub "hs_11_264" さすがお兄さん、連続でできちゃう体力、大好きかも！
-#sub "hs_11_264" Just as I thought Onii-san, you just keep going, Oh I love you!
-
-//#sub "hs_11_265" お兄さんがんばっちゃうね！　私だって負けてられないね！
-#sub "hs_11_265" I'm giving my best today Onii-san!  You won't out-fuck me!
-
-//#sub "hs_11_266" いいよ！　私は続けても全然OKだからね…うふふ
-#sub "hs_11_266" OK!  Even if I do go on, it is OK...  Uh, naah...
-
-//#sub "hs_11_267" 私、お兄さんだったら、続けてできるって思ってた…！
-#sub "hs_11_267" Because we're family I thought I could just keep going...!
-
-//#sub "hs_11_268" 大丈夫だよ、お兄さん！　もっといっぱい続けていいから！
-#sub "hs_11_268" It's all right, Onii-san!  You can keep going i can take a lot more!
-
-//#sub "hs_11_269" まだまだできちゃうんなんて、すごいね！　もっと気持ちよくしてねぇ！
-#sub "hs_11_269" It is amazing how you can do it!  Please call it quits already!
-
-//#sub "hs_11_270" まだ続ける気なの？
-#sub "hs_11_270" Do you still want to keep going?
-
-//#sub "hs_11_271" いや、もうやめてよ！
-#sub "hs_11_271" No, stop it!
-
-//#sub "hs_11_272" やめて・・もう終わってよ・・
-#sub "hs_11_272" Stop it... end it already...
-
-//#sub "hs_11_273" 疲れてるから、終わりにして・・
-#sub "hs_11_273" I am tired, so please get to the end...
-
-//#sub "hs_11_274" いや・・もうやめてよ・・・
-#sub "hs_11_274" No... stop it already...
-
-//#sub "hs_11_275" もう、やめて・・休みたいのよ
-#sub "hs_11_275" Stop already... I'm going to need tomorrow off...
-
-//#sub "hs_11_276" まだ続けるんですか？　さすがお兄さん、すごいですね
-#sub "hs_11_276" Are you still going on?  As expected, my Onii-san is incredible
-
-//#sub "hs_11_277" まだ続けるんですか？　き、きついけど、がんばります
-#sub "hs_11_277" Are you still going on?  I'm very tight, but I will do my best.
-
-//#sub "hs_11_278" あの…休まないんですか？　だったら、私もがんばります、
-#sub "hs_11_278" Um, are not you resting?  Well, I will do my best too, then
-
-//#sub "hs_11_279" お兄さん、続けちゃうんですね？　もちろん、私もできちゃいますよ、多分
-#sub "hs_11_279" Does my Onii-san want to keep going?  Of course I can do it too, probably
-
-//#sub "hs_11_280" まだ続けるんですか？　わ、私はいいけど…お兄さんの体力が心配…
-#sub "hs_11_280" Are you still going on?  I'm fine, but I am worried you'll give out soon Onii-san...
-
-//#sub "hs_11_281" すぐに、続けちゃうんですか？　さすがお兄さん、回復力すごい…
-#sub "hs_11_281" Will you continue soon? Truly Onii-san, your stamina is amazing...
-
-//#sub "hs_11_282" はぁはぁ、もうらめ・・もう壊れちゃうからぁぅ・・
-#sub "hs_11_282" Ha ha, buddy... You'll break me...
-
-//#sub "hs_11_283" まっれっよぉ・・・もうむり・・・らめへぇ・・
-#sub "hs_11_283" For sure · · · This is already not right · · ·  · · ·
-
-//#sub "hs_11_284" はぁ、はぁ、はぁ、くりゅしい、もう、くりゅしぃのぉ
-#sub "hs_11_284" Haa, ha, ha, already, Kurisui
-
-//#sub "hs_11_285" もうりゃめへぇ、おかひくなひゃうからぁ・・
-#sub "hs_11_285" Too bad, okay?
-
-//#sub "hs_11_286" らめぇ、きもち゛ひい、きもちひいぃからぁ・・！！
-#sub "hs_11_286" Nnngh, it feels so good, wow! It feels soooooo good Hiiighhhng  Oh yes!
-
-//#sub "hs_11_287" こんなに、きもひよしゅぎて、こわれ、ひゃうぅ…！
-#sub "hs_11_287" Punish me, break me, make me suffer!
-
-//#sub "hs_11_288" もうらめぇ、　もうむり・・こりぇいりょうはぁ、おかひくなるぅ…
-#sub "hs_11_288" Let's give it up, I'm already exhausted... Unngh, you know, it will be okay...
-
-//#sub "hs_11_289" もっほぉ…は、はげひくひれ、ほしいのぉ…！！
-#sub "hs_11_289" You...... I want to..., oh...!  Oh yess!
-
-//#sub "hs_11_290" いいのぉ…もぉっろ、いっぱい…きもひよくひてぇ…
-#sub "hs_11_290" Okay... oh well... so many... too many...
-
-//#sub "hs_11_291" しゅごい、いい、きもちよくて、むひゃくひゃになっひゃうぅ！！
-#sub "hs_11_291" Good, nice, oh fuck yes, oh god!  Oh yesss!
-
-//#sub "hs_11_292" こ、こんにゃにょいやぁ・・・・もうやめへぇ…
-#sub "hs_11_292" Thank you, but...... I will stop...
-
-//#sub "hs_11_293" りゃめて、もうおかひくなっひゃう！
-#sub "hs_11_293" Ohh baby... will you cum? I need it in me!
-
-//#sub "hs_11_294" もうひやなのぉ、もうひゃめてぇ！！
-#sub "hs_11_294" Happy already
-
-//#sub "hs_11_295" しゅごぉいですよぉ、きもちおよくなっちゃてまふぅ
-#sub "hs_11_295" Ohhh this is okay, you feel great
-
-//#sub "hs_11_296" はぁ、はぁ、もうらめれすぅ、かららがおかひくなってまふぅ…
-#sub "hs_11_296" Haa, haa, I'm going to be wrecked, I'm floating...
-
-//#sub "hs_11_297" らめれすよぉぇ…もうおかひいですからぁ…
-#sub "hs_11_297" Let's do it hard baby... We've got a long night ahead of us...
-
-//#sub "hs_11_298" あは、あはは、きもひぃねぇ・・・あはは・・・しゅごいきもりひぃ・・
-#sub "hs_11_298" Ah, ahahaha, feels nice hee hee...
-
-//#sub "hs_11_299" きもひよふってぇ…もう、なんれもいいのぉ…あははは
-#sub "hs_11_299" Yes baby, anything is okay... Haha
-
-//#sub "hs_11_300" ・・あはは・・もっろぉ・・・・ひっぱい・・・きもひよくひてぇ・・・あははは・・
-#sub "hs_11_300" · · Haha, Hello... 
-
-//#sub "hs_11_301" もう、きもひよふぎて・・・おかしいのぉ・・・あはは・・
-#sub "hs_11_301" Already...... It's funny... aha...
-
-//#sub "hs_11_302" なんだか、慣れてきたみたい
-#sub "hs_11_302" Hehe... it seems I'm getting used to this
-
-//#sub "hs_11_303" いいよ、ちょっとぐらい激しくても…大丈夫だと思うよ
-#sub "hs_11_303" Okay, this is a little intense... but I am okay with that
-
-//#sub "hs_11_304" 前より、ちょっと慣れてきた気がする
-#sub "hs_11_304" I think I'm getting used to a bit more
-
-//#sub "hs_11_305" 前より、感じやすくなってきたかも
-#sub "hs_11_305" It may be easier to feel than before
-
-//#sub "hs_11_306" ちょっと、前より感じるようになってきたみたい…お兄さんのおかげかな
-#sub "hs_11_306" That feels really nice...and it's thanks to my Onii-san
-
-//#sub "hs_11_307" お兄さんのおかげで、全然楽になってきたよ
-#sub "hs_11_307" Thanks to my Onii-san, it's easy for me to have sex.
-
-//#sub "hs_11_308" なんだか、前より感じやすくなってるかも…お兄さんが相手だからかな？
-#sub "hs_11_308" I think it's easier to have sex since you came along... Are you my boyfriend, Onii-san?
-
-//#sub "hs_11_309" 最近、エッチに慣れてきた気がするんだよね…お兄さんのおかげだよ
-#sub "hs_11_309" Lately I feel like I'm getting used to sex... I owe it to my Onii-san
-
-//#sub "hs_11_310" お兄さんが気持ちよくしてくれるから感じ易くなってきたかも
-#sub "hs_11_310" It may be easier to have sex because my Onii-san makes it good
-
-//#sub "hs_11_311" お兄さんとエッチしてるから…なんだかエッチに慣れてきちゃったみたい…あはは
-#sub "hs_11_311" Because I'm hanging out with my Onii-san... It seems that somehow I got used to fucking... haha
-
-//#sub "hs_11_312" 私、お兄さんの所為で、すっごくエッチな体になってきちゃった…責任とってね？
-#sub "hs_11_312" You've turned your little sister into quite the slut Onii-san *grin*
-
-//#sub "hs_11_313" お兄さんが私にエッチな事ばっかりするから、体までエッチになってきちゃった…うふふ
-#sub "hs_11_313" Because my Onii-san wants me so much, I am getting fucked... Uufu
-
-//#sub "hs_11_314" お兄さんのおかげで、前よりいっぱい感じる体になったみたい…うふふ
-#sub "hs_11_314" Thanks to my Onii-san, I feel a lot sexier than before......
-
-//#sub "hs_11_315" お兄さんのおかげでエッチに慣れてきたから、もっとエッチな事期待していい？
-#sub "hs_11_315" I am used to fucking thanks to my Onii-san, so can we try other dirty stuff?
-
-//#sub "hs_11_316" 私、前より感じ易くなってるから、もっと感じさせてね、お兄さん
-#sub "hs_11_316" Oh, I like it that way, give me more, Onii-san
-
-//#sub "hs_11_317" 私、お兄さんといっぱいエッチしちゃったから、前より感じ易くなっちゃったみたい…うふふ
-#sub "hs_11_317" I, I did a lot of things with my Onii-san, now it seems I feel a lot better than before... Uhufu
-
-//#sub "hs_11_318" 好きにすればいいじゃん
-#sub "hs_11_318" You should love it.
-
-//#sub "hs_11_319" 別に、何でもいいけどね
-#sub "hs_11_319" Anything is fine
-
-//#sub "hs_11_320" 拒否してもいいの？　ならするけど
-#sub "hs_11_320" Can I refuse?  I will
-
-//#sub "hs_11_321" なんか、もういいかな
-#sub "hs_11_321" I wish it were different
-
-//#sub "hs_11_322" あんまり…やりたくないんだけど
-#sub "hs_11_322" Not much... I do not want to do it
-
-//#sub "hs_11_323" 何度やっても、こういうの好きになれない　
-#sub "hs_11_323" No matter how many times you ask, I won't like this
-
-//#sub "hs_11_324" 私に任せて下さい！　結構慣れてきたから大丈夫ですよぉ！
-#sub "hs_11_324" Please leave it to me!  I'm fine as I get used to it pretty quickly!
-
-//#sub "hs_11_325" 大丈夫です！　慣れてきたから、もっとがんばっちゃいますよ
-#sub "hs_11_325" It's okay!  I'm getting used to all this, so I will do my best
-
-//#sub "hs_11_326" 私、エッチするのに慣れてきたみたいです…だから、もっと激しくても大丈夫ですよ
-#sub "hs_11_326" I seem to have gotten used to sex...... so it's okay, you can do it harder...
-
-//#sub "hs_11_327" 任せて下さい！　エッチに慣れた私が、すごいテクとか使える気がします！
-#sub "hs_11_327" Please let me do it! I feel like my technique is improving!
-
-//#sub "hs_11_328" エッチに慣れた私が、いっぱい感じさせてあげます！　多分
-#sub "hs_11_328" I'm starting to get a lot better at this, let me show you, I'll make you cum so hard!
-
-//#sub "hs_11_329" 私、お兄さんとエッチするの、結構慣れてきたから、もっとすごい事しちゃう気でいますよ！
-#sub "hs_11_329" I'm going to fuck my Onii-san, I'm getting very good, so I'm going to do awesome things to you!
-
-//#sub "hs_11_330" うん、続けてもいけるかな
-#sub "hs_11_330" Yeah, I wonder if I can continue.
-
-//#sub "hs_11_331" 続けてしても、大丈夫だと思うよ…慣れてきたし
-#sub "hs_11_331" It should be fine if we keep going... I'm getting used to it
-
-//#sub "hs_11_332" まだ続けるの？　私は大丈夫だけどね
-#sub "hs_11_332" Still going? It's okay...but I'd rather just hold you.
-
-//#sub "hs_11_333" いいよ、そのまま続けて
-#sub "hs_11_333" OK, keep going
-
-//#sub "hs_11_334" 大丈夫、続けてできちゃうから
-#sub "hs_11_334" All right, I can keep going
-
-//#sub "hs_11_335" 慣れてきたから…続けても大丈夫だよ
-#sub "hs_11_335" Because you feel so good inside me... I do not mind continuing
-
-//#sub "hs_11_336" うん、すぐに続けても、大丈夫みたい
-#sub "hs_11_336" Yeah, it's okay if you want to keep going. I can go a little more.
-
-//#sub "hs_11_337" いいね、私も、もっと続けて欲しいって思ってたんだよねぇ
-#sub "hs_11_337" Like, keep going...I want more.
-
-//#sub "hs_11_338" お兄さんのおかげで、続けても、すぐに気持ちよくなっちゃいそう！
-#sub "hs_11_338" As long as it's with you, Onii-san, I don't ever want to stop!
-
-//#sub "hs_11_339" まだまだ続けても大丈夫！　もっと感じさせてね
-#sub "hs_11_339" Is it okay if you give me more? I still want you inside me.
-
-//#sub "hs_11_340" 私も、お兄さんともっともっとエッチしてたいなぁ…うふふ
-#sub "hs_11_340" I want more from my Onii-san... Uufu
-
-//#sub "hs_11_341" なんで、まだ続けるの？・・
-#sub "hs_11_341" Why are you still going on?  · · ·
-
-//#sub "hs_11_342" もう…終わったら？
-#sub "hs_11_342" Is it over...?
-
-//#sub "hs_11_343" もう、続けないで欲しいんだけど
-#sub "hs_11_343" Let's stop this
-
-//#sub "hs_11_344" あんまり…続けて欲しくないから…
-#sub "hs_11_344" Jeez, will you stop already...
-
-//#sub "hs_11_345" 続けるんですね？　今なら全然問題ないですよぉ！
-#sub "hs_11_345" You're still hard?  Now there is no problem at all!
-
-//#sub "hs_11_346" 私は、慣れてきたから連続でも全然いけます
-#sub "hs_11_346" I have got used to it, so I can get it all at once.
-
-//#sub "hs_11_347" お兄さんが続けたいなら、もっとがんばちゃいますよ！
-#sub "hs_11_347" If my Onii-san wants to continue, I will do my best to please him!
-
-//#sub "hs_11_348" 大丈夫です、もっと続けてもいいですよ！
-#sub "hs_11_348" Come on, give me more.
-
-//#sub "hs_11_349" そんなにおっぱいばっかり見ないでよ
-#sub "hs_11_349" God, stop staring at my tits...my eyes are up here, you know?
-
-//#sub "hs_11_350" そんなにおっぱいばっかり見られたら、ちょっと恥ずかしいってば
-#sub "hs_11_350" You're just looking my boobs, stop it, it's a bit embarrassing
-
-//#sub "hs_11_351" 私のおっぱい…気に入ったの？　なんか、嬉しいかも
-#sub "hs_11_351" My boobs... did you like them?  I'd be happy if you did!
-
-//#sub "hs_11_352" そんなにおっぱいばっかり見られたら…やっぱり恥ずかしいってば
-#sub "hs_11_352" Why are you just looking at my tits all the time... it's embarrassing
-
-//#sub "hs_11_353" それじゃ、お兄さんの技で、おっぱい、いっぱい感じさせてね！
-#sub "hs_11_353" I feel so sexy when I'm with you Onii-san, only you!
-
-//#sub "hs_11_354" 私のおっぱい、お兄さんに気持ちよくしてもらいたいのぉ！　よろしくね！
-#sub "hs_11_354" My tits, yeah-- I want my Onii-san to feel good!
-
-//#sub "hs_11_355" おっぱい、じっと見ないで
-#sub "hs_11_355" The stop looking at my boobs, dude.
-
-//#sub "hs_11_356" おっぱいに変な事しないでよね
-#sub "hs_11_356" Don't be a stranger to my tits! They're right here, ya know?
-
-//#sub "hs_11_357" どうぞ、私のおっぱい触ってくださいね…ついでに気持ちよくしてもらえたら最高でぇす！
-#sub "hs_11_357" Please, please touch my breasts... you will like them, I promise
-
-//#sub "hs_11_358" いいですよぉ！　おっぱい、思いっきり触りまくってくださいねぇ！
-#sub "hs_11_358" That feels good! Come on, rough them up a bit!
-
-//#sub "hs_11_359" あそこは…優しく触ってね
-#sub "hs_11_359" Right here... touch it gently
-
-//#sub "hs_11_360" あんまり、強くしないでね
-#sub "hs_11_360" You're so strong! Be easy with me.
-
-//#sub "hs_11_361" そんなに見ないでよ、恥ずかしいでしょ、もう！
-#sub "hs_11_361" Do not look so much, it's embarrassing!
-
-//#sub "hs_11_362" だめ…そんなにじっと見られたら、変な感じになっちゃう
-#sub "hs_11_362" Wow dude, It's kinda wierd you want to stare at your little sister so much...
-
-//#sub "hs_11_363" そこ…優しくしてくれたら、嬉しいなぁ
-#sub "hs_11_363" There... be gentle...it's kind of sensitive
-
-//#sub "hs_11_364" お兄さんに…そこ…触られるって思ったら…なんか、熱くなってきちゃう
-#sub "hs_11_364" Onii-san... There...I think you found my spot... I'm staring to get really wet!
-
-//#sub "hs_11_365" お兄さん…そこぉ…思いっきり感じさせてね！
-#sub "hs_11_365" Onii-san... there... please let me feel it all!
-
-//#sub "hs_11_366" お兄さぁん！　見ててもいいけど、早く気持ちよくしてよぉ！
-#sub "hs_11_366" Onii-san!  You may watch, but please cum soon!
-
-//#sub "hs_11_367" 焦らさないで、早く触ってほしいなぁ…ね、お兄さん！
-#sub "hs_11_367" Be a little patient, you can touch me soon enough... you're my Onii-san after all!
-
-//#sub "hs_11_368" どこ見てるのよ
-#sub "hs_11_368" Hey! What are you looking at?
-
-//#sub "hs_11_369" そんな所、見ないでよ
-#sub "hs_11_369" Don't look at me like that.
-
-//#sub "hs_11_370" そこに…変な事しないで！
-#sub "hs_11_370" C'mon... don't be weird
-
-//#sub "hs_11_371" あの、見てるだけなんですか？　触ってもいいですよ
-#sub "hs_11_371" Um, why are you just looking at me?  You can touch it, too, ya know?
-
-//#sub "hs_11_372" そこ、触って大丈夫です…お兄さんの事、信頼してます
-#sub "hs_11_372" It's okay for you to touch me there... I trust my Onii-san
-
-//#sub "hs_11_373" 好きに触っていいですよ…大丈夫、お任せしちゃいます
-#sub "hs_11_373" You can touch whatever you like... okay?
-
-//#sub "hs_11_374" お尻は、あんまり変な事しないでね
-#sub "hs_11_374" Don't do weird stuff with my butt
-
-//#sub "hs_11_375" やっぱり、お尻は、ちょっと恥ずかしいかも
-#sub "hs_11_375" It's a bit embarrassing when you put it in my ass like that...
-
-//#sub "hs_11_376" お尻ばっかり見ないで…なんか、恥ずかしいよ
-#sub "hs_11_376" Stop staring at my ass... It's embarrassing
-
-//#sub "hs_11_377" お兄さんが、お尻好きなら…別にいいけど
-#sub "hs_11_377" If my Onii-san loves my ass so much...
-
-//#sub "hs_11_378" あの、あんまりお尻で無茶しないでね…まぁ、ちょっとだけならいいけど
-#sub "hs_11_378" Um, do not be so weird with my ass... well, maybe... if only a little bit...
-
-//#sub "hs_11_379" お尻…あんまり変な事しないでね…よろしくね、お兄さん
-#sub "hs_11_379" Don't do anything weird with my ass Onii-san
-
-//#sub "hs_11_380" お兄さん、おねがぁい…私のお尻、いっぱい気持ちよくしてぇ！
-#sub "hs_11_380" Onii-san, my butt, please make it feel good!
-
-//#sub "hs_11_381" お兄さんにぃ…私のお尻、お任せしちゃうから…！
-#sub "hs_11_381" My Onii-san... my ass, it belongs only to you!
-
-//#sub "hs_11_382" お尻、いっぱい感じさせてね！　期待してるから　
-#sub "hs_11_382" I'm expecting that you're going to fuck my ass real good, okay?
-
-//#sub "hs_11_383" お尻、見ないでよ！
-#sub "hs_11_383" God! stop looking at my ass, you perv! I'm your little sister!
-
-//#sub "hs_11_384" ちょっと、お尻に変な事しないでよ
-#sub "hs_11_384" It's okay if you do it just a little, but don't be weird to my ass.
-
-//#sub "hs_11_385" そんなに、お尻ばっかり、見ないで！
-#sub "hs_11_385" Just fuck it, but don't look at me when it's in my butt, you're my Onii-san after all...
-
-//#sub "hs_11_386" いいですよ、私のお尻、お兄さんの好きにしてください…でも、普通ぐらいでお願いします
-#sub "hs_11_386" It's okay, please enjoy my ass, Onii-san... but please do it, uh, normally I guess?
-
-//#sub "hs_11_387" お尻、触りたいなら触っていいですよ…あんまり、無茶はダメですけど
-#sub "hs_11_387" You can touch my butt if you want to touch... but too much, and no tea for you!
-
-//#sub "hs_11_388" お兄さん、私のお尻で遊びたいなら、どうぞ！　でも、一応普通な感じだと嬉しいです
-#sub "hs_11_388" Onii-san, if you want to play with my butt, please, go right ahead! I'm just glad that it doesn't hurt anymore.
-
-//#sub "hs_11_389" うそでしょ？　私こんなの無理だってばぁ！　
-#sub "hs_11_389" You must be kidding? I don't think I can even do this! Pffft, Whatever...
-
-//#sub "hs_11_390" いくらお兄さんが相手でも…痛いのはちょっと怖いかなぁ
-#sub "hs_11_390" How mean do you have to be to me, Onii-san... It is a bit scary...
-
-//#sub "hs_11_391" こういうの、気持ちよくなるのって難しいんじゃないの？　お兄さん、大丈夫？
-#sub "hs_11_391" Is it so hard to just let me feel good?  Onii-san, are you all right?
-
-//#sub "hs_11_392" 私、こんなの嫌なんだけど！
-#sub "hs_11_392" I hate this! You shouldn't do such things to your little sister...
-
-//#sub "hs_11_393" お、お兄さんが望むなら…痛くてもガマン…できないかもぉ～
-#sub "hs_11_393" Even if my Onii-san wants it... It hurts too much... I can't do it...
-
-//#sub "hs_11_394" なんだかこの格好…かなり恥ずかしいんだけど…
-#sub "hs_11_394" The way you're looking at me... it's pretty embarrassing...
-
-//#sub "hs_11_395" こんな格好…お兄さんが相手じゃなかったら、絶対できないと思う…
-#sub "hs_11_395" There's no way I could do these things, if it wasn't with you, my Onii-san...
-
-//#sub "hs_11_396" お兄さんすごぉい！　この格好で、すごくエッチな事しちゃうんでしょ？　なんか期待しちゃうかも！
-#sub "hs_11_396" Onii-san!  I'm dressed like this, and you know what you're doing, right?  I'm expecting something good from you!
-
-//#sub "hs_11_397" 何するのよ！　こんな格好いやぁ！
-#sub "hs_11_397" What are you doing!  Such a good-looking... hey!
-
-//#sub "hs_11_398" この格好はさすがに恥ずかしいけど…お兄さんのためにがんばります！
-#sub "hs_11_398" It's embarrassing when I'm dressed like this... but I will do my best for my Onii-san!
-
-//#sub "hs_11_501_00" 私が、お兄さんの事…気持ちよくしてあげるから
-#sub "hs_11_501_00" Because I will make you feel good baby...
-
-//#sub "hs_11_501_01" 私がやってみてもいい？　あんまり上手じゃないと思うけどがんばってみるから
-#sub "hs_11_501_01" Can I try?  I don't know how good I'll be, but I will do my best
-
-//#sub "hs_11_501_02" 私が、してあげる…お兄さんに喜んで欲しいし…
-#sub "hs_11_501_02" I will do it... I want to make my Onii-san cum!
-
-//#sub "hs_11_501_03" 私に任せて…お兄さんを気持ちよくしてあげる！
-#sub "hs_11_501_03" Leave it to me... I will make my Onii-san feel good!
-
-//#sub "hs_11_501_04" 私が…お兄さんにご奉仕してあげるから
-#sub "hs_11_501_04" I will... I will serve my Onii-san
-
-//#sub "hs_11_501_05" お兄さんにだったら、私からご奉仕してあげてもいいから
-#sub "hs_11_501_05" Since you're my Onii-san, you can serve me, too, ya know.
-
-//#sub "hs_11_502_00" よくわかんないけど、私がやってもいいでしょ、ね？
-#sub "hs_11_502_00" I don't understand it all that much, but I don't mind doing it, do you?
-
-//#sub "hs_11_502_01" 私、ご奉仕ってやってみたいの？　実験させてね？
-#sub "hs_11_502_01" Do you want me to suck you off?  Come on, let me experiment on you.
-
-//#sub "hs_11_502_02" 慣れてないけどいいでしょ？　私がやってあげるってば…あはは
-#sub "hs_11_502_02" I am not used to it, right?  But I will definitely need to learn... Haha
-
-//#sub "hs_11_502_03" 任せてぇ！　私がばっちりご奉仕してあげる！
-#sub "hs_11_502_03" Leave it to me!  I will wrap my lips around you perfectly!
-
-//#sub "hs_11_502_04" 私が、お兄さんの事、思いっきり気持ちよくしちゃうからね！
-#sub "hs_11_502_04" I will make you cum so hard, Onii-san!
-
-//#sub "hs_11_502_05" それじゃ、私がお兄さんをご奉仕で、気持ちよくしてあげる！
-#sub "hs_11_502_05" Well then, I will use my lips on you Onii-san, I will make you feel good!
-
-//#sub "hs_11_503_00" 私がするなんて嫌よ…！
-#sub "hs_11_503_00" I don't want to do it...!
-
-//#sub "hs_11_503_01" どうして、私がこんな事…絶対嫌！
-#sub "hs_11_503_01" Why, such a thing... absolutely disgusting!
-
-//#sub "hs_11_503_02" ウソでしょ？　こんなことしたくないのに
-#sub "hs_11_503_02" You're kidding, right?  I don't want to do this
-
-//#sub "hs_11_503_03" これって、何が楽しいの？
-#sub "hs_11_503_03" How is this fun?
-
-//#sub "hs_11_503_04" 私、こんなの嫌なのに…
-#sub "hs_11_503_04" I do not want such a thing...
-
-//#sub "hs_11_503_05" もういや、こんな事させないでよ！
-#sub "hs_11_503_05" No more, stop this now!
-
-//#sub "hs_11_504_00" あの、とりあえず、がんばってご奉仕します
-#sub "hs_11_504_00" Um, for now, I will do my best to serve you
-
-//#sub "hs_11_504_01" 私、不慣れですけど…ご奉仕、がんばります
-#sub "hs_11_504_01" I've not really done this kind of thing much, but... I will do my best to serve you.
-
-//#sub "hs_11_504_02" 私が、がんばってご奉仕しちゃいますね！
-#sub "hs_11_504_02" I will do my best to serve you!
-
-//#sub "hs_11_504_03" 任せてください！　ご奉仕、結構なれてきたんですよ！
-#sub "hs_11_504_03" Let me take care of that!  My mouth and lips, you will get used to them!
-
-//#sub "hs_11_504_04" 私のご奉仕も、大分サマになってきたと思います
-#sub "hs_11_504_04" I think that my blowjobs have become world-class!
-
-//#sub "hs_11_504_05" 私、ご奉仕のやり方、結構わかって来たと思うんですよ！　だから、大丈夫です！
-#sub "hs_11_504_05" I think that I know what you want from my mouth!  So it's all good!
-
-//#sub "hs_11_505_00" えっと、私がやってみてもいいでしょ？
-#sub "hs_11_505_00" Well, may I try it?
-
-//#sub "hs_11_505_01" ご奉仕、してあげる…やり方は、まぁなんとなくがんばるね
-#sub "hs_11_505_01" I will get down on my knees for you... It's one way of doing a good job.
-
-//#sub "hs_11_505_02" とりあえず、私がご奉仕してあげるね…あんまり慣れてないけど
-#sub "hs_11_505_02" I guess I'll use my mouth... I'm not used to it though.
-
-//#sub "hs_11_505_03" それじゃ、私がご奉仕してあげる…大丈夫、まかせて
-#sub "hs_11_505_03" Well then, I will serve you... OK, so just leave it me!
-
-//#sub "hs_11_505_04" いいよ、私がやってあげる…大丈夫、結構やり方わかってきたから
-#sub "hs_11_505_04" Okay, I'll do it... yeah, I know how it is
-
-//#sub "hs_11_505_05" 私がご奉仕で、お兄さんを気持ちよくしてあげるね！
-#sub "hs_11_505_05" I will blow you, I will make my Onii-san feel good!
-
-//#sub "hs_11_510_00" こんな所でオナニーなんて結構恥ずかしいんだけどぉ…
-#sub "hs_11_510_00" Masturbation in such a place is pretty embarrassing...
-
-//#sub "hs_11_510_01" オナニーがいいの？　お兄さん、手伝ってくれればいいのに
-#sub "hs_11_510_01" Is masturbation good?  Onii-san, I wish you would help me
-
-//#sub "hs_11_510_02" いいよぉ、一人で気持ちよくなっちゃうから…うふふ
-#sub "hs_11_510_02" Okay, I will feel good alone... Uhufu
-
-//#sub "hs_11_511_00" 私のオナニーがみたいんだ？　意味わかんない
-#sub "hs_11_511_00" Do you want me to finger myself? Okay, but I'd rather you did it...
-
-//#sub "hs_11_511_01" 何でこんな、恥ずかしい事しなくちゃいけないのぉ…
-#sub "hs_11_511_01" Why should I be ashamed like this...
-
-//#sub "hs_11_511_02" こんなの嫌…恥ずかしいのにぃ…
-#sub "hs_11_511_02" God, this is disgusting... It's embarrassing...
-
-//#sub "hs_11_520_00" カメラ止めて、絶対無理だから
-#sub "hs_11_520_00" Stop the camera! I absolutely can not do this anymore!
-
-//#sub "hs_11_520_01" あの、カメラで撮影するんですか？　エッチしてる所？　お兄さんも映っちゃうけど大丈夫、なの？
-#sub "hs_11_520_01" Well, are you actually filming with that?  Are you going to have sex?  My Onii-san will also be in the picture, but is that okay?
+//#sub "hh_11_259" ごくん・・・ふぅ…全部飲んじゃったけど…まだ飲みたいかなぁ、あはは
+#sub "hh_11_259" *GULP*... I swallowed it all... I think I want to just keep swallowing it, haha
 
 // -----------------------------------------------
 // Insert
@@ -4941,787 +5722,6 @@
 
 //#sub "hso_11_708" お…お兄さん？！　こんな所で何してるの？　いくら何でも寝込みを襲っちゃうのは…ねぇ？
 #sub "hso_11_708" Oh Onii-san?!  What are you doing in such places?  I wonder how anyone could even fall asleep in here?
-
-// -----------------------------------------------
-// Service
-// -----------------------------------------------
-
-//#sub "hh_11_001" ねぇ、これでいいの？
-#sub "hh_11_001" Hey, is this OK?
-
-//#sub "hh_11_002" 大丈夫？　気持ちいいのかな？
-#sub "hh_11_002" All right?  Does it feel good?
-
-//#sub "hh_11_003" こんな感じでいいの？
-#sub "hh_11_003" Is it okay with this feeling?
-
-//#sub "hh_11_004" これ、痛くないの？
-#sub "hh_11_004" Is this painful?
-
-//#sub "hh_11_005" え、出ちゃうの・・？　どうなっちゃうの？
-#sub "hh_11_005" Well, I guess?  What's happening right now for you?
-
-//#sub "hh_11_006" 何これ、すごく熱くなってる！
-#sub "hh_11_006" What this is getting really hot!
-
-//#sub "hh_11_007" 出すの？　だったら、我慢しなくてもいいからね
-#sub "hh_11_007" Are you coming?  Then, you do not have to endure it for long
-
-//#sub "hh_11_008" なんで、私がこんな事
-#sub "hh_11_008" Oh, I like this
-
-//#sub "hh_11_009" 別に面白くないでしょ？
-#sub "hh_11_009" Isn't it nice?
-
-//#sub "hh_11_010" こんなの、何が楽しいの？
-#sub "hh_11_010" What's fun about this?
-
-//#sub "hh_11_011" 私、もう嫌なんだけど…
-#sub "hh_11_011" I do not want it anymore...
-
-//#sub "hh_11_012" 何これ？　妙な感じがするけど？
-#sub "hh_11_012" What's this?  I feel strange, but?
-
-//#sub "hh_11_013" 何これ？　まさか、射精するの？　ちょっと、やめてよ
-#sub "hh_11_013" What's this?  No way, are you coming?  Just stop it.
-
-//#sub "hh_11_014" ちょっと待って？　こんな所で出さないでよ！
-#sub "hh_11_014" Wait a minute?  Don't cum there!
-
-//#sub "hh_11_015" いいから、はやく終わらせて・・・
-#sub "hh_11_015" Okay, let's finish quickly...
-
-//#sub "hh_11_016" もう・・動かさないで・・
-#sub "hh_11_016" Already... Don't move...
-
-//#sub "hh_11_017" いや…強くしないで・・・
-#sub "hh_11_017" No... don't make do it so hard...
-
-//#sub "hh_11_018" やめて・・・もう嫌なんだけど・・
-#sub "hh_11_018" Stop it... I don't want it anymore...
-
-//#sub "hh_11_019" なによ！・・・急に激しくしないで！
-#sub "hh_11_019" What!  · · · Don't make it so intense all of a sudden!
-
-//#sub "hh_11_020" 何よ、変な事しないでよ！
-#sub "hh_11_020" Whatever, don't be strange!
-
-//#sub "hh_11_021" ウソでしょ？　やめて、もう放して・・！
-#sub "hh_11_021" This is a joke, right?  Stop it, please let go!
-
-//#sub "hh_11_022" ちろ……ん、ちゅ、気持ちいいの？
-#sub "hh_11_022" Does that make you feel good?
-
-//#sub "hh_11_023" んちゅ、ゆっくり・・ちゅろ・・・なめてみるねぇ・・あ、んむ
-#sub "hh_11_023" Muchu, slowly · · · Chiro · · · I will not let you lick it
-
-//#sub "hh_11_024" ちろ・・・なんか、変な…あじ・・・ちゅっ
-#sub "hh_11_024" Clear... something, strange... aji...
-
-//#sub "hh_11_025" ん、ちゅるぅ・・なんかあちゅく・・・ちろ・・なっへきた　・・・ちゅ
-#sub "hh_11_025" Cum.
-
-//#sub "hh_11_026" 我慢・・・ん、ちゅ・・しらいで・・れろ・・いっへね・ちゅるぅ
-#sub "hh_11_026" Patience
-
-//#sub "hh_11_027" ろうして、わらしが、こんな、こと…
-#sub "hh_11_027" Just me and your cock
-
-//#sub "hh_11_028" いいはら、はやく、おわらへて…
-#sub "hh_11_028" Okay, quickly, for now...
-
-//#sub "hh_11_029" もういや…こんなの、やりたふ…ないのに…
-#sub "hh_11_029" Well... I do not want to do this... yet...
-
-//#sub "hh_11_030" な…なんだか…大きく、なってる
-#sub "hh_11_030" What... did it just get... bigger.
-
-//#sub "hh_11_031" ん…なんか、あちゅく、なっへきへるんだけどぉ…
-#sub "hh_11_031" I... somehow, ah, you just go off, hurry...
-
-//#sub "hh_11_032" んぁむ・・・ぜんぶ・・くわえれ、みるからねぇ…じゅぷ・・
-#sub "hh_11_032" Oh yeah... All of your cum... All of it, glee... *slup*...
-
-//#sub "hh_11_033" ろぉ？　きもち・・じゅるっ・いいの・・ん、ちゅ・・ねぇ？
-#sub "hh_11_033" Wow?  Feelings · · · · · · · · · · · · · Hey?
-
-//#sub "hh_11_034" ちゅちゅ…もっほ……じるぢる…したぁ、うごかふほうが・・いい？・・
-#sub "hh_11_034" Wow, is moving OK?
-
-//#sub "hh_11_035" くひのなかれ…にゅぷっ…また…あふく…なっへる？
-#sub "hh_11_035" Hey...... again...... it's getting fuzzy?
-
-//#sub "hh_11_036" ちゅちゅ……じるぢる…だふなら…んぶ…じゅぷ…だひてね？
-#sub "hh_11_036" Chuchu...... If you... Truffle............ Jyupu... Is not it hot?
-
-//#sub "hh_11_037" んふぅ…もういや…はやく、おわってぇ…
-#sub "hh_11_037" Mfuu... no more... quickly, finished...
-
-//#sub "hh_11_038" わらしが、ん…なんで…ふぅ…こんあ…こほ…うぐぅ
-#sub "hh_11_038" I do not know...
-
-//#sub "hh_11_039" いき…苦しい、からぁ…んふぅ…
-#sub "hh_11_039" Iki... It's painful...
-
-//#sub "hh_11_040" んふぅ…なに…どうする気よぉ…？
-#sub "hh_11_040" Mfuu... What are you going to do...?
-
-//#sub "hh_11_041" やぁ…なに、こへぇ…なんか熱くなっへるぅ？
-#sub "hh_11_041" Hey... what... is this... something's getting harder?
-
-//#sub "hh_11_042" 私のおっぱい、気持ちいい？
-#sub "hh_11_042" My boobs, do they make you feel good?
-
-//#sub "hh_11_043" こうやって、挟んであげちゃうから
-#sub "hh_11_043" In this way I will make you cum for me.
-
-//#sub "hh_11_044" これで気持ちいいんでしょ、ね？
-#sub "hh_11_044" It feels good like this, right?
-
-//#sub "hh_11_045" 私のおっぱい…悪くない、でしょ？
-#sub "hh_11_045" My boobs... not bad, eh?
-
-//#sub "hh_11_046" こんな感じで、問題ないよね？　
-#sub "hh_11_046" This is legal, right? But there's no problem feeling like this, don't you think?
-
-//#sub "hh_11_047" このくらいのおっぱいも…いい感じでしょ？
-#sub "hh_11_047" It feels good between my tits, don't you agree?
-
-//#sub "hh_11_048" どう、私のおっぱいで、気持ちよくなってきたの？
-#sub "hh_11_048" How have you become so comfortable with my tits?
-
-//#sub "hh_11_049" 私のおっぱいで、いっぱい感じちゃってね！
-#sub "hh_11_049" I feel your cock between my tits!
-
-//#sub "hh_11_050" 亀頭、いじるね
-#sub "hh_11_050" The tip of your cock, I like to play with it.
-
-//#sub "hh_11_051" 亀頭って、なんで亀頭って言うの？　どうでもいいけど
-#sub "hh_11_051" What do you call it, glans or dick head?  It doesn't really matter.
-
-//#sub "hh_11_052" 手でこんなに風にして、痛くないの？
-#sub "hh_11_052" Doesn't this hurt with my hands?
-
-//#sub "hh_11_053" 亀頭が、さっきより大きくなってるみたい
-#sub "hh_11_053" It seems that your tip is getting bigger than before
-
-//#sub "hh_11_054" これって、もしかして、射精しちゃうの？
-#sub "hh_11_054" Could this make you cum I wonder?
-
-//#sub "hh_11_055" 足でするなんて、なんか変わってるね
-#sub "hh_11_055" It's kinda weird to do this with my feet, but whatever.
-
-//#sub "hh_11_056" 足で踏んづけられて、ちゃんと感じてるの？
-#sub "hh_11_056" When I'm stepping on it with my feet, does it feel good to you?
-
-//#sub "hh_11_057" 足でするなんて…やっぱり不思議な感覚なんだけど
-#sub "hh_11_057" You're so wierd, this is getting you off?
-
-//#sub "hh_11_058" 踏んでも、反発がすごいんだけど…もう、出しちゃうとかなの？
-#sub "hh_11_058" Even if I step on it hard, it bounces right back... Is it supposed to do that?
-
-//#sub "hh_11_059" 足の裏で、すごく硬くなってるみたいだけど・・
-#sub "hh_11_059" It seems that it is very hard on the bottom of my foot.
-
-//#sub "hh_11_060" すごい…ぬるぬるがいっぱいかかちゃった
-#sub "hh_11_060" It was amazing... lots of slime
-
-//#sub "hh_11_061" わぁ…もう精液でべとべとになっちゃってる
-#sub "hh_11_061" Wow... I'm already sticky with semen
-
-//#sub "hh_11_062" んぐ、・・・・ふぅ・・これは・・あんまり、味しないね
-#sub "hh_11_062" So much....so much...
-
-//#sub "hh_11_063" ん・・んぐ・・ふぅ・・飲んじゃった、けど…おいしくはないね
-#sub "hh_11_063" I swallowed it all down... but it's not really tasty
-
-//#sub "hh_11_064" （んべぇ…んはぁ）
-#sub "hh_11_064" (Hey, well)
-
-//#sub "hh_11_065" （んふぅ…べぇ…）
-#sub "hh_11_065" (Huhu... ba...)
-
-//#sub "hh_11_066" げほげほ…けほけほ…
-#sub "hh_11_066" Fugen............
-
-//#sub "hh_11_067" 無理ぃ…なんか咳き込んじゃたぁ
-#sub "hh_11_067" Ugh, impossible... I'm gagging
-
-//#sub "hh_11_068" もういや！　変なものかけないでよ！
-#sub "hh_11_068" I can not bear anymore!  Do not make me do these terrible things!
-
-//#sub "hh_11_069" 勝手に射精しないでよ、もう！
-#sub "hh_11_069" Gross! Do not ejaculate on my hands!
-
-//#sub "hh_11_070" ぶふっ・・おぇ、・・げほ、げほ・・
-#sub "hh_11_070" Dizzy... oh,... *cough*, *cough*
-
-//#sub "hh_11_071" げほ、げほげほげほ・・え゛ぇ・・・
-#sub "hh_11_071" *cough*, Fuuughhhh · · Aahh·  · · ·
-
-//#sub "hh_11_072" もっと続けてもいいの？
-#sub "hh_11_072" Can I keep going?
-
-//#sub "hh_11_073" ・・・もう回復したの？　お兄さんすごいね
-#sub "hh_11_073" ... Have you recovered already?  My Onii-san is incredible.
-
-//#sub "hh_11_074" すごい回復力…お兄さん元気だね
-#sub "hh_11_074" Great stamina... my Onii-san is fine
-
-//#sub "hh_11_075" あれ？　またいっちゃうの？
-#sub "hh_11_075" What?  Are you going again?
-
-//#sub "hh_11_076" また出すの？　いいよ、いっぱい出してね
-#sub "hh_11_076" You're going again?  Okay, give me a lot this time
-
-//#sub "hh_11_077" ウソでしょ？　まだ、続ける気なの？
-#sub "hh_11_077" It's a joke, right?  Are you still going?
-
-//#sub "hh_11_078" 何よ！　さっさと、終わりにして
-#sub "hh_11_078" What!  Quickly, finish
-
-//#sub "hh_11_079" もう…いい加減したら？
-#sub "hh_11_079" Why don't you just cum already?
-
-//#sub "hh_11_080" 何よ、また出すの？
-#sub "hh_11_080" What, are you going to pull it out again?
-
-//#sub "hh_11_081" うそ、まだ出てくるの？
-#sub "hh_11_081" You're joking, how do you still have cum in your those balls?
-
-//#sub "hh_11_082" もう続けたくないのよ！
-#sub "hh_11_082" I do not want to continue anymore!
-
-//#sub "hh_11_083" もういや、いい加減にして
-#sub "hh_11_083" Well, no more.
-
-//#sub "hh_11_084" いつまで続ける気よ？　早く休んだら？
-#sub "hh_11_084" How long do you want to continue? Can't we take a break?
-
-//#sub "hh_11_085" ちょっと、また出す気なの？
-#sub "hh_11_085" Hey, are you going again?
-
-//#sub "hh_11_086" もう嫌よ！　何度も出さないで！
-#sub "hh_11_086" I do not want it anymore!  Do not pull it out again!
-
-//#sub "hh_11_087" んちゅ・・・、まら・・ん・・・きもちよふ・・ちゅ・・しゅるから・んふ
-#sub "hh_11_087" Yeah baby
-
-//#sub "hh_11_088" こんなにつづへて・・んん・・ちゅかれないの？　・・ちゅちゅ・・
-#sub "hh_11_088" I can't wait. Are you ready?
-
-//#sub "hh_11_089" まら・・・ちゅっ・・・れきるの？　おにいさんしゅごい…んぶぅ
-#sub "hh_11_089" Are you ready?  Oniimmgfh..Mmmunh
-
-//#sub "hh_11_090" まら・・いきほうなの？　んちゅ・・んふ
-#sub "hh_11_090" Mmuh...She is such a lucky person.
-
-//#sub "hh_11_091" ちゅ・・・れそうなの？　んふぅ・・・むちゅ・・
-#sub "hh_11_091" *slurp* Will it be soon?...  Huhu...  Mfuu · · ·
-
-//#sub "hh_11_092" んちゅ…もうやめたい…
-#sub "hh_11_092" Muchu... I want to quit...
-
-//#sub "hh_11_093" いい加減に、終わって
-#sub "hh_11_093" It can't be helped, it has to finish
-
-//#sub "hh_11_094" ん…いみが、わかんあい…
-#sub "hh_11_094" I... I can not understand...
-
-//#sub "hh_11_095" んふぅ…うそ、また、出す気？　
-#sub "hh_11_095" Huhu... are you kidding, are you going to give it again?  Ohh
-
-//#sub "hh_11_096" んちゅ…もう、さっさと、出してよぉ…
-#sub "hh_11_096" Hey... let's go on ahead, please...
-
-//#sub "hh_11_097" まら・・んちゅ・・かはくて、おおきく…なっへる・・ん・
-#sub "hh_11_097" *Mmmf* · *Owooah*· · · *Mmmah*...... coming · · ·
-
-//#sub "hh_11_098" もう・・びゅじゅ・・回復・・じゅ・じゅぅ・・してるぅ・・…げんきらね…
-#sub "hh_11_098" I do... 
-
-//#sub "hh_11_099" ぶちゅぅ・・もっろ・・おくまれ・・くわへて・あげるぅ…
-#sub "hh_11_099" Bukku 
-
-//#sub "hh_11_100" まら・・・んぶ、・・おくひで・・・んふぅ・・いっひゃうの？
-#sub "hh_11_100" Mara · · · · · · · · · · · · Pleasure
-
-//#sub "hh_11_101" まら・・じゅじゅ・・・・いっぱい、らしてねぇ・・じゅる・・
-#sub "hh_11_101" Maru · · Ju 
-
-//#sub "hh_11_102" んふぅ…もう、くるしい…
-#sub "hh_11_102" I'm already overjoyed...
-
-//#sub "hh_11_103" んん…息がつらいからぁ…
-#sub "hh_11_103" I have bad breath now...
-
-//#sub "hh_11_104" んふぅ…もう、はきそうだからぁ
-#sub "hh_11_104" Mfuu... it's already gonna hurt
-
-//#sub "hh_11_105" んふぅ…もう、終わりにしてよ…
-#sub "hh_11_105" Mfuu... Finish already...
-
-//#sub "hh_11_106" んむぅ、出して…それで、終わって
-#sub "hh_11_106" Muu Muu, take out it... So, it's over
-
-//#sub "hh_11_107" あぁ…すごい、ぬるぬるしてる
-#sub "hh_11_107" Oh... wow, it's slimy.
-
-//#sub "hh_11_108" 精液、すごく熱いね
-#sub "hh_11_108" Semen, it is very hot
-
-//#sub "hh_11_109" うん・・飲んじゃったけど・・・やっぱり変な味
-#sub "hh_11_109" Yeah... I swallowed it... but it has a weird taste
-
-//#sub "hh_11_110" うへぇ・・これはやっぱり、飲めないかも
-#sub "hh_11_110" Well... Ugh.  I guess I have a gag reflex after all
-
-//#sub "hh_11_111" ノドにつっかえて、むせちゃた…
-#sub "hh_11_111" Jamming down my throat like that, you were choking me...
-
-//#sub "hh_11_112" 生臭くて…最悪…
-#sub "hh_11_112" It is filthy... the worst...
-
-//#sub "hh_11_113" もう…生ぬるくって…気持ち悪い
-#sub "hh_11_113" It's already... ticklish... unpleasant
-
-//#sub "hh_11_114" 無理…こんなの、飲めないから
-#sub "hh_11_114" Impossible... I can not swallow such a thing
-
-//#sub "hh_11_115" ・・・あははは・・・しろいのぉ…いっっぱいかかっちゃったぁ…
-#sub "hh_11_115" · · · Haha... · · · · · · · · · · It took a lot of...
-
-//#sub "hh_11_116" えへへ・・・せーしがぁ…いっぱいでたよぉ・・・あはは
-#sub "hh_11_116" Well... Well... You filled me up to bursting...... Haha
-
-//#sub "hh_11_117" ぬるぬるで…あっついよぉ…あははは
-#sub "hh_11_117" It's slimy... It's pretty awful... haha
-
-//#sub "hh_11_118" ・・え゛ぇ・・・・はぁはぁ
-#sub "hh_11_118" · · Yes· · · · · · Ha ha
-
-//#sub "hh_11_119" どう動かすのがいいの？
-#sub "hh_11_119" Do you like it when I move like this?
-
-//#sub "hh_11_120" このくらいはどう？　気持ちいい？
-#sub "hh_11_120" How about this much?  Does it feel good?
-
-//#sub "hh_11_121" どうするの？　もっといっぱい動かしてみる？
-#sub "hh_11_121" What to do?  Want me to move a lot more?
-
-//#sub "hh_11_122" これ、気持ちいいの？
-#sub "hh_11_122" Does this feel good?
-
-//#sub "hh_11_123" うわ・・もうパンパン・・我慢しないでだしてね？
-#sub "hh_11_123" Wow... already bursting... don't hold back!
-
-//#sub "hh_11_124" 出したくなったら、出しちゃっていいからね！
-#sub "hh_11_124" If you want to shoot it out, you can shoot it out!
-
-//#sub "hh_11_125" 我慢しないで、いっぱい出してね！
-#sub "hh_11_125" Do not hold back, give me a lot!
-
-//#sub "hh_11_126" まだ続けなきゃダメなの？
-#sub "hh_11_126" Do I still have to continue?
-
-//#sub "hh_11_127" いい加減、やめたいんだけど
-#sub "hh_11_127" I want to quit, just stop please
-
-//#sub "hh_11_128" いつまで続ける気なの
-#sub "hh_11_128" How long do you want to continue?
-
-//#sub "hh_11_129" さっさと終わらせてよ
-#sub "hh_11_129" Please let me go quickly.
-
-//#sub "hh_11_130" 何よ？　まさか出す気なの？
-#sub "hh_11_130" What?  Isn't it supposed to shoot out?
-
-//#sub "hh_11_131" もう、早く出して、終わりにして
-#sub "hh_11_131" Already, pull out early and get to the finish
-
-//#sub "hh_11_132" 出したら、それで終わりにしてよ
-#sub "hh_11_132" If you do, please make it over with that
-
-//#sub "hh_11_133" もう、はやく・・終わっ・て…
-#sub "hh_11_133" Already, finished...
-
-//#sub "hh_11_134" く・・・もう、やめにしてよ・・・・んっ・・
-#sub "hh_11_134" Stop it already... · · · · · ·
-
-//#sub "hh_11_135" もう、こんなの嫌だから・・
-#sub "hh_11_135" I don't want such a thing anymore...
-
-//#sub "hh_11_136" 私、こんなのもうやりたくないんだけど！
-#sub "hh_11_136" I don't want to do this anymore!
-
-//#sub "hh_11_137" 待って？・・また出す気なの？！
-#sub "hh_11_137" Wait?  · · Are you ready again? 
-
-//#sub "hh_11_138" もういや！　好きにしたら！
-#sub "hh_11_138" I can not bear it anymore!
-
-//#sub "hh_11_139" え？・・・ウソでしょ、出す気なの？
-#sub "hh_11_139" Huh?  · · · You're joking, are you going to cum again?
-
-//#sub "hh_11_140" ちろ……ん、ちゅ、ろう、気持ちひいの？　・・・・ちゅ
-#sub "hh_11_140" *Slup*...., Huh, are you feeling good like this?  · ·*slurp*· ·
-
-//#sub "hh_11_141" ちゅ…ろう？…ちろろっ・・よわく・・なめるね？・・れろ・・
-#sub "hh_11_141" *Chup* ... Would you?  A little... Yowaku · · licking?  · ·Rero · ·
-
-//#sub "hh_11_142" ちろ・・・つよく・・なめらほうが・・ちろ・・ひい？・・・ちゅっ
-#sub "hh_11_142" *Slurp* · · · good luck · · · *Chup* ・・licking · · · Mmmfsore  .*Chup*.
-
-//#sub "hh_11_143" ちろ……ん、ちゅ・・イきそうなのぉ？・・・
-#sub "hh_11_143" *Chup* ...... Huh...*Chup*... Does my Onii-san seem to like it?  ...
-
-//#sub "hh_11_144" ん、ちゅるぅ・・しゅご、カチカチに…はれてるおぉ・・・ちろ・・・・ちゅ
-#sub "hh_11_144" It is swollen...
-
-//#sub "hh_11_145" んちゅ…舐めたく、ない
-#sub "hh_11_145" I don't want to lick it.
-
-//#sub "hh_11_146" んふぅ…口が、気持ち悪い
-#sub "hh_11_146" Muuu... mouth is disgusting
-
-//#sub "hh_11_147" んふぅ…舌が…疲れる
-#sub "hh_11_147" Muhu... tongue... exhausted
-
-//#sub "hh_11_148" うそ、このまま出すの？
-#sub "hh_11_148" What, are you leaving as it is?
-
-//#sub "hh_11_149" ちょ、出す気なの？　やめてよ…？
-#sub "hh_11_149" Would you like to come out?  Quit…?
-
-//#sub "hh_11_150" じゅちゅる…おおきふぎて・・たいへん・・んぁむ…かもぉ…
-#sub "hh_11_150" *Slup* *churp*... somewhere... *slurp* · · celebrate... maybe...
-
-//#sub "hh_11_151" きもち・・じゅるっ・ひい？　なら・・ん、ちゅ・・いいへどね…
-#sub "hh_11_151" Feeling · *slup*· sore? · If... Huh..  Then... Ah... That's good...
-
-//#sub "hh_11_152" いっぱい…にゅぷっ…感じれねぇ…じゅちゅ…んぶぅ
-#sub "hh_11_152" Full of you.... But I can not feel it... *slurp* *chup *slup*
-
-//#sub "hh_11_153" ちゅちゅ…ひいよぉ…じるぢる……ほのまま、だひてぇ…んぶ…じゅぷ…
-#sub "hh_11_153" *Chup* *chu*... *Mmmm*.....*Slup* *slop*...... You are good..... *shlop*...
-
-//#sub "hh_11_154" がまんひないれ…じゅぷんぶ…いっぱい、らひて…びゅずぢゅっ…
-#sub "hh_11_154" Patience... *JuPun*... I'm so full of... *Lala*...... *Juzu*...
-
-//#sub "hh_11_155" んむぅ…苦しいってば
-#sub "hh_11_155" Hmm... I'm struggling
-
-//#sub "hh_11_156" んぐぅ…はやく、やめてよ
-#sub "hh_11_156" Huh... why, stop it.
-
-//#sub "hh_11_157" んふぅ…いいから、終わりにしてよ
-#sub "hh_11_157" Mfuu... OK, come over it
-
-//#sub "hh_11_158" んふぅ…早く、出してってば
-#sub "hh_11_158" Mfuu... If you get out early
-
-//#sub "hh_11_159" んむぅ…さっさと、終わってよ
-#sub "hh_11_159" Mmmm... finish quickly
-
-//#sub "hh_11_160" 私のおっぱい、気持ちいいの？
-#sub "hh_11_160" My boobs, do you feel good?
-
-//#sub "hh_11_161" 挟んで、擦っちゃうからね
-#sub "hh_11_161" I will stroke it and rub it
-
-//#sub "hh_11_162" どう？　もっと動いちゃった方がいいの？
-#sub "hh_11_162" How?  Should I move more?
-
-//#sub "hh_11_163" おっぱいで、お兄さんを喜ばせてあげちゃうね！
-#sub "hh_11_163" My tits are all yours, Onii-san!
-
-//#sub "hh_11_164" こんな感じで大丈夫？
-#sub "hh_11_164" Are you okay with this?
-
-//#sub "hh_11_165" 私のおっぱいだと、ちゃんとできるか不安なんだけど
-#sub "hh_11_165" I am worried if I can do it properly with my boobs
-
-//#sub "hh_11_166" このおっぱいで、大丈夫なの…？
-#sub "hh_11_166" Are you okay with this...?
-
-//#sub "hh_11_167" 一応これでもがんばってるんだけどね、うん
-#sub "hh_11_167" Once at a time, I'm doing my best, yeah.
-
-//#sub "hh_11_168" 私のおっぱいでいきそうなの？　出していいよ！
-#sub "hh_11_168" Are you going cum all over my boobs?  You can back off!
-
-//#sub "hh_11_169" 私のおっぱいで、いっぱい出しちゃって・・！
-#sub "hh_11_169" With my boobs, I got a lot of it!
-
-//#sub "hh_11_170" 亀頭って、感じちゃうんでしょ？
-#sub "hh_11_170" It feels good on your tip, right?
-
-//#sub "hh_11_171" 指でいっぱい弄ってあげるね
-#sub "hh_11_171" I will use my fingers a lot with you
-
-//#sub "hh_11_172" こんなに強く弄っても大丈夫なの？
-#sub "hh_11_172" Is it okay if I stroke you this hard?
-
-//#sub "hh_11_173" ちょと強くしてみる？　こんな感じでどう？
-#sub "hh_11_173" Would you like me to do it harder?  How about like this?
-
-//#sub "hh_11_174" なんか、もうパンパンなんだけど？
-#sub "hh_11_174" Something is already bad.
-
-//#sub "hh_11_175" 出さないと、爆発しちゃうよ？
-#sub "hh_11_175" Will you explode if I don't make you cum?
-
-//#sub "hh_11_176" 本当に足で感じちゃってるの？
-#sub "hh_11_176" Are you really feeling good with my feet?
-
-//#sub "hh_11_177" 踏まれるのが好きなんて、お兄さんて、ある意味すごいね
-#sub "hh_11_177" Onii-san loves to be stepped on-- that's kind of awesome
-
-//#sub "hh_11_178" 足でするのって・・加減が難しいんだけど
-#sub "hh_11_178" It is tough to be gentle with my feet
-
-//#sub "hh_11_179" 強めに踏んでも、大丈夫なの？
-#sub "hh_11_179" Even if I step on you stronger, are you OK?
-
-//#sub "hh_11_180" 私の足で、いきそうになっちゃってるの？
-#sub "hh_11_180" Are you getting lost with my feet?
-
-//#sub "hh_11_181" 私の足で感じまくっちゃってるのね…うふふ
-#sub "hh_11_181" I'm fascinated with my feet too...
-
-//#sub "hh_11_182" あちこちに、いっぱいかかっちゃった
-#sub "hh_11_182" There's so much of it here and there
-
-//#sub "hh_11_183" 精液…どろどろで、すごく熱いね…！
-#sub "hh_11_183" Semen... mushy, it is very hot too...!
-
-//#sub "hh_11_184" んぐ・・・・んふぅ・・うん…まぁ、変な味だね、うん
-#sub "hh_11_184" Well... well, well, it is a strange taste, yeah
-
-//#sub "hh_11_185" ん・・んぐ・・ふぅ・・全部飲んじゃったからね…うふふ
-#sub "hh_11_185" *gulp* I... I swallowed everything... Uufu
-
-//#sub "hh_11_186" （んべぇ…んはぁ）
-#sub "hh_11_186" (Hey, well)
-
-//#sub "hh_11_187" （んふぅ…べぇ…）
-#sub "hh_11_187" (Huhu... ba...)
-
-//#sub "hh_11_188" だめ、なんか、飲めない
-#sub "hh_11_188" No, I can not swallow it.
-
-//#sub "hh_11_189" げほ・・げほ・・・なんかちょっと、飲み難いかもぉ…
-#sub "hh_11_189" Cloudy... goopy... it's something that's a little bit difficult to swallow...
-
-//#sub "hh_11_190" ぬるぬるして…気持ち悪いんだけど
-#sub "hh_11_190" I feel slimy... I feel sick.
-
-//#sub "hh_11_191" 変な所にかけないでよ！
-#sub "hh_11_191" Do not put it on a weird place!
-
-//#sub "hh_11_192" ぶふっ・・おぇ、・・げほ、げほ・・くっ・・
-#sub "hh_11_192" Oh, oh,...............
-
-//#sub "hh_11_193" もういや・・・気持ち悪い・
-#sub "hh_11_193" I don't feel bad anymore ·
-
-//#sub "hh_11_194" で、このまま続けちゃって大丈夫？
-#sub "hh_11_194" So, you can continue as it is, okay?
-
-//#sub "hh_11_195" すぐに続けちゃっていいんだ・・お兄さん、強いね♪
-#sub "hh_11_195" You can continue right away... Onii-san, you are strong 
-
-//#sub "hh_11_196" イったばかりだけど、すぐ続けちゃっていいの？
-#sub "hh_11_196" You just did it, but can you continue right now?
-
-//#sub "hh_11_197" すごい、またいきそうになってる
-#sub "hh_11_197" It's amazing, it's gonna be bad again
-
-//#sub "hh_11_198" いいよ、お兄さんの気が済むまで出しちゃって！
-#sub "hh_11_198" Okay, now get out until my Onii-san's disgusting shit is finished!
-
-//#sub "hh_11_199" こんなの、もう続けたくないわよ！
-#sub "hh_11_199" I don't want to continue like this anymore!
-
-//#sub "hh_11_200" いやなの！　もう、いい加減して！
-#sub "hh_11_200" I don't like that!  Alright, now!
-
-//#sub "hh_11_201" さっき出したんだから、もう終わってよ！
-#sub "hh_11_201" I got it just a while ago, please close it!
-
-//#sub "hh_11_202" 何よ、また出すの？　もうやめて！
-#sub "hh_11_202" What are you going to take it out again?  stop it!
-
-//#sub "hh_11_203" まだ出すの？　どうしてそんなに出しちゃうのよ！
-#sub "hh_11_203" Is your cock still out?  How are you even cumming so much!
-
-//#sub "hh_11_204" いやよ、もう十分でしょ！
-#sub "hh_11_204" Absolutely enough already!
-
-//#sub "hh_11_205" どうして続けるの！　さっきので終わってよ！
-#sub "hh_11_205" How do you keep going!  Please finish earlier!
-
-//#sub "hh_11_206" いい加減に、満足してよ！
-#sub "hh_11_206" To no avail, please be satisfied!
-
-//#sub "hh_11_207" ウソでしょ？　どうしてまだ出せるの？
-#sub "hh_11_207" It's a joke, isn't it?  How are you still going?
-
-//#sub "hh_11_208" もういや、これで最後にしてよ！
-#sub "hh_11_208" No more, please call it off!
-
-//#sub "hh_11_209" んちゅ・・・まら・・ん・・いっぱい・なめへ・・ちゅ・・あげるぅ…んふ
-#sub "hh_11_209" I'm so full of licks, I will wrap my lips...
-
-//#sub "hh_11_210" まらまら・・んん・・・なめへあげるねぇ…ちゅちゅ・・
-#sub "hh_11_210" I'll give you a lick... *slurp*......
-
-//#sub "hh_11_211" おにぃひゃん…まら・・イっちゃうろ？　んちゅ・・んふ
-#sub "hh_11_211" Onii-chan... *Mmmmfh*?  Huh
-
-//#sub "hh_11_212" ちゅ・・・れそうなの？　おにいひゃん…んふぅ・・・むちゅ・・
-#sub "hh_11_212" It's so big! It's like a... cucumber...
-
-//#sub "hh_11_213" いつまで舐めさせる気よ
-#sub "hh_11_213" I'm going to let you lick it
-
-//#sub "hh_11_214" んちゅ…もう舐めたくないのにぃ
-#sub "hh_11_214" Muchu... I don't want to lick it anymore
-
-//#sub "hh_11_215" 出るの？　はやく出してよ
-#sub "hh_11_215" Are you cumming?  Cum soon.
-
-//#sub "hh_11_216" まだ、出すの？　早く全部出してよ…
-#sub "hh_11_216" Are you still full?  Get it all out soon...
-
-//#sub "hh_11_217" まら・・びゅじゅ・・・・じゅ・じゅぅ…おくひで…くわへちゃうからぁ…んふぅ・
-#sub "hh_11_217" *Muwaaah* · · ·*bjjju* · · I'm going to· · *Huhn* · ·
-
-//#sub "hh_11_218" んじゅ・・いっはい・・おくちで・・ひてあげるぅ…じゅぶ・・
-#sub "hh_11_218" Let's finish... Juu...
-
-//#sub "hh_11_219" んぶ、・・・まは・・・んふぅ・・いっひゃうのね？　あはは
-#sub "hh_11_219" Mmm...... Muhu... Well, huh?  Haha
-
-//#sub "hh_11_220" じゅぶぅ・・・らしていいから・・んぶ…おくちに、らして・・んっ、んふぅ
-#sub "hh_11_220" Juuu · · You can do it· · ·Mmm...Here it comes · ·*Huhuu*
-
-//#sub "hh_11_221" むふぅ…苦しい
-#sub "hh_11_221" Mufu... painful
-
-//#sub "hh_11_222" むぅ…もう、いい加減に、してよぉ…
-#sub "hh_11_222" Muu... I'm sorry to keep it short...
-
-//#sub "hh_11_223" んん…いやぁ、また出すの？
-#sub "hh_11_223" Mmm... Well, are you going to do it again?
-
-//#sub "hh_11_224" むぅ…もうやめてぇ、出さないで…
-#sub "hh_11_224" Mu... stop it, don't pull it out...
-
-//#sub "hh_11_225" はぁ…いっぱい、かかっちゃった…お兄さん、出しすぎぃ
-#sub "hh_11_225" Huh... a lot of it came out... Onii-san, you cum too much
-
-//#sub "hh_11_226" まだ、こんなに出てきちゃうなんて…どこから湧いてくるの？
-#sub "hh_11_226" It can't come out so much... Where is it even coming from?
-
-//#sub "hh_11_227" うぐ・・・はぁ…もう、量が多いから…すぐに飲み切れない
-#sub "hh_11_227" There is so much... I can not swallow it right away
-
-//#sub "hh_11_228" れえぇ・・量多すぎて、飲めないってばぁ
-#sub "hh_11_228" Mmmfffgh.... I have too much in my mouth and I can not swallow it
-
-//#sub "hh_11_229" げほ、げほげほ・・だめ、ノドに絡まっちゃう
-#sub "hh_11_229" *cough* *cough* · · · No, it gets all stuck in my throat
-
-//#sub "hh_11_230" はぁ…もういや、何回も出さないで
-#sub "hh_11_230" Haa... No, don't shoot it out again
-
-//#sub "hh_11_231" 出すなら、一回で全部出してよ
-#sub "hh_11_231" If you shoot it out, shoot it all out at once
-
-//#sub "hh_11_232" ・・げほ、げほ・・・こんな量、飲めるワケないでしょ！
-#sub "hh_11_232" · · · *cough* *cough*... I cannot swallow all this!
-
-//#sub "hh_11_233" むぅ…げほ、げほ…むりぃ…気持ち・悪いってばぁ…
-#sub "hh_11_233" Muu... *cough*, *cough*... You're killing me.. Ughhh I feel horrible...
-
-//#sub "hh_11_234" それじゃあ、私がお兄さんを喜ばせてあげちゃうよぉ！
-#sub "hh_11_234" Well then, I will make my Onii-san happy!
-
-//#sub "hh_11_235" 遠慮しないで、いっぱい気持ちよくなってね！
-#sub "hh_11_235" Do not hold back, let it all out!
-
-//#sub "hh_11_236" まだまだ、もっと気持ちよくしてあげる！　あはは
-#sub "hh_11_236" I will make you feel so good!  Haha
-
-//#sub "hh_11_237" どう？　気持ちいい？　大丈夫、もっと続けちゃうよぉ！
-#sub "hh_11_237" How?  Does it feel good?  All right, I will continue more!
-
-//#sub "hh_11_238" いいよ、思いっきり出しちゃって！
-#sub "hh_11_238" Okay, I got it all out!
-
-//#sub "hh_11_239" 出すの？　だったら、ガマンしないで出してぇ！
-#sub "hh_11_239" Is it still coming? Please do not pass out!
-
-//#sub "hh_11_240" いいよぉ！　このまま全部出しちゃってぇ…！
-#sub "hh_11_240" OK!  Please leave it all this way...!
-
-//#sub "hh_11_241" おいしぃ…ろう？　きもひいいでしょ？…んちゅ
-#sub "hh_11_241" Tasty... huh?  It's so good!
-
-//#sub "hh_11_242" んちゅ…あぁぁん、あつくって、なんか、味がするみたい…
-#sub "hh_11_242" Muchu... Ayan, making it hot, something, seems to taste...
-
-//#sub "hh_11_243" どう、きもちいい？　もっと感じさせてあげちゃう！
-#sub "hh_11_243" How is it?  I will make you cum even more!
-
-//#sub "hh_11_244" ろう、私のご奉仕は、気持ちいい？　だったら、もっとしてあげちゃう！
-#sub "hh_11_244" Baby, Do you feel good in my mouth?  Then, I will give you more!
-
-//#sub "hh_11_245" いいよぉ？　私の、舌で気持ちよくなっちゃてねぇ！
-#sub "hh_11_245" OK?  My, my tongue makes you feel better!
-
-//#sub "hh_11_246" いいから！　そのまま、いっぱい出してぇ！
-#sub "hh_11_246" Okay! Time for you to give me lots of sperm!
-
-//#sub "hh_11_247" 我慢しないで、全部出しちゃってぇ！
-#sub "hh_11_247" Do not hold back, get it all out!
-
-//#sub "hh_11_248" んぶぅ…んはぁ…お兄さんの、これ、すっごく、大きいねぇ…あはは
-#sub "hh_11_248" Huh... Huh Onii-san, this is sooooo big!
-
-//#sub "hh_11_249" んふぅ…咥えるだけで、なんだか、興奮してきちゃう
-#sub "hh_11_249" Muuu... just getting in, I get excited somehow
-
-//#sub "hh_11_250" そのまま…私のお口で、いっぱい出してねぇ
-#sub "hh_11_250" Don't drown me, you're in my mouth, remember?
-
-//#sub "hh_11_251" いいから、我慢しないでたくさん出しちゃってね…あはは
-#sub "hh_11_251" Okay, don't hold back, give me lots...
-
-//#sub "hh_11_252" お兄さんの精液、いっぱい出してぇ！
-#sub "hh_11_252" Fill me with my Onii-san's semen!
-
-//#sub "hh_11_253" 我慢しないで、好きなだけ出しちゃってぇ！
-#sub "hh_11_253" Do not hold back, just let out as much as you want!
-
-//#sub "hh_11_254" すごぉい、熱いのが、いっぱいかかっちゃったぁ
-#sub "hh_11_254" It was awesome, it was hot, and there's so much!
-
-//#sub "hh_11_255" これ、どろどろで…すごく熱いよぉ
-#sub "hh_11_255" This is muffled... It's really hot
-
-//#sub "hh_11_256" ねぇ、お兄さん…こんなに出しても、まだ元気なんでしょ？　うふふ
-#sub "hh_11_256" Hey, Onii-san... Even if you cum so much, you are still okay, right?  Just checking.
-
-//#sub "hh_11_257" んぐ・・ふぅ・・すっごく、おいしい気がする
-#sub "hh_11_257" Your sperm tastes so good.
-
-//#sub "hh_11_258" ん、んむぅ…はぁ…のど越しが…生ぬるぅ～い
-#sub "hh_11_258" I love the way your sperm tastes!
-
-//#sub "hh_11_259" ごくん・・・ふぅ…全部飲んじゃったけど…まだ飲みたいかなぁ、あはは
-#sub "hh_11_259" *GULP*... I swallowed it all... I think I want to just keep swallowing it, haha
 
 // -----------------------------------------------
 // Special
