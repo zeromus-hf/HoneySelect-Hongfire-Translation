@@ -2325,6 +2325,1510 @@
 #sub "hs_10_398" There is no problem with this level of physical strength, no problem ... to endure... to take it
 
 // -----------------------------------------------
+// Caress
+// -----------------------------------------------
+
+//#sub "ha_10_001" あの・・早くしないで、下さい
+#sub "ha_10_001" Um, do not do it so quickly, please
+
+//#sub "ha_10_002" ゆ・・ゆっくりで、お願いします
+#sub "ha_10_002" Ahh ... Please slow down, please.
+
+//#sub "ha_10_003" だめです、くすぐったいです
+#sub "ha_10_003" No, stop, it tickles
+
+//#sub "ha_10_004" あ、そこは変な感じが…
+#sub "ha_10_004" Oh, that's a weird feeling ...
+
+//#sub "ha_10_005" あの・・・そこはやめて下さい
+#sub "ha_10_005" No ... Please stop that... there…
+
+//#sub "ha_10_006" できれば、触らないで下さい
+#sub "ha_10_006" Please…if possible…don't touch it…
+
+//#sub "ha_10_007" そこは、少し、痛いです
+#sub "ha_10_007" Right there…it hurts a little...
+
+//#sub "ha_10_008" あまり、変な事はしないで下さい
+#sub "ha_10_008" Do not do such strange things
+
+//#sub "ha_10_009" だめ、舐めないで下さい
+#sub "ha_10_009" No, please do not lick it.
+
+//#sub "ha_10_010" 舌が、くすぐったいです
+#sub "ha_10_010" My tongue is ticklish.
+
+//#sub "ha_10_011" そんなに、舐められたら、なんだか変な感じがします
+#sub "ha_10_011" It feels really strange…getting licked there…
+
+//#sub "ha_10_012" ダメです、そこは舐めないで下さい
+#sub "ha_10_012" No, do not lick it
+
+//#sub "ha_10_013" ぁ…ちょっと感じます、はい
+#sub "ha_10_013" Ah … it feels good…a little…yes…
+
+//#sub "ha_10_014" お客様の愛撫で、感じたいです
+#sub "ha_10_014" I want to feel good while you touch me…
+
+//#sub "ha_10_015" 優しく、触ってください
+#sub "ha_10_015" Please be kind
+
+//#sub "ha_10_016" あの、あまり、強くしないで、下さい・・
+#sub "ha_10_016" Um, do not be too forceful, please ...
+
+//#sub "ha_10_017" お客様の舌、気持ちいいです
+#sub "ha_10_017" Your tongue feels good
+
+//#sub "ha_10_018" 舌が、暖かくて、とてもいいです
+#sub "ha_10_018" Your tongue is so warm…and nice…
+
+//#sub "ha_10_019" な、舐められると、腰が…変になります
+#sub "ha_10_019" When you lick it…my body feels strange…
+
+//#sub "ha_10_020" 舐められるて、すごく感じます
+#sub "ha_10_020" I can feel licked, I feel awfully
+
+//#sub "ha_10_021" そこ、気持ちいいです
+#sub "ha_10_021" It feels good right there.
+
+//#sub "ha_10_022" 触られるて、感じます
+#sub "ha_10_022" I can feel your touch.
+
+//#sub "ha_10_023" そこ、もっと触っても大丈夫です
+#sub "ha_10_023" It's okay for you to keep touching…
+
+//#sub "ha_10_024" もっと、気持ちよく、して下さい
+#sub "ha_10_024" Please feel good, please.
+
+//#sub "ha_10_025" だめ、変なところを、舐めないで、下さい
+#sub "ha_10_025" No! Don't lick that strange place…
+
+//#sub "ha_10_026" やめて下さい、そこは、舐めないで下さい
+#sub "ha_10_026" Please do not lick it, please stop it.
+
+//#sub "ha_10_027" あんまり、変な所を舐めるのは、ちょっと…
+#sub "ha_10_027" It's too much…to lick such a funny place…
+
+//#sub "ha_10_028" そんな所、舐めないで下さい
+#sub "ha_10_028" Don't lick such a place
+
+//#sub "ha_10_029" だめです、そんなに触らないで下さい
+#sub "ha_10_029" No, stop touching me so much
+
+//#sub "ha_10_030" あの、そこは触らないで下さい
+#sub "ha_10_030" Um, don't touch that
+
+//#sub "ha_10_031" だめです、そこはやめて下さい
+#sub "ha_10_031" Do not do that.
+
+//#sub "ha_10_032" そんな、変な所をさわらないで下さい
+#sub "ha_10_032" Do not touch that strange place.
+
+//#sub "ha_10_033" あの・・強くしないで下さいね
+#sub "ha_10_033" Um ... Don't be so rough…
+
+//#sub "ha_10_034" やさしく、触ってください…
+#sub "ha_10_034" Please…touch me gently…
+
+//#sub "ha_10_035" なかなか、いい感じです
+#sub "ha_10_035" It's quite nice.
+
+//#sub "ha_10_036" そんなに、強くしなくても、大丈夫です
+#sub "ha_10_036" If feels good to go slow, it's okay
+
+//#sub "ha_10_037" 乳首、摘まないで・・下さい・
+#sub "ha_10_037" Don't pinch my nipples…please…
+
+//#sub "ha_10_038" あ、乳首、感じてしまいます
+#sub "ha_10_038" Oof my nipples!...
+
+//#sub "ha_10_039" や・・乳首、もう少し優しくお願いします
+#sub "ha_10_039" Oh…please…be more gentle with my nipples…
+
+//#sub "ha_10_040" だめです、乳首を引っ張らないで、下さい
+#sub "ha_10_040" Do not pull on my nipples, please.
+
+//#sub "ha_10_041" 乳首・・痛いです・・
+#sub "ha_10_041" Oow! My nipples…that hurts…
+
+//#sub "ha_10_042" ひ、引っ張られたら・・痛いです
+#sub "ha_10_042" You're hurting me…pulling on my breasts…
+
+//#sub "ha_10_043" 乳首、舐められるたら、感じます
+#sub "ha_10_043" Mmm…I can feel you licking my nipples…it feels good…
+
+//#sub "ha_10_044" そんなになめられたら、乳首が気持ちいいです
+#sub "ha_10_044" It feels good when you lick my nipples like that…
+
+//#sub "ha_10_045" 乳首・・・くすぐったいです・・・
+#sub "ha_10_045" *giggle* my nipples are ticklish...
+
+//#sub "ha_10_046" だめです、強く吸わないで、下さい
+#sub "ha_10_046" No, please, don't suck so hard…
+
+//#sub "ha_10_047" そ、そんなに吸われたら、乳首が、痛いです
+#sub "ha_10_047" Ow, you're hurting my nipples sucking that hard…
+
+//#sub "ha_10_048" 乳首、吸われたら、取れてしまいそうです
+#sub "ha_10_048" Nipple, if sucked, it seems to have taken off
+
+//#sub "ha_10_049" あん、なんだかくすぐったいです
+#sub "ha_10_049" Ah, it is kind of ticklish
+
+//#sub "ha_10_050" あん、ソコは、やさしくお願いします・・
+#sub "ha_10_050" Ah, Soko, please kindly ...
+
+//#sub "ha_10_051" 指で、擦られると、力が抜けてしまいます
+#sub "ha_10_051" When rubbing with your fingers, the force will fall out
+
+//#sub "ha_10_052" あぅ・・そこは・・敏感なので・・優しく、お願いします
+#sub "ha_10_052" Oh ... it is so sensitive ... so please be kind, thank you
+
+//#sub "ha_10_053" んぁっ、そこはぁ…優しく、して下さい
+#sub "ha_10_053" Huh ... there ... please be kind
+
+//#sub "ha_10_054" そこを…いじられたら、すごく、反応してしまいます
+#sub "ha_10_054" I will respond there ... if I can get messy, it will react quite a lot
+
+//#sub "ha_10_055" きゃう！　そんなとこ舐めてはダメです
+#sub "ha_10_055" No! It is no use licking like that
+
+//#sub "ha_10_056" あふぅ、く、くすぐったいです・・
+#sub "ha_10_056" It is tender, ticklish ...
+
+//#sub "ha_10_057" きゃ！・・そんな所・・舐めないで、下さい
+#sub "ha_10_057" Kya! · · Such place · do not lick, please
+
+//#sub "ha_10_058" あん！！　舌が、中に、入ってきます・・
+#sub "ha_10_058" Ah! It is! The tongue comes in, · · ·
+
+//#sub "ha_10_059" あぅぅ、中で舌が動いていますぅ・・・！
+#sub "ha_10_059" Ah, inside of my tongue ...!
+
+//#sub "ha_10_060" お、お客様の舌が…中で、動いて、ますぅ…
+#sub "ha_10_060" Oh, your tongue ... inside, moving, I guess ...
+
+//#sub "ha_10_061" 中は、ゆっくりお願いします
+#sub "ha_10_061" Inside, please slowly
+
+//#sub "ha_10_062" 指は、ゆっくり動かして、下さい
+#sub "ha_10_062" Please move your fingers slowly
+
+//#sub "ha_10_063" 指が、ゆっくり動いて、気持ち、いいです
+#sub "ha_10_063" My finger moves slowly, I feel good.
+
+//#sub "ha_10_064" だ、ダメです、そんなに速く・・動かさないで…下さい…
+#sub "ha_10_064" It's useless, it's so fast ... Please do not move ... Please ...
+
+//#sub "ha_10_065" あ、まだ…激しくしないで、下さい…
+#sub "ha_10_065" Oh, still ... please do not be fierce, please ...
+
+//#sub "ha_10_066" あ、あの、もう少しゆっくりで・・お願い・・します
+#sub "ha_10_066" Oh, that much, please slowly ... Please ...
+
+//#sub "ha_10_067" んあ゛ぁ！　ら、らめ、れふ…おかひく、なっひゃうぅ・・！！
+#sub "ha_10_067" Huh! Lara, Lily, Reflection ... Okaku, Neehaoooo! It is!
+
+//#sub "ha_10_068" あ゛っ、んあ゛あ゛っ、らめれふぅ・・・こわれ、ひゃうぅ・・・！！！
+#sub "ha_10_068" Ahhhhhhhh, huh fowl ... broken, Huu! It is! It is!
+
+//#sub "ha_10_069" んはぁっ！　あ゛あぁぁ、　すごぉ・ひ、れふぅ・・もぉらめぇ…
+#sub "ha_10_069" Ha ha! Ahhhh, huh, huhu ... well ...
+
+//#sub "ha_10_070" あん！　お尻は、ダメです
+#sub "ha_10_070" Ah! The buttocks are no good
+
+//#sub "ha_10_071" や、お尻は、はずかしいです
+#sub "ha_10_071" And, the buttocks are hard
+
+//#sub "ha_10_072" んっ、お尻、感じてしまいます
+#sub "ha_10_072" I will feel it, ass
+
+//#sub "ha_10_073" あぅ！　　お尻に、指を入れないで下さい
+#sub "ha_10_073" Ah! Do not put your finger in the butt
+
+//#sub "ha_10_074" ゆ、指が、お尻に、入ってきてます・・・
+#sub "ha_10_074" Yu, fingers are coming in behind ...
+
+//#sub "ha_10_075" ひっ、　お尻で指が、動いて・・あぁ
+#sub "ha_10_075" His fingers in the butt, moving, oh yeah
+
+//#sub "ha_10_076" そんな所、舐めないで下さい！
+#sub "ha_10_076" Such place, please do not lick!
+
+//#sub "ha_10_077" お尻の穴を、舐めるなんて、そんな！
+#sub "ha_10_077" I can not lick a hole in the butt!
+
+//#sub "ha_10_078" や、やめて下さい、お尻、だめです
+#sub "ha_10_078" Or, please stop, ass is useless
+
+//#sub "ha_10_079" あうぅっ！　お尻に入ってます！！
+#sub "ha_10_079" Oh! I am in the butt! It is!
+
+//#sub "ha_10_080" 中で、動かさないで、ください！
+#sub "ha_10_080" Do not move in, please!
+
+//#sub "ha_10_081" お尻の中が・・変な感じになていますぅ
+#sub "ha_10_081" In the ass ... It's a strange feeling
+
+//#sub "ha_10_082" お尻を、強く揉まないで、下さい・・
+#sub "ha_10_082" Please do not rub your butt strongly ...
+
+//#sub "ha_10_083" お尻が、おかしな、感じです
+#sub "ha_10_083" Ass is a funny feeling
+
+//#sub "ha_10_084" お尻が、気持ちいいかも、しれません
+#sub "ha_10_084" Your ass might be comfortable
+
+//#sub "ha_10_085" いいです、アソコが、熱くなってきました
+#sub "ha_10_085" It is good, the dick is getting hot
+
+//#sub "ha_10_086" 熱い息が、当たっています
+#sub "ha_10_086" Hot breath is hitting
+
+//#sub "ha_10_087" こうしているだけで、なんだか、ゾクゾクしてきます
+#sub "ha_10_087" Just like this, it makes me feel sluggish
+
+//#sub "ha_10_088" アソコ、もっと舐めてください
+#sub "ha_10_088" Dick lick me more
+
+//#sub "ha_10_089" はぁはぁ・・それ、気持ちいい・・です
+#sub "ha_10_089" Ha ha ... it is comfortable ...
+
+//#sub "ha_10_090" いいです・・もっと、こすり付けてください
+#sub "ha_10_090" It is good, please rub more.
+
+//#sub "ha_10_091" あぁ・・・ダメ、です・・・私、も、もうぉっ！
+#sub "ha_10_091" Ah ... no good, ... I, well, well!
+
+//#sub "ha_10_092" だめ、も、もう…いっちゃい…ますぅ…
+#sub "ha_10_092" No, no more ... no ...
+
+//#sub "ha_10_093" わ、私…待って、くださ、い…ああぁっ！
+#sub "ha_10_093" Oh wow…damn…wait….ahh haahh…that's amazing…
+
+//#sub "ha_10_094" だめぇ、私…もう、いっちゃい、ますぅ…！
+#sub "ha_10_094" No, I ... I do not want to go anymore ...!
+
+//#sub "ha_10_095" い、いや…だめ、です…あぁ
+#sub "ha_10_095" No, no ... I guess ...
+
+//#sub "ha_10_096" や、私、も、もう…いく…あぁ…
+#sub "ha_10_096" And, me, well ... I will go ... ah ...
+
+//#sub "ha_10_097" 胸が・・胸が・・・・熱い、です・・
+#sub "ha_10_097" My heart is chest ... hot.
+
+//#sub "ha_10_098" 胸が、すごく、感じて…いいです…ああぁ
+#sub "ha_10_098" My breasts are so terrible, I feel ... Good ... Ah
+
+//#sub "ha_10_099" あそこが、あそこが気持ちいい、ですぅ！
+#sub "ha_10_099" Over there, that is comfortable, is!
+
+//#sub "ha_10_100" い、いいです…あそこ、すごくいいですぅ…！
+#sub "ha_10_100" Good, that is ... that over there, it's really nice ...!
+
+//#sub "ha_10_101" んはぁぁ…い、いってしまいました…
+#sub "ha_10_101" Oh god…I gotta say…damn…
+
+//#sub "ha_10_102" ふぅ…上り、詰めた、みたいです…
+#sub "ha_10_102" Fuu ... I climbed up, I want to ...
+
+//#sub "ha_10_103" はぁ…最後まで、いってしまいました
+#sub "ha_10_103" Haa ... I have not been to the end
+
+//#sub "ha_10_104" はぁ…いかされて、しまいました
+#sub "ha_10_104" Haa ... It got overwhelmed and got it
+
+//#sub "ha_10_105" あん、・・まだ・・続けるんですか？
+#sub "ha_10_105" Ann, ... ... Are you still going?
+
+//#sub "ha_10_106" か・・感覚が・・おかしく・・なっていますから・・
+#sub "ha_10_106" Or feeling .... It is becoming ... · · ·
+
+//#sub "ha_10_107" んぁっ・・・まだ・・息が…整って、いません
+#sub "ha_10_107" Huh ... ... yet ... my breath is not in order ...
+
+//#sub "ha_10_108" すみません…もう無理です
+#sub "ha_10_108" I'm sorry ... It is no longer impossible
+
+//#sub "ha_10_109" ・・ダメです、少しお待ち下さい・・・
+#sub "ha_10_109" ... It is useless, please wait a bit ...
+
+//#sub "ha_10_110" 今はまだ・・少し休んでください
+#sub "ha_10_110" Right now ... Please take a moment.
+
+//#sub "ha_10_111" あの、まだ舐めるんですか？
+#sub "ha_10_111" Well, can you still lick it?
+
+//#sub "ha_10_112" 舐めるの、お好きなんですね
+#sub "ha_10_112" I like licking, don't you?
+
+//#sub "ha_10_113" まだ、触るんですか？
+#sub "ha_10_113" Are you still touching it?
+
+//#sub "ha_10_114" さわり、続けるんですね
+#sub "ha_10_114" Sit down and continue, don't you think?
+
+//#sub "ha_10_115" 胸が、変な感じです
+#sub "ha_10_115" My chest feels strange
+
+//#sub "ha_10_116" そんなに、胸ばかりいじらないで下さい
+#sub "ha_10_116" Don't play with my breasts so much
+
+//#sub "ha_10_117" あ、あの…乳首が、おかしくなってしまいます
+#sub "ha_10_117" Oh, my ... ... My nipples are getting hard
+
+//#sub "ha_10_118" ダメです…乳首・・・まだ、敏感なので・・
+#sub "ha_10_118" It is useless ... Nipple ... It's still sensitive, so ...
+
+//#sub "ha_10_119" だめ、まだ触らないで下さい
+#sub "ha_10_119" No, please do not touch it yet.
+
+//#sub "ha_10_120" や、まだ、触っちゃ・・・だめです・・
+#sub "ha_10_120" Or, still, touch ... It is useless
+
+//#sub "ha_10_121" あん、指を、入れないで、下さい
+#sub "ha_10_121" Nngg, don't put your finger in
+
+//#sub "ha_10_122" や・・指を…入れないで下さい・・・
+#sub "ha_10_122" Nngg..Please do not put your fingers ...
+
+//#sub "ha_10_123" だめです、少し休ませてください
+#sub "ha_10_123" No, please let me rest a while.
+
+//#sub "ha_10_124" そんなに、続けて舐めないでください
+#sub "ha_10_124" Please, stop licking it
+
+//#sub "ha_10_125" 舌が、また入ってきてます
+#sub "ha_10_125" The tongue is coming in again
+
+//#sub "ha_10_126" あぁ、そんなに舐められたら、わ、私…
+#sub "ha_10_126" Oh, if I get licked so much…I…I…
+
+//#sub "ha_10_127" やぁ！　そこは、だめですぅ…ふああぁ！
+#sub "ha_10_127" Hey! There is no way out there ... Faa!
+
+//#sub "ha_10_128" そ、そこ…続けないで、くだ…さぁい…！
+#sub "ha_10_128" Please…do not continue….!
+
+//#sub "ha_10_129" あん、お尻を、そんなにいじらないでください
+#sub "ha_10_129" Nngg, please do not mess around with my ass
+
+//#sub "ha_10_130" だめです、お尻が、おかしくなりますぅ
+#sub "ha_10_130" No, stop, my ass is getting strange
+
+//#sub "ha_10_131" お尻、揉まれたら…私
+#sub "ha_10_131" Ass, if you got rubbed ... I
+
+//#sub "ha_10_132" や、お尻が、へんな、感じです…
+#sub "ha_10_132" Or, the butt, a feeling, feeling ...
+
+//#sub "ha_10_133" もっと、続けて舐めてください
+#sub "ha_10_133" More, please continue to lick
+
+//#sub "ha_10_134" まだまだ、続けても大丈夫ですよ
+#sub "ha_10_134" It is still safe to continue even more
+
+//#sub "ha_10_135" もっと、気持ちよくして欲しいです
+#sub "ha_10_135" I want you to feel more comfortable
+
+//#sub "ha_10_136" ここ、もっと舐めて下さい
+#sub "ha_10_136" Please lick me more here
+
+//#sub "ha_10_137" あぁ、また、また、いってしまう…あぁぁ
+#sub "ha_10_137" Oh fuck! You're going to make me cum again…
+
+//#sub "ha_10_138" 気持ちいい…ま、また、いくぅ―！
+#sub "ha_10_138" It feels good ... Ahh ahhh, I'm going to cum again!
+
+//#sub "ha_10_139" はぁ…すごいです、またいってしまいました…
+#sub "ha_10_139" Uuhhh ... that's amazing, I have already told you ...
+
+//#sub "ha_10_140" 気持ち…いいですけど…もう体力が…
+#sub "ha_10_140" Feel ... I do not mind ... yet I have physical strength ...
+
+//#sub "ha_10_141" ら、らめです…もう体が、動きまへん
+#sub "ha_10_141" Lara ... It is already body, moving motion
+
+//#sub "ha_10_142" だめ…もう、げんはい…れす
+#sub "ha_10_142" No, I already have it.
+
+//#sub "ha_10_143" やぁ、もう、なんにも…かんがえられまへん…
+#sub "ha_10_143" Hey, everything is already ... well thought ...
+
+//#sub "ha_10_144" やぁ、もう…なめらいで、くらはい
+#sub "ha_10_144" Hey, I already ... a squirrel, a crap
+
+//#sub "ha_10_145" 舌ぁ…また、感じて、きちゃいますぅ
+#sub "ha_10_145" Tongue ... Also, feel it, I am suffering
+
+//#sub "ha_10_146" やぁ…触られるの、もうらめですぅ
+#sub "ha_10_146" Hey ... You will be touched, it's lame
+
+//#sub "ha_10_147" もう感じるの、くるひい…れすぅ…
+#sub "ha_10_147" I feel anymore, winky ... Let me ...
+
+//#sub "ha_10_148" だめぇ、むねぇ、おかしくなっちゃいますぅ
+#sub "ha_10_148" No, hey, I'm going crazy.
+
+//#sub "ha_10_149" いやぁ…むね、壊れちゃいますぅ
+#sub "ha_10_149" Wow ... Mmmm, it's going to break
+
+//#sub "ha_10_150" らめです、そこ、もうやめてくださぁい
+#sub "ha_10_150" Lame is there, please stop it already
+
+//#sub "ha_10_151" さわら、ないでくださぁい、感じて、しま…あぁ
+#sub "ha_10_151" Never the other, do not you feel it, oops ... Ah
+
+//#sub "ha_10_152" あひいぃぃぃぃ、らめぇ、やめてくらはぁい！！
+#sub "ha_10_152" Long time no see, please stop it! It is!
+
+//#sub "ha_10_153" ひああぁ、しょこはぁ、もう、おかひくなっちゃうぅ！
+#sub "ha_10_153" Hao, Shoko Haha, it will be funny anymore!
+
+//#sub "ha_10_154" んはあぁ、おひりぃ、こわれちゃい、ますぅっ！！
+#sub "ha_10_154" Oh, god, god, oh, wow! I'm cumming!
+
+//#sub "ha_10_155" らめれす、お尻がぁ、おかひく、なりますぅ！
+#sub "ha_10_155" Labeling, ass, geeky, I will!
+
+//#sub "ha_10_156" いぎそう、・・まらいっちゃいますぅ
+#sub "ha_10_156" Let's go ....
+
+//#sub "ha_10_157" い、いっちゃいまふぅ…わらしぃ、またぁ、ああぁ…
+#sub "ha_10_157" Well, I said one ... Wow, this is ... Well, ah ...
+
+//#sub "ha_10_158" ひ、ひああああぁぁぁっ！！
+#sub "ha_10_158" Hi, ah ah ah oh! I'm cumming!
+
+//#sub "ha_10_159" い、いっちゃうぅぅぅ～～っ！！
+#sub "ha_10_159" Well, I said that! I'm cumming!
+
+//#sub "ha_10_160" ら、らめれふ…も、もう…うごけま、せん
+#sub "ha_10_160" Lam, lettuff ... well, already ... no more
+
+//#sub "ha_10_161" も、もう…なんにも…頭の中…まっひろ、です
+#sub "ha_10_161" Also, already ... anything ... in your head ... Maohiro
+
+//#sub "ha_10_162" へへへ・・・きもちいいです・・・へへへ・・
+#sub "ha_10_162" *giggle*... it feels so good…to…mmmm…
+
+//#sub "ha_10_163" もっろ・・・・いっぱい・・・・しへ・・くらはい・・
+#sub "ha_10_163" Lot of · · · · · · · · · · · · · · · · · · ·
+
+//#sub "ha_10_164" も、もうらめれふ…おかひく、なっへまふ
+#sub "ha_10_164" Even, it gets licking ... Okaku, Nenhifumifu
+
+//#sub "ha_10_165" はぁ…おっぱい…きも、ちいれふ
+#sub "ha_10_165" Huh ... boobs ... Kimotoshi
+
+//#sub "ha_10_166" ん…おっぱい…おかひくなっちゃいまひたぁ
+#sub "ha_10_166" I ... boobs ... Becomes oddly now
+
+//#sub "ha_10_167" はぁ…そこぉ、きもち、いいです
+#sub "ha_10_167" Aahh... that's right, feeling good
+
+//#sub "ha_10_168" んはぁ…もぉ、きもひ、よふぎまふぅ…
+#sub "ha_10_168" Ha ha ... well, gimme, your sperm ...
+
+//#sub "ha_10_169" あはぁ、　ぎもじぃぃぃ・れふぅ・・・あはは・
+#sub "ha_10_169" Ahh, gimmicky · ruu · · · haha
+
+//#sub "ha_10_170" んはぁ…ひ、ひぃ、しょこぉ…わらひぃい…ひいのぉ…あはぁ
+#sub "ha_10_170" Ha ha ... Hi, Hi, *suck* ... strawberry ... Hi no ... aha
+
+//#sub "ha_10_171" あふぅ…おひりぃ、おかひくなりまふぅ…
+#sub "ha_10_171" Ahuu ... お ひ り ぃ, お か ひ く な ふ ふ ぅ ...
+
+//#sub "ha_10_172" お、おひり、らめ…もう…こわれひゃうぅ…
+#sub "ha_10_172" Oh, お ひ り, ら め ... あ り ... そ れ れ ゃ う う ぅ ...
+
+//#sub "ha_10_173" い、いはぁぁ、もう、もういっひゃうぅ
+#sub "ha_10_173" Oh, god, I already came again…
+
+//#sub "ha_10_174" い、いひぃ…わらしぃ…まら、おかひく…んはぁぁっ！
+#sub "ha_10_174" Oh, Ichi ... I'm sorry ... Mara, I'm okay ... Haha!
+
+//#sub "ha_10_175" い、いはあああぁぁぁっ！！
+#sub "ha_10_175" God, ah ah! I'm cumming!
+
+//#sub "ha_10_176" ん、んあぁぁあっぁっ！！
+#sub "ha_10_176" Mmmm, that's it! I'm cumming!
+
+//#sub "ha_10_177" はふいい、ふぃ…ん、ぬはぁ…いい、のう…ははは
+#sub "ha_10_177" Fuji, Fu ...... Nuu ... Nice, Nu ... Hahaha
+
+//#sub "ha_10_178" あは、ん…また、…きもひよかった…れふ…へへへ
+#sub "ha_10_178" Ahh ... *pant* ... it was good ... *pant* ... *pant* ...
+
+//#sub "ha_10_179" そこ、いい感じです
+#sub "ha_10_179" There, it feels nice.
+
+//#sub "ha_10_180" 大分、慣れてきたようです
+#sub "ha_10_180" Oita, it seems I got used to it.
+
+//#sub "ha_10_181" そこ、すごく感じます
+#sub "ha_10_181" It feels really good right there
+
+//#sub "ha_10_182" お客様の愛撫、とても気持ちいいです
+#sub "ha_10_182" Your caress, it feels really good
+
+//#sub "ha_10_183" 感じすぎてしまいます
+#sub "ha_10_183" I feel too much
+
+//#sub "ha_10_184" 少し、慣れてきたようです
+#sub "ha_10_184" It seems I got used to a bit.
+
+//#sub "ha_10_185" ダメです…おかしく、なってしまいます
+#sub "ha_10_185" It is useless ... amnesious, it will end up.
+
+//#sub "ha_10_186" そうされると…変になりそうです
+#sub "ha_10_186" It seems to be strange if you do so
+
+//#sub "ha_10_187" んっ、舌が…気持ちいいです
+#sub "ha_10_187" The tongue ... It feels good
+
+//#sub "ha_10_188" 舐められるの、感じます
+#sub "ha_10_188" I can feel… you licking me…
+
+//#sub "ha_10_189" お、お客様の舌、気持ちいいです
+#sub "ha_10_189" Your tongue is so nice
+
+//#sub "ha_10_190" 触れるの、気持ちいいですね
+#sub "ha_10_190" Your touch…feels good…
+
+//#sub "ha_10_191" それ、すごく感じてしまいます
+#sub "ha_10_191" I feel it very much.
+
+//#sub "ha_10_192" もう少し、触っても、大丈夫ですよ
+#sub "ha_10_192" Please, a little more, even if you touch it, it'll be fine
+
+//#sub "ha_10_193" 胸、気持ちいいです
+#sub "ha_10_193" I'm so happy.
+
+//#sub "ha_10_194" 胸が、すごく感じます
+#sub "ha_10_194" My chest feels awful
+
+//#sub "ha_10_195" 胸、もっと、気持ちよくして欲しいです
+#sub "ha_10_195" With my chest, please, I want you to feel good
+
+//#sub "ha_10_196" 乳首、気持ちいいです
+#sub "ha_10_196" My nipples feel so good
+
+//#sub "ha_10_197" もっと、乳首いじって下さい
+#sub "ha_10_197" More, please tease my nipples
+
+//#sub "ha_10_198" いいです、乳首、すごく感じます
+#sub "ha_10_198" Wow, my nipples, I feel a lot
+
+//#sub "ha_10_199" あん、感じて、きます
+#sub "ha_10_199" Ah, I feel it.
+
+//#sub "ha_10_200" そこ、すごくいい気持ちです
+#sub "ha_10_200" There, it is a wonderful feeling
+
+//#sub "ha_10_201" あん、優しく触って、下さい
+#sub "ha_10_201" Please touch me gently
+
+//#sub "ha_10_202" そこ、すごく敏感なんです…だから…
+#sub "ha_10_202" I am very sensitive there, so ...
+
+//#sub "ha_10_203" ん、舐められるの、気持ち、いいです
+#sub "ha_10_203" I'm being licked, I feel good.
+
+//#sub "ha_10_204" そこぉ…もっと、舐めて下さい
+#sub "ha_10_204" There ... there, please lick it.
+
+//#sub "ha_10_205" んふ、舌が、入ってきました
+#sub "ha_10_205" Well, my tongue came in.
+
+//#sub "ha_10_206" 中、舌で、気持ちいいです
+#sub "ha_10_206" It feels good with your tongue
+
+//#sub "ha_10_207" あぁ…指が、あそこに入ってきました
+#sub "ha_10_207" Oh ... my finger came in…
+
+//#sub "ha_10_208" 指、優しく、入れて下さい
+#sub "ha_10_208" Finger, gently, please put it
+
+//#sub "ha_10_209" ん、急に深く、しないで下さいね
+#sub "ha_10_209" Do not be suddenly deeply, do not you?
+
+//#sub "ha_10_210" あうぅ…そこはぁ、だめです…私、おかしく、なって…あぁぁ
+#sub "ha_10_210" A couple ... there, no, I am wrong, becoming ... ah
+
+//#sub "ha_10_211" だめです、そこは…すごく…感じ、ちゃいます…あぁ
+#sub "ha_10_211" That's no good, there ... ... it makes me feel awfully ... *slurp* ... Oh.
+
+//#sub "ha_10_212" お尻、なんだか恥ずかしいです
+#sub "ha_10_212" Ass is somehow embarrassing
+
+//#sub "ha_10_213" お尻を触られると、ゾクゾクしてきます
+#sub "ha_10_213" When you touch my butt, I get crazy
+
+//#sub "ha_10_214" だめです、お尻に、指を入れないで下さい
+#sub "ha_10_214" No, please do not put your finger in my butt
+
+//#sub "ha_10_215" あ…お尻に指が、入ってきて…んはぁあ
+#sub "ha_10_215" Ah ... Your fingers are entering…my butt…
+
+//#sub "ha_10_216" そこ、舐められると、変な感じになります
+#sub "ha_10_216" There, you will feel strange when you are licked
+
+//#sub "ha_10_217" お、お尻の穴、そんなに、なめないで、ください
+#sub "ha_10_217" Oh my god, do not lick so much, please
+
+//#sub "ha_10_218" んぁ、お尻に、舌が入ってきて、あぁぁ
+#sub "ha_10_218" Nngg, your tongue came into my ass, Ah
+
+//#sub "ha_10_219" だめぇ、お尻、舌で感じちゃいますぅ…
+#sub "ha_10_219" No, I can feel your tongue…in my ass…
+
+//#sub "ha_10_220" お尻、揉まれて、感じてきました
+#sub "ha_10_220" Buttocks, rubbed, I felt
+
+//#sub "ha_10_221" お尻って、もまれると、気持ちよかったんですね
+#sub "ha_10_221" I was pleasant when I got a buttock
+
+//#sub "ha_10_222" お尻、たくさん揉んでください
+#sub "ha_10_222" Please ass, please mass lots
+
+//#sub "ha_10_223" あの、いい、感じです
+#sub "ha_10_223" Mmm, I feel it.
+
+//#sub "ha_10_224" 舐められるの、すごく、いいです
+#sub "ha_10_224" It is very nice to be licked
+
+//#sub "ha_10_225" たくさん舐めて、下さい
+#sub "ha_10_225" Please lick lots
+
+//#sub "ha_10_226" お好きに触って、大丈夫です
+#sub "ha_10_226" Touch your favorite, it's okay
+
+//#sub "ha_10_227" もっとたくさん、触ってくださいね
+#sub "ha_10_227" More, please touch it
+
+//#sub "ha_10_228" そこは、触られると、感じてしまいます
+#sub "ha_10_228" It feels good when you touch me…
+
+//#sub "ha_10_229" 胸、もっと触って下さいね
+#sub "ha_10_229" Please touch my breasts more…
+
+//#sub "ha_10_230" 私の胸、もっと触っても大丈夫です
+#sub "ha_10_230" My breasts, please, it's okay to touch more
+
+//#sub "ha_10_231" 胸、もっと、気持ちよくして欲しいです
+#sub "ha_10_231" Chest, I want you to feel more comfortable
+
+//#sub "ha_10_232" い、いいです、乳首が、気持ちいいです
+#sub "ha_10_232" Good...nipples feel so good..
+
+//#sub "ha_10_233" 乳首、感じてきた、みたいです…
+#sub "ha_10_233" My nipples…I feel so good…
+
+//#sub "ha_10_234" 乳首、こりこりされるると…気持ちいいです
+#sub "ha_10_234" Nipples, I get a little nervous ... It feels good
+
+//#sub "ha_10_235" そこ、もっとこすってください
+#sub "ha_10_235" Please rub more there
+
+//#sub "ha_10_236" こ、こすられるの、気持ちいいです
+#sub "ha_10_236" It feels so good when you rub it…
+
+//#sub "ha_10_237" あはぁ…それ、すごく気持ちいいです
+#sub "ha_10_237" Ahh ... That feels really good…
+
+//#sub "ha_10_238" い、いいです…優しく、いじってください
+#sub "ha_10_238" Good, is not it gentle, please mess with it
+
+//#sub "ha_10_239" たくさん、舐めてください
+#sub "ha_10_239" Please lick a lot
+
+//#sub "ha_10_240" 好きに、嘗め回して下さい
+#sub "ha_10_240" Please like to lick, like it.
+
+//#sub "ha_10_241" あはぁ…舌が入ってきて…いいです
+#sub "ha_10_241" Aha ... A tongue comes in ... It's good
+
+//#sub "ha_10_242" い、いい…舌が、すごく気持ちいいです
+#sub "ha_10_242" So good... Your tongue is really amazing…
+
+//#sub "ha_10_243" ゆ、指が、中で動いて…あぁぁ
+#sub "ha_10_243" Ahh, my fingers are coming in...
+
+//#sub "ha_10_244" はぁ…指で、中が擦れて…いい、感じです…
+#sub "ha_10_244" Aahh ... with your fingers, rubbing my insides ... It's a nice feeling ...
+
+//#sub "ha_10_245" い、いいです…お客様の指、すごく気持ちいいです
+#sub "ha_10_245" Wow, your fingers feel really good…
+
+//#sub "ha_10_246" ま、待ってください、そこはぁ…おかしく、なっちゃいますぅ
+#sub "ha_10_246" Wait, please wait ... Right there … it feels funny…
+
+//#sub "ha_10_247" やぁぁ、また、変に、なるぅ…あ、ああぁぁっ！
+#sub "ha_10_247" Aah, I'm going ….to cum again ... Oh, Oh!
+
+//#sub "ha_10_248" お尻が、いじられて、すごく気持ちいいです
+#sub "ha_10_248" My butt feels all messy, it feels really good
+
+//#sub "ha_10_249" たくさん、お尻いじって下さい
+#sub "ha_10_249" More, please mess with ass
+
+//#sub "ha_10_250" んはぁ…お尻に指が入ってきて…いいです
+#sub "ha_10_250" Ha ha ... fingers came in my asshole ... It's nice
+
+//#sub "ha_10_251" お客様の指が、お尻で、動いてますぅ
+#sub "ha_10_251" Your fingers are moving with my butt
+
+//#sub "ha_10_252" お尻、舐められて、感じてますぅ
+#sub "ha_10_252" I can feel you licking my ass…
+
+//#sub "ha_10_253" お尻を、舐められるの、気持ちいいです
+#sub "ha_10_253" I can feel licked in my asshole, it feels really good
+
+//#sub "ha_10_254" いい…お尻に、舌が入って…気持ちいいです
+#sub "ha_10_254" Wow ... I have a tongue in my butt ... It feels good
+
+//#sub "ha_10_255" いいです…お尻が、もう、おかしくなりそうです
+#sub "ha_10_255" God ... my butt is going crazy again
+
+//#sub "ha_10_256" あぁん、お尻、もっと揉んでくださぁい
+#sub "ha_10_256" Oh, please mass themselves more
+
+//#sub "ha_10_257" いいです、お尻、揉みまわして欲しいです
+#sub "ha_10_257" I want you to cum while rubbing my ass…
+
+//#sub "ha_10_258" 私のお尻を、思い切り、揉んでください
+#sub "ha_10_258" Please, keep punishing my asshole, more….
+
+//#sub "ha_10_259" 舐められるの、気持ちいいです
+#sub "ha_10_259" Your tongue…it feels so good…
+
+//#sub "ha_10_260" きもちいいですぅ、もっと舐めてください
+#sub "ha_10_260" Ooh.. That feels so good, please lick it more
+
+//#sub "ha_10_261" お客様の舌で、もっと気持ちよくして下さい
+#sub "ha_10_261" Please make it feel good with your tongue more…
+
+//#sub "ha_10_262" 感じます、もっと触りまくってください
+#sub "ha_10_262" Feel it, please touch more
+
+//#sub "ha_10_263" お客様に触られると、すごく、気持ちいいです
+#sub "ha_10_263" It feels really great when you touch me Customer….
+
+//#sub "ha_10_264" もっと、もっとたくさん触ってください
+#sub "ha_10_264" More, please touch more
+
+//#sub "ha_10_265" 胸、いっぱいさわってくださぁい
+#sub "ha_10_265" Touch my breasts, feels so good…
+
+//#sub "ha_10_266" 私の胸を、好きなだけもみ回して下さい
+#sub "ha_10_266" Please play with my breasts as much as you want
+
+//#sub "ha_10_267" 胸を、もっと気持ちよくしてください！
+#sub "ha_10_267" Please make my breasts feel even better!
+
+//#sub "ha_10_268" い、いいです、乳首、気持ちいいですぅ
+#sub "ha_10_268" God, my nipples, it feels good
+
+//#sub "ha_10_269" もっと、乳首を、気持ちよく、して欲しいです
+#sub "ha_10_269" I want you to feel even better, it feels so good….
+
+//#sub "ha_10_270" 乳首が、コリコリして、気持ちいいですぅ…
+#sub "ha_10_270" My nipples feel so good, so good….
+
+//#sub "ha_10_271" んはぁ…いじられるの、すごく気持ちいいです！
+#sub "ha_10_271" Ha ha ... It feels so good, it feels so good!
+
+//#sub "ha_10_272" もっと、そこ、弄り回してください！
+#sub "ha_10_272" More, please frenk around there!
+
+//#sub "ha_10_273" そこぉ、もっとたくさん、いじってくださぁい
+#sub "ha_10_273" Right there, I want you to play with me a lot more
+
+//#sub "ha_10_274" それ、もっと、たくさん感じたいですぅ！
+#sub "ha_10_274" Uuhh, I want to feel a lot more!
+
+//#sub "ha_10_275" はふぅ…舌がぁ、暖かくて、気持ちいいですぅ
+#sub "ha_10_275" *giggle* ... Your tongue is…. It's warm and pleasant….
+
+//#sub "ha_10_276" 舌がぁ、動いて、すごく感じますぅ
+#sub "ha_10_276" Oh god, your tongue is moving…it feels so good…
+
+//#sub "ha_10_277" もっと、舌を、押し込んで下さい
+#sub "ha_10_277" More, please push your tongue further in me…
+
+//#sub "ha_10_278" いいです、舌で、もっと感じさせてくださぁい
+#sub "ha_10_278" Please let me feel more with your tongue
+
+//#sub "ha_10_279" んぅ…い、いいです…指を、もっと入れてください
+#sub "ha_10_279" It is OK, please ... put more fingers inside me…
+
+//#sub "ha_10_280" 中で、指が動いて、気持ちいいです！
+#sub "ha_10_280" Move your fingers inside me...it feels so good!
+
+//#sub "ha_10_281" す、すごい…指、感じて、気持ち、いいですぅ！
+#sub "ha_10_281" Wow, your fingers…it's so good…
+
+//#sub "ha_10_282" お客様の指、すごく、きもちいいですぅ！
+#sub "ha_10_282" Your fingers inside me, it feels so good!
+
+//#sub "ha_10_283" あはぁ！　そこぉ、もっとこすってくださぁい！
+#sub "ha_10_283" Ahh! Mmmm….Please rub more!
+
+//#sub "ha_10_284" それぇ、だめですぅ…感じすぎて、おかしく、なっちゃうぅ…
+#sub "ha_10_284" Well, that's no good ... I feel too much and it's going to be funny ...
+
+//#sub "ha_10_285" んはぁ…お尻が、気持ちいいです！
+#sub "ha_10_285" Ha ha ... It feels so good in my ass!
+
+//#sub "ha_10_286" いいですぅ、もっとお尻、感じさせてくださぁい！
+#sub "ha_10_286" Please, let me feel it more in my ass!
+
+//#sub "ha_10_287" 指で、お尻の中を、弄り回して、ください！
+#sub "ha_10_287" Stir up my insides, deep in my asshole, please!
+
+//#sub "ha_10_288" お尻に指が、入ってきて…気持ちいいです！
+#sub "ha_10_288" Your fingers..deep in my ass…wow ... It feels good!
+
+//#sub "ha_10_289" い、いい…お尻の穴ぁ、舐められるの、気持ちいいです
+#sub "ha_10_289" Oh, god ... My asshole, it feels good to be licked in my asshole
+
+//#sub "ha_10_290" お尻ぃ、もっといやらしく、舐めて下さい！
+#sub "ha_10_290" Please be nice, lick it!
+
+//#sub "ha_10_291" な、中に…舌が入って、気持ちいいです！
+#sub "ha_10_291" Mmm... Inside ... ... Your tongue got in, it feels good!
+
+//#sub "ha_10_292" い、いいです…中まで、全部嘗め回して、くださぁい！
+#sub "ha_10_292" Wow, so good ... inside, please rotate all down, please!
+
+//#sub "ha_10_293" いいです、たくさん揉み回してくださぁい
+#sub "ha_10_293" Please try rubbing me a lot
+
+//#sub "ha_10_294" 感じてます、お尻が、すごく気持ちいいですぅ！
+#sub "ha_10_294" It feels so good…in my butt…
+
+//#sub "ha_10_295" いいですぅ、好きなだけ、揉みまわして、くださぁい！
+#sub "ha_10_295" Okay, as much as you want, stirring me, please!
+
+//#sub "ha_10_296" いいです、お尻をもまれるの、気持ちいいです！
+#sub "ha_10_296" Amazing…it feels so good to have my ass fingered…
+
+//#sub "ha_10_297" そんなに・・舐めないで下さい
+#sub "ha_10_297" Do not lick so much ...
+
+//#sub "ha_10_298" やめて下さい…少し背筋が…
+#sub "ha_10_298" Please stop ... Customer ...
+
+//#sub "ha_10_299" あの、どこを舐めてるんですか？
+#sub "ha_10_299" Um, where are you licking?
+
+//#sub "ha_10_300" あまり、触らないで下さい
+#sub "ha_10_300" Do not touch it too much.
+
+//#sub "ha_10_301" あの、どこを触ってるんですか
+#sub "ha_10_301" Um, where are you touching?
+
+//#sub "ha_10_302" 気持ちいいというより…なんとも言えません
+#sub "ha_10_302" I feel better ... I won't say anything…
+
+//#sub "ha_10_303" 胸は、ご遠慮下さい
+#sub "ha_10_303" Please refrain from touching my breasts
+
+//#sub "ha_10_304" あの、少し痛いです
+#sub "ha_10_304" Ow, it hurts a little.
+
+//#sub "ha_10_305" 胸は、あまり触らないで下さい
+#sub "ha_10_305" Do not touch my breasts so much.
+
+//#sub "ha_10_306" 乳首、痛いです
+#sub "ha_10_306" My nipples are sore.
+
+//#sub "ha_10_307" そこは、あまりいじり過ぎないように
+#sub "ha_10_307" Do not overdo it too much
+
+//#sub "ha_10_308" 乳首は、痛いので、おやめ下さい
+#sub "ha_10_308" Please stop hurting my nipples.
+
+//#sub "ha_10_309" あの、変な所を触らないで下さい
+#sub "ha_10_309" Um, do not touch strange places
+
+//#sub "ha_10_310" そんな所は、触らないで、下さい
+#sub "ha_10_310" Do not touch such places, please
+
+//#sub "ha_10_311" ん、ダメです、そこは…
+#sub "ha_10_311" I'm afraid, there is ...
+
+//#sub "ha_10_312" そ、そんな所を、触らないで下さい
+#sub "ha_10_312" Please do not touch such a place
+
+//#sub "ha_10_313" ダメです、なめないで下さい
+#sub "ha_10_313" Please stop, stop licking me!
+
+//#sub "ha_10_314" 妙な所を、舐めるのはやめて下さい
+#sub "ha_10_314" Stop licking the strange place
+
+//#sub "ha_10_315" ダメです、舌を、入れないで下さい
+#sub "ha_10_315" No, do not put your tongue in it.
+
+//#sub "ha_10_316" やめて下さい…舌を抜いて下さい
+#sub "ha_10_316" Please stop ... please pull the tongue out
+
+//#sub "ha_10_317" 指を…入れないで下さい
+#sub "ha_10_317" Do not put your fingers ...
+
+//#sub "ha_10_318" 指を、そこに入れてはダメです
+#sub "ha_10_318" Do not put your finger in there
+
+//#sub "ha_10_319" 指を…中で動かさないで下さい
+#sub "ha_10_319" Please do not move your finger in ...
+
+//#sub "ha_10_320" ダメです…指を抜いて下さい
+#sub "ha_10_320" It is no good ... please pull out your finger
+
+//#sub "ha_10_321" んふぅ？！　やぁぁ、もう、やめて、くださぁい！
+#sub "ha_10_321" Uuhh! I'm cumming!! Hey, stop it already, please!
+
+//#sub "ha_10_322" だ、だめですぅ…そこは、もう、ダメですぅ…！
+#sub "ha_10_322" Do not do that ... I can not do that anymore ...!
+
+//#sub "ha_10_323" お、お尻を、いじらないで下さい
+#sub "ha_10_323" Oh, please do not mess around with my butt
+
+//#sub "ha_10_324" お尻の穴を、刺激しないで下さい
+#sub "ha_10_324" Do not stimulate asshole, please.
+
+//#sub "ha_10_325" ダメです、お尻に、指を入れないで下さい
+#sub "ha_10_325" No! Don't put your fingers in my butt!
+
+//#sub "ha_10_326" お、お尻から…指を抜いて下さい
+#sub "ha_10_326" Oh, please remove your finger from my butt
+
+//#sub "ha_10_327" お尻の穴を、舐めないで下さい
+#sub "ha_10_327" Do not lick my asshole
+
+//#sub "ha_10_328" お、お尻を舐めるのは、やめて下さい
+#sub "ha_10_328" Oh, please stop licking my ass
+
+//#sub "ha_10_329" ダメです…お尻に、指を入れないで下さい
+#sub "ha_10_329" It doesn't feel good ... Please do not put your finger in my butt
+
+//#sub "ha_10_330" あの、お尻から指を抜いて下さい
+#sub "ha_10_330" Uh, please pull your finger out of my butt
+
+//#sub "ha_10_331" お尻から、手を放してください
+#sub "ha_10_331" Please let go of my ass
+
+//#sub "ha_10_332" お尻をもむのはやめて下さい
+#sub "ha_10_332" Please stop grabbing my ass
+
+//#sub "ha_10_333" お、お尻を、強く揉むのはやめて下さい
+#sub "ha_10_333" Oh, please stop massaging so hard
+
+//#sub "ha_10_334" お尻を、激しく揉まないで、下さい
+#sub "ha_10_334" Please do not massage my ass
+
+//#sub "ha_10_335" もっと舐めていただいても、結構です
+#sub "ha_10_335" It's okay if you want to lick it more…
+
+//#sub "ha_10_336" 思うままにお舐め下さい
+#sub "ha_10_336" Please, lick me as you wish…
+
+//#sub "ha_10_337" お望みのままに、嘗め尽くしてください
+#sub "ha_10_337" Please, keep licking me as you like…
+
+//#sub "ha_10_338" お好きなようにお触り下さい
+#sub "ha_10_338" Please touch me as you like
+
+//#sub "ha_10_339" お客様のお望みのままに、さわりまくってください
+#sub "ha_10_339" Please, Customer, touch me even more….you can be rough…
+
+//#sub "ha_10_340" いくら触っていただいても、問題ありません
+#sub "ha_10_340" No matter how much you touch it, it's not a problem…
+
+//#sub "ha_10_341" お気に召すままに、胸をお楽しみ下さい
+#sub "ha_10_341" Please enjoy my breats all you want, as much as you like…
+
+//#sub "ha_10_342" 私の胸を、たっぷりとお楽しみ下さい
+#sub "ha_10_342" Please, enjoy my breasts plenty
+
+//#sub "ha_10_343" 私の胸を、お好きなようになさってください
+#sub "ha_10_343" Please, do my breasts as much as you please
+
+//#sub "ha_10_344" 乳首、赴くままままにいじり倒してください
+#sub "ha_10_344" My nipples, please, touch them….
+
+//#sub "ha_10_345" 私の乳首を、存分にいじり倒してください
+#sub "ha_10_345" Please use my nipples as you wish…more…
+
+//#sub "ha_10_346" 乳首で、気が済むまで遊んでいただきたいです
+#sub "ha_10_346" I would like you to play with my nipples, as much as you like…
+
+//#sub "ha_10_347" そこを…お好きに擦りまくってください
+#sub "ha_10_347" Please rub there ... rub it as you like….
+
+//#sub "ha_10_348" ご自由に、指で擦っていただいて結構です
+#sub "ha_10_348" Please feel free to rub it with your fingers
+
+//#sub "ha_10_349" その突起を…存分にいじりまくって、下さい
+#sub "ha_10_349" Please, mess around with my clit…as you like…
+
+//#sub "ha_10_350" お客様のお望みのままに、突起を弄って下さい
+#sub "ha_10_350" Please rub my clit... as you wish
+
+//#sub "ha_10_351" そこ…ご自由にお舐め下さい
+#sub "ha_10_351" Right there ... please lick it freely
+
+//#sub "ha_10_352" いくら舐めていただいても、問題ございません
+#sub "ha_10_352" It's no problem…just lick as much as you'd like…
+
+//#sub "ha_10_353" 舌を、ねじ込んでいただいても、大丈夫です
+#sub "ha_10_353" Even if you twist your tongue inside me, it's okay
+
+//#sub "ha_10_354" お好きなだけ…舌で、ねぶりまわして、下さい
+#sub "ha_10_354" Just as much as you want ... with your tongue, please stir up my insides…
+
+//#sub "ha_10_355" 指を、ご自由に挿入してください
+#sub "ha_10_355" Please, put your fingers in me…
+
+//#sub "ha_10_356" お客様の指で、お好きなようにかき回して下さい
+#sub "ha_10_356" Please…stir me hard with your fingers…
+
+//#sub "ha_10_357" 指ぃ、もっと…お好きに、動かして、くださぁい
+#sub "ha_10_357" Finger, more ... As you like, move it, please give me it…
+
+//#sub "ha_10_358" ゆ、指で…私をもっと…ご堪能下さい
+#sub "ha_10_358" Aahh, with your fingers ... Deeper in me ... Please enjoy me…
+
+//#sub "ha_10_359" んはぁ…そこはぁ…もっと…してくださぁい
+#sub "ha_10_359" Ha ha ... there ... there more ... Please…do it…
+
+//#sub "ha_10_360" そこぉ、もっと、お好きに、責めて、くださぁい
+#sub "ha_10_360" *pant*…more..that's my favorite…you're torturing me…
+
+//#sub "ha_10_361" お尻、ご自由に弄り回してください
+#sub "ha_10_361" Please, use my ass freely
+
+//#sub "ha_10_362" もっと、お尻を弄っていただいても、大丈夫です
+#sub "ha_10_362" More, even if you finger my ass, it's okay
+
+//#sub "ha_10_363" お客様の指で、私のお尻を、かき回して下さい
+#sub "ha_10_363" Please stir my butt with your fingers
+
+//#sub "ha_10_364" もっと深く、指を挿入しても…問題ありません
+#sub "ha_10_364" It's not a problem if you want to stick your fingers deeper in me…
+
+//#sub "ha_10_365" 私のお尻を、ご自由に嘗め回してください
+#sub "ha_10_365" Please feel free to lick my ass
+
+//#sub "ha_10_366" お望みのままに、お尻を嘗め回してください
+#sub "ha_10_366" Please lick my asshole as you please
+
+//#sub "ha_10_367" お尻の中まで、お舐め下さい
+#sub "ha_10_367" Please lick inside my ass
+
+//#sub "ha_10_368" お尻の中を、舌で、かき回して、下さい
+#sub "ha_10_368" Please stir inside my butt…with your tongue, please
+
+//#sub "ha_10_369" お尻、思う存分揉みまわして、下さい
+#sub "ha_10_369" Please, punish my asshole as much as you wish…
+
+//#sub "ha_10_370" 私のお尻を、お望みのまま、揉みまくってください
+#sub "ha_10_370" Please rub my knees as you please
+
+//#sub "ha_10_371" いいです…もっと強く、揉んでいただいても…
+#sub "ha_10_371" Okay ... even stronger, even if you get frustrated ...
+
+//#sub "ha_10_372" お客様ぁ…私のお尻を、もっと揉みまわしてくださぁい！
+#sub "ha_10_372" Customer ... ... please rub my ass more.
+
+//#sub "ha_10_373" ゆっくり押し付けますから、苦しかったらいってください
+#sub "ha_10_373" I will push it slowly, so please tell me if it is painful
+
+//#sub "ha_10_374" 私も、自分から動きますね
+#sub "ha_10_374" I also move from myself
+
+//#sub "ha_10_375" お客様も、自由に舌を使って下さいね
+#sub "ha_10_375" Customer, please use your tongue freely
+
+//#sub "ha_10_376" もっと、たくさん嘗め回してください
+#sub "ha_10_376" More, please lick me more
+
+//#sub "ha_10_377" だ…だめぁ、もういきそうですぅ
+#sub "ha_10_377" Oh no ... No, she looks like she 's gonna be enough
+
+//#sub "ha_10_378" も、もう…わたしぃ…いっちゃい、そうです…
+#sub "ha_10_378" Well ... well ... I ... I do not mind ... it is ...
+
+//#sub "ha_10_379" い、いいです…すごく、感じて…あぁ
+#sub "ha_10_379" Well, it's okay ... I feel very ... Oh.
+
+//#sub "ha_10_380" い、いくぅ…いっちゃいますぅ…
+#sub "ha_10_380" Well, how are you ... I will not ...
+
+//#sub "ha_10_381" い、いいです…すごく、気持ち、いいですぅ
+#sub "ha_10_381" Well, it's okay ... I feel so good, I do not mind
+
+//#sub "ha_10_382" も、もう…私、い、いきそうですぅ！
+#sub "ha_10_382" Ooh, not again.. ... I, I do not want to cummm!
+
+//#sub "ha_10_383" だ…だめです、こんな…あぁぁ
+#sub "ha_10_383" Oh no ... No, this is ... Ah
+
+//#sub "ha_10_384" 私、こんな…だめ…あぁぁ…
+#sub "ha_10_384" I... just like this ... Ah ...
+
+//#sub "ha_10_385" …私、もう…いっても、いいですかぁ…！
+#sub "ha_10_385" ... I, already ... I wish ... I wonder ...!
+
+//#sub "ha_10_386" も、もう、だめ、です…い、いきますぅ…
+#sub "ha_10_386" Well, no more ... No, I will ...
+
+//#sub "ha_10_387" む、むねがぁ…気持ち、い、いいですぅ…
+#sub "ha_10_387" Mum, mushy ... I feel good, it's okay ...
+
+//#sub "ha_10_388" む…胸で、い、いっちゃいますぅ…
+#sub "ha_10_388" Mmm ... in my chest, I will not cum ...
+
+//#sub "ha_10_389" んふぅ…そこぉ、いい…い、いっちゃうぅ
+#sub "ha_10_389" Mmm…*pant* it's so good…clearly…
+
+//#sub "ha_10_390" あぁ…あそこ、感じて、ます、あぁぁっ…！
+#sub "ha_10_390" Ooh god, yes, right there! It feels so good right there!
+
+//#sub "ha_10_391" んはぁ…はぁ…いって、しまったみたいです
+#sub "ha_10_391" *giggle* well…it would seem as though I came…
+
+//#sub "ha_10_392" はぁ…のぼりつめて、しまいました
+#sub "ha_10_392" Haa ... I'm falling asleep, I already came…
+
+//#sub "ha_10_393" とても、気持ち良かったです
+#sub "ha_10_393" It was very pleasant
+
+//#sub "ha_10_394" はぁ…なんだか、すっきりしました
+#sub "ha_10_394" Aahh ... I feel so much better….
+
+//#sub "ha_10_395" お客様…すごく気持ちよかったです
+#sub "ha_10_395" Customer ... It was very nice…
+
+//#sub "ha_10_396" おかげさまで、最高に感じてしまいました
+#sub "ha_10_396" Thank you, that felt amazing…
+
+//#sub "ha_10_397" 無理やりでしいたけど…いってしまいました
+#sub "ha_10_397" I forced it, but ... I came
+
+//#sub "ha_10_398" 無理にいってしまうと…余計に体力が…
+#sub "ha_10_398" Your were quite unreasonable…using force…
+
+//#sub "ha_10_399" 素晴らしい感覚でした。ありがとうございます、お客様
+#sub "ha_10_399" It was a wonderful feeling. Thank you, Customer
+
+//#sub "ha_10_400" 私は、最高でしたが…お客様はいかがでしたか？
+#sub "ha_10_400" That felt so good, did it feel good for Customer?
+
+//#sub "ha_10_401" まだ続けるんですか？　わかりました
+#sub "ha_10_401" You're still going? Understood.
+
+//#sub "ha_10_402" ちょっと待ってください、少し時間が欲しいのですが
+#sub "ha_10_402" Wait a moment, I'd like a little time
+
+//#sub "ha_10_403" また、すぐに感じてしまいます
+#sub "ha_10_403" I'll feel better in a little…
+
+//#sub "ha_10_404" あの…まだ舐めるんですか？
+#sub "ha_10_404" Um ... Can you still lick it?
+
+//#sub "ha_10_405" ダメです、まだ、感覚が変なので…
+#sub "ha_10_405" I am afraid, I still have a weird sensation ...
+
+//#sub "ha_10_406" だめです、まだ体の奥が熱い、ので
+#sub "ha_10_406" No, my back is still so hot…
+
+//#sub "ha_10_407" や、もう、すぐにおかしくなって、しまいます
+#sub "ha_10_407" Or, it is already going crazy soon, it will be gone
+
+//#sub "ha_10_408" 乳首、まだ、敏感なままですからぁ
+#sub "ha_10_408" My nipples, they are still sensitive
+
+//#sub "ha_10_409" まだ、そこ、熱いままなので…あぁ
+#sub "ha_10_409" Still, it's hot there, so ... oh
+
+//#sub "ha_10_410" や…また、すぐに熱くなって、来ましたぁ
+#sub "ha_10_410" Oh ... again, it got hot and I came
+
+//#sub "ha_10_411" もう、すぐに濡れてきました
+#sub "ha_10_411" It got wet again so quickly….
+
+//#sub "ha_10_412" もう…こんなに溢れてきてますよぉ
+#sub "ha_10_412" It is over ... so much
+
+//#sub "ha_10_413" や、舐めちゃ、だめです
+#sub "ha_10_413" Or, you can not lick it.
+
+//#sub "ha_10_414" だめです…もう、おかしくなって…しまいます
+#sub "ha_10_414" I can not help it ... I'm getting crazy already ...
+
+//#sub "ha_10_415" 舌が…また、気持ちよく、なってきます…
+#sub "ha_10_415" Your tongue … again, it feels so good ...
+
+//#sub "ha_10_416" 待ってください…少し、休まれた方が…
+#sub "ha_10_416" Please wait ... I was resting a little ...
+
+//#sub "ha_10_417" い、いやぁ…！　体がぁ、おかしくなっって…だめ、です…
+#sub "ha_10_417" Oh, well ...! My body is getting strange ... I can not ...
+
+//#sub "ha_10_418" ま、まって、下さい！　そこ、いまはぁ、だめですぅ…！
+#sub "ha_10_418" Wait a moment please!  I can not do it right now!
+
+//#sub "ha_10_419" あの、お尻は…まだ、変な感じするので
+#sub "ha_10_419" Umm ... But I still feel strange
+
+//#sub "ha_10_420" だめですぅ…お尻、おかしくなって、しまいますぅ
+#sub "ha_10_420" No, I don't want it in my butt, it's starting to feel strange….
+
+//#sub "ha_10_421" んはあぁ…また、またいくぅ…あぁぁ…！
+#sub "ha_10_421" Oh ... Oh god ... again ... Ahh ...!
+
+//#sub "ha_10_422" だめ…また…いっちゃいますぅ…
+#sub "ha_10_422" No ... Again ... I will not ...
+
+//#sub "ha_10_423" はぁ…連続で、いって、しまいました…
+#sub "ha_10_423" Haa ... it's continuous, I'm sorry ...
+
+//#sub "ha_10_424" はぁ…続けて上り詰めるなんて、大変ですよ…
+#sub "ha_10_424" Haa ... It is hard to keep going on ...
+
+//#sub "ha_10_425" あの、感覚がおかしいので…
+#sub "ha_10_425" Well, I have a bad feeling ...
+
+//#sub "ha_10_426" 待って下さい、少し、休まれた方が…
+#sub "ha_10_426" Wait a while, some us need to rest a second…
+
+//#sub "ha_10_427" また、続けて舐められたりしたら、私…
+#sub "ha_10_427" If I keep getting licked…I'll….
+
+//#sub "ha_10_428" そこは…まだ、中から熱いものが…
+#sub "ha_10_428" There ... There are still hot things inside ...
+
+//#sub "ha_10_429" 乳首、さっきより敏感になってるので…
+#sub "ha_10_429" Oh my nipples, they're more sensitive than before…
+
+//#sub "ha_10_430" だめです、乳首がおかしくなって、しまいます
+#sub "ha_10_430" No, my nipples are crazy, I want to stop…
+
+//#sub "ha_10_431" や、だめ…もう濡れてきて…恥ずかしいです
+#sub "ha_10_431" Oh no, I'm getting so wet ... It's embarrassing
+
+//#sub "ha_10_432" だめ…すぐに溢れきた、みたいです…
+#sub "ha_10_432" No ... I'm going to overflow soon ...
+
+//#sub "ha_10_433" ゆ…指がぁ、気持ちいい、です
+#sub "ha_10_433" Nngg …your fingers….feel so good…
+
+//#sub "ha_10_434" もう、熱くなって…すごく気持ちいいです
+#sub "ha_10_434" It's getting hot already ... It feels really good
+
+//#sub "ha_10_435" だめえ…そこはぁ、おかしく、なっちゃいますぅ…
+#sub "ha_10_435" ... hey, it's strange, I will not ...
+
+//#sub "ha_10_436" そこはぁ…きもち…よすぎて…へんに、なり、そう…
+#sub "ha_10_436" Well there ... ... feeling ... Yasushi ... to stop, it seems ...
+
+//#sub "ha_10_437" やぁ…お尻で、すぐに感じてしまいます
+#sub "ha_10_437" Hey ... with your ass, I will feel it soon.
+
+//#sub "ha_10_438" だめ、お尻、きもちよくて、恥ずかしいです
+#sub "ha_10_438" Oh no..in my ass…it feels good…I'm so embarrassed…
+
+//#sub "ha_10_439" い、いいですぅ…また、気持ち良くなって…あぁっ…
+#sub "ha_10_439" Well, it's okay ... It's starting to feel good again ... Ahh ...
+
+//#sub "ha_10_440" ま…また、私…いっちゃいます…あぁぁっ…！
+#sub "ha_10_440" Well ... I ... I have a chance ... Ahh ...!
+
+//#sub "ha_10_441" はぁ…また、いってしまいました…
+#sub "ha_10_441" Huh ... I have also said that ...
+
+//#sub "ha_10_442" 続けてだったので…すぐに上り詰めてしまいました
+#sub "ha_10_442" Because we kept going ... It soon went up
+
+//#sub "ha_10_443" 大丈夫です…もっと触ってください
+#sub "ha_10_443" It's okay ... Please touch me more
+
+//#sub "ha_10_444" いいです…そのまま続けて、下さい
+#sub "ha_10_444" Sure ... continue as it is, please
+
+//#sub "ha_10_445" そこ…敏感で、すごく気持ちいいですぅ
+#sub "ha_10_445" Right there ... I'm very sensitive…it feels so good…
+
+//#sub "ha_10_446" 大丈夫です…続けて、嘗め回してくださぁい！
+#sub "ha_10_446" Do not worry ... continue, please lick!
+
+//#sub "ha_10_447" 乳首、すごく、気持ちよくなってます
+#sub "ha_10_447" Ah my nipples, that feels very good…
+
+//#sub "ha_10_448" いいです…乳首で、すごく感じてしまいますぅ…
+#sub "ha_10_448" Okay ... I feel very much with a nipple ...
+
+//#sub "ha_10_449" 連続なので…もう濡れてきて、ます
+#sub "ha_10_449" Since we keep going ... It is already getting wet
+
+//#sub "ha_10_450" き、気持ちいいです…もっといじって下さい
+#sub "ha_10_450" I feel so good ... Please cum more
+
+//#sub "ha_10_451" いいです…その指、すごく感じます
+#sub "ha_10_451" Wow…I feel so good…your finger…
+
+//#sub "ha_10_452" お客様の、指で…たくさん溢れて、きてますぅ…
+#sub "ha_10_452" Customer, with your fingers ... a lot full of ...
+
+//#sub "ha_10_453" すごい、ですぅ…すごくぅ、きもちいいですぅ…！
+#sub "ha_10_453" It's amazing ... It's so simple!
+
+//#sub "ha_10_454" らめえ、れすぅ…そこぉ、もう、おかひく、なるぅ！
+#sub "ha_10_454" Tamoe, Raisu ... Wow, it is already ridiculous, it will be!
+
+//#sub "ha_10_455" すごいですぅ！　おしりぃ、きもちいいですぅ！
+#sub "ha_10_455" Ahh that's amazing! Customer I feel so good!!
+
+//#sub "ha_10_456" おしりぃ、もっといじってくださぁい！
+#sub "ha_10_456" Customer, please! Keep going!
+
+//#sub "ha_10_457" わ、わたしぃ…もう我慢、できませぇん…
+#sub "ha_10_457" Wow, I ... I can not take it anymore, can not ...
+
+//#sub "ha_10_458" い、いっちゃいますぅ…もう、いっちゃいますぅう…！
+#sub "ha_10_458" Well, I guess I ... I will not have it anymore ...!
+
+//#sub "ha_10_459" ふぅ…立て続けにいってしまって…ちょっと意識が…
+#sub "ha_10_459" Fuu ... I went to keep on standing … I'm going to black out ...
+
+//#sub "ha_10_460" ふぅ…感じすぎて、連続でいってしまいました…
+#sub "ha_10_460" Fuu ... I felt like I was feeling too much ...
+
+//#sub "ha_10_461" あの、触らないで下さい
+#sub "ha_10_461" Uh, do not touch it.
+
+//#sub "ha_10_462" もう、終わりにされた方が、よろしいかと…
+#sub "ha_10_462" It would be better if you were finished already
+
+//#sub "ha_10_463" あの…あまり続けられるのは…
+#sub "ha_10_463" Um…I can't keep doing this….
+
+//#sub "ha_10_464" な、何度も舐めるのは、おやめ下さい
+#sub "ha_10_464" Please do not lick it over and over again
+
+//#sub "ha_10_465" 乳首は、もうだめです
+#sub "ha_10_465" My nipples don't feel good
+
+//#sub "ha_10_466" もうやめて下さい、乳首がおかしくなります
+#sub "ha_10_466" Please stop it, my nipples are feeling strange
+
+//#sub "ha_10_467" ダメです、もう触らないでください
+#sub "ha_10_467" Do not touch it anymore.
+
+//#sub "ha_10_468" もう終わりにした方が良いと思います
+#sub "ha_10_468" I think it would be best if you wrapped it up
+
+//#sub "ha_10_469" ダメです、指はやめて下さい
+#sub "ha_10_469" It is no good, please stop fingering me
+
+//#sub "ha_10_470" 指を入れるのは、もうだめです
+#sub "ha_10_470" It doesn't feel good to have you put your fingers in me
+
+//#sub "ha_10_471" あひぃ？！　そこはぁ…もうだめですぅ…！
+#sub "ha_10_471" Ahi? I'm cumming! There ... there is no point to stop ...!
+
+//#sub "ha_10_472" お…お願いですぅ、もう、やめて、くださぁい…！！
+#sub "ha_10_472" O ... Please, stop it, please ...! I'm cumming!
+
+//#sub "ha_10_473" もう、お尻をいじらないで下さい
+#sub "ha_10_473" Again, don't mess around with my butt…
+
+//#sub "ha_10_474" ダメです…お尻がおかしくなてしまいます
+#sub "ha_10_474" I'm afraid ... my ass is going crazy
+
+//#sub "ha_10_475" もう、い、いくのは…だめ、です…あぁぁっ！
+#sub "ha_10_475" I do not want to go anymore ... I can not help it ... Ahh!
+
+//#sub "ha_10_476" だ、だめです…私、また、い…くぅ…あぁぁっ…！
+#sub "ha_10_476" That's no good ... I, I am ... Ooo ... Ah ...!
+
+//#sub "ha_10_477" 何度も…いかせないで、ください
+#sub "ha_10_477" Many times ... Please do not let it go, please
+
+//#sub "ha_10_478" 繰り返しは、本当に疲れるので、その…
+#sub "ha_10_478" All this repetition is making me tired…
+
+//#sub "ha_10_479" 問題ありません…そのまま触り続けてください
+#sub "ha_10_479" No problem ... Please continue to touch
+
+//#sub "ha_10_480" お望みのままに、触り続けてください
+#sub "ha_10_480" Please keep on touching me as you wish
+
+//#sub "ha_10_481" お客様の思うまま、舐め続けてください
+#sub "ha_10_481" Please keep on licking me as you wish
+
+//#sub "ha_10_482" 思う存分、嘗め回してください
+#sub "ha_10_482" Please, keep licking me…please
+
+//#sub "ha_10_483" 素敵です…乳首で、すごく感じています
+#sub "ha_10_483" It's lovely … My nipples feel amazing…
+
+//#sub "ha_10_484" お客様の気のすむまで、乳首をいじりまわしてください
+#sub "ha_10_484" Please mess around with my nipples as you like….
+
+//#sub "ha_10_485" いいです…お好きにそこを、いじり回して下さい
+#sub "ha_10_485" It's okay ... Stir me up, as you like
+
+//#sub "ha_10_486" もっと、いくらでもいじり続けて下さい
+#sub "ha_10_486" Continue tinkering more and more
+
+//#sub "ha_10_487" ん、もっと、奥まで指を挿入されても、大丈夫ですよ
+#sub "ha_10_487" Please, even more, even if you insert your fingers all the way inside me…
+
+//#sub "ha_10_488" お客様の指で、もっとかき回し続けて、下さい
+#sub "ha_10_488" Keep stirring with your fingers, please
+
+//#sub "ha_10_489" はひぃい…いいれすぅ…そこぉが、きもひいいれすぅう…！
+#sub "ha_10_489" Is not it okay ... Oh no..!
+
+//#sub "ha_10_490" い、いいぃ…そこぉ…いっぱい、いじってぇ、くらさぁい！
+#sub "ha_10_490" Well, good ... there ... there are lots of things to do, do it, do it!
+
+//#sub "ha_10_491" 私のお尻、いくらでもいじり続けていただいて結構ですから
+#sub "ha_10_491" It is OK for me to keep my butt fucking as much as I can
+
+//#sub "ha_10_492" お好きなだけ、私のお尻でお遊び下さいね
+#sub "ha_10_492" Just as much as you like, please enjoy inside my asshole
+
+//#sub "ha_10_493" お…お尻で、またいって、しまいそうですぅ…あぁ
+#sub "ha_10_493" Oh ... in my ass, I will say that again ... Oh
+
+//#sub "ha_10_494" お、お尻で、また、気持ちよく、なってきましたぁ…
+#sub "ha_10_494" Oh my god, I felt so good again ...
+
+//#sub "ha_10_495" お客様のおかげで、また気持ちくなれました、ありがとうございます
+#sub "ha_10_495" Thank you for making me feel good.
+
+//#sub "ha_10_496" お客様に気持ちよくしていただけて、私は幸せです
+#sub "ha_10_496" It makes me feel good for Customer, I'm happy
+
+//#sub "ha_10_497" 押し付けるんで、いっぱい舐めてくださいね
+#sub "ha_10_497" Please push it, please lick it a lot
+
+//#sub "ha_10_498" 私は、まだまだ大丈夫ですから、どうぞお続け下さい
+#sub "ha_10_498" I'm still fine, so please continue
+
+//#sub "ha_10_499" もっと、たっぷり嘗め回していただいても、いいですよ
+#sub "ha_10_499" Even if you lick a lot more, it is okay
+
+//#sub "ha_10_500" さぁ、お好きなだけ、そこを嘗め回してくださいね
+#sub "ha_10_500" Now, please as much as you like, please stir my insides…
+
+// -----------------------------------------------
 // Service
 // -----------------------------------------------
 
@@ -6610,1508 +8114,4 @@
 
 //#sub "ht_10_458" 最近…オナニーが、気持ちよすぎる…私、どうなってるのかしら…
 #sub "ht_10_458" Recently ... Masturbation feels too good ... I wonder what's going on ...
-
-// -----------------------------------------------
-// 愛撫 mitsos
-// -----------------------------------------------
-
-//#sub "ha_10_001" あの・・早くしないで、下さい
-#sub "ha_10_001" Um, do not do it so quickly, please
-
-//#sub "ha_10_002" ゆ・・ゆっくりで、お願いします
-#sub "ha_10_002" Ahh ... Please slow down, please.
-
-//#sub "ha_10_003" だめです、くすぐったいです
-#sub "ha_10_003" No, stop, it tickles
-
-//#sub "ha_10_004" あ、そこは変な感じが…
-#sub "ha_10_004" Oh, that's a weird feeling ...
-
-//#sub "ha_10_005" あの・・・そこはやめて下さい
-#sub "ha_10_005" No ... Please stop that... there…
-
-//#sub "ha_10_006" できれば、触らないで下さい
-#sub "ha_10_006" Please…if possible…don't touch it…
-
-//#sub "ha_10_007" そこは、少し、痛いです
-#sub "ha_10_007" Right there…it hurts a little...
-
-//#sub "ha_10_008" あまり、変な事はしないで下さい
-#sub "ha_10_008" Do not do such strange things
-
-//#sub "ha_10_009" だめ、舐めないで下さい
-#sub "ha_10_009" No, please do not lick it.
-
-//#sub "ha_10_010" 舌が、くすぐったいです
-#sub "ha_10_010" My tongue is ticklish.
-
-//#sub "ha_10_011" そんなに、舐められたら、なんだか変な感じがします
-#sub "ha_10_011" It feels really strange…getting licked there…
-
-//#sub "ha_10_012" ダメです、そこは舐めないで下さい
-#sub "ha_10_012" No, do not lick it
-
-//#sub "ha_10_013" ぁ…ちょっと感じます、はい
-#sub "ha_10_013" Ah … it feels good…a little…yes…
-
-//#sub "ha_10_014" お客様の愛撫で、感じたいです
-#sub "ha_10_014" I want to feel good while you touch me…
-
-//#sub "ha_10_015" 優しく、触ってください
-#sub "ha_10_015" Please be kind
-
-//#sub "ha_10_016" あの、あまり、強くしないで、下さい・・
-#sub "ha_10_016" Um, do not be too forceful, please ...
-
-//#sub "ha_10_017" お客様の舌、気持ちいいです
-#sub "ha_10_017" Your tongue feels good
-
-//#sub "ha_10_018" 舌が、暖かくて、とてもいいです
-#sub "ha_10_018" Your tongue is so warm…and nice…
-
-//#sub "ha_10_019" な、舐められると、腰が…変になります
-#sub "ha_10_019" When you lick it…my body feels strange…
-
-//#sub "ha_10_020" 舐められるて、すごく感じます
-#sub "ha_10_020" I can feel licked, I feel awfully
-
-//#sub "ha_10_021" そこ、気持ちいいです
-#sub "ha_10_021" It feels good right there.
-
-//#sub "ha_10_022" 触られるて、感じます
-#sub "ha_10_022" I can feel your touch.
-
-//#sub "ha_10_023" そこ、もっと触っても大丈夫です
-#sub "ha_10_023" It's okay for you to keep touching…
-
-//#sub "ha_10_024" もっと、気持ちよく、して下さい
-#sub "ha_10_024" Please feel good, please.
-
-//#sub "ha_10_025" だめ、変なところを、舐めないで、下さい
-#sub "ha_10_025" No! Don't lick that strange place…
-
-//#sub "ha_10_026" やめて下さい、そこは、舐めないで下さい
-#sub "ha_10_026" Please do not lick it, please stop it.
-
-//#sub "ha_10_027" あんまり、変な所を舐めるのは、ちょっと…
-#sub "ha_10_027" It's too much…to lick such a funny place…
-
-//#sub "ha_10_028" そんな所、舐めないで下さい
-#sub "ha_10_028" Don't lick such a place
-
-//#sub "ha_10_029" だめです、そんなに触らないで下さい
-#sub "ha_10_029" No, stop touching me so much
-
-//#sub "ha_10_030" あの、そこは触らないで下さい
-#sub "ha_10_030" Um, don't touch that
-
-//#sub "ha_10_031" だめです、そこはやめて下さい
-#sub "ha_10_031" Do not do that.
-
-//#sub "ha_10_032" そんな、変な所をさわらないで下さい
-#sub "ha_10_032" Do not touch that strange place.
-
-//#sub "ha_10_033" あの・・強くしないで下さいね
-#sub "ha_10_033" Um ... Don't be so rough…
-
-//#sub "ha_10_034" やさしく、触ってください…
-#sub "ha_10_034" Please…touch me gently…
-
-//#sub "ha_10_035" なかなか、いい感じです
-#sub "ha_10_035" It's quite nice.
-
-//#sub "ha_10_036" そんなに、強くしなくても、大丈夫です
-#sub "ha_10_036" If feels good to go slow, it's okay
-
-//#sub "ha_10_037" 乳首、摘まないで・・下さい・
-#sub "ha_10_037" Don't pinch my nipples…please…
-
-//#sub "ha_10_038" あ、乳首、感じてしまいます
-#sub "ha_10_038" Oof my nipples!...
-
-//#sub "ha_10_039" や・・乳首、もう少し優しくお願いします
-#sub "ha_10_039" Oh…please…be more gentle with my nipples…
-
-//#sub "ha_10_040" だめです、乳首を引っ張らないで、下さい
-#sub "ha_10_040" Do not pull on my nipples, please.
-
-//#sub "ha_10_041" 乳首・・痛いです・・
-#sub "ha_10_041" Oow! My nipples…that hurts…
-
-//#sub "ha_10_042" ひ、引っ張られたら・・痛いです
-#sub "ha_10_042" You're hurting me…pulling on my breasts…
-
-//#sub "ha_10_043" 乳首、舐められるたら、感じます
-#sub "ha_10_043" Mmm…I can feel you licking my nipples…it feels good…
-
-//#sub "ha_10_044" そんなになめられたら、乳首が気持ちいいです
-#sub "ha_10_044" It feels good when you lick my nipples like that…
-
-//#sub "ha_10_045" 乳首・・・くすぐったいです・・・
-#sub "ha_10_045" *giggle* my nipples are ticklish...
-
-//#sub "ha_10_046" だめです、強く吸わないで、下さい
-#sub "ha_10_046" No, please, don't suck so hard…
-
-//#sub "ha_10_047" そ、そんなに吸われたら、乳首が、痛いです
-#sub "ha_10_047" Ow, you're hurting my nipples sucking that hard…
-
-//#sub "ha_10_048" 乳首、吸われたら、取れてしまいそうです
-#sub "ha_10_048" Nipple, if sucked, it seems to have taken off
-
-//#sub "ha_10_049" あん、なんだかくすぐったいです
-#sub "ha_10_049" Ah, it is kind of ticklish
-
-//#sub "ha_10_050" あん、ソコは、やさしくお願いします・・
-#sub "ha_10_050" Ah, Soko, please kindly ...
-
-//#sub "ha_10_051" 指で、擦られると、力が抜けてしまいます
-#sub "ha_10_051" When rubbing with your fingers, the force will fall out
-
-//#sub "ha_10_052" あぅ・・そこは・・敏感なので・・優しく、お願いします
-#sub "ha_10_052" Oh ... it is so sensitive ... so please be kind, thank you
-
-//#sub "ha_10_053" んぁっ、そこはぁ…優しく、して下さい
-#sub "ha_10_053" Huh ... there ... please be kind
-
-//#sub "ha_10_054" そこを…いじられたら、すごく、反応してしまいます
-#sub "ha_10_054" I will respond there ... if I can get messy, it will react quite a lot
-
-//#sub "ha_10_055" きゃう！　そんなとこ舐めてはダメです
-#sub "ha_10_055" No! It is no use licking like that
-
-//#sub "ha_10_056" あふぅ、く、くすぐったいです・・
-#sub "ha_10_056" It is tender, ticklish ...
-
-//#sub "ha_10_057" きゃ！・・そんな所・・舐めないで、下さい
-#sub "ha_10_057" Kya! · · Such place · do not lick, please
-
-//#sub "ha_10_058" あん！！　舌が、中に、入ってきます・・
-#sub "ha_10_058" Ah! It is! The tongue comes in, · · ·
-
-//#sub "ha_10_059" あぅぅ、中で舌が動いていますぅ・・・！
-#sub "ha_10_059" Ah, inside of my tongue ...!
-
-//#sub "ha_10_060" お、お客様の舌が…中で、動いて、ますぅ…
-#sub "ha_10_060" Oh, your tongue ... inside, moving, I guess ...
-
-//#sub "ha_10_061" 中は、ゆっくりお願いします
-#sub "ha_10_061" Inside, please slowly
-
-//#sub "ha_10_062" 指は、ゆっくり動かして、下さい
-#sub "ha_10_062" Please move your fingers slowly
-
-//#sub "ha_10_063" 指が、ゆっくり動いて、気持ち、いいです
-#sub "ha_10_063" My finger moves slowly, I feel good.
-
-//#sub "ha_10_064" だ、ダメです、そんなに速く・・動かさないで…下さい…
-#sub "ha_10_064" It's useless, it's so fast ... Please do not move ... Please ...
-
-//#sub "ha_10_065" あ、まだ…激しくしないで、下さい…
-#sub "ha_10_065" Oh, still ... please do not be fierce, please ...
-
-//#sub "ha_10_066" あ、あの、もう少しゆっくりで・・お願い・・します
-#sub "ha_10_066" Oh, that much, please slowly ... Please ...
-
-//#sub "ha_10_067" んあ゛ぁ！　ら、らめ、れふ…おかひく、なっひゃうぅ・・！！
-#sub "ha_10_067" Huh! Lara, Lily, Reflection ... Okaku, Neehaoooo! It is!
-
-//#sub "ha_10_068" あ゛っ、んあ゛あ゛っ、らめれふぅ・・・こわれ、ひゃうぅ・・・！！！
-#sub "ha_10_068" Ahhhhhhhh, huh fowl ... broken, Huu! It is! It is!
-
-//#sub "ha_10_069" んはぁっ！　あ゛あぁぁ、　すごぉ・ひ、れふぅ・・もぉらめぇ…
-#sub "ha_10_069" Ha ha! Ahhhh, huh, huhu ... well ...
-
-//#sub "ha_10_070" あん！　お尻は、ダメです
-#sub "ha_10_070" Ah! The buttocks are no good
-
-//#sub "ha_10_071" や、お尻は、はずかしいです
-#sub "ha_10_071" And, the buttocks are hard
-
-//#sub "ha_10_072" んっ、お尻、感じてしまいます
-#sub "ha_10_072" I will feel it, ass
-
-//#sub "ha_10_073" あぅ！　　お尻に、指を入れないで下さい
-#sub "ha_10_073" Ah! Do not put your finger in the butt
-
-//#sub "ha_10_074" ゆ、指が、お尻に、入ってきてます・・・
-#sub "ha_10_074" Yu, fingers are coming in behind ...
-
-//#sub "ha_10_075" ひっ、　お尻で指が、動いて・・あぁ
-#sub "ha_10_075" His fingers in the butt, moving, oh yeah
-
-//#sub "ha_10_076" そんな所、舐めないで下さい！
-#sub "ha_10_076" Such place, please do not lick!
-
-//#sub "ha_10_077" お尻の穴を、舐めるなんて、そんな！
-#sub "ha_10_077" I can not lick a hole in the butt!
-
-//#sub "ha_10_078" や、やめて下さい、お尻、だめです
-#sub "ha_10_078" Or, please stop, ass is useless
-
-//#sub "ha_10_079" あうぅっ！　お尻に入ってます！！
-#sub "ha_10_079" Oh! I am in the butt! It is!
-
-//#sub "ha_10_080" 中で、動かさないで、ください！
-#sub "ha_10_080" Do not move in, please!
-
-//#sub "ha_10_081" お尻の中が・・変な感じになていますぅ
-#sub "ha_10_081" In the ass ... It's a strange feeling
-
-//#sub "ha_10_082" お尻を、強く揉まないで、下さい・・
-#sub "ha_10_082" Please do not rub your butt strongly ...
-
-//#sub "ha_10_083" お尻が、おかしな、感じです
-#sub "ha_10_083" Ass is a funny feeling
-
-//#sub "ha_10_084" お尻が、気持ちいいかも、しれません
-#sub "ha_10_084" Your ass might be comfortable
-
-//#sub "ha_10_085" いいです、アソコが、熱くなってきました
-#sub "ha_10_085" It is good, the dick is getting hot
-
-//#sub "ha_10_086" 熱い息が、当たっています
-#sub "ha_10_086" Hot breath is hitting
-
-//#sub "ha_10_087" こうしているだけで、なんだか、ゾクゾクしてきます
-#sub "ha_10_087" Just like this, it makes me feel sluggish
-
-//#sub "ha_10_088" アソコ、もっと舐めてください
-#sub "ha_10_088" Dick lick me more
-
-//#sub "ha_10_089" はぁはぁ・・それ、気持ちいい・・です
-#sub "ha_10_089" Ha ha ... it is comfortable ...
-
-//#sub "ha_10_090" いいです・・もっと、こすり付けてください
-#sub "ha_10_090" It is good, please rub more.
-
-//#sub "ha_10_091" あぁ・・・ダメ、です・・・私、も、もうぉっ！
-#sub "ha_10_091" Ah ... no good, ... I, well, well!
-
-//#sub "ha_10_092" だめ、も、もう…いっちゃい…ますぅ…
-#sub "ha_10_092" No, no more ... no ...
-
-//#sub "ha_10_093" わ、私…待って、くださ、い…ああぁっ！
-#sub "ha_10_093" Oh wow…damn…wait….ahh haahh…that's amazing…
-
-//#sub "ha_10_094" だめぇ、私…もう、いっちゃい、ますぅ…！
-#sub "ha_10_094" No, I ... I do not want to go anymore ...!
-
-//#sub "ha_10_095" い、いや…だめ、です…あぁ
-#sub "ha_10_095" No, no ... I guess ...
-
-//#sub "ha_10_096" や、私、も、もう…いく…あぁ…
-#sub "ha_10_096" And, me, well ... I will go ... ah ...
-
-//#sub "ha_10_097" 胸が・・胸が・・・・熱い、です・・
-#sub "ha_10_097" My heart is chest ... hot.
-
-//#sub "ha_10_098" 胸が、すごく、感じて…いいです…ああぁ
-#sub "ha_10_098" My breasts are so terrible, I feel ... Good ... Ah
-
-//#sub "ha_10_099" あそこが、あそこが気持ちいい、ですぅ！
-#sub "ha_10_099" Over there, that is comfortable, is!
-
-//#sub "ha_10_100" い、いいです…あそこ、すごくいいですぅ…！
-#sub "ha_10_100" Good, that is ... that over there, it's really nice ...!
-
-//#sub "ha_10_101" んはぁぁ…い、いってしまいました…
-#sub "ha_10_101" Oh god…I gotta say…damn…
-
-//#sub "ha_10_102" ふぅ…上り、詰めた、みたいです…
-#sub "ha_10_102" Fuu ... I climbed up, I want to ...
-
-//#sub "ha_10_103" はぁ…最後まで、いってしまいました
-#sub "ha_10_103" Haa ... I have not been to the end
-
-//#sub "ha_10_104" はぁ…いかされて、しまいました
-#sub "ha_10_104" Haa ... It got overwhelmed and got it
-
-//#sub "ha_10_105" あん、・・まだ・・続けるんですか？
-#sub "ha_10_105" Ann, ... ... Are you still going?
-
-//#sub "ha_10_106" か・・感覚が・・おかしく・・なっていますから・・
-#sub "ha_10_106" Or feeling .... It is becoming ... · · ·
-
-//#sub "ha_10_107" んぁっ・・・まだ・・息が…整って、いません
-#sub "ha_10_107" Huh ... ... yet ... my breath is not in order ...
-
-//#sub "ha_10_108" すみません…もう無理です
-#sub "ha_10_108" I'm sorry ... It is no longer impossible
-
-//#sub "ha_10_109" ・・ダメです、少しお待ち下さい・・・
-#sub "ha_10_109" ... It is useless, please wait a bit ...
-
-//#sub "ha_10_110" 今はまだ・・少し休んでください
-#sub "ha_10_110" Right now ... Please take a moment.
-
-//#sub "ha_10_111" あの、まだ舐めるんですか？
-#sub "ha_10_111" Well, can you still lick it?
-
-//#sub "ha_10_112" 舐めるの、お好きなんですね
-#sub "ha_10_112" I like licking, don't you?
-
-//#sub "ha_10_113" まだ、触るんですか？
-#sub "ha_10_113" Are you still touching it?
-
-//#sub "ha_10_114" さわり、続けるんですね
-#sub "ha_10_114" Sit down and continue, don't you think?
-
-//#sub "ha_10_115" 胸が、変な感じです
-#sub "ha_10_115" My chest feels strange
-
-//#sub "ha_10_116" そんなに、胸ばかりいじらないで下さい
-#sub "ha_10_116" Don't play with my breasts so much
-
-//#sub "ha_10_117" あ、あの…乳首が、おかしくなってしまいます
-#sub "ha_10_117" Oh, my ... ... My nipples are getting hard
-
-//#sub "ha_10_118" ダメです…乳首・・・まだ、敏感なので・・
-#sub "ha_10_118" It is useless ... Nipple ... It's still sensitive, so ...
-
-//#sub "ha_10_119" だめ、まだ触らないで下さい
-#sub "ha_10_119" No, please do not touch it yet.
-
-//#sub "ha_10_120" や、まだ、触っちゃ・・・だめです・・
-#sub "ha_10_120" Or, still, touch ... It is useless
-
-//#sub "ha_10_121" あん、指を、入れないで、下さい
-#sub "ha_10_121" Nngg, don't put your finger in
-
-//#sub "ha_10_122" や・・指を…入れないで下さい・・・
-#sub "ha_10_122" Nngg..Please do not put your fingers ...
-
-//#sub "ha_10_123" だめです、少し休ませてください
-#sub "ha_10_123" No, please let me rest a while.
-
-//#sub "ha_10_124" そんなに、続けて舐めないでください
-#sub "ha_10_124" Please, stop licking it
-
-//#sub "ha_10_125" 舌が、また入ってきてます
-#sub "ha_10_125" The tongue is coming in again
-
-//#sub "ha_10_126" あぁ、そんなに舐められたら、わ、私…
-#sub "ha_10_126" Oh, if I get licked so much…I…I…
-
-//#sub "ha_10_127" やぁ！　そこは、だめですぅ…ふああぁ！
-#sub "ha_10_127" Hey! There is no way out there ... Faa!
-
-//#sub "ha_10_128" そ、そこ…続けないで、くだ…さぁい…！
-#sub "ha_10_128" Please…do not continue….!
-
-//#sub "ha_10_129" あん、お尻を、そんなにいじらないでください
-#sub "ha_10_129" Nngg, please do not mess around with my ass
-
-//#sub "ha_10_130" だめです、お尻が、おかしくなりますぅ
-#sub "ha_10_130" No, stop, my ass is getting strange
-
-//#sub "ha_10_131" お尻、揉まれたら…私
-#sub "ha_10_131" Ass, if you got rubbed ... I
-
-//#sub "ha_10_132" や、お尻が、へんな、感じです…
-#sub "ha_10_132" Or, the butt, a feeling, feeling ...
-
-//#sub "ha_10_133" もっと、続けて舐めてください
-#sub "ha_10_133" More, please continue to lick
-
-//#sub "ha_10_134" まだまだ、続けても大丈夫ですよ
-#sub "ha_10_134" It is still safe to continue even more
-
-//#sub "ha_10_135" もっと、気持ちよくして欲しいです
-#sub "ha_10_135" I want you to feel more comfortable
-
-//#sub "ha_10_136" ここ、もっと舐めて下さい
-#sub "ha_10_136" Please lick me more here
-
-//#sub "ha_10_137" あぁ、また、また、いってしまう…あぁぁ
-#sub "ha_10_137" Oh fuck! You're going to make me cum again…
-
-//#sub "ha_10_138" 気持ちいい…ま、また、いくぅ―！
-#sub "ha_10_138" It feels good ... Ahh ahhh, I'm going to cum again!
-
-//#sub "ha_10_139" はぁ…すごいです、またいってしまいました…
-#sub "ha_10_139" Uuhhh ... that's amazing, I have already told you ...
-
-//#sub "ha_10_140" 気持ち…いいですけど…もう体力が…
-#sub "ha_10_140" Feel ... I do not mind ... yet I have physical strength ...
-
-//#sub "ha_10_141" ら、らめです…もう体が、動きまへん
-#sub "ha_10_141" Lara ... It is already body, moving motion
-
-//#sub "ha_10_142" だめ…もう、げんはい…れす
-#sub "ha_10_142" No, I already have it.
-
-//#sub "ha_10_143" やぁ、もう、なんにも…かんがえられまへん…
-#sub "ha_10_143" Hey, everything is already ... well thought ...
-
-//#sub "ha_10_144" やぁ、もう…なめらいで、くらはい
-#sub "ha_10_144" Hey, I already ... a squirrel, a crap
-
-//#sub "ha_10_145" 舌ぁ…また、感じて、きちゃいますぅ
-#sub "ha_10_145" Tongue ... Also, feel it, I am suffering
-
-//#sub "ha_10_146" やぁ…触られるの、もうらめですぅ
-#sub "ha_10_146" Hey ... You will be touched, it's lame
-
-//#sub "ha_10_147" もう感じるの、くるひい…れすぅ…
-#sub "ha_10_147" I feel anymore, winky ... Let me ...
-
-//#sub "ha_10_148" だめぇ、むねぇ、おかしくなっちゃいますぅ
-#sub "ha_10_148" No, hey, I'm going crazy.
-
-//#sub "ha_10_149" いやぁ…むね、壊れちゃいますぅ
-#sub "ha_10_149" Wow ... Mmmm, it's going to break
-
-//#sub "ha_10_150" らめです、そこ、もうやめてくださぁい
-#sub "ha_10_150" Lame is there, please stop it already
-
-//#sub "ha_10_151" さわら、ないでくださぁい、感じて、しま…あぁ
-#sub "ha_10_151" Never the other, do not you feel it, oops ... Ah
-
-//#sub "ha_10_152" あひいぃぃぃぃ、らめぇ、やめてくらはぁい！！
-#sub "ha_10_152" Long time no see, please stop it! It is!
-
-//#sub "ha_10_153" ひああぁ、しょこはぁ、もう、おかひくなっちゃうぅ！
-#sub "ha_10_153" Hao, Shoko Haha, it will be funny anymore!
-
-//#sub "ha_10_154" んはあぁ、おひりぃ、こわれちゃい、ますぅっ！！
-#sub "ha_10_154" Oh, god, god, oh, wow! I'm cumming!
-
-//#sub "ha_10_155" らめれす、お尻がぁ、おかひく、なりますぅ！
-#sub "ha_10_155" Labeling, ass, geeky, I will!
-
-//#sub "ha_10_156" いぎそう、・・まらいっちゃいますぅ
-#sub "ha_10_156" Let's go ....
-
-//#sub "ha_10_157" い、いっちゃいまふぅ…わらしぃ、またぁ、ああぁ…
-#sub "ha_10_157" Well, I said one ... Wow, this is ... Well, ah ...
-
-//#sub "ha_10_158" ひ、ひああああぁぁぁっ！！
-#sub "ha_10_158" Hi, ah ah ah oh! I'm cumming!
-
-//#sub "ha_10_159" い、いっちゃうぅぅぅ～～っ！！
-#sub "ha_10_159" Well, I said that! I'm cumming!
-
-//#sub "ha_10_160" ら、らめれふ…も、もう…うごけま、せん
-#sub "ha_10_160" Lam, lettuff ... well, already ... no more
-
-//#sub "ha_10_161" も、もう…なんにも…頭の中…まっひろ、です
-#sub "ha_10_161" Also, already ... anything ... in your head ... Maohiro
-
-//#sub "ha_10_162" へへへ・・・きもちいいです・・・へへへ・・
-#sub "ha_10_162" *giggle*... it feels so good…to…mmmm…
-
-//#sub "ha_10_163" もっろ・・・・いっぱい・・・・しへ・・くらはい・・
-#sub "ha_10_163" Lot of · · · · · · · · · · · · · · · · · · ·
-
-//#sub "ha_10_164" も、もうらめれふ…おかひく、なっへまふ
-#sub "ha_10_164" Even, it gets licking ... Okaku, Nenhifumifu
-
-//#sub "ha_10_165" はぁ…おっぱい…きも、ちいれふ
-#sub "ha_10_165" Huh ... boobs ... Kimotoshi
-
-//#sub "ha_10_166" ん…おっぱい…おかひくなっちゃいまひたぁ
-#sub "ha_10_166" I ... boobs ... Becomes oddly now
-
-//#sub "ha_10_167" はぁ…そこぉ、きもち、いいです
-#sub "ha_10_167" Aahh... that's right, feeling good
-
-//#sub "ha_10_168" んはぁ…もぉ、きもひ、よふぎまふぅ…
-#sub "ha_10_168" Ha ha ... well, gimme, your sperm ...
-
-//#sub "ha_10_169" あはぁ、　ぎもじぃぃぃ・れふぅ・・・あはは・
-#sub "ha_10_169" Ahh, gimmicky · ruu · · · haha
-
-//#sub "ha_10_170" んはぁ…ひ、ひぃ、しょこぉ…わらひぃい…ひいのぉ…あはぁ
-#sub "ha_10_170" Ha ha ... Hi, Hi, *suck* ... strawberry ... Hi no ... aha
-
-//#sub "ha_10_171" あふぅ…おひりぃ、おかひくなりまふぅ…
-#sub "ha_10_171" Ahuu ... お ひ り ぃ, お か ひ く な ふ ふ ぅ ...
-
-//#sub "ha_10_172" お、おひり、らめ…もう…こわれひゃうぅ…
-#sub "ha_10_172" Oh, お ひ り, ら め ... あ り ... そ れ れ ゃ う う ぅ ...
-
-//#sub "ha_10_173" い、いはぁぁ、もう、もういっひゃうぅ
-#sub "ha_10_173" Oh, god, I already came again…
-
-//#sub "ha_10_174" い、いひぃ…わらしぃ…まら、おかひく…んはぁぁっ！
-#sub "ha_10_174" Oh, Ichi ... I'm sorry ... Mara, I'm okay ... Haha!
-
-//#sub "ha_10_175" い、いはあああぁぁぁっ！！
-#sub "ha_10_175" God, ah ah! I'm cumming!
-
-//#sub "ha_10_176" ん、んあぁぁあっぁっ！！
-#sub "ha_10_176" Mmmm, that's it! I'm cumming!
-
-//#sub "ha_10_177" はふいい、ふぃ…ん、ぬはぁ…いい、のう…ははは
-#sub "ha_10_177" Fuji, Fu ...... Nuu ... Nice, Nu ... Hahaha
-
-//#sub "ha_10_178" あは、ん…また、…きもひよかった…れふ…へへへ
-#sub "ha_10_178" Ahh ... *pant* ... it was good ... *pant* ... *pant* ...
-
-//#sub "ha_10_179" そこ、いい感じです
-#sub "ha_10_179" There, it feels nice.
-
-//#sub "ha_10_180" 大分、慣れてきたようです
-#sub "ha_10_180" Oita, it seems I got used to it.
-
-//#sub "ha_10_181" そこ、すごく感じます
-#sub "ha_10_181" It feels really good right there
-
-//#sub "ha_10_182" お客様の愛撫、とても気持ちいいです
-#sub "ha_10_182" Your caress, it feels really good
-
-//#sub "ha_10_183" 感じすぎてしまいます
-#sub "ha_10_183" I feel too much
-
-//#sub "ha_10_184" 少し、慣れてきたようです
-#sub "ha_10_184" It seems I got used to a bit.
-
-//#sub "ha_10_185" ダメです…おかしく、なってしまいます
-#sub "ha_10_185" It is useless ... amnesious, it will end up.
-
-//#sub "ha_10_186" そうされると…変になりそうです
-#sub "ha_10_186" It seems to be strange if you do so
-
-//#sub "ha_10_187" んっ、舌が…気持ちいいです
-#sub "ha_10_187" The tongue ... It feels good
-
-//#sub "ha_10_188" 舐められるの、感じます
-#sub "ha_10_188" I can feel… you licking me…
-
-//#sub "ha_10_189" お、お客様の舌、気持ちいいです
-#sub "ha_10_189" Your tongue is so nice
-
-//#sub "ha_10_190" 触れるの、気持ちいいですね
-#sub "ha_10_190" Your touch…feels good…
-
-//#sub "ha_10_191" それ、すごく感じてしまいます
-#sub "ha_10_191" I feel it very much.
-
-//#sub "ha_10_192" もう少し、触っても、大丈夫ですよ
-#sub "ha_10_192" Please, a little more, even if you touch it, it'll be fine
-
-//#sub "ha_10_193" 胸、気持ちいいです
-#sub "ha_10_193" I'm so happy.
-
-//#sub "ha_10_194" 胸が、すごく感じます
-#sub "ha_10_194" My chest feels awful
-
-//#sub "ha_10_195" 胸、もっと、気持ちよくして欲しいです
-#sub "ha_10_195" With my chest, please, I want you to feel good
-
-//#sub "ha_10_196" 乳首、気持ちいいです
-#sub "ha_10_196" My nipples feel so good
-
-//#sub "ha_10_197" もっと、乳首いじって下さい
-#sub "ha_10_197" More, please tease my nipples
-
-//#sub "ha_10_198" いいです、乳首、すごく感じます
-#sub "ha_10_198" Wow, my nipples, I feel a lot
-
-//#sub "ha_10_199" あん、感じて、きます
-#sub "ha_10_199" Ah, I feel it.
-
-//#sub "ha_10_200" そこ、すごくいい気持ちです
-#sub "ha_10_200" There, it is a wonderful feeling
-
-//#sub "ha_10_201" あん、優しく触って、下さい
-#sub "ha_10_201" Please touch me gently
-
-//#sub "ha_10_202" そこ、すごく敏感なんです…だから…
-#sub "ha_10_202" I am very sensitive there, so ...
-
-//#sub "ha_10_203" ん、舐められるの、気持ち、いいです
-#sub "ha_10_203" I'm being licked, I feel good.
-
-//#sub "ha_10_204" そこぉ…もっと、舐めて下さい
-#sub "ha_10_204" There ... there, please lick it.
-
-//#sub "ha_10_205" んふ、舌が、入ってきました
-#sub "ha_10_205" Well, my tongue came in.
-
-//#sub "ha_10_206" 中、舌で、気持ちいいです
-#sub "ha_10_206" It feels good with your tongue
-
-//#sub "ha_10_207" あぁ…指が、あそこに入ってきました
-#sub "ha_10_207" Oh ... my finger came in…
-
-//#sub "ha_10_208" 指、優しく、入れて下さい
-#sub "ha_10_208" Finger, gently, please put it
-
-//#sub "ha_10_209" ん、急に深く、しないで下さいね
-#sub "ha_10_209" Do not be suddenly deeply, do not you?
-
-//#sub "ha_10_210" あうぅ…そこはぁ、だめです…私、おかしく、なって…あぁぁ
-#sub "ha_10_210" A couple ... there, no, I am wrong, becoming ... ah
-
-//#sub "ha_10_211" だめです、そこは…すごく…感じ、ちゃいます…あぁ
-#sub "ha_10_211" That's no good, there ... ... it makes me feel awfully ... *slurp* ... Oh.
-
-//#sub "ha_10_212" お尻、なんだか恥ずかしいです
-#sub "ha_10_212" Ass is somehow embarrassing
-
-//#sub "ha_10_213" お尻を触られると、ゾクゾクしてきます
-#sub "ha_10_213" When you touch my butt, I get crazy
-
-//#sub "ha_10_214" だめです、お尻に、指を入れないで下さい
-#sub "ha_10_214" No, please do not put your finger in my butt
-
-//#sub "ha_10_215" あ…お尻に指が、入ってきて…んはぁあ
-#sub "ha_10_215" Ah ... Your fingers are entering…my butt…
-
-//#sub "ha_10_216" そこ、舐められると、変な感じになります
-#sub "ha_10_216" There, you will feel strange when you are licked
-
-//#sub "ha_10_217" お、お尻の穴、そんなに、なめないで、ください
-#sub "ha_10_217" Oh my god, do not lick so much, please
-
-//#sub "ha_10_218" んぁ、お尻に、舌が入ってきて、あぁぁ
-#sub "ha_10_218" Nngg, your tongue came into my ass, Ah
-
-//#sub "ha_10_219" だめぇ、お尻、舌で感じちゃいますぅ…
-#sub "ha_10_219" No, I can feel your tongue…in my ass…
-
-//#sub "ha_10_220" お尻、揉まれて、感じてきました
-#sub "ha_10_220" Buttocks, rubbed, I felt
-
-//#sub "ha_10_221" お尻って、もまれると、気持ちよかったんですね
-#sub "ha_10_221" I was pleasant when I got a buttock
-
-//#sub "ha_10_222" お尻、たくさん揉んでください
-#sub "ha_10_222" Please ass, please mass lots
-
-//#sub "ha_10_223" あの、いい、感じです
-#sub "ha_10_223" Mmm, I feel it.
-
-//#sub "ha_10_224" 舐められるの、すごく、いいです
-#sub "ha_10_224" It is very nice to be licked
-
-//#sub "ha_10_225" たくさん舐めて、下さい
-#sub "ha_10_225" Please lick lots
-
-//#sub "ha_10_226" お好きに触って、大丈夫です
-#sub "ha_10_226" Touch your favorite, it's okay
-
-//#sub "ha_10_227" もっとたくさん、触ってくださいね
-#sub "ha_10_227" More, please touch it
-
-//#sub "ha_10_228" そこは、触られると、感じてしまいます
-#sub "ha_10_228" It feels good when you touch me…
-
-//#sub "ha_10_229" 胸、もっと触って下さいね
-#sub "ha_10_229" Please touch my breasts more…
-
-//#sub "ha_10_230" 私の胸、もっと触っても大丈夫です
-#sub "ha_10_230" My breasts, please, it's okay to touch more
-
-//#sub "ha_10_231" 胸、もっと、気持ちよくして欲しいです
-#sub "ha_10_231" Chest, I want you to feel more comfortable
-
-//#sub "ha_10_232" い、いいです、乳首が、気持ちいいです
-#sub "ha_10_232" Good...nipples feel so good..
-
-//#sub "ha_10_233" 乳首、感じてきた、みたいです…
-#sub "ha_10_233" My nipples…I feel so good…
-
-//#sub "ha_10_234" 乳首、こりこりされるると…気持ちいいです
-#sub "ha_10_234" Nipples, I get a little nervous ... It feels good
-
-//#sub "ha_10_235" そこ、もっとこすってください
-#sub "ha_10_235" Please rub more there
-
-//#sub "ha_10_236" こ、こすられるの、気持ちいいです
-#sub "ha_10_236" It feels so good when you rub it…
-
-//#sub "ha_10_237" あはぁ…それ、すごく気持ちいいです
-#sub "ha_10_237" Ahh ... That feels really good…
-
-//#sub "ha_10_238" い、いいです…優しく、いじってください
-#sub "ha_10_238" Good, is not it gentle, please mess with it
-
-//#sub "ha_10_239" たくさん、舐めてください
-#sub "ha_10_239" Please lick a lot
-
-//#sub "ha_10_240" 好きに、嘗め回して下さい
-#sub "ha_10_240" Please like to lick, like it.
-
-//#sub "ha_10_241" あはぁ…舌が入ってきて…いいです
-#sub "ha_10_241" Aha ... A tongue comes in ... It's good
-
-//#sub "ha_10_242" い、いい…舌が、すごく気持ちいいです
-#sub "ha_10_242" So good... Your tongue is really amazing…
-
-//#sub "ha_10_243" ゆ、指が、中で動いて…あぁぁ
-#sub "ha_10_243" Ahh, my fingers are coming in...
-
-//#sub "ha_10_244" はぁ…指で、中が擦れて…いい、感じです…
-#sub "ha_10_244" Aahh ... with your fingers, rubbing my insides ... It's a nice feeling ...
-
-//#sub "ha_10_245" い、いいです…お客様の指、すごく気持ちいいです
-#sub "ha_10_245" Wow, your fingers feel really good…
-
-//#sub "ha_10_246" ま、待ってください、そこはぁ…おかしく、なっちゃいますぅ
-#sub "ha_10_246" Wait, please wait ... Right there … it feels funny…
-
-//#sub "ha_10_247" やぁぁ、また、変に、なるぅ…あ、ああぁぁっ！
-#sub "ha_10_247" Aah, I'm going ….to cum again ... Oh, Oh!
-
-//#sub "ha_10_248" お尻が、いじられて、すごく気持ちいいです
-#sub "ha_10_248" My butt feels all messy, it feels really good
-
-//#sub "ha_10_249" たくさん、お尻いじって下さい
-#sub "ha_10_249" More, please mess with ass
-
-//#sub "ha_10_250" んはぁ…お尻に指が入ってきて…いいです
-#sub "ha_10_250" Ha ha ... fingers came in my asshole ... It's nice
-
-//#sub "ha_10_251" お客様の指が、お尻で、動いてますぅ
-#sub "ha_10_251" Your fingers are moving with my butt
-
-//#sub "ha_10_252" お尻、舐められて、感じてますぅ
-#sub "ha_10_252" I can feel you licking my ass…
-
-//#sub "ha_10_253" お尻を、舐められるの、気持ちいいです
-#sub "ha_10_253" I can feel licked in my asshole, it feels really good
-
-//#sub "ha_10_254" いい…お尻に、舌が入って…気持ちいいです
-#sub "ha_10_254" Wow ... I have a tongue in my butt ... It feels good
-
-//#sub "ha_10_255" いいです…お尻が、もう、おかしくなりそうです
-#sub "ha_10_255" God ... my butt is going crazy again
-
-//#sub "ha_10_256" あぁん、お尻、もっと揉んでくださぁい
-#sub "ha_10_256" Oh, please mass themselves more
-
-//#sub "ha_10_257" いいです、お尻、揉みまわして欲しいです
-#sub "ha_10_257" I want you to cum while rubbing my ass…
-
-//#sub "ha_10_258" 私のお尻を、思い切り、揉んでください
-#sub "ha_10_258" Please, keep punishing my asshole, more….
-
-//#sub "ha_10_259" 舐められるの、気持ちいいです
-#sub "ha_10_259" Your tongue…it feels so good…
-
-//#sub "ha_10_260" きもちいいですぅ、もっと舐めてください
-#sub "ha_10_260" Ooh.. That feels so good, please lick it more
-
-//#sub "ha_10_261" お客様の舌で、もっと気持ちよくして下さい
-#sub "ha_10_261" Please make it feel good with your tongue more…
-
-//#sub "ha_10_262" 感じます、もっと触りまくってください
-#sub "ha_10_262" Feel it, please touch more
-
-//#sub "ha_10_263" お客様に触られると、すごく、気持ちいいです
-#sub "ha_10_263" It feels really great when you touch me Customer….
-
-//#sub "ha_10_264" もっと、もっとたくさん触ってください
-#sub "ha_10_264" More, please touch more
-
-//#sub "ha_10_265" 胸、いっぱいさわってくださぁい
-#sub "ha_10_265" Touch my breasts, feels so good…
-
-//#sub "ha_10_266" 私の胸を、好きなだけもみ回して下さい
-#sub "ha_10_266" Please play with my breasts as much as you want
-
-//#sub "ha_10_267" 胸を、もっと気持ちよくしてください！
-#sub "ha_10_267" Please make my breasts feel even better!
-
-//#sub "ha_10_268" い、いいです、乳首、気持ちいいですぅ
-#sub "ha_10_268" God, my nipples, it feels good
-
-//#sub "ha_10_269" もっと、乳首を、気持ちよく、して欲しいです
-#sub "ha_10_269" I want you to feel even better, it feels so good….
-
-//#sub "ha_10_270" 乳首が、コリコリして、気持ちいいですぅ…
-#sub "ha_10_270" My nipples feel so good, so good….
-
-//#sub "ha_10_271" んはぁ…いじられるの、すごく気持ちいいです！
-#sub "ha_10_271" Ha ha ... It feels so good, it feels so good!
-
-//#sub "ha_10_272" もっと、そこ、弄り回してください！
-#sub "ha_10_272" More, please frenk around there!
-
-//#sub "ha_10_273" そこぉ、もっとたくさん、いじってくださぁい
-#sub "ha_10_273" Right there, I want you to play with me a lot more
-
-//#sub "ha_10_274" それ、もっと、たくさん感じたいですぅ！
-#sub "ha_10_274" Uuhh, I want to feel a lot more!
-
-//#sub "ha_10_275" はふぅ…舌がぁ、暖かくて、気持ちいいですぅ
-#sub "ha_10_275" *giggle* ... Your tongue is…. It's warm and pleasant….
-
-//#sub "ha_10_276" 舌がぁ、動いて、すごく感じますぅ
-#sub "ha_10_276" Oh god, your tongue is moving…it feels so good…
-
-//#sub "ha_10_277" もっと、舌を、押し込んで下さい
-#sub "ha_10_277" More, please push your tongue further in me…
-
-//#sub "ha_10_278" いいです、舌で、もっと感じさせてくださぁい
-#sub "ha_10_278" Please let me feel more with your tongue
-
-//#sub "ha_10_279" んぅ…い、いいです…指を、もっと入れてください
-#sub "ha_10_279" It is OK, please ... put more fingers inside me…
-
-//#sub "ha_10_280" 中で、指が動いて、気持ちいいです！
-#sub "ha_10_280" Move your fingers inside me...it feels so good!
-
-//#sub "ha_10_281" す、すごい…指、感じて、気持ち、いいですぅ！
-#sub "ha_10_281" Wow, your fingers…it's so good…
-
-//#sub "ha_10_282" お客様の指、すごく、きもちいいですぅ！
-#sub "ha_10_282" Your fingers inside me, it feels so good!
-
-//#sub "ha_10_283" あはぁ！　そこぉ、もっとこすってくださぁい！
-#sub "ha_10_283" Ahh! Mmmm….Please rub more!
-
-//#sub "ha_10_284" それぇ、だめですぅ…感じすぎて、おかしく、なっちゃうぅ…
-#sub "ha_10_284" Well, that's no good ... I feel too much and it's going to be funny ...
-
-//#sub "ha_10_285" んはぁ…お尻が、気持ちいいです！
-#sub "ha_10_285" Ha ha ... It feels so good in my ass!
-
-//#sub "ha_10_286" いいですぅ、もっとお尻、感じさせてくださぁい！
-#sub "ha_10_286" Please, let me feel it more in my ass!
-
-//#sub "ha_10_287" 指で、お尻の中を、弄り回して、ください！
-#sub "ha_10_287" Stir up my insides, deep in my asshole, please!
-
-//#sub "ha_10_288" お尻に指が、入ってきて…気持ちいいです！
-#sub "ha_10_288" Your fingers..deep in my ass…wow ... It feels good!
-
-//#sub "ha_10_289" い、いい…お尻の穴ぁ、舐められるの、気持ちいいです
-#sub "ha_10_289" Oh, god ... My asshole, it feels good to be licked in my asshole
-
-//#sub "ha_10_290" お尻ぃ、もっといやらしく、舐めて下さい！
-#sub "ha_10_290" Please be nice, lick it!
-
-//#sub "ha_10_291" な、中に…舌が入って、気持ちいいです！
-#sub "ha_10_291" Mmm... Inside ... ... Your tongue got in, it feels good!
-
-//#sub "ha_10_292" い、いいです…中まで、全部嘗め回して、くださぁい！
-#sub "ha_10_292" Wow, so good ... inside, please rotate all down, please!
-
-//#sub "ha_10_293" いいです、たくさん揉み回してくださぁい
-#sub "ha_10_293" Please try rubbing me a lot
-
-//#sub "ha_10_294" 感じてます、お尻が、すごく気持ちいいですぅ！
-#sub "ha_10_294" It feels so good…in my butt…
-
-//#sub "ha_10_295" いいですぅ、好きなだけ、揉みまわして、くださぁい！
-#sub "ha_10_295" Okay, as much as you want, stirring me, please!
-
-//#sub "ha_10_296" いいです、お尻をもまれるの、気持ちいいです！
-#sub "ha_10_296" Amazing…it feels so good to have my ass fingered…
-
-//#sub "ha_10_297" そんなに・・舐めないで下さい
-#sub "ha_10_297" Do not lick so much ...
-
-//#sub "ha_10_298" やめて下さい…少し背筋が…
-#sub "ha_10_298" Please stop ... Customer ...
-
-//#sub "ha_10_299" あの、どこを舐めてるんですか？
-#sub "ha_10_299" Um, where are you licking?
-
-//#sub "ha_10_300" あまり、触らないで下さい
-#sub "ha_10_300" Do not touch it too much.
-
-//#sub "ha_10_301" あの、どこを触ってるんですか
-#sub "ha_10_301" Um, where are you touching?
-
-//#sub "ha_10_302" 気持ちいいというより…なんとも言えません
-#sub "ha_10_302" I feel better ... I won't say anything…
-
-//#sub "ha_10_303" 胸は、ご遠慮下さい
-#sub "ha_10_303" Please refrain from touching my breasts
-
-//#sub "ha_10_304" あの、少し痛いです
-#sub "ha_10_304" Ow, it hurts a little.
-
-//#sub "ha_10_305" 胸は、あまり触らないで下さい
-#sub "ha_10_305" Do not touch my breasts so much.
-
-//#sub "ha_10_306" 乳首、痛いです
-#sub "ha_10_306" My nipples are sore.
-
-//#sub "ha_10_307" そこは、あまりいじり過ぎないように
-#sub "ha_10_307" Do not overdo it too much
-
-//#sub "ha_10_308" 乳首は、痛いので、おやめ下さい
-#sub "ha_10_308" Please stop hurting my nipples.
-
-//#sub "ha_10_309" あの、変な所を触らないで下さい
-#sub "ha_10_309" Um, do not touch strange places
-
-//#sub "ha_10_310" そんな所は、触らないで、下さい
-#sub "ha_10_310" Do not touch such places, please
-
-//#sub "ha_10_311" ん、ダメです、そこは…
-#sub "ha_10_311" I'm afraid, there is ...
-
-//#sub "ha_10_312" そ、そんな所を、触らないで下さい
-#sub "ha_10_312" Please do not touch such a place
-
-//#sub "ha_10_313" ダメです、なめないで下さい
-#sub "ha_10_313" Please stop, stop licking me!
-
-//#sub "ha_10_314" 妙な所を、舐めるのはやめて下さい
-#sub "ha_10_314" Stop licking the strange place
-
-//#sub "ha_10_315" ダメです、舌を、入れないで下さい
-#sub "ha_10_315" No, do not put your tongue in it.
-
-//#sub "ha_10_316" やめて下さい…舌を抜いて下さい
-#sub "ha_10_316" Please stop ... please pull the tongue out
-
-//#sub "ha_10_317" 指を…入れないで下さい
-#sub "ha_10_317" Do not put your fingers ...
-
-//#sub "ha_10_318" 指を、そこに入れてはダメです
-#sub "ha_10_318" Do not put your finger in there
-
-//#sub "ha_10_319" 指を…中で動かさないで下さい
-#sub "ha_10_319" Please do not move your finger in ...
-
-//#sub "ha_10_320" ダメです…指を抜いて下さい
-#sub "ha_10_320" It is no good ... please pull out your finger
-
-//#sub "ha_10_321" んふぅ？！　やぁぁ、もう、やめて、くださぁい！
-#sub "ha_10_321" Uuhh! I'm cumming!! Hey, stop it already, please!
-
-//#sub "ha_10_322" だ、だめですぅ…そこは、もう、ダメですぅ…！
-#sub "ha_10_322" Do not do that ... I can not do that anymore ...!
-
-//#sub "ha_10_323" お、お尻を、いじらないで下さい
-#sub "ha_10_323" Oh, please do not mess around with my butt
-
-//#sub "ha_10_324" お尻の穴を、刺激しないで下さい
-#sub "ha_10_324" Do not stimulate asshole, please.
-
-//#sub "ha_10_325" ダメです、お尻に、指を入れないで下さい
-#sub "ha_10_325" No! Don't put your fingers in my butt!
-
-//#sub "ha_10_326" お、お尻から…指を抜いて下さい
-#sub "ha_10_326" Oh, please remove your finger from my butt
-
-//#sub "ha_10_327" お尻の穴を、舐めないで下さい
-#sub "ha_10_327" Do not lick my asshole
-
-//#sub "ha_10_328" お、お尻を舐めるのは、やめて下さい
-#sub "ha_10_328" Oh, please stop licking my ass
-
-//#sub "ha_10_329" ダメです…お尻に、指を入れないで下さい
-#sub "ha_10_329" It doesn't feel good ... Please do not put your finger in my butt
-
-//#sub "ha_10_330" あの、お尻から指を抜いて下さい
-#sub "ha_10_330" Uh, please pull your finger out of my butt
-
-//#sub "ha_10_331" お尻から、手を放してください
-#sub "ha_10_331" Please let go of my ass
-
-//#sub "ha_10_332" お尻をもむのはやめて下さい
-#sub "ha_10_332" Please stop grabbing my ass
-
-//#sub "ha_10_333" お、お尻を、強く揉むのはやめて下さい
-#sub "ha_10_333" Oh, please stop massaging so hard
-
-//#sub "ha_10_334" お尻を、激しく揉まないで、下さい
-#sub "ha_10_334" Please do not massage my ass
-
-//#sub "ha_10_335" もっと舐めていただいても、結構です
-#sub "ha_10_335" It's okay if you want to lick it more…
-
-//#sub "ha_10_336" 思うままにお舐め下さい
-#sub "ha_10_336" Please, lick me as you wish…
-
-//#sub "ha_10_337" お望みのままに、嘗め尽くしてください
-#sub "ha_10_337" Please, keep licking me as you like…
-
-//#sub "ha_10_338" お好きなようにお触り下さい
-#sub "ha_10_338" Please touch me as you like
-
-//#sub "ha_10_339" お客様のお望みのままに、さわりまくってください
-#sub "ha_10_339" Please, Customer, touch me even more….you can be rough…
-
-//#sub "ha_10_340" いくら触っていただいても、問題ありません
-#sub "ha_10_340" No matter how much you touch it, it's not a problem…
-
-//#sub "ha_10_341" お気に召すままに、胸をお楽しみ下さい
-#sub "ha_10_341" Please enjoy my breats all you want, as much as you like…
-
-//#sub "ha_10_342" 私の胸を、たっぷりとお楽しみ下さい
-#sub "ha_10_342" Please, enjoy my breasts plenty
-
-//#sub "ha_10_343" 私の胸を、お好きなようになさってください
-#sub "ha_10_343" Please, do my breasts as much as you please
-
-//#sub "ha_10_344" 乳首、赴くままままにいじり倒してください
-#sub "ha_10_344" My nipples, please, touch them….
-
-//#sub "ha_10_345" 私の乳首を、存分にいじり倒してください
-#sub "ha_10_345" Please use my nipples as you wish…more…
-
-//#sub "ha_10_346" 乳首で、気が済むまで遊んでいただきたいです
-#sub "ha_10_346" I would like you to play with my nipples, as much as you like…
-
-//#sub "ha_10_347" そこを…お好きに擦りまくってください
-#sub "ha_10_347" Please rub there ... rub it as you like….
-
-//#sub "ha_10_348" ご自由に、指で擦っていただいて結構です
-#sub "ha_10_348" Please feel free to rub it with your fingers
-
-//#sub "ha_10_349" その突起を…存分にいじりまくって、下さい
-#sub "ha_10_349" Please, mess around with my clit…as you like…
-
-//#sub "ha_10_350" お客様のお望みのままに、突起を弄って下さい
-#sub "ha_10_350" Please rub my clit... as you wish
-
-//#sub "ha_10_351" そこ…ご自由にお舐め下さい
-#sub "ha_10_351" Right there ... please lick it freely
-
-//#sub "ha_10_352" いくら舐めていただいても、問題ございません
-#sub "ha_10_352" It's no problem…just lick as much as you'd like…
-
-//#sub "ha_10_353" 舌を、ねじ込んでいただいても、大丈夫です
-#sub "ha_10_353" Even if you twist your tongue inside me, it's okay
-
-//#sub "ha_10_354" お好きなだけ…舌で、ねぶりまわして、下さい
-#sub "ha_10_354" Just as much as you want ... with your tongue, please stir up my insides…
-
-//#sub "ha_10_355" 指を、ご自由に挿入してください
-#sub "ha_10_355" Please, put your fingers in me…
-
-//#sub "ha_10_356" お客様の指で、お好きなようにかき回して下さい
-#sub "ha_10_356" Please…stir me hard with your fingers…
-
-//#sub "ha_10_357" 指ぃ、もっと…お好きに、動かして、くださぁい
-#sub "ha_10_357" Finger, more ... As you like, move it, please give me it…
-
-//#sub "ha_10_358" ゆ、指で…私をもっと…ご堪能下さい
-#sub "ha_10_358" Aahh, with your fingers ... Deeper in me ... Please enjoy me…
-
-//#sub "ha_10_359" んはぁ…そこはぁ…もっと…してくださぁい
-#sub "ha_10_359" Ha ha ... there ... there more ... Please…do it…
-
-//#sub "ha_10_360" そこぉ、もっと、お好きに、責めて、くださぁい
-#sub "ha_10_360" *pant*…more..that's my favorite…you're torturing me…
-
-//#sub "ha_10_361" お尻、ご自由に弄り回してください
-#sub "ha_10_361" Please, use my ass freely
-
-//#sub "ha_10_362" もっと、お尻を弄っていただいても、大丈夫です
-#sub "ha_10_362" More, even if you finger my ass, it's okay
-
-//#sub "ha_10_363" お客様の指で、私のお尻を、かき回して下さい
-#sub "ha_10_363" Please stir my butt with your fingers
-
-//#sub "ha_10_364" もっと深く、指を挿入しても…問題ありません
-#sub "ha_10_364" It's not a problem if you want to stick your fingers deeper in me…
-
-//#sub "ha_10_365" 私のお尻を、ご自由に嘗め回してください
-#sub "ha_10_365" Please feel free to lick my ass
-
-//#sub "ha_10_366" お望みのままに、お尻を嘗め回してください
-#sub "ha_10_366" Please lick my asshole as you please
-
-//#sub "ha_10_367" お尻の中まで、お舐め下さい
-#sub "ha_10_367" Please lick inside my ass
-
-//#sub "ha_10_368" お尻の中を、舌で、かき回して、下さい
-#sub "ha_10_368" Please stir inside my butt…with your tongue, please
-
-//#sub "ha_10_369" お尻、思う存分揉みまわして、下さい
-#sub "ha_10_369" Please, punish my asshole as much as you wish…
-
-//#sub "ha_10_370" 私のお尻を、お望みのまま、揉みまくってください
-#sub "ha_10_370" Please rub my knees as you please
-
-//#sub "ha_10_371" いいです…もっと強く、揉んでいただいても…
-#sub "ha_10_371" Okay ... even stronger, even if you get frustrated ...
-
-//#sub "ha_10_372" お客様ぁ…私のお尻を、もっと揉みまわしてくださぁい！
-#sub "ha_10_372" Customer ... ... please rub my ass more.
-
-//#sub "ha_10_373" ゆっくり押し付けますから、苦しかったらいってください
-#sub "ha_10_373" I will push it slowly, so please tell me if it is painful
-
-//#sub "ha_10_374" 私も、自分から動きますね
-#sub "ha_10_374" I also move from myself
-
-//#sub "ha_10_375" お客様も、自由に舌を使って下さいね
-#sub "ha_10_375" Customer, please use your tongue freely
-
-//#sub "ha_10_376" もっと、たくさん嘗め回してください
-#sub "ha_10_376" More, please lick me more
-
-//#sub "ha_10_377" だ…だめぁ、もういきそうですぅ
-#sub "ha_10_377" Oh no ... No, she looks like she 's gonna be enough
-
-//#sub "ha_10_378" も、もう…わたしぃ…いっちゃい、そうです…
-#sub "ha_10_378" Well ... well ... I ... I do not mind ... it is ...
-
-//#sub "ha_10_379" い、いいです…すごく、感じて…あぁ
-#sub "ha_10_379" Well, it's okay ... I feel very ... Oh.
-
-//#sub "ha_10_380" い、いくぅ…いっちゃいますぅ…
-#sub "ha_10_380" Well, how are you ... I will not ...
-
-//#sub "ha_10_381" い、いいです…すごく、気持ち、いいですぅ
-#sub "ha_10_381" Well, it's okay ... I feel so good, I do not mind
-
-//#sub "ha_10_382" も、もう…私、い、いきそうですぅ！
-#sub "ha_10_382" Ooh, not again.. ... I, I do not want to cummm!
-
-//#sub "ha_10_383" だ…だめです、こんな…あぁぁ
-#sub "ha_10_383" Oh no ... No, this is ... Ah
-
-//#sub "ha_10_384" 私、こんな…だめ…あぁぁ…
-#sub "ha_10_384" I... just like this ... Ah ...
-
-//#sub "ha_10_385" …私、もう…いっても、いいですかぁ…！
-#sub "ha_10_385" ... I, already ... I wish ... I wonder ...!
-
-//#sub "ha_10_386" も、もう、だめ、です…い、いきますぅ…
-#sub "ha_10_386" Well, no more ... No, I will ...
-
-//#sub "ha_10_387" む、むねがぁ…気持ち、い、いいですぅ…
-#sub "ha_10_387" Mum, mushy ... I feel good, it's okay ...
-
-//#sub "ha_10_388" む…胸で、い、いっちゃいますぅ…
-#sub "ha_10_388" Mmm ... in my chest, I will not cum ...
-
-//#sub "ha_10_389" んふぅ…そこぉ、いい…い、いっちゃうぅ
-#sub "ha_10_389" Mmm…*pant* it's so good…clearly…
-
-//#sub "ha_10_390" あぁ…あそこ、感じて、ます、あぁぁっ…！
-#sub "ha_10_390" Ooh god, yes, right there! It feels so good right there!
-
-//#sub "ha_10_391" んはぁ…はぁ…いって、しまったみたいです
-#sub "ha_10_391" *giggle* well…it would seem as though I came…
-
-//#sub "ha_10_392" はぁ…のぼりつめて、しまいました
-#sub "ha_10_392" Haa ... I'm falling asleep, I already came…
-
-//#sub "ha_10_393" とても、気持ち良かったです
-#sub "ha_10_393" It was very pleasant
-
-//#sub "ha_10_394" はぁ…なんだか、すっきりしました
-#sub "ha_10_394" Aahh ... I feel so much better….
-
-//#sub "ha_10_395" お客様…すごく気持ちよかったです
-#sub "ha_10_395" Customer ... It was very nice…
-
-//#sub "ha_10_396" おかげさまで、最高に感じてしまいました
-#sub "ha_10_396" Thank you, that felt amazing…
-
-//#sub "ha_10_397" 無理やりでしいたけど…いってしまいました
-#sub "ha_10_397" I forced it, but ... I came
-
-//#sub "ha_10_398" 無理にいってしまうと…余計に体力が…
-#sub "ha_10_398" Your were quite unreasonable…using force…
-
-//#sub "ha_10_399" 素晴らしい感覚でした。ありがとうございます、お客様
-#sub "ha_10_399" It was a wonderful feeling. Thank you, Customer
-
-//#sub "ha_10_400" 私は、最高でしたが…お客様はいかがでしたか？
-#sub "ha_10_400" That felt so good, did it feel good for Customer?
-
-//#sub "ha_10_401" まだ続けるんですか？　わかりました
-#sub "ha_10_401" You're still going? Understood.
-
-//#sub "ha_10_402" ちょっと待ってください、少し時間が欲しいのですが
-#sub "ha_10_402" Wait a moment, I'd like a little time
-
-//#sub "ha_10_403" また、すぐに感じてしまいます
-#sub "ha_10_403" I'll feel better in a little…
-
-//#sub "ha_10_404" あの…まだ舐めるんですか？
-#sub "ha_10_404" Um ... Can you still lick it?
-
-//#sub "ha_10_405" ダメです、まだ、感覚が変なので…
-#sub "ha_10_405" I am afraid, I still have a weird sensation ...
-
-//#sub "ha_10_406" だめです、まだ体の奥が熱い、ので
-#sub "ha_10_406" No, my back is still so hot…
-
-//#sub "ha_10_407" や、もう、すぐにおかしくなって、しまいます
-#sub "ha_10_407" Or, it is already going crazy soon, it will be gone
-
-//#sub "ha_10_408" 乳首、まだ、敏感なままですからぁ
-#sub "ha_10_408" My nipples, they are still sensitive
-
-//#sub "ha_10_409" まだ、そこ、熱いままなので…あぁ
-#sub "ha_10_409" Still, it's hot there, so ... oh
-
-//#sub "ha_10_410" や…また、すぐに熱くなって、来ましたぁ
-#sub "ha_10_410" Oh ... again, it got hot and I came
-
-//#sub "ha_10_411" もう、すぐに濡れてきました
-#sub "ha_10_411" It got wet again so quickly….
-
-//#sub "ha_10_412" もう…こんなに溢れてきてますよぉ
-#sub "ha_10_412" It is over ... so much
-
-//#sub "ha_10_413" や、舐めちゃ、だめです
-#sub "ha_10_413" Or, you can not lick it.
-
-//#sub "ha_10_414" だめです…もう、おかしくなって…しまいます
-#sub "ha_10_414" I can not help it ... I'm getting crazy already ...
-
-//#sub "ha_10_415" 舌が…また、気持ちよく、なってきます…
-#sub "ha_10_415" Your tongue … again, it feels so good ...
-
-//#sub "ha_10_416" 待ってください…少し、休まれた方が…
-#sub "ha_10_416" Please wait ... I was resting a little ...
-
-//#sub "ha_10_417" い、いやぁ…！　体がぁ、おかしくなっって…だめ、です…
-#sub "ha_10_417" Oh, well ...! My body is getting strange ... I can not ...
-
-//#sub "ha_10_418" ま、まって、下さい！　そこ、いまはぁ、だめですぅ…！
-#sub "ha_10_418" Wait a moment please!  I can not do it right now!
-
-//#sub "ha_10_419" あの、お尻は…まだ、変な感じするので
-#sub "ha_10_419" Umm ... But I still feel strange
-
-//#sub "ha_10_420" だめですぅ…お尻、おかしくなって、しまいますぅ
-#sub "ha_10_420" No, I don't want it in my butt, it's starting to feel strange….
-
-//#sub "ha_10_421" んはあぁ…また、またいくぅ…あぁぁ…！
-#sub "ha_10_421" Oh ... Oh god ... again ... Ahh ...!
-
-//#sub "ha_10_422" だめ…また…いっちゃいますぅ…
-#sub "ha_10_422" No ... Again ... I will not ...
-
-//#sub "ha_10_423" はぁ…連続で、いって、しまいました…
-#sub "ha_10_423" Haa ... it's continuous, I'm sorry ...
-
-//#sub "ha_10_424" はぁ…続けて上り詰めるなんて、大変ですよ…
-#sub "ha_10_424" Haa ... It is hard to keep going on ...
-
-//#sub "ha_10_425" あの、感覚がおかしいので…
-#sub "ha_10_425" Well, I have a bad feeling ...
-
-//#sub "ha_10_426" 待って下さい、少し、休まれた方が…
-#sub "ha_10_426" Wait a while, some us need to rest a second…
-
-//#sub "ha_10_427" また、続けて舐められたりしたら、私…
-#sub "ha_10_427" If I keep getting licked…I'll….
-
-//#sub "ha_10_428" そこは…まだ、中から熱いものが…
-#sub "ha_10_428" There ... There are still hot things inside ...
-
-//#sub "ha_10_429" 乳首、さっきより敏感になってるので…
-#sub "ha_10_429" Oh my nipples, they're more sensitive than before…
-
-//#sub "ha_10_430" だめです、乳首がおかしくなって、しまいます
-#sub "ha_10_430" No, my nipples are crazy, I want to stop…
-
-//#sub "ha_10_431" や、だめ…もう濡れてきて…恥ずかしいです
-#sub "ha_10_431" Oh no, I'm getting so wet ... It's embarrassing
-
-//#sub "ha_10_432" だめ…すぐに溢れきた、みたいです…
-#sub "ha_10_432" No ... I'm going to overflow soon ...
-
-//#sub "ha_10_433" ゆ…指がぁ、気持ちいい、です
-#sub "ha_10_433" Nngg …your fingers….feel so good…
-
-//#sub "ha_10_434" もう、熱くなって…すごく気持ちいいです
-#sub "ha_10_434" It's getting hot already ... It feels really good
-
-//#sub "ha_10_435" だめえ…そこはぁ、おかしく、なっちゃいますぅ…
-#sub "ha_10_435" ... hey, it's strange, I will not ...
-
-//#sub "ha_10_436" そこはぁ…きもち…よすぎて…へんに、なり、そう…
-#sub "ha_10_436" Well there ... ... feeling ... Yasushi ... to stop, it seems ...
-
-//#sub "ha_10_437" やぁ…お尻で、すぐに感じてしまいます
-#sub "ha_10_437" Hey ... with your ass, I will feel it soon.
-
-//#sub "ha_10_438" だめ、お尻、きもちよくて、恥ずかしいです
-#sub "ha_10_438" Oh no..in my ass…it feels good…I'm so embarrassed…
-
-//#sub "ha_10_439" い、いいですぅ…また、気持ち良くなって…あぁっ…
-#sub "ha_10_439" Well, it's okay ... It's starting to feel good again ... Ahh ...
-
-//#sub "ha_10_440" ま…また、私…いっちゃいます…あぁぁっ…！
-#sub "ha_10_440" Well ... I ... I have a chance ... Ahh ...!
-
-//#sub "ha_10_441" はぁ…また、いってしまいました…
-#sub "ha_10_441" Huh ... I have also said that ...
-
-//#sub "ha_10_442" 続けてだったので…すぐに上り詰めてしまいました
-#sub "ha_10_442" Because we kept going ... It soon went up
-
-//#sub "ha_10_443" 大丈夫です…もっと触ってください
-#sub "ha_10_443" It's okay ... Please touch me more
-
-//#sub "ha_10_444" いいです…そのまま続けて、下さい
-#sub "ha_10_444" Sure ... continue as it is, please
-
-//#sub "ha_10_445" そこ…敏感で、すごく気持ちいいですぅ
-#sub "ha_10_445" Right there ... I'm very sensitive…it feels so good…
-
-//#sub "ha_10_446" 大丈夫です…続けて、嘗め回してくださぁい！
-#sub "ha_10_446" Do not worry ... continue, please lick!
-
-//#sub "ha_10_447" 乳首、すごく、気持ちよくなってます
-#sub "ha_10_447" Ah my nipples, that feels very good…
-
-//#sub "ha_10_448" いいです…乳首で、すごく感じてしまいますぅ…
-#sub "ha_10_448" Okay ... I feel very much with a nipple ...
-
-//#sub "ha_10_449" 連続なので…もう濡れてきて、ます
-#sub "ha_10_449" Since we keep going ... It is already getting wet
-
-//#sub "ha_10_450" き、気持ちいいです…もっといじって下さい
-#sub "ha_10_450" I feel so good ... Please cum more
-
-//#sub "ha_10_451" いいです…その指、すごく感じます
-#sub "ha_10_451" Wow…I feel so good…your finger…
-
-//#sub "ha_10_452" お客様の、指で…たくさん溢れて、きてますぅ…
-#sub "ha_10_452" Customer, with your fingers ... a lot full of ...
-
-//#sub "ha_10_453" すごい、ですぅ…すごくぅ、きもちいいですぅ…！
-#sub "ha_10_453" It's amazing ... It's so simple!
-
-//#sub "ha_10_454" らめえ、れすぅ…そこぉ、もう、おかひく、なるぅ！
-#sub "ha_10_454" Tamoe, Raisu ... Wow, it is already ridiculous, it will be!
-
-//#sub "ha_10_455" すごいですぅ！　おしりぃ、きもちいいですぅ！
-#sub "ha_10_455" Ahh that's amazing! Customer I feel so good!!
-
-//#sub "ha_10_456" おしりぃ、もっといじってくださぁい！
-#sub "ha_10_456" Customer, please! Keep going!
-
-//#sub "ha_10_457" わ、わたしぃ…もう我慢、できませぇん…
-#sub "ha_10_457" Wow, I ... I can not take it anymore, can not ...
-
-//#sub "ha_10_458" い、いっちゃいますぅ…もう、いっちゃいますぅう…！
-#sub "ha_10_458" Well, I guess I ... I will not have it anymore ...!
-
-//#sub "ha_10_459" ふぅ…立て続けにいってしまって…ちょっと意識が…
-#sub "ha_10_459" Fuu ... I went to keep on standing … I'm going to black out ...
-
-//#sub "ha_10_460" ふぅ…感じすぎて、連続でいってしまいました…
-#sub "ha_10_460" Fuu ... I felt like I was feeling too much ...
-
-//#sub "ha_10_461" あの、触らないで下さい
-#sub "ha_10_461" Uh, do not touch it.
-
-//#sub "ha_10_462" もう、終わりにされた方が、よろしいかと…
-#sub "ha_10_462" It would be better if you were finished already
-
-//#sub "ha_10_463" あの…あまり続けられるのは…
-#sub "ha_10_463" Um…I can't keep doing this….
-
-//#sub "ha_10_464" な、何度も舐めるのは、おやめ下さい
-#sub "ha_10_464" Please do not lick it over and over again
-
-//#sub "ha_10_465" 乳首は、もうだめです
-#sub "ha_10_465" My nipples don't feel good
-
-//#sub "ha_10_466" もうやめて下さい、乳首がおかしくなります
-#sub "ha_10_466" Please stop it, my nipples are feeling strange
-
-//#sub "ha_10_467" ダメです、もう触らないでください
-#sub "ha_10_467" Do not touch it anymore.
-
-//#sub "ha_10_468" もう終わりにした方が良いと思います
-#sub "ha_10_468" I think it would be best if you wrapped it up
-
-//#sub "ha_10_469" ダメです、指はやめて下さい
-#sub "ha_10_469" It is no good, please stop fingering me
-
-//#sub "ha_10_470" 指を入れるのは、もうだめです
-#sub "ha_10_470" It doesn't feel good to have you put your fingers in me
-
-//#sub "ha_10_471" あひぃ？！　そこはぁ…もうだめですぅ…！
-#sub "ha_10_471" Ahi? I'm cumming! There ... there is no point to stop ...!
-
-//#sub "ha_10_472" お…お願いですぅ、もう、やめて、くださぁい…！！
-#sub "ha_10_472" O ... Please, stop it, please ...! I'm cumming!
-
-//#sub "ha_10_473" もう、お尻をいじらないで下さい
-#sub "ha_10_473" Again, don't mess around with my butt…
-
-//#sub "ha_10_474" ダメです…お尻がおかしくなてしまいます
-#sub "ha_10_474" I'm afraid ... my ass is going crazy
-
-//#sub "ha_10_475" もう、い、いくのは…だめ、です…あぁぁっ！
-#sub "ha_10_475" I do not want to go anymore ... I can not help it ... Ahh!
-
-//#sub "ha_10_476" だ、だめです…私、また、い…くぅ…あぁぁっ…！
-#sub "ha_10_476" That's no good ... I, I am ... Ooo ... Ah ...!
-
-//#sub "ha_10_477" 何度も…いかせないで、ください
-#sub "ha_10_477" Many times ... Please do not let it go, please
-
-//#sub "ha_10_478" 繰り返しは、本当に疲れるので、その…
-#sub "ha_10_478" All this repetition is making me tired…
-
-//#sub "ha_10_479" 問題ありません…そのまま触り続けてください
-#sub "ha_10_479" No problem ... Please continue to touch
-
-//#sub "ha_10_480" お望みのままに、触り続けてください
-#sub "ha_10_480" Please keep on touching me as you wish
-
-//#sub "ha_10_481" お客様の思うまま、舐め続けてください
-#sub "ha_10_481" Please keep on licking me as you wish
-
-//#sub "ha_10_482" 思う存分、嘗め回してください
-#sub "ha_10_482" Please, keep licking me…please
-
-//#sub "ha_10_483" 素敵です…乳首で、すごく感じています
-#sub "ha_10_483" It's lovely … My nipples feel amazing…
-
-//#sub "ha_10_484" お客様の気のすむまで、乳首をいじりまわしてください
-#sub "ha_10_484" Please mess around with my nipples as you like….
-
-//#sub "ha_10_485" いいです…お好きにそこを、いじり回して下さい
-#sub "ha_10_485" It's okay ... Stir me up, as you like
-
-//#sub "ha_10_486" もっと、いくらでもいじり続けて下さい
-#sub "ha_10_486" Continue tinkering more and more
-
-//#sub "ha_10_487" ん、もっと、奥まで指を挿入されても、大丈夫ですよ
-#sub "ha_10_487" Please, even more, even if you insert your fingers all the way inside me…
-
-//#sub "ha_10_488" お客様の指で、もっとかき回し続けて、下さい
-#sub "ha_10_488" Keep stirring with your fingers, please
-
-//#sub "ha_10_489" はひぃい…いいれすぅ…そこぉが、きもひいいれすぅう…！
-#sub "ha_10_489" Is not it okay ... Oh no..!
-
-//#sub "ha_10_490" い、いいぃ…そこぉ…いっぱい、いじってぇ、くらさぁい！
-#sub "ha_10_490" Well, good ... there ... there are lots of things to do, do it, do it!
-
-//#sub "ha_10_491" 私のお尻、いくらでもいじり続けていただいて結構ですから
-#sub "ha_10_491" It is OK for me to keep my butt fucking as much as I can
-
-//#sub "ha_10_492" お好きなだけ、私のお尻でお遊び下さいね
-#sub "ha_10_492" Just as much as you like, please enjoy inside my asshole
-
-//#sub "ha_10_493" お…お尻で、またいって、しまいそうですぅ…あぁ
-#sub "ha_10_493" Oh ... in my ass, I will say that again ... Oh
-
-//#sub "ha_10_494" お、お尻で、また、気持ちよく、なってきましたぁ…
-#sub "ha_10_494" Oh my god, I felt so good again ...
-
-//#sub "ha_10_495" お客様のおかげで、また気持ちくなれました、ありがとうございます
-#sub "ha_10_495" Thank you for making me feel good.
-
-//#sub "ha_10_496" お客様に気持ちよくしていただけて、私は幸せです
-#sub "ha_10_496" It makes me feel good for Customer, I'm happy
-
-//#sub "ha_10_497" 押し付けるんで、いっぱい舐めてくださいね
-#sub "ha_10_497" Please push it, please lick it a lot
-
-//#sub "ha_10_498" 私は、まだまだ大丈夫ですから、どうぞお続け下さい
-#sub "ha_10_498" I'm still fine, so please continue
-
-//#sub "ha_10_499" もっと、たっぷり嘗め回していただいても、いいですよ
-#sub "ha_10_499" Even if you lick a lot more, it is okay
-
-//#sub "ha_10_500" さぁ、お好きなだけ、そこを嘗め回してくださいね
-#sub "ha_10_500" Now, please as much as you like, please stir my insides…
 
