@@ -1279,7 +1279,7 @@
 //#sub "he_02_464" うん、楽しかった、かな…次も待たせてあげる。その方がありがたみあるでしょ？
 
 // -----------------------------------------------
-// H汎用
+// H - General Purpose
 // -----------------------------------------------
 
 #sub "hs_02_001" an, aan,, no good,, no good, stop, , I don't want to, already, good
@@ -1291,6 +1291,7 @@
 #sub "hs_02_004" It's painful, so amazing, ahh, ehh, giii, sooo good
 
 #sub "hs_02_005" Your, hehehe, so greedy, oh... good... 
+
 //#sub "hs_02_006" 「*breath*」
 
 //#sub "hs_02_007" 「Kyaa!  Fua, aah... aah.. aah...」
@@ -2076,525 +2077,7 @@
 #sub "hs_02_398" Do you think I can be penetrated like that? If you even try it ...
 
 // -----------------------------------------------
-// 奉仕 
-// -----------------------------------------------
-
-#sub "hh_02_001" Hey, is this OK?
-
-#sub "hh_02_002" Does it feel good? this
-
-#sub "hh_02_003" You should go slow.
-
-#sub "hh_02_004" Is not it painful? I wish nice
-
-#sub "hh_02_005" What, you came…?
-
-#sub "hh_02_006" Something is getting hotter and faster...
-
-#sub "hh_02_007" I do not have to endure this
-
-#sub "hh_02_008" Why are you going to do this?
-
-#sub "hh_02_009" What do you want, something like this?
-
-#sub "hh_02_010" Do I have to keep this?
-
-#sub "hh_02_011" Why did I ...
-
-#sub "hh_02_012" What? Funny face
-
-#sub "hh_02_013" What on earth is this?
-
-#sub "hh_02_014" what's this? You're even harder than before?
-
-#sub "hh_02_015" Finally ... let me finish ...
-
-#sub "hh_02_016" Already ... Do not move ...
-
-#sub "hh_02_017" Stop it, don't do it so hard ... · · ·
-
-#sub "hh_02_018" Stop it ... I feel bad · · · · · ·
-
-#sub "hh_02_019" What? It is! Do not be so forceful!
-
-#sub "hh_02_020" Wait, what are you going to do?
-
-#sub "hh_02_021" What are you doing, please let me go!
-
-#sub "hh_02_022" Do you feel good?
-
-#sub "hh_02_023" It's fine if you do it slowly 
-
-#sub "hh_02_024" Are you trying to break me in half?
-
-#sub "hh_02_025" I feel so much more ... 
-
-#sub "hh_02_026" We're becoming bound together
-
-#sub "hh_02_027" Deafness, straw, this, thing ...
-
-#sub "hh_02_028" Okay, quickly, for now ...
-
-#sub "hh_02_029" No, no ... no, no ...
-
-#sub "hh_02_030" What ... well ... what are you doing?
-
-#sub "hh_02_031" Something ... It will be a while ago ...
-
-#sub "hh_02_032" Hmm ... · · · ___ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
-#sub "hh_02_033" Feelings · · · · · · · · · · · · · Hey?
-
-#sub "hh_02_034" a bit ... intense, too much
-
-#sub "hh_02_035" Hey ... Oh ... this isn't right...
-
-#sub "hh_02_036" Chuchu ... ... ... too ... ... also ... handful ... Jyupu ... Is that it?
-
-#sub "hh_02_037" No more ... ... quickly, finish already!
-
-#sub "hh_02_038" What ... Why ... wh ... 
-
-#sub "hh_02_039" Mum ... Musou, muhuu ...
-
-#sub "hh_02_040" Mfuu ... What ... are you going to do?
-
-#sub "hh_02_041" Or ... ... what, this ... something strange?
-
-#sub "hh_02_042" My breasts, do you feel good between them?
-
-#sub "hh_02_043" When you insert it with such feeling...
-
-#sub "hh_02_044" Does this feel good? Is it all right?
-
-#sub "hh_02_045" It's so complicated, these feelings in my heart...
-
-#sub "hh_02_046" Are you okay with the way this feels? It feels good!
-
-#sub "hh_02_047" My heart is beating so fast!
-
-#sub "hh_02_048" Are you going to stay in my heart forever, I wonder...
-
-#sub "hh_02_049" My heart is on fire!!!
-
-#sub "hh_02_050" I will fiddle ahead of time
-
-#sub "hh_02_051" Is not it sensitive a while ago?
-
-#sub "hh_02_052" Are you all right with my hands? Painless?
-
-#sub "hh_02_053" I wonder if the destination is more inflated?
-
-#sub "hh_02_054" Perhaps, I guess I do not want to go?
-
-#sub "hh_02_055" All right? Maybe I'll get some power
-
-#sub "hh_02_056" Really, you like when I step on you?
-
-#sub "hh_02_057" Hey ... is not this really painful?
-
-#sub "hh_02_058" It feels good when I use my feet, you're so perverted
-
-#sub "hh_02_059" The soles of the feet are getting really hot ...
-
-#sub "hh_02_060" You came already! Look at all this cum on my face!
-
-#sub "hh_02_061" What is this? You shot you cum on my face! Pig!
-
-#sub "hh_02_062" Now that's a strange taste
-
-#sub "hh_02_063" I can not drink this ...
-
-#sub "hh_02_066" I've been baptized in sperm...
-
-#sub "hh_02_067" I will give you · · ·
-
-#sub "hh_02_068" Uh ... already! It's so slimy and disgusting
-
-#sub "hh_02_069" Why did you cum on me? It's so humiliating...
-
-#sub "hh_02_070" Buff ... oh, ... Genji, Genji
-
-#sub "hh_02_071" Genji, Fugehoho · · · · · · · · · · · ·
-
-#sub "hh_02_072" Hey .... a bit ... I got tired.
-
-#sub "hh_02_073" Have you recovered already? What will I be if I eat it
-
-#sub "hh_02_074" It is amazing.
-
-#sub "hh_02_075" What are you going to cum again?
-
-#sub "hh_02_076" If you want to cum, you can...
-
-#sub "hh_02_077" What, are you still going to continue?
-
-#sub "hh_02_078" It's strange, just finish it quickly
-
-#sub "hh_02_079" No, yo ... you better rest?
-
-#sub "hh_02_080" What, are you still hard?
-
-#sub "hh_02_081" You what to give me more cum?
-
-#sub "hh_02_082" Why are you going on, I do not want it anymore
-
-#sub "hh_02_083" No, do not bother me.
-
-#sub "hh_02_084" How can you continue? Are not you tired?
-
-#sub "hh_02_085" Wait a moment, are you going to give it out again?
-
-#sub "hh_02_086" How can you put out so much? Where is it hiding?
-
-#sub "hh_02_087" So much!!!
-
-#sub "hh_02_088" Continuing! How wonderful!
-
-#sub "hh_02_089" Mara ... Tsuyoshi ... are you leaving? Shinobu ... I he he.
-
-#sub "hh_02_090" Is she a lucky person?
-
-#sub "hh_02_091" I heard that ... 
-
-#sub "hh_02_092" Muchu ... I want to quit ...
-
-#sub "hh_02_093" No response, I got tired.
-
-#sub "hh_02_094" I ... It's not only painful ...
-
-#sub "hh_02_095" Are you going to give me your sperm again?
-
-#sub "hh_02_096" Hey ... let's go get it quickly ...
-
-#sub "hh_02_097" I do not have ... · · ·
-
-#sub "hh_02_098" Easily ·
-
-#sub "hh_02_099" Buruku · · · · · Ago is broken ... · Build-in
-
-#sub "hh_02_100" Mara · · · · · · · · · ·· · · · · · · ·
-
-#sub "hh_02_101" It is a doctor? 
-
-#sub "hh_02_102" Mufou ... cool
-
-#sub "hh_02_103" I ... I have a bad breath ...
-
-#sub "hh_02_104" It is the worst that such a holds ...
-
-#sub "hh_02_105" Mfuu ... Already, let's finish ...
-
-#sub "hh_02_106" Please ... give it to me...Cum...
-
-#sub "hh_02_107" Look at this sticky mess you made on my face...
-
-#sub "hh_02_108" It's slimy, and so hot...
-
-#sub "hh_02_109" Yeah ... I swollowed it. Every last drop...
-
-#sub "hh_02_110" Wait ... I certainly can not drink it
-
-#sub "hh_02_111" I could not drink it again ... I may not be able to do it
-
-#sub "hh_02_112" Terrible ... it's so slimey
-
-#sub "hh_02_113" Oh ...that smells so bad....
-
-#sub "hh_02_114" This kind of ... Ugo ... I can not drink it
-
-#sub "hh_02_115" · · Ahahah ... · · · That was kind of hard for me ...
-
-#sub "hh_02_116" I heard that there was a schedule ... Hehehe
-
-#sub "hh_02_117" In a slimy ... oddly ... Hahaha
-
-#sub "hh_02_118" · · · · · · · · · · · Ha ha
-
-#sub "hh_02_119" You want me to go slow?
-
-#sub "hh_02_120" How about this? Not bad, right?
-
-#sub "hh_02_121" What to do? Shall we make it early?
-
-#sub "hh_02_122" Does this feel good?
-
-#sub "hh_02_123" Wow ...  are you going to cum already?
-
-#sub "hh_02_124" Here, I think I found your limit!
-
-#sub "hh_02_125" Should I show it out? I do not have to endure it!
-
-#sub "hh_02_126" I do not get tired often, but this...
-
-#sub "hh_02_127" This is enough
-
-#sub "hh_02_128" I'm going to keep going
-
-#sub "hh_02_129" I want you to finish quickly.
-
-#sub "hh_02_130" What? Are you sure to put out?
-
-#sub "hh_02_131" OK, just let me finish it
-
-#sub "hh_02_132" Okay, you ought to take a quick look out, that slimy
-
-#sub "hh_02_133" hurry…finish it up…
-
-#sub "hh_02_134" I want to quit ... · · · · · ·
-
-#sub "hh_02_135" I hate this already ...
-
-#sub "hh_02_136" By myself ... without your help. I will do it by myself!
-
-#sub "hh_02_137" No way? Are you going to cum from just this?
-
-#sub "hh_02_138" Wait a minute, please let me make you cum!
-
-#sub "hh_02_139" What ... No way, are you letting it out?
-
-#sub "hh_02_140" How does it feel?
-
-#sub "hh_02_141" Hey ... Wow? ... Chilling, slowly ... lick it? · · · · · ·
-
-#sub "hh_02_142" Like being licked · · · hi? ... ...
-
-#sub "hh_02_143" Hey, hey hey hey hey? ...
-
-#sub "hh_02_144" It's so big....
-
-#sub "hh_02_145" Huh ... I want to bit
-
-#sub "hh_02_146" Huhu ... damn well ...
-
-#sub "hh_02_147" My tongue gets dirty ...
-
-#sub "hh_02_148" You're gonna do it like that?
-
-#sub "hh_02_149" Wait, wait, wait ...
-
-#sub "hh_02_150" Jyu ... Will you hold on ...?
-
-#sub "hh_02_151" Feels good? Then ... Hui ...
-
-#sub "hh_02_152" A lot ... ... ... It feels ... Jyu ... HI WOW ... ぶ ぅ
-
-#sub "hh_02_153" This is kind of disturbing...
-
-#sub "hh_02_154" Let it be happy
-
-#sub "hh_02_155" Mu ... This is painful...
-
-#sub "hh_02_156" Hey ... I want to quit.
-
-#sub "hh_02_157" Muuu ... well, let's finish it
-
-#sub "hh_02_158" Huhu ... I want you to cum now.
-
-#sub "hh_02_159" Mu ... let it out, cum now, quickly.
-
-#sub "hh_02_160" My boobs, do you feel good?
-
-#sub "hh_02_161" Do you like the way I'm squeezing your cock?
-
-#sub "hh_02_162" Should I move hard?
-
-#sub "hh_02_163" That's right, fuck my tits.
-
-#sub "hh_02_164" Are you content with the way this feels?
-
-#sub "hh_02_165" My tits are really soft, aren't they?
-
-#sub "hh_02_166" If it wasn't for my tits, you could never feel this good.
-
-#sub "hh_02_167" You like my tits, don't you? I won't take no for an answer.
-
-#sub "hh_02_168" You're a nice guy, I think I'll let you cum right over my heart.
-
-#sub "hh_02_169" That's right, I want you to cum on my tits!
-
-#sub "hh_02_170" Do you feel good?
-
-#sub "hh_02_171" The way I spin with my fingers, doesn't it make you want to cum?
-
-#sub "hh_02_172" Are you alright with this so much?
-
-#sub "hh_02_173" I want to do it harder? Would that be okay with that?
-
-#sub "hh_02_174" Seems like I hit your limit already.
-
-#sub "hh_02_175" Okay, just let it out!
-
-#sub "hh_02_176" You really will be on my feet?
-
-#sub "hh_02_177" I like when you're at my mercy like this.
-
-#sub "hh_02_178" Because I do it with feet ... Isn't it fierce?
-
-#sub "hh_02_179" I'm going to step on you fairly hard!
-
-#sub "hh_02_180" Do you like being treated like a slave?
-
-#sub "hh_02_181" I feel something sticky on my foot. Are you cumming already?
-
-#sub "hh_02_182" This is pretty hot, there's a aweful lot...
-
-#sub "hh_02_183" I'm pretty damm ... are you stuck?
-
-#sub "hh_02_184" Well, yes, I drank ... well, it is not tasty
-
-#sub "hh_02_185" Well ... Well, yes, I can drink it, but it is not tasty
-
-#sub "hh_02_186" (Hey, well)
-
-#sub "hh_02_187" (Huhu ... ba ...)
-
-#sub "hh_02_188" · · · No, no, no, I can not stop it
-
-#sub "hh_02_189" Are you okay? I can not drink it after all ...
-
-#sub "hh_02_190" Already slimy ... I feel bad
-
-#sub "hh_02_191" You fucking came on me... you're the worst!
-
-#sub "hh_02_192" Oh, oh, ... ... ... ... ...
-
-#sub "hh_02_193" You're bending my cheeks out!
-
-#sub "hh_02_194" All better now? Can I continue?
-
-#sub "hh_02_195" You've recovered already ... 
-
-#sub "hh_02_196" You just did it, but you're still hard?
-
-#sub "hh_02_197" Do not you see something again?
-
-#sub "hh_02_198" You can only put out ... you can give it out ...
-
-#sub "hh_02_199" Why do I have to keep doing this!
-
-#sub "hh_02_200" Get out of my way!
-
-#sub "hh_02_201" You already came just a while ago? That's enough!
-
-#sub "hh_02_202" What are you going to cum again? When is it going to be my turn?
-
-#sub "hh_02_203" Is it still out?  comes out at all!
-
-#sub "hh_02_204" Absolutely enough already enough
-
-#sub "hh_02_205" What is it! I'm willing to keep going
-
-#sub "hh_02_206" Please do not satisfy me!
-
-#sub "hh_02_207" How many times are you going to cum!
-
-#sub "hh_02_208" Well ... well, be sure to finish with this!
-
-#sub "hh_02_209" Muchu ... ..., Mah · · · many · lick · 
-
-#sub "hh_02_210" Around · · · · · from now on · · · Chuu · · ·
-
-#sub "hh_02_211" Itchy? Huh
-
-#sub "hh_02_212" I heard that ... 
-
-#sub "hh_02_213" How long will it be licked
-
-#sub "hh_02_214" I do not want to lick it anymore
-
-#sub "hh_02_215" Let's do it without permission
-
-#sub "hh_02_216" Are you still out? Get out of your way ...
-
-#sub "hh_02_217" Mira · · Bijyu · 
-
-#sub "hh_02_218" Jeju · · 
-
-#sub "hh_02_219" Hmm ... ... Huhu ... Is there any one?
-
-#sub "hh_02_220" All over!!!
-
-#sub "hh_02_221" Mufuu ... painful, stop it
-
-#sub "hh_02_222" Muu ... I can not help it anymore ...
-
-#sub "hh_02_223" Mmm ... I just tasted a little bit, are you going to cum again?
-
-#sub "hh_02_224" Muu ... no, do not put it out ...
-
-#sub "hh_02_225" Wow, it hurt ... I got a lot of it
-
-#sub "hh_02_226" Let me out this way ... No way, are you still out?
-
-#sub "hh_02_227" Look at all this stuff. I got a lot out there, you came too much
-
-#sub "hh_02_228" There are still a lot of them
-
-#sub "hh_02_229" Genghisa, Fugehoga · · After all, Muiri, Muyo
-
-#sub "hh_02_230" Huh ... why can you cum so many times
-
-#sub "hh_02_231" Alright already ... come on out quickly
-
-#sub "hh_02_232" I do not feel like drinking this ...
-
-#sub "hh_02_233" Impossible ... ... absolutely impossible ...
-
-#sub "hh_02_234" Well then, let me entertain you
-
-#sub "hh_02_235" Okay, so do it harder.
-
-#sub "hh_02_236" This is not over yet!
-
-#sub "hh_02_237" Even like this, I will make you feel good!
-
-#sub "hh_02_238" Okay, I got a lot of it out
-
-#sub "hh_02_239" How? So much is issuing? You can put out a lot!
-
-#sub "hh_02_240" OK? I will go on like this, uhfu
-
-#sub "hh_02_241" It's like a cum tattoo!
-
-#sub "hh_02_242" Muchu ... Ah, it's quite tasty, is not it
-
-#sub "hh_02_243" My tongue feels good, doesn't it?
-
-#sub "hh_02_244" I will make you cum with just my tongue!
-
-#sub "hh_02_245" You can cum with my tongue!
-
-#sub "hh_02_246" Come on, let it go!
-
-#sub "hh_02_247" Do not hold back, you can cum as much as you want!
-
-#sub "hh_02_248" I do not dislike it quite well ...
-
-#sub "hh_02_249" I'm getting your cum, it's so hot
-
-#sub "hh_02_250" Just like this, with my mouth, feeling better, good
-
-#sub "hh_02_251" Please do not hold it, I wanna see your cum!
-
-#sub "hh_02_252" Alright, cum just like this!
-
-#sub "hh_02_253" Do not hold back, just let it out as you please!
-
-#sub "hh_02_254" It's such a hot one, it's been overflowing
-
-#sub "hh_02_255" It's amazing, mushy ... 
-
-#sub "hh_02_256" Hey, can you still put it out? How are you?
-
-#sub "hh_02_257" Wow ... Funny taste ☆
-
-#sub "hh_02_258" Hmm ... Huh ... lascivious
-
-#sub "hh_02_259" Extreme, I was on a roll ...
-
-// -----------------------------------------------
-// 愛撫 
+// Caress
 // -----------------------------------------------
 
 #sub "ha_02_001" It is pleasant ... the way you do it
@@ -3594,7 +3077,525 @@
 #sub "ha_02_500" You still want to lick it, right? Okay, let me lick you.
 
 // -----------------------------------------------
-// 挿入 
+// Service
+// -----------------------------------------------
+
+#sub "hh_02_001" Hey, is this OK?
+
+#sub "hh_02_002" Does it feel good? this
+
+#sub "hh_02_003" You should go slow.
+
+#sub "hh_02_004" Is not it painful? I wish nice
+
+#sub "hh_02_005" What, you came…?
+
+#sub "hh_02_006" Something is getting hotter and faster...
+
+#sub "hh_02_007" I do not have to endure this
+
+#sub "hh_02_008" Why are you going to do this?
+
+#sub "hh_02_009" What do you want, something like this?
+
+#sub "hh_02_010" Do I have to keep this?
+
+#sub "hh_02_011" Why did I ...
+
+#sub "hh_02_012" What? Funny face
+
+#sub "hh_02_013" What on earth is this?
+
+#sub "hh_02_014" what's this? You're even harder than before?
+
+#sub "hh_02_015" Finally ... let me finish ...
+
+#sub "hh_02_016" Already ... Do not move ...
+
+#sub "hh_02_017" Stop it, don't do it so hard ... · · ·
+
+#sub "hh_02_018" Stop it ... I feel bad · · · · · ·
+
+#sub "hh_02_019" What? It is! Do not be so forceful!
+
+#sub "hh_02_020" Wait, what are you going to do?
+
+#sub "hh_02_021" What are you doing, please let me go!
+
+#sub "hh_02_022" Do you feel good?
+
+#sub "hh_02_023" It's fine if you do it slowly 
+
+#sub "hh_02_024" Are you trying to break me in half?
+
+#sub "hh_02_025" I feel so much more ... 
+
+#sub "hh_02_026" We're becoming bound together
+
+#sub "hh_02_027" Deafness, straw, this, thing ...
+
+#sub "hh_02_028" Okay, quickly, for now ...
+
+#sub "hh_02_029" No, no ... no, no ...
+
+#sub "hh_02_030" What ... well ... what are you doing?
+
+#sub "hh_02_031" Something ... It will be a while ago ...
+
+#sub "hh_02_032" Hmm ... · · · ___ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+#sub "hh_02_033" Feelings · · · · · · · · · · · · · Hey?
+
+#sub "hh_02_034" a bit ... intense, too much
+
+#sub "hh_02_035" Hey ... Oh ... this isn't right...
+
+#sub "hh_02_036" Chuchu ... ... ... too ... ... also ... handful ... Jyupu ... Is that it?
+
+#sub "hh_02_037" No more ... ... quickly, finish already!
+
+#sub "hh_02_038" What ... Why ... wh ... 
+
+#sub "hh_02_039" Mum ... Musou, muhuu ...
+
+#sub "hh_02_040" Mfuu ... What ... are you going to do?
+
+#sub "hh_02_041" Or ... ... what, this ... something strange?
+
+#sub "hh_02_042" My breasts, do you feel good between them?
+
+#sub "hh_02_043" When you insert it with such feeling...
+
+#sub "hh_02_044" Does this feel good? Is it all right?
+
+#sub "hh_02_045" It's so complicated, these feelings in my heart...
+
+#sub "hh_02_046" Are you okay with the way this feels? It feels good!
+
+#sub "hh_02_047" My heart is beating so fast!
+
+#sub "hh_02_048" Are you going to stay in my heart forever, I wonder...
+
+#sub "hh_02_049" My heart is on fire!!!
+
+#sub "hh_02_050" I will fiddle ahead of time
+
+#sub "hh_02_051" Is not it sensitive a while ago?
+
+#sub "hh_02_052" Are you all right with my hands? Painless?
+
+#sub "hh_02_053" I wonder if the destination is more inflated?
+
+#sub "hh_02_054" Perhaps, I guess I do not want to go?
+
+#sub "hh_02_055" All right? Maybe I'll get some power
+
+#sub "hh_02_056" Really, you like when I step on you?
+
+#sub "hh_02_057" Hey ... is not this really painful?
+
+#sub "hh_02_058" It feels good when I use my feet, you're so perverted
+
+#sub "hh_02_059" The soles of the feet are getting really hot ...
+
+#sub "hh_02_060" You came already! Look at all this cum on my face!
+
+#sub "hh_02_061" What is this? You shot you cum on my face! Pig!
+
+#sub "hh_02_062" Now that's a strange taste
+
+#sub "hh_02_063" I can not drink this ...
+
+#sub "hh_02_066" I've been baptized in sperm...
+
+#sub "hh_02_067" I will give you · · ·
+
+#sub "hh_02_068" Uh ... already! It's so slimy and disgusting
+
+#sub "hh_02_069" Why did you cum on me? It's so humiliating...
+
+#sub "hh_02_070" Buff ... oh, ... Genji, Genji
+
+#sub "hh_02_071" Genji, Fugehoho · · · · · · · · · · · ·
+
+#sub "hh_02_072" Hey .... a bit ... I got tired.
+
+#sub "hh_02_073" Have you recovered already? What will I be if I eat it
+
+#sub "hh_02_074" It is amazing.
+
+#sub "hh_02_075" What are you going to cum again?
+
+#sub "hh_02_076" If you want to cum, you can...
+
+#sub "hh_02_077" What, are you still going to continue?
+
+#sub "hh_02_078" It's strange, just finish it quickly
+
+#sub "hh_02_079" No, yo ... you better rest?
+
+#sub "hh_02_080" What, are you still hard?
+
+#sub "hh_02_081" You what to give me more cum?
+
+#sub "hh_02_082" Why are you going on, I do not want it anymore
+
+#sub "hh_02_083" No, do not bother me.
+
+#sub "hh_02_084" How can you continue? Are not you tired?
+
+#sub "hh_02_085" Wait a moment, are you going to give it out again?
+
+#sub "hh_02_086" How can you put out so much? Where is it hiding?
+
+#sub "hh_02_087" So much!!!
+
+#sub "hh_02_088" Continuing! How wonderful!
+
+#sub "hh_02_089" Mara ... Tsuyoshi ... are you leaving? Shinobu ... I he he.
+
+#sub "hh_02_090" Is she a lucky person?
+
+#sub "hh_02_091" I heard that ... 
+
+#sub "hh_02_092" Muchu ... I want to quit ...
+
+#sub "hh_02_093" No response, I got tired.
+
+#sub "hh_02_094" I ... It's not only painful ...
+
+#sub "hh_02_095" Are you going to give me your sperm again?
+
+#sub "hh_02_096" Hey ... let's go get it quickly ...
+
+#sub "hh_02_097" I do not have ... · · ·
+
+#sub "hh_02_098" Easily ·
+
+#sub "hh_02_099" Buruku · · · · · Ago is broken ... · Build-in
+
+#sub "hh_02_100" Mara · · · · · · · · · ·· · · · · · · ·
+
+#sub "hh_02_101" It is a doctor? 
+
+#sub "hh_02_102" Mufou ... cool
+
+#sub "hh_02_103" I ... I have a bad breath ...
+
+#sub "hh_02_104" It is the worst that such a holds ...
+
+#sub "hh_02_105" Mfuu ... Already, let's finish ...
+
+#sub "hh_02_106" Please ... give it to me...Cum...
+
+#sub "hh_02_107" Look at this sticky mess you made on my face...
+
+#sub "hh_02_108" It's slimy, and so hot...
+
+#sub "hh_02_109" Yeah ... I swollowed it. Every last drop...
+
+#sub "hh_02_110" Wait ... I certainly can not drink it
+
+#sub "hh_02_111" I could not drink it again ... I may not be able to do it
+
+#sub "hh_02_112" Terrible ... it's so slimey
+
+#sub "hh_02_113" Oh ...that smells so bad....
+
+#sub "hh_02_114" This kind of ... Ugo ... I can not drink it
+
+#sub "hh_02_115" · · Ahahah ... · · · That was kind of hard for me ...
+
+#sub "hh_02_116" I heard that there was a schedule ... Hehehe
+
+#sub "hh_02_117" In a slimy ... oddly ... Hahaha
+
+#sub "hh_02_118" · · · · · · · · · · · Ha ha
+
+#sub "hh_02_119" You want me to go slow?
+
+#sub "hh_02_120" How about this? Not bad, right?
+
+#sub "hh_02_121" What to do? Shall we make it early?
+
+#sub "hh_02_122" Does this feel good?
+
+#sub "hh_02_123" Wow ...  are you going to cum already?
+
+#sub "hh_02_124" Here, I think I found your limit!
+
+#sub "hh_02_125" Should I show it out? I do not have to endure it!
+
+#sub "hh_02_126" I do not get tired often, but this...
+
+#sub "hh_02_127" This is enough
+
+#sub "hh_02_128" I'm going to keep going
+
+#sub "hh_02_129" I want you to finish quickly.
+
+#sub "hh_02_130" What? Are you sure to put out?
+
+#sub "hh_02_131" OK, just let me finish it
+
+#sub "hh_02_132" Okay, you ought to take a quick look out, that slimy
+
+#sub "hh_02_133" hurry…finish it up…
+
+#sub "hh_02_134" I want to quit ... · · · · · ·
+
+#sub "hh_02_135" I hate this already ...
+
+#sub "hh_02_136" By myself ... without your help. I will do it by myself!
+
+#sub "hh_02_137" No way? Are you going to cum from just this?
+
+#sub "hh_02_138" Wait a minute, please let me make you cum!
+
+#sub "hh_02_139" What ... No way, are you letting it out?
+
+#sub "hh_02_140" How does it feel?
+
+#sub "hh_02_141" Hey ... Wow? ... Chilling, slowly ... lick it? · · · · · ·
+
+#sub "hh_02_142" Like being licked · · · hi? ... ...
+
+#sub "hh_02_143" Hey, hey hey hey hey? ...
+
+#sub "hh_02_144" It's so big....
+
+#sub "hh_02_145" Huh ... I want to bit
+
+#sub "hh_02_146" Huhu ... damn well ...
+
+#sub "hh_02_147" My tongue gets dirty ...
+
+#sub "hh_02_148" You're gonna do it like that?
+
+#sub "hh_02_149" Wait, wait, wait ...
+
+#sub "hh_02_150" Jyu ... Will you hold on ...?
+
+#sub "hh_02_151" Feels good? Then ... Hui ...
+
+#sub "hh_02_152" A lot ... ... ... It feels ... Jyu ... HI WOW ... ぶ ぅ
+
+#sub "hh_02_153" This is kind of disturbing...
+
+#sub "hh_02_154" Let it be happy
+
+#sub "hh_02_155" Mu ... This is painful...
+
+#sub "hh_02_156" Hey ... I want to quit.
+
+#sub "hh_02_157" Muuu ... well, let's finish it
+
+#sub "hh_02_158" Huhu ... I want you to cum now.
+
+#sub "hh_02_159" Mu ... let it out, cum now, quickly.
+
+#sub "hh_02_160" My boobs, do you feel good?
+
+#sub "hh_02_161" Do you like the way I'm squeezing your cock?
+
+#sub "hh_02_162" Should I move hard?
+
+#sub "hh_02_163" That's right, fuck my tits.
+
+#sub "hh_02_164" Are you content with the way this feels?
+
+#sub "hh_02_165" My tits are really soft, aren't they?
+
+#sub "hh_02_166" If it wasn't for my tits, you could never feel this good.
+
+#sub "hh_02_167" You like my tits, don't you? I won't take no for an answer.
+
+#sub "hh_02_168" You're a nice guy, I think I'll let you cum right over my heart.
+
+#sub "hh_02_169" That's right, I want you to cum on my tits!
+
+#sub "hh_02_170" Do you feel good?
+
+#sub "hh_02_171" The way I spin with my fingers, doesn't it make you want to cum?
+
+#sub "hh_02_172" Are you alright with this so much?
+
+#sub "hh_02_173" I want to do it harder? Would that be okay with that?
+
+#sub "hh_02_174" Seems like I hit your limit already.
+
+#sub "hh_02_175" Okay, just let it out!
+
+#sub "hh_02_176" You really will be on my feet?
+
+#sub "hh_02_177" I like when you're at my mercy like this.
+
+#sub "hh_02_178" Because I do it with feet ... Isn't it fierce?
+
+#sub "hh_02_179" I'm going to step on you fairly hard!
+
+#sub "hh_02_180" Do you like being treated like a slave?
+
+#sub "hh_02_181" I feel something sticky on my foot. Are you cumming already?
+
+#sub "hh_02_182" This is pretty hot, there's a aweful lot...
+
+#sub "hh_02_183" I'm pretty damm ... are you stuck?
+
+#sub "hh_02_184" Well, yes, I drank ... well, it is not tasty
+
+#sub "hh_02_185" Well ... Well, yes, I can drink it, but it is not tasty
+
+#sub "hh_02_186" (Hey, well)
+
+#sub "hh_02_187" (Huhu ... ba ...)
+
+#sub "hh_02_188" · · · No, no, no, I can not stop it
+
+#sub "hh_02_189" Are you okay? I can not drink it after all ...
+
+#sub "hh_02_190" Already slimy ... I feel bad
+
+#sub "hh_02_191" You fucking came on me... you're the worst!
+
+#sub "hh_02_192" Oh, oh, ... ... ... ... ...
+
+#sub "hh_02_193" You're bending my cheeks out!
+
+#sub "hh_02_194" All better now? Can I continue?
+
+#sub "hh_02_195" You've recovered already ... 
+
+#sub "hh_02_196" You just did it, but you're still hard?
+
+#sub "hh_02_197" Do not you see something again?
+
+#sub "hh_02_198" You can only put out ... you can give it out ...
+
+#sub "hh_02_199" Why do I have to keep doing this!
+
+#sub "hh_02_200" Get out of my way!
+
+#sub "hh_02_201" You already came just a while ago? That's enough!
+
+#sub "hh_02_202" What are you going to cum again? When is it going to be my turn?
+
+#sub "hh_02_203" Is it still out?  comes out at all!
+
+#sub "hh_02_204" Absolutely enough already enough
+
+#sub "hh_02_205" What is it! I'm willing to keep going
+
+#sub "hh_02_206" Please do not satisfy me!
+
+#sub "hh_02_207" How many times are you going to cum!
+
+#sub "hh_02_208" Well ... well, be sure to finish with this!
+
+#sub "hh_02_209" Muchu ... ..., Mah · · · many · lick · 
+
+#sub "hh_02_210" Around · · · · · from now on · · · Chuu · · ·
+
+#sub "hh_02_211" Itchy? Huh
+
+#sub "hh_02_212" I heard that ... 
+
+#sub "hh_02_213" How long will it be licked
+
+#sub "hh_02_214" I do not want to lick it anymore
+
+#sub "hh_02_215" Let's do it without permission
+
+#sub "hh_02_216" Are you still out? Get out of your way ...
+
+#sub "hh_02_217" Mira · · Bijyu · 
+
+#sub "hh_02_218" Jeju · · 
+
+#sub "hh_02_219" Hmm ... ... Huhu ... Is there any one?
+
+#sub "hh_02_220" All over!!!
+
+#sub "hh_02_221" Mufuu ... painful, stop it
+
+#sub "hh_02_222" Muu ... I can not help it anymore ...
+
+#sub "hh_02_223" Mmm ... I just tasted a little bit, are you going to cum again?
+
+#sub "hh_02_224" Muu ... no, do not put it out ...
+
+#sub "hh_02_225" Wow, it hurt ... I got a lot of it
+
+#sub "hh_02_226" Let me out this way ... No way, are you still out?
+
+#sub "hh_02_227" Look at all this stuff. I got a lot out there, you came too much
+
+#sub "hh_02_228" There are still a lot of them
+
+#sub "hh_02_229" Genghisa, Fugehoga · · After all, Muiri, Muyo
+
+#sub "hh_02_230" Huh ... why can you cum so many times
+
+#sub "hh_02_231" Alright already ... come on out quickly
+
+#sub "hh_02_232" I do not feel like drinking this ...
+
+#sub "hh_02_233" Impossible ... ... absolutely impossible ...
+
+#sub "hh_02_234" Well then, let me entertain you
+
+#sub "hh_02_235" Okay, so do it harder.
+
+#sub "hh_02_236" This is not over yet!
+
+#sub "hh_02_237" Even like this, I will make you feel good!
+
+#sub "hh_02_238" Okay, I got a lot of it out
+
+#sub "hh_02_239" How? So much is issuing? You can put out a lot!
+
+#sub "hh_02_240" OK? I will go on like this, uhfu
+
+#sub "hh_02_241" It's like a cum tattoo!
+
+#sub "hh_02_242" Muchu ... Ah, it's quite tasty, is not it
+
+#sub "hh_02_243" My tongue feels good, doesn't it?
+
+#sub "hh_02_244" I will make you cum with just my tongue!
+
+#sub "hh_02_245" You can cum with my tongue!
+
+#sub "hh_02_246" Come on, let it go!
+
+#sub "hh_02_247" Do not hold back, you can cum as much as you want!
+
+#sub "hh_02_248" I do not dislike it quite well ...
+
+#sub "hh_02_249" I'm getting your cum, it's so hot
+
+#sub "hh_02_250" Just like this, with my mouth, feeling better, good
+
+#sub "hh_02_251" Please do not hold it, I wanna see your cum!
+
+#sub "hh_02_252" Alright, cum just like this!
+
+#sub "hh_02_253" Do not hold back, just let it out as you please!
+
+#sub "hh_02_254" It's such a hot one, it's been overflowing
+
+#sub "hh_02_255" It's amazing, mushy ... 
+
+#sub "hh_02_256" Hey, can you still put it out? How are you?
+
+#sub "hh_02_257" Wow ... Funny taste ☆
+
+#sub "hh_02_258" Hmm ... Huh ... lascivious
+
+#sub "hh_02_259" Extreme, I was on a roll ...
+
+// -----------------------------------------------
+// Insert
 // -----------------------------------------------
 
 #sub "hso_02_001" Oh, you do not have to get well
@@ -5012,7 +5013,7 @@
 #sub "hso_02_708" Hey, are you going to keep it like this? You might consider giving a little more emotion...
 
 // -----------------------------------------------
-// 特殊 
+// Special
 // -----------------------------------------------
 
 #sub "ht_02_001" Fool, do not hit me!
