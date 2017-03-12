@@ -2599,7 +2599,7 @@
 #sub "hs_05_398" *sigh* Do whatever you desire...
 
 // -----------------------------------------------
-// H汎用 (H General)
+// H - general purpose
 // -----------------------------------------------
 
 //#sub "hs_05_001" あん、ああん、やん、ダメです、やめて、きゃっ、きゃあ、んっ、もう、いいです
@@ -2657,788 +2657,7 @@
 #sub "hs_05_018" 「*breath*」
 
 // -----------------------------------------------
-// 奉仕 (Service)
-// -----------------------------------------------
-
-//#sub "hh_05_001" これでいいですか？
-#sub "hh_05_001" Is this alright?
-
-//#sub "hh_05_002" これ、気持ちいいですか？
-#sub "hh_05_002" Does this feel good?
-
-//#sub "hh_05_003" こんな感じで大丈夫ですか？
-#sub "hh_05_003" Is this OK with this feeling?
-
-//#sub "hh_05_004" 痛かったら言って下さいね？
-#sub "hh_05_004" Please tell me when it hurts?
-
-//#sub "hh_05_005" 射精、しちゃいますか・・？
-#sub "hh_05_005" Do you ejaculate, do you?
-
-//#sub "hh_05_006" これ、すごく熱くなってきてますよ？
-#sub "hh_05_006" This is getting really hot?
-
-//#sub "hh_05_007" 我慢しないで下さいね
-#sub "hh_05_007" Please do not hold back
-
-//#sub "hh_05_008" やめたいです
-#sub "hh_05_008" I want to quit
-
-//#sub "hh_05_009" あんまり楽しくないです
-#sub "hh_05_009" It is not fun too much
-
-//#sub "hh_05_010" どうしてこんな事させるんですか？
-#sub "hh_05_010" Why do you do this?
-
-//#sub "hh_05_011" 何が、楽しいんですか、これ？
-#sub "hh_05_011" What is fun, is this?
-
-//#sub "hh_05_012" どうかしたんですか？
-#sub "hh_05_012" What happened?
-
-//#sub "hh_05_013" なんだか、さっきより固くなってますよ
-#sub "hh_05_013" Somehow, it is harder than before
-
-//#sub "hh_05_014" さっきより、さらに膨らんでませんか？
-#sub "hh_05_014" From a little earlier, have you not swelled further?
-
-//#sub "hh_05_015" はやく・・終わらせて下さい・・・
-#sub "hh_05_015" Quickly · · Please end it · · ·
-
-//#sub "hh_05_016" あんまり、動かさないで下さい・・
-#sub "hh_05_016" Do not move it too much.
-
-//#sub "hh_05_017" 激しいのは・・やめて・・下さい
-#sub "hh_05_017" Stop it... Please stop it · · ·
-
-//#sub "hh_05_018" やっぱり・・気持ち悪い・・です
-#sub "hh_05_018" After all... It's disgusting...
-
-//#sub "hh_05_019" 急に…動かさないで下さい
-#sub "hh_05_019" Suddenly... Please do not move
-
-//#sub "hh_05_020" こ、これは？！　まさか、射精ですか？
-#sub "hh_05_020" Th-This is?  It is!  No way, is ejaculation?
-
-//#sub "hh_05_021" な、なんですか？！　何が起きるんですか？
-#sub "hh_05_021" What is it?  It is!  What happens?
-
-//#sub "hh_05_022" ちろ……ん、ちゅ、気持ちいいですか？
-#sub "hh_05_022" Clear......., Chu, do you feel good?
-
-//#sub "hh_05_023" んちゅ、ゆっくり・・ちゅろ・・・なめ・・ぇまふぅ・・ね・・ぇあ、んむ
-#sub "hh_05_023" Chichu, slowly · · · Chumor · · · licking · · · · · · · · · · · · · · ·
-
-//#sub "hh_05_024" ちろ・・・痛くない・・・れすか？・・・ちゅっ
-#sub "hh_05_024" Clear... It does not hurt... is it?  ......
-
-//#sub "hh_05_025" ん、ちゅるぅ・・いっはい、熱くなって・・・ちろ・・・きまひたお　・・・ちゅ
-#sub "hh_05_025" · · · Chuuu · · · I'm getting hot... · · · · · · Kimita... · · ·
-
-//#sub "hh_05_026" 我慢・・・ん、ちゅ・・しらいで・・れろ・・くらはいね・・ちゅるぅ
-#sub "hh_05_026" Patience · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · Churuu
-
-//#sub "hh_05_027" なめたく…ないれふ
-#sub "hh_05_027" I want to lick it...
-
-//#sub "hh_05_028" れきれば、はやく、おわらへて…くらはい
-#sub "hh_05_028" If I could get up, quickly, to staying... Nature
-
-//#sub "hh_05_029" ん…おいひくないれふ
-#sub "hh_05_029" I... I do not have any problems
-
-//#sub "hh_05_030" ん？　さっきより…あつくなって、まふね
-#sub "hh_05_030" Hmm?  From a little earlier... Became hot and Tokunaga
-
-//#sub "hh_05_031" ん…なんらか、ひくひく…うごひて、まふ
-#sub "hh_05_031" I... somehow, me...
-
-//#sub "hh_05_032" んぁむ・・・くわえれの…ちょっと、楽しいかも…
-#sub "hh_05_032" It's kind of fun...
-
-//#sub "hh_05_033" こへぇ…きもち・・じゅるっ・いい・・ん、ちゅ・・れすか？
-#sub "hh_05_033" Come here... feeling... じ ゅ る っ · い い · · · · · · · · · is it?
-
-//#sub "hh_05_034" ちゅちゅ…ちょとらけ…おいしい・・きがします・・
-#sub "hh_05_034" Chuchu... a little... It tastes delicious · · ·
-
-//#sub "hh_05_035" くひのなかれ…にゅぷっ…もっと…あふくなっへ…きまひたよ？
-#sub "hh_05_035" Naka no Naka... Hey... more...... It's getting fucked... did you kimi?
-
-//#sub "hh_05_036" ちゅちゅ……だすろきは……がまんひないで…くらはいね…じゅぷ…
-#sub "hh_05_036" Chuchu...... Sorry...... I can not stand it... Kurara is... Jyupu...
-
-//#sub "hh_05_037" んふぅ…なんらか、疲れてきまひた
-#sub "hh_05_037" Mfuu... Somehow, I'm getting tired
-
-//#sub "hh_05_038" ん…ふぅ…息が…しづらいれふ…んぶぅ…
-#sub "hh_05_038" I...... Fuu... breathless... hard to......
-
-//#sub "hh_05_039" んむぅ…早く…ん、んふぅ…おわっへ…くらはい…
-#sub "hh_05_039" Hmm... Hurried...., Muhu... endowment... nature...
-
-//#sub "hh_05_040" んふぅ…なんれふか？　…でるんれふか？
-#sub "hh_05_040" Mfuu... Anything?  ... Is it a train sink?
-
-//#sub "hh_05_041" ん？…なに、これ…かはくなっへるんれふか？
-#sub "hh_05_041" Hmm?  ... What, is this... am I going to become an amateur?
-
-//#sub "hh_05_042" 私の胸、気持ちいいですか？
-#sub "hh_05_042" Does my heart feel good?
-
-//#sub "hh_05_043" 挟みながら動かしますから
-#sub "hh_05_043" Because it moves while pinching
-
-//#sub "hh_05_044" 気持ちいいですか？
-#sub "hh_05_044" Does it feel good?
-
-//#sub "hh_05_045" 私の胸で、大丈夫ですか？
-#sub "hh_05_045" Is it okay with my breasts?
-
-//#sub "hh_05_046" こんな感じで気持ちいいですか？
-#sub "hh_05_046" Do you feel good with such feeling?
-
-//#sub "hh_05_047" 私の胸で、気持ちよく、できてますか？
-#sub "hh_05_047" Do you feel comfortable in my chest?
-
-//#sub "hh_05_048" 胸で、いきそうなんですか？
-#sub "hh_05_048" Does it seem to go on breast?
-
-//#sub "hh_05_049" 胸で、あなたのが…すごく熱くなってますよ
-#sub "hh_05_049" With your chest, yours... you are getting very hot
-
-//#sub "hh_05_050" もっと亀頭をいじってもいいですか？
-#sub "hh_05_050" Can I mess more with the glans?
-
-//#sub "hh_05_051" 手でしても、痛くないんですか？
-#sub "hh_05_051" Even if it is handed, does not it hurt?
-
-//#sub "hh_05_052" こんなに手を動かしても、平気なんですか？
-#sub "hh_05_052" Even if you move such hands, are you OK?
-
-//#sub "hh_05_053" 先のほうから、何かこぼれてきてますよ？
-#sub "hh_05_053" Is there something spilling from the end?
-
-//#sub "hh_05_054" 亀頭、気持ちいいんですか？
-#sub "hh_05_054" Kameppo, do you feel good?
-
-//#sub "hh_05_055" こんな風に踏んで、大丈夫なんですか？
-#sub "hh_05_055" Are you okay stepping on this way?
-
-//#sub "hh_05_056" ほんとに足でして、いいんですか？
-#sub "hh_05_056" Really are your feet, are you okay?
-
-//#sub "hh_05_057" 足でされるの・・楽しいですか？
-#sub "hh_05_057" Doing with feet · Is fun?
-
-//#sub "hh_05_058" 足で気持ちよくなっていいですよ
-#sub "hh_05_058" You can be comfortable with your feet
-
-//#sub "hh_05_059" 足の裏に、すごく熱が伝わってきます
-#sub "hh_05_059" A lot of heat is transmitted to the soles of the feet
-
-//#sub "hh_05_060" 熱いのが・・いっぱいかかってますよ
-#sub "hh_05_060" It's hot... but it's full
-
-//#sub "hh_05_061" あなたの精液が…体にかかっちゃいました
-#sub "hh_05_061" Your sperm... It hurt your body
-
-//#sub "hh_05_062" んぐ、・・・・ふぅ・・飲んじゃいました・・
-#sub "hh_05_062" I was drinking... · · ·
-
-//#sub "hh_05_063" ん・・んぐ・・ふぅ・・味は…こういう感じなんですね
-#sub "hh_05_063" · · · · · · · Fuh... The taste... It is such feeling
-
-//#sub "hh_05_064" （んべぇ…んはぁ）
-#sub "hh_05_064" (Hey, well)
-
-//#sub "hh_05_065" （んふぅ…べぇ…）
-#sub "hh_05_065" (Huhu... ba...)
-
-//#sub "hh_05_066" げほげほ・・・けほ・・ノドに・ひかかって…けほけほ
-#sub "hh_05_066" Genji... · · · け い ろ · · · に 聞 か っ て に... け け け ほ
-
-//#sub "hh_05_067" げほげほ・・けほ・…粘り気が強くて、むせっちゃいました
-#sub "hh_05_067" Irregular · · · · · · · · · · Sticky, strong
-
-//#sub "hh_05_068" べとべとして、生臭いです
-#sub "hh_05_068" It is sticky and fishy.
-
-//#sub "hh_05_069" ぬるぬるで…嫌ですよぉ
-#sub "hh_05_069" It's slimy... I do not want it
-
-//#sub "hh_05_070" ぶふっ・・おぇ、・・げほ、げほ・・
-#sub "hh_05_070" Buff... oh,... Genji, Genji
-
-//#sub "hh_05_071" げほ、げほげほげほ・・え゛ぇ・・・
-#sub "hh_05_071" Genji, Fugehoho · · · · · · · · · · · ·
-
-//#sub "hh_05_072" ん・・それじゃ・・もう少し続けましょうか
-#sub "hh_05_072" Well then... Would you like to continue a little more
-
-//#sub "hh_05_073" ・・・もう回復してるんですね？　なら、つづけましょうか
-#sub "hh_05_073" ... You are already recovering?  Well, let's continue
-
-//#sub "hh_05_074" もう元気なんですね？　だったら、まだやりますよ
-#sub "hh_05_074" I am already fine, are not you?  If so, I will still do it
-
-//#sub "hh_05_075" また、いっちゃうんですか？
-#sub "hh_05_075" Also, are you going?
-
-//#sub "hh_05_076" 大丈夫です・・・続けて、出して下さい
-#sub "hh_05_076" It's okay... Continue, please let me out
-
-//#sub "hh_05_077" まだ続けるんですか？
-#sub "hh_05_077" Are you still going on?
-
-//#sub "hh_05_078" もう終わりにして下さい
-#sub "hh_05_078" Please stop already.
-
-//#sub "hh_05_079" もう、休んだ方がいいですよ？
-#sub "hh_05_079" You'd better take a day off yet?
-
-//#sub "hh_05_080" え、また出るんですか？
-#sub "hh_05_080" Will you come back again?
-
-//#sub "hh_05_081" 出すんですか…よく、持ちますね？
-#sub "hh_05_081" Is it taking out... well, do you have it?
-
-//#sub "hh_05_082" えっと、できればもう、やめませんか？
-#sub "hh_05_082" Um, will not you stop already if possible?
-
-//#sub "hh_05_083" 休憩とか、しないんですか？
-#sub "hh_05_083" Do not you take a break or not?
-
-//#sub "hh_05_084" これ、まだ続けるんですか？
-#sub "hh_05_084" Is this still going on?
-
-//#sub "hh_05_085" え、あの、また出すんですか？
-#sub "hh_05_085" Well, will you give out that again?
-
-//#sub "hh_05_086" まだ出るんですか？　どれだけ溜まってるんですか？
-#sub "hh_05_086" Are you still out?  How much is accumulated?
-
-//#sub "hh_05_087" んちゅ・・・、まら・・ん・・・きもちよふ・・ちゅ・・なっれくらはい・・んふ
-#sub "hh_05_087" Muchu......, Mr. · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ふ ふ
-
-//#sub "hh_05_088" もっろ・・んん・・・ちゅじゅけ・・まふから…ちゅちゅ・・
-#sub "hh_05_088" ろ · · · · · · · · Chujyuku · · · · · · · · · · · · Chuu · · ·
-
-//#sub "hh_05_089" まら・・・ちゅっ・・・なめちゅぢゅけて、いいれふか…？
-#sub "hh_05_089" Mira · · · tutu...... with licking and tearing...?
-
-//#sub "hh_05_090" まら・・いきほうなんれふか？　んちゅ・・んふ
-#sub "hh_05_090" Mira · · Ibaraki Squid?  Huh
-
-//#sub "hh_05_091" ちゅ・・また・れそうなん、れふか？　んふぅ・・・むちゅ・・
-#sub "hh_05_091" Tsu · · · It seems like that again, is it revealed?  Mfuu · · · · · · · · · · · ·
-
-//#sub "hh_05_092" んちゅ…あんまり…楽しくないです
-#sub "hh_05_092" Much... not much... not fun
-
-//#sub "hh_05_093" なんだか、疲れてきました
-#sub "hh_05_093" Somehow, I got tired.
-
-//#sub "hh_05_094" もう、やめたいです…
-#sub "hh_05_094" I already want to quit...
-
-//#sub "hh_05_095" んふぅ…また、出るんですか…
-#sub "hh_05_095" Mfuu... Also, do you come out...
-
-//#sub "hh_05_096" んちゅ…そんなに、出してどうするんですか…
-#sub "hh_05_096" Much... so much, what are you going to do...
-
-//#sub "hh_05_097" まら・・んちゅ・・おおきふ・なっれきまひたよぉ・・・
-#sub "hh_05_097" Mira · · · · · · · · Okinawa · · · · · · · · · · · · · · · · ·
-
-//#sub "hh_05_098" もう・・びゅじゅ・・回復・・じゅ・じゅぅ・・したん・・れふか？
-#sub "hh_05_098" Now... · · · Recovery · · · · · · · · · · · · · · · · Reflection?
-
-//#sub "hh_05_099" ぶちゅぅ・・んぐ・・おおひくて・・ぜんぶ・・はいりませんねぇ…
-#sub "hh_05_099" Buruku · · · · · · · · · · · · · ___ 0
-
-//#sub "hh_05_100" まら・・・んぶ、・・・くひで・・・んふぅ・・いって、くらはいね…
-#sub "hh_05_100" Mara · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ___ ___ ___ 0
-
-//#sub "hh_05_101" まら・・じゅじゅ・・・・でるんれふか？・・じゅる・・
-#sub "hh_05_101" Maru · · Ju · · · · · · · · · · · ·  · · ·
-
-//#sub "hh_05_102" んふぅ…くるしい…れふ
-#sub "hh_05_102" Mfuu... cool
-
-//#sub "hh_05_103" んん…いきが…しづらいでふ…
-#sub "hh_05_103" I... I am afraid to go tired...
-
-//#sub "hh_05_104" んふぅ…回復、はやすぎれふ…んむぅ
-#sub "hh_05_104" Huhu... recovery, it's too fast......
-
-//#sub "hh_05_105" んふぅ…これで、終わり…にひてくだはい
-#sub "hh_05_105" Mfuu... With this, at the end... Hiratsudaiha
-
-//#sub "hh_05_106" んむぅ、早く…終わらせて…くらはい…
-#sub "hh_05_106" Muu Muu, hurry... end it... nature...
-
-//#sub "hh_05_107" 顔がべとべとしますね
-#sub "hh_05_107" The face gets sticky
-
-//#sub "hh_05_108" ぬるぬるで、生暖かいです
-#sub "hh_05_108" It is lukewarm because it is slimy.
-
-//#sub "hh_05_109" んふぅ…また・・飲んじゃいました・
-#sub "hh_05_109" Mfuu...... I was drinking it again ·
-
-//#sub "hh_05_110" うへえ・・また、いっぱい出しちゃったんですねぇ
-#sub "hh_05_110" Investigation · · · Also, I got a lot of it
-
-//#sub "hh_05_111" げほ・・げほ・・・ごめんなさい、またむせちゃいました
-#sub "hh_05_111" I... I am sorry, I have been choked again
-
-//#sub "hh_05_112" うぅ～ん、体にかかってがべとべとします
-#sub "hh_05_112" Well, it hangs on your body
-
-//#sub "hh_05_113" あぁ…なんですかね、この匂い…
-#sub "hh_05_113" Oh... what is it, this smell...
-
-//#sub "hh_05_114" げほ・・げほ・・・おえぇ・・・げほげほ・・やっぱり、飲めませぇん
-#sub "hh_05_114" Genji · · · Genji... Oe...... Genjiho... After all, can not drink enten
-
-//#sub "hh_05_115" ・・これ、熱くてべとべとぉ・・あははは・・・
-#sub "hh_05_115" · · This is hot and tasty · · haha ​​...
-
-//#sub "hh_05_116" えへへ・・・ぬるぬるですぅ・・・へへへ
-#sub "hh_05_116" Ehh... · · · slimy · · ·
-
-//#sub "hh_05_117" しろくってぇ…綺麗ぇ…あははは
-#sub "hh_05_117" Shirokutte... beautiful... haha
-
-//#sub "hh_05_118" ・・え゛ぇ・・・・むはぁ…
-#sub "hh_05_118" · · · え ぇ ぇ · · · · · む ぁ ぁ...
-
-//#sub "hh_05_119" 大分、慣れてきましたよ、こういうの
-#sub "hh_05_119" Oita, I'm used to it, this kind of
-
-//#sub "hh_05_120" このぐらいがいいんですか？
-#sub "hh_05_120" Is this about good?
-
-//#sub "hh_05_121" もっと強く動かしましょうか？
-#sub "hh_05_121" Shall we move more strongly?
-
-//#sub "hh_05_122" これが気持ちいいんですよね？
-#sub "hh_05_122" This is comfortable, is not it?
-
-//#sub "hh_05_123" さっきより・・これが、硬くなって来てますよ・・？
-#sub "hh_05_123" From a little earlier... This is getting harder · · ·?
-
-//#sub "hh_05_124" 精液、もう出したくなってますよね？！
-#sub "hh_05_124" Semen, you want to put out already?  It is!
-
-//#sub "hh_05_125" いいですよ、我慢しないで、射精して下さい
-#sub "hh_05_125" Okay, do not hold back, please ejaculate
-
-//#sub "hh_05_126" これで、本当に気持ちいいんですか？
-#sub "hh_05_126" Is this really comfortable?
-
-//#sub "hh_05_127" 本当に、こんなのでいいんですか？
-#sub "hh_05_127" Really, is it okay with this?
-
-//#sub "hh_05_128" これを続けるんですか？　気が乗らないですね
-#sub "hh_05_128" Do you continue with this?  I do not care
-
-//#sub "hh_05_129" こういうの、正直楽しいかどうか…
-#sub "hh_05_129" Whether it's kind of fun, honest...
-
-//#sub "hh_05_130" あの、出すんですか？
-#sub "hh_05_130" Um, are you out?
-
-//#sub "hh_05_131" まさか、出しちゃうんですね？
-#sub "hh_05_131" No way, are you going out?
-
-//#sub "hh_05_132" 出しますね、これ…いい加減わかってきました
-#sub "hh_05_132" I will release it, this... I have noticed it
-
-//#sub "hh_05_133" はやく・・終わっ・て…下さい
-#sub "hh_05_133" Hurry · · Please finish... please
-
-//#sub "hh_05_134" これ・・・気持ち・・悪い・・です・・
-#sub "hh_05_134" This · · · feeling is bad · · ·
-
-//#sub "hh_05_135" こんなの・・やめたい、です
-#sub "hh_05_135" I want to quit like this...
-
-//#sub "hh_05_136" 激しく・・・しないで・・ください・
-#sub "hh_05_136" Do not fierce · Please · ·
-
-//#sub "hh_05_137" 何ですか？・・・まさか、出すんですか？
-#sub "hh_05_137" What is it?  ... No way, are you out?
-
-//#sub "hh_05_138" こ、これは…まさか、いきそうなんですか？
-#sub "hh_05_138" Well, this... Is not it supposed to go?
-
-//#sub "hh_05_139" あの・・・これって、出すつもりですか？
-#sub "hh_05_139" Um...... is this supposed to come out?
-
-//#sub "hh_05_140" ちろ……ん、ちゅ、気持ちよさそう・ですね・・ちゅ
-#sub "hh_05_140" Chirou...., Chu, I feel comfortable · · · Chu
-
-//#sub "hh_05_141" ちゅ…ろう？…ちろろっ・・ゆっくり・・なめるますか？・・れろ・・
-#sub "hh_05_141" Hey... Wow?  ... Chilling... slowly... Do you lick?  · · · · · ·
-
-//#sub "hh_05_142" ちろ・・・強く・・なめれも・・ちろ・・らいじょうぶ…れふか？・・・ちゅっ
-#sub "hh_05_142" Clear... · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  ......
-
-//#sub "hh_05_143" ちろ……ん、ちゅ・もう、・イきそう、れふか？・・・
-#sub "hh_05_143" Chillo...., Chu · Already, · It looks like yeah, revealing?  ...
-
-//#sub "hh_05_144" ん、ちゅるぅ・・亀頭が…ぱんぱんに膨らんれ・・・・きてます　・・・ちゅ
-#sub "hh_05_144" · · · Chuuu · · · The glans are swelling in a lump... · · · · · · · · ·
-
-//#sub "hh_05_145" んちゅ…おいしくないです
-#sub "hh_05_145" Muchu... It is not tasty
-
-//#sub "hh_05_146" んふぅ…できれば…やめたいれふ
-#sub "hh_05_146" Mfuu... if you can... stop talking
-
-//#sub "hh_05_147" んふぅ…これ、本当に、楽しいんれふか？
-#sub "hh_05_147" Mfuu... Is this really fun, snow?
-
-//#sub "hh_05_148" ん、まさか…出すんですか？
-#sub "hh_05_148" Oh, no... Do you give it out?
-
-//#sub "hh_05_149" ちょ、出すの、待って…くらはい
-#sub "hh_05_149" Wait, wait, wait... Nature
-
-//#sub "hh_05_150" じゅる…ろうれふか？　わらしのくひのなか・・・きもひいいれふか…んむ
-#sub "hh_05_150" Jun...... a rose?  Among the breeding houses · · · · · · · · · · · · ·
-
-//#sub "hh_05_151" きもち・・じゅるっ・よさそうで・・ん、ちゅ・・うれひぃれふ
-#sub "hh_05_151" Feeling · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-
-//#sub "hh_05_152" たくはん…にゅぷっ…感じれ…じゅちゅ…くらはい、ね…
-#sub "hh_05_152" Taku......... It feels... Jyu... Hell yeah, ne...
-
-//#sub "hh_05_153" ちゅちゅ……これは…いきほう…んぶ…じゅぷ…なんれふか・・？
-#sub "hh_05_153" Chuchu...... This is... Ibaraki... mu... Jyupu... What is it?
-
-//#sub "hh_05_154" いっはい…じゅぷんぶ…らひて…びゅずぢゅっ…くらはいね……んはぁ
-#sub "hh_05_154" I'm afraid... Junpu...... Lah...... Jyuzyu... Kura is... No...
-
-//#sub "hh_05_155" んむぅ…息がしづらいです
-#sub "hh_05_155" Mmm... I can not breath
-
-//#sub "hh_05_156" んぐぅ…口が、疲れてきまひた
-#sub "hh_05_156" Mouth... mouth is getting tired
-
-//#sub "hh_05_157" んふぅ…舌が、つかれまふ
-#sub "hh_05_157" Muhu... tongue is tangled
-
-//#sub "hh_05_158" んふぅ…まら、終わりじゃないんれふか？
-#sub "hh_05_158" Mahou... it is not over, is not it?
-
-//#sub "hh_05_159" んむぅ…早く出して、くらはい
-#sub "hh_05_159" Mmmm... please get out early, yell
-
-//#sub "hh_05_160" 胸でするの、気持ちいいですか？
-#sub "hh_05_160" Do it in your heart, do you feel good?
-
-//#sub "hh_05_161" 挟みながら、動かしますから
-#sub "hh_05_161" Because it moves while pinching
-
-//#sub "hh_05_162" 速く動かした方が感じますか？
-#sub "hh_05_162" Do you feel that you moved fast?
-
-//#sub "hh_05_163" 胸で、激しくしてみます
-#sub "hh_05_163" I will intensify it with my chest
-
-//#sub "hh_05_164" こんな感じでいいですか？
-#sub "hh_05_164" Is it okay with this feeling?
-
-//#sub "hh_05_165" 私の胸、柔らかい、ですか？
-#sub "hh_05_165" Is my chest soft?
-
-//#sub "hh_05_166" この胸で、大丈夫ですか？
-#sub "hh_05_166" With this breast, is it okay?
-
-//#sub "hh_05_167" 私の胸で、気持ちよくなってますか？
-#sub "hh_05_167" Are you comfortable with my chest?
-
-//#sub "hh_05_168" 私の胸で、いきそうなんですか？
-#sub "hh_05_168" Is it likely to go on my chest?
-
-//#sub "hh_05_169" 胸、すごく熱くなってきました・・
-#sub "hh_05_169" My heart is getting very hot...
-
-//#sub "hh_05_170" 亀頭、気持ちいいですか？
-#sub "hh_05_170" Glans, are you comfortable?
-
-//#sub "hh_05_171" 亀頭、指でぐりぐりしますよ？
-#sub "hh_05_171" Glans and fingers will borrow you?
-
-//#sub "hh_05_172" ここ、ぐりぐりしたら、気持ちいいですか？
-#sub "hh_05_172" Does it feel good if you go around here?
-
-//#sub "hh_05_173" 激しいほうがいいんですか？　痛くないですか？
-#sub "hh_05_173" Do you want to be intense?  Does it hurt?
-
-//#sub "hh_05_174" なんだか、すごく大きくなってますよ
-#sub "hh_05_174" Somehow, it's getting bigger
-
-//#sub "hh_05_175" 大丈夫です！　もう出しちゃってください！
-#sub "hh_05_175" It's okay!  Please give it out already!
-
-//#sub "hh_05_176" 本当に足でかまわないんですか？
-#sub "hh_05_176" Are you sure you do not mind walking?
-
-//#sub "hh_05_177" 踏まれるの好きだったりするんですか？
-#sub "hh_05_177" Do you like being stepped on?
-
-//#sub "hh_05_178" 足で・・強くしてもいいですか？
-#sub "hh_05_178" With your feet... Can I make it stronger?
-
-//#sub "hh_05_179" それじゃ、思いっきり踏みますね？
-#sub "hh_05_179" Well then, are you going to step on it?
-
-//#sub "hh_05_180" いいですよ、私の足でいっちゃって下さい
-#sub "hh_05_180" It's okay, please go with my legs
-
-//#sub "hh_05_181" 足の裏が熱くなってきてます…出しちゃっていいですよ
-#sub "hh_05_181" The soles of the feet are getting hot... It is OK to take out
-
-//#sub "hh_05_182" 熱いのが、いっぱい出てきましたね
-#sub "hh_05_182" A lot of hot things came out
-
-//#sub "hh_05_183" すごい、濃くって、どろどろですね
-#sub "hh_05_183" It's amazing, it's dark and mushy
-
-//#sub "hh_05_184" んぐ、・・・・ん……んふぅ・・飲みました…なれて来たみたいですね
-#sub "hh_05_184" · · · · · · · · · · · · · · · · · · · I drank... seems to have come to know
-
-//#sub "hh_05_185" ん・・んぐ・・ふぅ・・味は、相変わらず、淡白ですね
-#sub "hh_05_185" The taste is still fresh white as usual
-
-//#sub "hh_05_186" （んべぇ…んはぁ）
-#sub "hh_05_186" (Hey, well)
-
-//#sub "hh_05_187" （んふぅ…べぇ…）
-#sub "hh_05_187" (Huhu... ba...)
-
-//#sub "hh_05_188" ・・げほ、げほ・・結構、のどにひっかかりますね
-#sub "hh_05_188" · · Genji, Genji... It's pretty much caught in the throat
-
-//#sub "hh_05_189" げほ・・げほ・・・少し・飲みにくいです
-#sub "hh_05_189" Genji...... Genji · · It is hard to drink
-
-//#sub "hh_05_190" なんだか…ぬるぬるしてます…
-#sub "hh_05_190" Somehow... It's slimy...
-
-//#sub "hh_05_191" もう…かけすぎです
-#sub "hh_05_191" It is already overkill
-
-//#sub "hh_05_192" ぶふっ・・おぇ、・・げほ、げほ・・くっ・・
-#sub "hh_05_192" Oh, oh,...............
-
-//#sub "hh_05_193" え゛ぇ・・・げほ、げほ・・やっぱり・・げほげほ・・飲めないです・・
-#sub "hh_05_193" え ぇ ぇ... げ, げ ほ · · After all · · · げ ほ げ · · · I can not drink it · · ·
-
-//#sub "hh_05_194" 続けても大丈夫ですか？
-#sub "hh_05_194" Can I continue?
-
-//#sub "hh_05_195" すぐに回復するから、このまま続けちゃいますね
-#sub "hh_05_195" I will recover quickly, so I will continue this way
-
-//#sub "hh_05_196" 出したばかりなのに、まだできるんですよね、うふふ
-#sub "hh_05_196" Although I just issued it, I still can do it, yeah
-
-//#sub "hh_05_197" すごい、またイっちゃうんですね？
-#sub "hh_05_197" It is amazing, is not it?
-
-//#sub "hh_05_198" いいですよ、何回でも出して下さい！
-#sub "hh_05_198" It's okay, please take it out any number of times!
-
-//#sub "hh_05_199" まだ続けるんですか？　もういいんじゃないですか？
-#sub "hh_05_199" Are you still going on?  Is not it anymore?
-
-//#sub "hh_05_200" あの、疲れてないんですか？
-#sub "hh_05_200" Well, are not you tired?
-
-//#sub "hh_05_201" これ、そろそろ、やめませんか？
-#sub "hh_05_201" Would you like to stop this now?
-
-//#sub "hh_05_202" まさか？　まだ出るんですか？
-#sub "hh_05_202" No way?  Are you still out?
-
-//#sub "hh_05_203" また出るんですか？　もうやめた方がいいんじゃいないですか？
-#sub "hh_05_203" Are you going out again?  Is not it better to quit it already?
-
-//#sub "hh_05_204" …こんなの、続けないで下さい
-#sub "hh_05_204" ... Please do not continue with this
-
-//#sub "hh_05_205" できれば、終わりしてください…
-#sub "hh_05_205" If possible, please close...
-
-//#sub "hh_05_206" まだ、満足できないんですか？
-#sub "hh_05_206" Still not satisfied?
-
-//#sub "hh_05_207" いったい、何回出す気なんですか？
-#sub "hh_05_207" How many times are you going to put out?
-
-//#sub "hh_05_208" そんなに何度も出して、どうするんですか？
-#sub "hh_05_208" Do it out so many times, what will you do?
-
-//#sub "hh_05_209" んちゅ・・・、まら・・ん・・・きもちよふ・・ちゅ・・なっれくらはいね・・んふ
-#sub "hh_05_209" Mr. · · · · · · · · · · ·
-
-//#sub "hh_05_210" まらまら・・んん・・・あわりじゃ、ありまへんよぉ・・ちゅちゅ・・
-#sub "hh_05_210" I'm afraid... forgetful, I do not have it... · Chuu · · ·
-
-//#sub "hh_05_211" まら・・イっちゃうんれふね？　んちゅ・・んふ
-#sub "hh_05_211" I heard it is not it?  Huh
-
-//#sub "hh_05_212" ちゅ・・・まら、れそうなんれふか？　んふぅ・・・むちゅ・・
-#sub "hh_05_212" Chu · · · It seems likely, maybe snow?  Mfuu · · · · · · · · · · · ·
-
-//#sub "hh_05_213" もう、舐めたくないです
-#sub "hh_05_213" I do not want to lick it anymore.
-
-//#sub "hh_05_214" んちゅ…もう、舌が、おかしくなります
-#sub "hh_05_214" Much... now my tongue goes crazy
-
-//#sub "hh_05_215" ん、出して、終わりにして下さい…
-#sub "hh_05_215" Take it out, please come to an end...
-
-//#sub "hh_05_216" また、出すんですか？　はやく、終わってください
-#sub "hh_05_216" Is it also out?  Hurry, please finish
-
-//#sub "hh_05_217" まら・・びゅじゅ・・いっぱい・・じゅ・じゅぅ・・くわえて、あげまふ・・んふぅ
-#sub "hh_05_217" Mira · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ___ ___ ___ 0
-
-//#sub "hh_05_218" んじゅ・・つよく・・しゃぶって、いいれふか？・・・じゅぶ・・
-#sub "hh_05_218" Until then... Suck it... suck it?  ... Jujube...
-
-//#sub "hh_05_219" んぶ、・・・おくひれ・・・んふぅ・・いっひゃってくだはいね
-#sub "hh_05_219" Hey......... please... do not go wrong...
-
-//#sub "hh_05_220" じゅぶぅ・・くひに・・ぜんぶ・・らして・くらはい・んっ、んふぅ
-#sub "hh_05_220" Juuu · · · · · · · · · · · · · · · · · · · · · · · · kuraha · · · · ·
-
-//#sub "hh_05_221" むふぅ…苦しいです
-#sub "hh_05_221" Mufuu... It's painful
-
-//#sub "hh_05_222" むぅ…もう、おわって…くらはい
-#sub "hh_05_222" Muu... Already, it's over... nature
-
-//#sub "hh_05_223" んん…また出すんですか？　いい加減にひてくらはい
-#sub "hh_05_223" Do you... give it out again?  I do not care enough
-
-//#sub "hh_05_224" むぅ…あ、あんまり…出さないで、くらはい
-#sub "hh_05_224" Muu... Oh, well, do not give it out, Nura Haha
-
-//#sub "hh_05_225" はぁ…また、いっぱい、かかっちゃっいました…
-#sub "hh_05_225" Haa... Also, a lot of it has taken...
-
-//#sub "hh_05_226" また、たくさん出しましたね…すごいです
-#sub "hh_05_226" Also, I got a lot of it... I'm amazing
-
-//#sub "hh_05_227" ぬうぐ・・・はぁ・・・んふふ、精液、いっぱい飲んじゃいました
-#sub "hh_05_227" Stuffed... Haah... hehe, semen, I drunk a lot
-
-//#sub "hh_05_228" れえぇ・・、　まだこんなに出せるなんて…すごいです
-#sub "hh_05_228" Ree...... it's amazing to be able to do so much yet
-
-//#sub "hh_05_229" げほ、げほげほ・・ごめんなさい、やっぱり飲むのはきついです
-#sub "hh_05_229" I will sorry, drinking after all is tight
-
-//#sub "hh_05_230" はぁ…なんでこんなに出すんですか
-#sub "hh_05_230" Huh... why are you out so much
-
-//#sub "hh_05_231" …これだけ出せば、もうなくなったんじゃないんですか？
-#sub "hh_05_231" ... If only this one gets out, is not it already gone?
-
-//#sub "hh_05_232" ・・げほ、げほ・・のどが・・がらがらします
-#sub "hh_05_232" · · Genji, grave · · · throat · · · I get annoyed
-
-//#sub "hh_05_233" え゛ぇ・・・げほ、げほ・・やっぱり…飲めないです・・
-#sub "hh_05_233" え ぇ ぇ... げ げ, げ ほ り · · After all... I can not drink it · · ·
-
-//#sub "hh_05_234" まだまだ、これから、気持ちよくしてあげます
-#sub "hh_05_234" I will make it comfortable from now on
-
-//#sub "hh_05_235" もっと続けますから、がんばってください
-#sub "hh_05_235" I will continue more, please do your best
-
-//#sub "hh_05_236" これで終わりじゃないですよ、休憩なんてしませんから
-#sub "hh_05_236" This is not the end, I will not take a break
-
-//#sub "hh_05_237" もっともっと、気持ちよくしてあげますよぉ！
-#sub "hh_05_237" I will give you more pleasantness!
-
-//#sub "hh_05_238" すごい…い、いきそうです…いって下さい！！
-#sub "hh_05_238" It is amazing... it seems to go on... please go!  It is!
-
-//#sub "hh_05_239" いいです、すごぉく、熱くなって来てますよ、うふふふ！
-#sub "hh_05_239" Sure, it is getting hot, it's getting hot, ufufufu!
-
-//#sub "hh_05_240" い、いいです…このままいっちゃって、下さいね！
-#sub "hh_05_240" Good, is not it... Please keep on leaving as it is!
-
-//#sub "hh_05_241" うふふ…これ、とっへも、おいしいですよぉ！
-#sub "hh_05_241" Uhufu... this is very delicious!
-
-//#sub "hh_05_242" んちゅ…あぁぁん、舌が、勝手に動いてるみたいです
-#sub "hh_05_242" Muchu... Ayah, my tongue seems to move freely
-
-//#sub "hh_05_243" 私の舌で、感じてますかぁ？
-#sub "hh_05_243" Do you feel with my tongue?
-
-//#sub "hh_05_244" んちゅ、私の舌で、いっぱい、気持ちよくしてあげますからねぇ
-#sub "hh_05_244" Muchu, my tongue, I will give you a lot of pleasant
-
-//#sub "hh_05_245" いいですよ、私の舌で、もっと、いって下さい！
-#sub "hh_05_245" It's okay, please tell me more with my tongue!
-
-//#sub "hh_05_246" わらしのしたでぇ、しゅきなだけ、出しまくってくださぁい
-#sub "hh_05_246" I was lucky, just do it for me, please roll out
-
-//#sub "hh_05_247" いいですよぉ、我慢しないで、全部、出しちゃってくださぁい
-#sub "hh_05_247" It's okay, do not hold back, please give me all
-
-//#sub "hh_05_248" んぶぅ…んはぁ…これ、しゃぶってるうちに、おいしくなってきました
-#sub "hh_05_248" Huh... Huh... this is sucking, it has become delicious
-
-//#sub "hh_05_249" んふぅ…あなたのこれ、咥えるだけで、感じて、きますぅ
-#sub "hh_05_249" Mfuu... just by holding yourself, feeling, will you?
-
-//#sub "hh_05_250" いい…気持ちよくって、止まらないですぅ
-#sub "hh_05_250" Okay... I feel good and do not stop
-
-//#sub "hh_05_251" 大丈夫です、そのまま、好きなだけ、出しちゃって、くださぁい
-#sub "hh_05_251" It's okay, just as I want, please give it out
-
-//#sub "hh_05_252" もっと、好きなだけ、射精しちゃって、くださぁい！
-#sub "hh_05_252" More, as much as you want, ejaculate, please!
-
-//#sub "hh_05_253" 私の口で、好きなだけ、いっちゃってくださぁい！
-#sub "hh_05_253" Please do as much as you like in my mouth!
-
-//#sub "hh_05_254" すごぉい、こんなに濃いのが、いっぱいですよ
-#sub "hh_05_254" Great thing, there are so many dark things
-
-//#sub "hh_05_255" うふふ、この匂い…この量…やっぱりあなたの精液は最高ですね
-#sub "hh_05_255" Uhufu, this smell... this amount... your semen is the best
-
-//#sub "hh_05_256" こんなに出しちゃうなんて…でも、まだまだ溜まってるんですよね？
-#sub "hh_05_256" I never give up so much... But are you still accumulating?
-
-//#sub "hh_05_257" んぐ・・ふぅ・・、この粘り気、悪くないですね
-#sub "hh_05_257" Wow, this sticky, not bad
-
-//#sub "hh_05_258" ん、んむぅ…はぁ…どろどろですが、味は、淡白です
-#sub "hh_05_258" Hmm... Huh... Murky, but the taste is fresh
-
-//#sub "hh_05_259" ごくごく・・・ん、・・ノドに引っかかるくらい、濃いですね…
-#sub "hh_05_259" Extreme...... It is dark enough to get caught by a nod...
-
-// -----------------------------------------------
-// 愛撫 (Caress)
+// Caress
 // -----------------------------------------------
 
 //#sub "ha_05_001" あんまり・・強くしないで、下さいね
@@ -4942,7 +4161,788 @@
 #sub "ha_05_500" Put your tongue back inside me, it feels good.
 
 // -----------------------------------------------
-// 挿入 (Insert)
+// Service
+// -----------------------------------------------
+
+//#sub "hh_05_001" これでいいですか？
+#sub "hh_05_001" Is this alright?
+
+//#sub "hh_05_002" これ、気持ちいいですか？
+#sub "hh_05_002" Does this feel good?
+
+//#sub "hh_05_003" こんな感じで大丈夫ですか？
+#sub "hh_05_003" Is this OK with this feeling?
+
+//#sub "hh_05_004" 痛かったら言って下さいね？
+#sub "hh_05_004" Please tell me when it hurts?
+
+//#sub "hh_05_005" 射精、しちゃいますか・・？
+#sub "hh_05_005" Do you ejaculate, do you?
+
+//#sub "hh_05_006" これ、すごく熱くなってきてますよ？
+#sub "hh_05_006" This is getting really hot?
+
+//#sub "hh_05_007" 我慢しないで下さいね
+#sub "hh_05_007" Please do not hold back
+
+//#sub "hh_05_008" やめたいです
+#sub "hh_05_008" I want to quit
+
+//#sub "hh_05_009" あんまり楽しくないです
+#sub "hh_05_009" It is not fun too much
+
+//#sub "hh_05_010" どうしてこんな事させるんですか？
+#sub "hh_05_010" Why do you do this?
+
+//#sub "hh_05_011" 何が、楽しいんですか、これ？
+#sub "hh_05_011" What is fun, is this?
+
+//#sub "hh_05_012" どうかしたんですか？
+#sub "hh_05_012" What happened?
+
+//#sub "hh_05_013" なんだか、さっきより固くなってますよ
+#sub "hh_05_013" Somehow, it is harder than before
+
+//#sub "hh_05_014" さっきより、さらに膨らんでませんか？
+#sub "hh_05_014" From a little earlier, have you not swelled further?
+
+//#sub "hh_05_015" はやく・・終わらせて下さい・・・
+#sub "hh_05_015" Quickly · · Please end it · · ·
+
+//#sub "hh_05_016" あんまり、動かさないで下さい・・
+#sub "hh_05_016" Do not move it too much.
+
+//#sub "hh_05_017" 激しいのは・・やめて・・下さい
+#sub "hh_05_017" Stop it... Please stop it · · ·
+
+//#sub "hh_05_018" やっぱり・・気持ち悪い・・です
+#sub "hh_05_018" After all... It's disgusting...
+
+//#sub "hh_05_019" 急に…動かさないで下さい
+#sub "hh_05_019" Suddenly... Please do not move
+
+//#sub "hh_05_020" こ、これは？！　まさか、射精ですか？
+#sub "hh_05_020" Th-This is?  It is!  No way, is ejaculation?
+
+//#sub "hh_05_021" な、なんですか？！　何が起きるんですか？
+#sub "hh_05_021" What is it?  It is!  What happens?
+
+//#sub "hh_05_022" ちろ……ん、ちゅ、気持ちいいですか？
+#sub "hh_05_022" Clear......., Chu, do you feel good?
+
+//#sub "hh_05_023" んちゅ、ゆっくり・・ちゅろ・・・なめ・・ぇまふぅ・・ね・・ぇあ、んむ
+#sub "hh_05_023" Chichu, slowly · · · Chumor · · · licking · · · · · · · · · · · · · · ·
+
+//#sub "hh_05_024" ちろ・・・痛くない・・・れすか？・・・ちゅっ
+#sub "hh_05_024" Clear... It does not hurt... is it?  ......
+
+//#sub "hh_05_025" ん、ちゅるぅ・・いっはい、熱くなって・・・ちろ・・・きまひたお　・・・ちゅ
+#sub "hh_05_025" · · · Chuuu · · · I'm getting hot... · · · · · · Kimita... · · ·
+
+//#sub "hh_05_026" 我慢・・・ん、ちゅ・・しらいで・・れろ・・くらはいね・・ちゅるぅ
+#sub "hh_05_026" Patience · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · Churuu
+
+//#sub "hh_05_027" なめたく…ないれふ
+#sub "hh_05_027" I want to lick it...
+
+//#sub "hh_05_028" れきれば、はやく、おわらへて…くらはい
+#sub "hh_05_028" If I could get up, quickly, to staying... Nature
+
+//#sub "hh_05_029" ん…おいひくないれふ
+#sub "hh_05_029" I... I do not have any problems
+
+//#sub "hh_05_030" ん？　さっきより…あつくなって、まふね
+#sub "hh_05_030" Hmm?  From a little earlier... Became hot and Tokunaga
+
+//#sub "hh_05_031" ん…なんらか、ひくひく…うごひて、まふ
+#sub "hh_05_031" I... somehow, me...
+
+//#sub "hh_05_032" んぁむ・・・くわえれの…ちょっと、楽しいかも…
+#sub "hh_05_032" It's kind of fun...
+
+//#sub "hh_05_033" こへぇ…きもち・・じゅるっ・いい・・ん、ちゅ・・れすか？
+#sub "hh_05_033" Come here... feeling... じ ゅ る っ · い い · · · · · · · · · is it?
+
+//#sub "hh_05_034" ちゅちゅ…ちょとらけ…おいしい・・きがします・・
+#sub "hh_05_034" Chuchu... a little... It tastes delicious · · ·
+
+//#sub "hh_05_035" くひのなかれ…にゅぷっ…もっと…あふくなっへ…きまひたよ？
+#sub "hh_05_035" Naka no Naka... Hey... more...... It's getting fucked... did you kimi?
+
+//#sub "hh_05_036" ちゅちゅ……だすろきは……がまんひないで…くらはいね…じゅぷ…
+#sub "hh_05_036" Chuchu...... Sorry...... I can not stand it... Kurara is... Jyupu...
+
+//#sub "hh_05_037" んふぅ…なんらか、疲れてきまひた
+#sub "hh_05_037" Mfuu... Somehow, I'm getting tired
+
+//#sub "hh_05_038" ん…ふぅ…息が…しづらいれふ…んぶぅ…
+#sub "hh_05_038" I...... Fuu... breathless... hard to......
+
+//#sub "hh_05_039" んむぅ…早く…ん、んふぅ…おわっへ…くらはい…
+#sub "hh_05_039" Hmm... Hurried...., Muhu... endowment... nature...
+
+//#sub "hh_05_040" んふぅ…なんれふか？　…でるんれふか？
+#sub "hh_05_040" Mfuu... Anything?  ... Is it a train sink?
+
+//#sub "hh_05_041" ん？…なに、これ…かはくなっへるんれふか？
+#sub "hh_05_041" Hmm?  ... What, is this... am I going to become an amateur?
+
+//#sub "hh_05_042" 私の胸、気持ちいいですか？
+#sub "hh_05_042" Does my heart feel good?
+
+//#sub "hh_05_043" 挟みながら動かしますから
+#sub "hh_05_043" Because it moves while pinching
+
+//#sub "hh_05_044" 気持ちいいですか？
+#sub "hh_05_044" Does it feel good?
+
+//#sub "hh_05_045" 私の胸で、大丈夫ですか？
+#sub "hh_05_045" Is it okay with my breasts?
+
+//#sub "hh_05_046" こんな感じで気持ちいいですか？
+#sub "hh_05_046" Do you feel good with such feeling?
+
+//#sub "hh_05_047" 私の胸で、気持ちよく、できてますか？
+#sub "hh_05_047" Do you feel comfortable in my chest?
+
+//#sub "hh_05_048" 胸で、いきそうなんですか？
+#sub "hh_05_048" Does it seem to go on breast?
+
+//#sub "hh_05_049" 胸で、あなたのが…すごく熱くなってますよ
+#sub "hh_05_049" With your chest, yours... you are getting very hot
+
+//#sub "hh_05_050" もっと亀頭をいじってもいいですか？
+#sub "hh_05_050" Can I mess more with the glans?
+
+//#sub "hh_05_051" 手でしても、痛くないんですか？
+#sub "hh_05_051" Even if it is handed, does not it hurt?
+
+//#sub "hh_05_052" こんなに手を動かしても、平気なんですか？
+#sub "hh_05_052" Even if you move such hands, are you OK?
+
+//#sub "hh_05_053" 先のほうから、何かこぼれてきてますよ？
+#sub "hh_05_053" Is there something spilling from the end?
+
+//#sub "hh_05_054" 亀頭、気持ちいいんですか？
+#sub "hh_05_054" Kameppo, do you feel good?
+
+//#sub "hh_05_055" こんな風に踏んで、大丈夫なんですか？
+#sub "hh_05_055" Are you okay stepping on this way?
+
+//#sub "hh_05_056" ほんとに足でして、いいんですか？
+#sub "hh_05_056" Really are your feet, are you okay?
+
+//#sub "hh_05_057" 足でされるの・・楽しいですか？
+#sub "hh_05_057" Doing with feet · Is fun?
+
+//#sub "hh_05_058" 足で気持ちよくなっていいですよ
+#sub "hh_05_058" You can be comfortable with your feet
+
+//#sub "hh_05_059" 足の裏に、すごく熱が伝わってきます
+#sub "hh_05_059" A lot of heat is transmitted to the soles of the feet
+
+//#sub "hh_05_060" 熱いのが・・いっぱいかかってますよ
+#sub "hh_05_060" It's hot... but it's full
+
+//#sub "hh_05_061" あなたの精液が…体にかかっちゃいました
+#sub "hh_05_061" Your sperm... It hurt your body
+
+//#sub "hh_05_062" んぐ、・・・・ふぅ・・飲んじゃいました・・
+#sub "hh_05_062" I was drinking... · · ·
+
+//#sub "hh_05_063" ん・・んぐ・・ふぅ・・味は…こういう感じなんですね
+#sub "hh_05_063" · · · · · · · Fuh... The taste... It is such feeling
+
+//#sub "hh_05_064" （んべぇ…んはぁ）
+#sub "hh_05_064" (Hey, well)
+
+//#sub "hh_05_065" （んふぅ…べぇ…）
+#sub "hh_05_065" (Huhu... ba...)
+
+//#sub "hh_05_066" げほげほ・・・けほ・・ノドに・ひかかって…けほけほ
+#sub "hh_05_066" Genji... · · · け い ろ · · · に 聞 か っ て に... け け け ほ
+
+//#sub "hh_05_067" げほげほ・・けほ・…粘り気が強くて、むせっちゃいました
+#sub "hh_05_067" Irregular · · · · · · · · · · Sticky, strong
+
+//#sub "hh_05_068" べとべとして、生臭いです
+#sub "hh_05_068" It is sticky and fishy.
+
+//#sub "hh_05_069" ぬるぬるで…嫌ですよぉ
+#sub "hh_05_069" It's slimy... I do not want it
+
+//#sub "hh_05_070" ぶふっ・・おぇ、・・げほ、げほ・・
+#sub "hh_05_070" Buff... oh,... Genji, Genji
+
+//#sub "hh_05_071" げほ、げほげほげほ・・え゛ぇ・・・
+#sub "hh_05_071" Genji, Fugehoho · · · · · · · · · · · ·
+
+//#sub "hh_05_072" ん・・それじゃ・・もう少し続けましょうか
+#sub "hh_05_072" Well then... Would you like to continue a little more
+
+//#sub "hh_05_073" ・・・もう回復してるんですね？　なら、つづけましょうか
+#sub "hh_05_073" ... You are already recovering?  Well, let's continue
+
+//#sub "hh_05_074" もう元気なんですね？　だったら、まだやりますよ
+#sub "hh_05_074" I am already fine, are not you?  If so, I will still do it
+
+//#sub "hh_05_075" また、いっちゃうんですか？
+#sub "hh_05_075" Also, are you going?
+
+//#sub "hh_05_076" 大丈夫です・・・続けて、出して下さい
+#sub "hh_05_076" It's okay... Continue, please let me out
+
+//#sub "hh_05_077" まだ続けるんですか？
+#sub "hh_05_077" Are you still going on?
+
+//#sub "hh_05_078" もう終わりにして下さい
+#sub "hh_05_078" Please stop already.
+
+//#sub "hh_05_079" もう、休んだ方がいいですよ？
+#sub "hh_05_079" You'd better take a day off yet?
+
+//#sub "hh_05_080" え、また出るんですか？
+#sub "hh_05_080" Will you come back again?
+
+//#sub "hh_05_081" 出すんですか…よく、持ちますね？
+#sub "hh_05_081" Is it taking out... well, do you have it?
+
+//#sub "hh_05_082" えっと、できればもう、やめませんか？
+#sub "hh_05_082" Um, will not you stop already if possible?
+
+//#sub "hh_05_083" 休憩とか、しないんですか？
+#sub "hh_05_083" Do not you take a break or not?
+
+//#sub "hh_05_084" これ、まだ続けるんですか？
+#sub "hh_05_084" Is this still going on?
+
+//#sub "hh_05_085" え、あの、また出すんですか？
+#sub "hh_05_085" Well, will you give out that again?
+
+//#sub "hh_05_086" まだ出るんですか？　どれだけ溜まってるんですか？
+#sub "hh_05_086" Are you still out?  How much is accumulated?
+
+//#sub "hh_05_087" んちゅ・・・、まら・・ん・・・きもちよふ・・ちゅ・・なっれくらはい・・んふ
+#sub "hh_05_087" Muchu......, Mr. · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ふ ふ
+
+//#sub "hh_05_088" もっろ・・んん・・・ちゅじゅけ・・まふから…ちゅちゅ・・
+#sub "hh_05_088" ろ · · · · · · · · Chujyuku · · · · · · · · · · · · Chuu · · ·
+
+//#sub "hh_05_089" まら・・・ちゅっ・・・なめちゅぢゅけて、いいれふか…？
+#sub "hh_05_089" Mira · · · tutu...... with licking and tearing...?
+
+//#sub "hh_05_090" まら・・いきほうなんれふか？　んちゅ・・んふ
+#sub "hh_05_090" Mira · · Ibaraki Squid?  Huh
+
+//#sub "hh_05_091" ちゅ・・また・れそうなん、れふか？　んふぅ・・・むちゅ・・
+#sub "hh_05_091" Tsu · · · It seems like that again, is it revealed?  Mfuu · · · · · · · · · · · ·
+
+//#sub "hh_05_092" んちゅ…あんまり…楽しくないです
+#sub "hh_05_092" Much... not much... not fun
+
+//#sub "hh_05_093" なんだか、疲れてきました
+#sub "hh_05_093" Somehow, I got tired.
+
+//#sub "hh_05_094" もう、やめたいです…
+#sub "hh_05_094" I already want to quit...
+
+//#sub "hh_05_095" んふぅ…また、出るんですか…
+#sub "hh_05_095" Mfuu... Also, do you come out...
+
+//#sub "hh_05_096" んちゅ…そんなに、出してどうするんですか…
+#sub "hh_05_096" Much... so much, what are you going to do...
+
+//#sub "hh_05_097" まら・・んちゅ・・おおきふ・なっれきまひたよぉ・・・
+#sub "hh_05_097" Mira · · · · · · · · Okinawa · · · · · · · · · · · · · · · · ·
+
+//#sub "hh_05_098" もう・・びゅじゅ・・回復・・じゅ・じゅぅ・・したん・・れふか？
+#sub "hh_05_098" Now... · · · Recovery · · · · · · · · · · · · · · · · Reflection?
+
+//#sub "hh_05_099" ぶちゅぅ・・んぐ・・おおひくて・・ぜんぶ・・はいりませんねぇ…
+#sub "hh_05_099" Buruku · · · · · · · · · · · · · ___ 0
+
+//#sub "hh_05_100" まら・・・んぶ、・・・くひで・・・んふぅ・・いって、くらはいね…
+#sub "hh_05_100" Mara · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ___ ___ ___ 0
+
+//#sub "hh_05_101" まら・・じゅじゅ・・・・でるんれふか？・・じゅる・・
+#sub "hh_05_101" Maru · · Ju · · · · · · · · · · · ·  · · ·
+
+//#sub "hh_05_102" んふぅ…くるしい…れふ
+#sub "hh_05_102" Mfuu... cool
+
+//#sub "hh_05_103" んん…いきが…しづらいでふ…
+#sub "hh_05_103" I... I am afraid to go tired...
+
+//#sub "hh_05_104" んふぅ…回復、はやすぎれふ…んむぅ
+#sub "hh_05_104" Huhu... recovery, it's too fast......
+
+//#sub "hh_05_105" んふぅ…これで、終わり…にひてくだはい
+#sub "hh_05_105" Mfuu... With this, at the end... Hiratsudaiha
+
+//#sub "hh_05_106" んむぅ、早く…終わらせて…くらはい…
+#sub "hh_05_106" Muu Muu, hurry... end it... nature...
+
+//#sub "hh_05_107" 顔がべとべとしますね
+#sub "hh_05_107" The face gets sticky
+
+//#sub "hh_05_108" ぬるぬるで、生暖かいです
+#sub "hh_05_108" It is lukewarm because it is slimy.
+
+//#sub "hh_05_109" んふぅ…また・・飲んじゃいました・
+#sub "hh_05_109" Mfuu...... I was drinking it again ·
+
+//#sub "hh_05_110" うへえ・・また、いっぱい出しちゃったんですねぇ
+#sub "hh_05_110" Investigation · · · Also, I got a lot of it
+
+//#sub "hh_05_111" げほ・・げほ・・・ごめんなさい、またむせちゃいました
+#sub "hh_05_111" I... I am sorry, I have been choked again
+
+//#sub "hh_05_112" うぅ～ん、体にかかってがべとべとします
+#sub "hh_05_112" Well, it hangs on your body
+
+//#sub "hh_05_113" あぁ…なんですかね、この匂い…
+#sub "hh_05_113" Oh... what is it, this smell...
+
+//#sub "hh_05_114" げほ・・げほ・・・おえぇ・・・げほげほ・・やっぱり、飲めませぇん
+#sub "hh_05_114" Genji · · · Genji... Oe...... Genjiho... After all, can not drink enten
+
+//#sub "hh_05_115" ・・これ、熱くてべとべとぉ・・あははは・・・
+#sub "hh_05_115" · · This is hot and tasty · · haha ​​...
+
+//#sub "hh_05_116" えへへ・・・ぬるぬるですぅ・・・へへへ
+#sub "hh_05_116" Ehh... · · · slimy · · ·
+
+//#sub "hh_05_117" しろくってぇ…綺麗ぇ…あははは
+#sub "hh_05_117" Shirokutte... beautiful... haha
+
+//#sub "hh_05_118" ・・え゛ぇ・・・・むはぁ…
+#sub "hh_05_118" · · · え ぇ ぇ · · · · · む ぁ ぁ...
+
+//#sub "hh_05_119" 大分、慣れてきましたよ、こういうの
+#sub "hh_05_119" Oita, I'm used to it, this kind of
+
+//#sub "hh_05_120" このぐらいがいいんですか？
+#sub "hh_05_120" Is this about good?
+
+//#sub "hh_05_121" もっと強く動かしましょうか？
+#sub "hh_05_121" Shall we move more strongly?
+
+//#sub "hh_05_122" これが気持ちいいんですよね？
+#sub "hh_05_122" This is comfortable, is not it?
+
+//#sub "hh_05_123" さっきより・・これが、硬くなって来てますよ・・？
+#sub "hh_05_123" From a little earlier... This is getting harder · · ·?
+
+//#sub "hh_05_124" 精液、もう出したくなってますよね？！
+#sub "hh_05_124" Semen, you want to put out already?  It is!
+
+//#sub "hh_05_125" いいですよ、我慢しないで、射精して下さい
+#sub "hh_05_125" Okay, do not hold back, please ejaculate
+
+//#sub "hh_05_126" これで、本当に気持ちいいんですか？
+#sub "hh_05_126" Is this really comfortable?
+
+//#sub "hh_05_127" 本当に、こんなのでいいんですか？
+#sub "hh_05_127" Really, is it okay with this?
+
+//#sub "hh_05_128" これを続けるんですか？　気が乗らないですね
+#sub "hh_05_128" Do you continue with this?  I do not care
+
+//#sub "hh_05_129" こういうの、正直楽しいかどうか…
+#sub "hh_05_129" Whether it's kind of fun, honest...
+
+//#sub "hh_05_130" あの、出すんですか？
+#sub "hh_05_130" Um, are you out?
+
+//#sub "hh_05_131" まさか、出しちゃうんですね？
+#sub "hh_05_131" No way, are you going out?
+
+//#sub "hh_05_132" 出しますね、これ…いい加減わかってきました
+#sub "hh_05_132" I will release it, this... I have noticed it
+
+//#sub "hh_05_133" はやく・・終わっ・て…下さい
+#sub "hh_05_133" Hurry · · Please finish... please
+
+//#sub "hh_05_134" これ・・・気持ち・・悪い・・です・・
+#sub "hh_05_134" This · · · feeling is bad · · ·
+
+//#sub "hh_05_135" こんなの・・やめたい、です
+#sub "hh_05_135" I want to quit like this...
+
+//#sub "hh_05_136" 激しく・・・しないで・・ください・
+#sub "hh_05_136" Do not fierce · Please · ·
+
+//#sub "hh_05_137" 何ですか？・・・まさか、出すんですか？
+#sub "hh_05_137" What is it?  ... No way, are you out?
+
+//#sub "hh_05_138" こ、これは…まさか、いきそうなんですか？
+#sub "hh_05_138" Well, this... Is not it supposed to go?
+
+//#sub "hh_05_139" あの・・・これって、出すつもりですか？
+#sub "hh_05_139" Um...... is this supposed to come out?
+
+//#sub "hh_05_140" ちろ……ん、ちゅ、気持ちよさそう・ですね・・ちゅ
+#sub "hh_05_140" Chirou...., Chu, I feel comfortable · · · Chu
+
+//#sub "hh_05_141" ちゅ…ろう？…ちろろっ・・ゆっくり・・なめるますか？・・れろ・・
+#sub "hh_05_141" Hey... Wow?  ... Chilling... slowly... Do you lick?  · · · · · ·
+
+//#sub "hh_05_142" ちろ・・・強く・・なめれも・・ちろ・・らいじょうぶ…れふか？・・・ちゅっ
+#sub "hh_05_142" Clear... · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  ......
+
+//#sub "hh_05_143" ちろ……ん、ちゅ・もう、・イきそう、れふか？・・・
+#sub "hh_05_143" Chillo...., Chu · Already, · It looks like yeah, revealing?  ...
+
+//#sub "hh_05_144" ん、ちゅるぅ・・亀頭が…ぱんぱんに膨らんれ・・・・きてます　・・・ちゅ
+#sub "hh_05_144" · · · Chuuu · · · The glans are swelling in a lump... · · · · · · · · ·
+
+//#sub "hh_05_145" んちゅ…おいしくないです
+#sub "hh_05_145" Muchu... It is not tasty
+
+//#sub "hh_05_146" んふぅ…できれば…やめたいれふ
+#sub "hh_05_146" Mfuu... if you can... stop talking
+
+//#sub "hh_05_147" んふぅ…これ、本当に、楽しいんれふか？
+#sub "hh_05_147" Mfuu... Is this really fun, snow?
+
+//#sub "hh_05_148" ん、まさか…出すんですか？
+#sub "hh_05_148" Oh, no... Do you give it out?
+
+//#sub "hh_05_149" ちょ、出すの、待って…くらはい
+#sub "hh_05_149" Wait, wait, wait... Nature
+
+//#sub "hh_05_150" じゅる…ろうれふか？　わらしのくひのなか・・・きもひいいれふか…んむ
+#sub "hh_05_150" Jun...... a rose?  Among the breeding houses · · · · · · · · · · · · ·
+
+//#sub "hh_05_151" きもち・・じゅるっ・よさそうで・・ん、ちゅ・・うれひぃれふ
+#sub "hh_05_151" Feeling · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+
+//#sub "hh_05_152" たくはん…にゅぷっ…感じれ…じゅちゅ…くらはい、ね…
+#sub "hh_05_152" Taku......... It feels... Jyu... Hell yeah, ne...
+
+//#sub "hh_05_153" ちゅちゅ……これは…いきほう…んぶ…じゅぷ…なんれふか・・？
+#sub "hh_05_153" Chuchu...... This is... Ibaraki... mu... Jyupu... What is it?
+
+//#sub "hh_05_154" いっはい…じゅぷんぶ…らひて…びゅずぢゅっ…くらはいね……んはぁ
+#sub "hh_05_154" I'm afraid... Junpu...... Lah...... Jyuzyu... Kura is... No...
+
+//#sub "hh_05_155" んむぅ…息がしづらいです
+#sub "hh_05_155" Mmm... I can not breath
+
+//#sub "hh_05_156" んぐぅ…口が、疲れてきまひた
+#sub "hh_05_156" Mouth... mouth is getting tired
+
+//#sub "hh_05_157" んふぅ…舌が、つかれまふ
+#sub "hh_05_157" Muhu... tongue is tangled
+
+//#sub "hh_05_158" んふぅ…まら、終わりじゃないんれふか？
+#sub "hh_05_158" Mahou... it is not over, is not it?
+
+//#sub "hh_05_159" んむぅ…早く出して、くらはい
+#sub "hh_05_159" Mmmm... please get out early, yell
+
+//#sub "hh_05_160" 胸でするの、気持ちいいですか？
+#sub "hh_05_160" Do it in your heart, do you feel good?
+
+//#sub "hh_05_161" 挟みながら、動かしますから
+#sub "hh_05_161" Because it moves while pinching
+
+//#sub "hh_05_162" 速く動かした方が感じますか？
+#sub "hh_05_162" Do you feel that you moved fast?
+
+//#sub "hh_05_163" 胸で、激しくしてみます
+#sub "hh_05_163" I will intensify it with my chest
+
+//#sub "hh_05_164" こんな感じでいいですか？
+#sub "hh_05_164" Is it okay with this feeling?
+
+//#sub "hh_05_165" 私の胸、柔らかい、ですか？
+#sub "hh_05_165" Is my chest soft?
+
+//#sub "hh_05_166" この胸で、大丈夫ですか？
+#sub "hh_05_166" With this breast, is it okay?
+
+//#sub "hh_05_167" 私の胸で、気持ちよくなってますか？
+#sub "hh_05_167" Are you comfortable with my chest?
+
+//#sub "hh_05_168" 私の胸で、いきそうなんですか？
+#sub "hh_05_168" Is it likely to go on my chest?
+
+//#sub "hh_05_169" 胸、すごく熱くなってきました・・
+#sub "hh_05_169" My heart is getting very hot...
+
+//#sub "hh_05_170" 亀頭、気持ちいいですか？
+#sub "hh_05_170" Glans, are you comfortable?
+
+//#sub "hh_05_171" 亀頭、指でぐりぐりしますよ？
+#sub "hh_05_171" Glans and fingers will borrow you?
+
+//#sub "hh_05_172" ここ、ぐりぐりしたら、気持ちいいですか？
+#sub "hh_05_172" Does it feel good if you go around here?
+
+//#sub "hh_05_173" 激しいほうがいいんですか？　痛くないですか？
+#sub "hh_05_173" Do you want to be intense?  Does it hurt?
+
+//#sub "hh_05_174" なんだか、すごく大きくなってますよ
+#sub "hh_05_174" Somehow, it's getting bigger
+
+//#sub "hh_05_175" 大丈夫です！　もう出しちゃってください！
+#sub "hh_05_175" It's okay!  Please give it out already!
+
+//#sub "hh_05_176" 本当に足でかまわないんですか？
+#sub "hh_05_176" Are you sure you do not mind walking?
+
+//#sub "hh_05_177" 踏まれるの好きだったりするんですか？
+#sub "hh_05_177" Do you like being stepped on?
+
+//#sub "hh_05_178" 足で・・強くしてもいいですか？
+#sub "hh_05_178" With your feet... Can I make it stronger?
+
+//#sub "hh_05_179" それじゃ、思いっきり踏みますね？
+#sub "hh_05_179" Well then, are you going to step on it?
+
+//#sub "hh_05_180" いいですよ、私の足でいっちゃって下さい
+#sub "hh_05_180" It's okay, please go with my legs
+
+//#sub "hh_05_181" 足の裏が熱くなってきてます…出しちゃっていいですよ
+#sub "hh_05_181" The soles of the feet are getting hot... It is OK to take out
+
+//#sub "hh_05_182" 熱いのが、いっぱい出てきましたね
+#sub "hh_05_182" A lot of hot things came out
+
+//#sub "hh_05_183" すごい、濃くって、どろどろですね
+#sub "hh_05_183" It's amazing, it's dark and mushy
+
+//#sub "hh_05_184" んぐ、・・・・ん……んふぅ・・飲みました…なれて来たみたいですね
+#sub "hh_05_184" · · · · · · · · · · · · · · · · · · · I drank... seems to have come to know
+
+//#sub "hh_05_185" ん・・んぐ・・ふぅ・・味は、相変わらず、淡白ですね
+#sub "hh_05_185" The taste is still fresh white as usual
+
+//#sub "hh_05_186" （んべぇ…んはぁ）
+#sub "hh_05_186" (Hey, well)
+
+//#sub "hh_05_187" （んふぅ…べぇ…）
+#sub "hh_05_187" (Huhu... ba...)
+
+//#sub "hh_05_188" ・・げほ、げほ・・結構、のどにひっかかりますね
+#sub "hh_05_188" · · Genji, Genji... It's pretty much caught in the throat
+
+//#sub "hh_05_189" げほ・・げほ・・・少し・飲みにくいです
+#sub "hh_05_189" Genji...... Genji · · It is hard to drink
+
+//#sub "hh_05_190" なんだか…ぬるぬるしてます…
+#sub "hh_05_190" Somehow... It's slimy...
+
+//#sub "hh_05_191" もう…かけすぎです
+#sub "hh_05_191" It is already overkill
+
+//#sub "hh_05_192" ぶふっ・・おぇ、・・げほ、げほ・・くっ・・
+#sub "hh_05_192" Oh, oh,...............
+
+//#sub "hh_05_193" え゛ぇ・・・げほ、げほ・・やっぱり・・げほげほ・・飲めないです・・
+#sub "hh_05_193" え ぇ ぇ... げ, げ ほ · · After all · · · げ ほ げ · · · I can not drink it · · ·
+
+//#sub "hh_05_194" 続けても大丈夫ですか？
+#sub "hh_05_194" Can I continue?
+
+//#sub "hh_05_195" すぐに回復するから、このまま続けちゃいますね
+#sub "hh_05_195" I will recover quickly, so I will continue this way
+
+//#sub "hh_05_196" 出したばかりなのに、まだできるんですよね、うふふ
+#sub "hh_05_196" Although I just issued it, I still can do it, yeah
+
+//#sub "hh_05_197" すごい、またイっちゃうんですね？
+#sub "hh_05_197" It is amazing, is not it?
+
+//#sub "hh_05_198" いいですよ、何回でも出して下さい！
+#sub "hh_05_198" It's okay, please take it out any number of times!
+
+//#sub "hh_05_199" まだ続けるんですか？　もういいんじゃないですか？
+#sub "hh_05_199" Are you still going on?  Is not it anymore?
+
+//#sub "hh_05_200" あの、疲れてないんですか？
+#sub "hh_05_200" Well, are not you tired?
+
+//#sub "hh_05_201" これ、そろそろ、やめませんか？
+#sub "hh_05_201" Would you like to stop this now?
+
+//#sub "hh_05_202" まさか？　まだ出るんですか？
+#sub "hh_05_202" No way?  Are you still out?
+
+//#sub "hh_05_203" また出るんですか？　もうやめた方がいいんじゃいないですか？
+#sub "hh_05_203" Are you going out again?  Is not it better to quit it already?
+
+//#sub "hh_05_204" …こんなの、続けないで下さい
+#sub "hh_05_204" ... Please do not continue with this
+
+//#sub "hh_05_205" できれば、終わりしてください…
+#sub "hh_05_205" If possible, please close...
+
+//#sub "hh_05_206" まだ、満足できないんですか？
+#sub "hh_05_206" Still not satisfied?
+
+//#sub "hh_05_207" いったい、何回出す気なんですか？
+#sub "hh_05_207" How many times are you going to put out?
+
+//#sub "hh_05_208" そんなに何度も出して、どうするんですか？
+#sub "hh_05_208" Do it out so many times, what will you do?
+
+//#sub "hh_05_209" んちゅ・・・、まら・・ん・・・きもちよふ・・ちゅ・・なっれくらはいね・・んふ
+#sub "hh_05_209" Mr. · · · · · · · · · · ·
+
+//#sub "hh_05_210" まらまら・・んん・・・あわりじゃ、ありまへんよぉ・・ちゅちゅ・・
+#sub "hh_05_210" I'm afraid... forgetful, I do not have it... · Chuu · · ·
+
+//#sub "hh_05_211" まら・・イっちゃうんれふね？　んちゅ・・んふ
+#sub "hh_05_211" I heard it is not it?  Huh
+
+//#sub "hh_05_212" ちゅ・・・まら、れそうなんれふか？　んふぅ・・・むちゅ・・
+#sub "hh_05_212" Chu · · · It seems likely, maybe snow?  Mfuu · · · · · · · · · · · ·
+
+//#sub "hh_05_213" もう、舐めたくないです
+#sub "hh_05_213" I do not want to lick it anymore.
+
+//#sub "hh_05_214" んちゅ…もう、舌が、おかしくなります
+#sub "hh_05_214" Much... now my tongue goes crazy
+
+//#sub "hh_05_215" ん、出して、終わりにして下さい…
+#sub "hh_05_215" Take it out, please come to an end...
+
+//#sub "hh_05_216" また、出すんですか？　はやく、終わってください
+#sub "hh_05_216" Is it also out?  Hurry, please finish
+
+//#sub "hh_05_217" まら・・びゅじゅ・・いっぱい・・じゅ・じゅぅ・・くわえて、あげまふ・・んふぅ
+#sub "hh_05_217" Mira · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ___ ___ ___ 0
+
+//#sub "hh_05_218" んじゅ・・つよく・・しゃぶって、いいれふか？・・・じゅぶ・・
+#sub "hh_05_218" Until then... Suck it... suck it?  ... Jujube...
+
+//#sub "hh_05_219" んぶ、・・・おくひれ・・・んふぅ・・いっひゃってくだはいね
+#sub "hh_05_219" Hey......... please... do not go wrong...
+
+//#sub "hh_05_220" じゅぶぅ・・くひに・・ぜんぶ・・らして・くらはい・んっ、んふぅ
+#sub "hh_05_220" Juuu · · · · · · · · · · · · · · · · · · · · · · · · kuraha · · · · ·
+
+//#sub "hh_05_221" むふぅ…苦しいです
+#sub "hh_05_221" Mufuu... It's painful
+
+//#sub "hh_05_222" むぅ…もう、おわって…くらはい
+#sub "hh_05_222" Muu... Already, it's over... nature
+
+//#sub "hh_05_223" んん…また出すんですか？　いい加減にひてくらはい
+#sub "hh_05_223" Do you... give it out again?  I do not care enough
+
+//#sub "hh_05_224" むぅ…あ、あんまり…出さないで、くらはい
+#sub "hh_05_224" Muu... Oh, well, do not give it out, Nura Haha
+
+//#sub "hh_05_225" はぁ…また、いっぱい、かかっちゃっいました…
+#sub "hh_05_225" Haa... Also, a lot of it has taken...
+
+//#sub "hh_05_226" また、たくさん出しましたね…すごいです
+#sub "hh_05_226" Also, I got a lot of it... I'm amazing
+
+//#sub "hh_05_227" ぬうぐ・・・はぁ・・・んふふ、精液、いっぱい飲んじゃいました
+#sub "hh_05_227" Stuffed... Haah... hehe, semen, I drunk a lot
+
+//#sub "hh_05_228" れえぇ・・、　まだこんなに出せるなんて…すごいです
+#sub "hh_05_228" Ree...... it's amazing to be able to do so much yet
+
+//#sub "hh_05_229" げほ、げほげほ・・ごめんなさい、やっぱり飲むのはきついです
+#sub "hh_05_229" I will sorry, drinking after all is tight
+
+//#sub "hh_05_230" はぁ…なんでこんなに出すんですか
+#sub "hh_05_230" Huh... why are you out so much
+
+//#sub "hh_05_231" …これだけ出せば、もうなくなったんじゃないんですか？
+#sub "hh_05_231" ... If only this one gets out, is not it already gone?
+
+//#sub "hh_05_232" ・・げほ、げほ・・のどが・・がらがらします
+#sub "hh_05_232" · · Genji, grave · · · throat · · · I get annoyed
+
+//#sub "hh_05_233" え゛ぇ・・・げほ、げほ・・やっぱり…飲めないです・・
+#sub "hh_05_233" え ぇ ぇ... げ げ, げ ほ り · · After all... I can not drink it · · ·
+
+//#sub "hh_05_234" まだまだ、これから、気持ちよくしてあげます
+#sub "hh_05_234" I will make it comfortable from now on
+
+//#sub "hh_05_235" もっと続けますから、がんばってください
+#sub "hh_05_235" I will continue more, please do your best
+
+//#sub "hh_05_236" これで終わりじゃないですよ、休憩なんてしませんから
+#sub "hh_05_236" This is not the end, I will not take a break
+
+//#sub "hh_05_237" もっともっと、気持ちよくしてあげますよぉ！
+#sub "hh_05_237" I will give you more pleasantness!
+
+//#sub "hh_05_238" すごい…い、いきそうです…いって下さい！！
+#sub "hh_05_238" It is amazing... it seems to go on... please go!  It is!
+
+//#sub "hh_05_239" いいです、すごぉく、熱くなって来てますよ、うふふふ！
+#sub "hh_05_239" Sure, it is getting hot, it's getting hot, ufufufu!
+
+//#sub "hh_05_240" い、いいです…このままいっちゃって、下さいね！
+#sub "hh_05_240" Good, is not it... Please keep on leaving as it is!
+
+//#sub "hh_05_241" うふふ…これ、とっへも、おいしいですよぉ！
+#sub "hh_05_241" Uhufu... this is very delicious!
+
+//#sub "hh_05_242" んちゅ…あぁぁん、舌が、勝手に動いてるみたいです
+#sub "hh_05_242" Muchu... Ayah, my tongue seems to move freely
+
+//#sub "hh_05_243" 私の舌で、感じてますかぁ？
+#sub "hh_05_243" Do you feel with my tongue?
+
+//#sub "hh_05_244" んちゅ、私の舌で、いっぱい、気持ちよくしてあげますからねぇ
+#sub "hh_05_244" Muchu, my tongue, I will give you a lot of pleasant
+
+//#sub "hh_05_245" いいですよ、私の舌で、もっと、いって下さい！
+#sub "hh_05_245" It's okay, please tell me more with my tongue!
+
+//#sub "hh_05_246" わらしのしたでぇ、しゅきなだけ、出しまくってくださぁい
+#sub "hh_05_246" I was lucky, just do it for me, please roll out
+
+//#sub "hh_05_247" いいですよぉ、我慢しないで、全部、出しちゃってくださぁい
+#sub "hh_05_247" It's okay, do not hold back, please give me all
+
+//#sub "hh_05_248" んぶぅ…んはぁ…これ、しゃぶってるうちに、おいしくなってきました
+#sub "hh_05_248" Huh... Huh... this is sucking, it has become delicious
+
+//#sub "hh_05_249" んふぅ…あなたのこれ、咥えるだけで、感じて、きますぅ
+#sub "hh_05_249" Mfuu... just by holding yourself, feeling, will you?
+
+//#sub "hh_05_250" いい…気持ちよくって、止まらないですぅ
+#sub "hh_05_250" Okay... I feel good and do not stop
+
+//#sub "hh_05_251" 大丈夫です、そのまま、好きなだけ、出しちゃって、くださぁい
+#sub "hh_05_251" It's okay, just as I want, please give it out
+
+//#sub "hh_05_252" もっと、好きなだけ、射精しちゃって、くださぁい！
+#sub "hh_05_252" More, as much as you want, ejaculate, please!
+
+//#sub "hh_05_253" 私の口で、好きなだけ、いっちゃってくださぁい！
+#sub "hh_05_253" Please do as much as you like in my mouth!
+
+//#sub "hh_05_254" すごぉい、こんなに濃いのが、いっぱいですよ
+#sub "hh_05_254" Great thing, there are so many dark things
+
+//#sub "hh_05_255" うふふ、この匂い…この量…やっぱりあなたの精液は最高ですね
+#sub "hh_05_255" Uhufu, this smell... this amount... your semen is the best
+
+//#sub "hh_05_256" こんなに出しちゃうなんて…でも、まだまだ溜まってるんですよね？
+#sub "hh_05_256" I never give up so much... But are you still accumulating?
+
+//#sub "hh_05_257" んぐ・・ふぅ・・、この粘り気、悪くないですね
+#sub "hh_05_257" Wow, this sticky, not bad
+
+//#sub "hh_05_258" ん、んむぅ…はぁ…どろどろですが、味は、淡白です
+#sub "hh_05_258" Hmm... Huh... Murky, but the taste is fresh
+
+//#sub "hh_05_259" ごくごく・・・ん、・・ノドに引っかかるくらい、濃いですね…
+#sub "hh_05_259" Extreme...... It is dark enough to get caught by a nod...
+
+// -----------------------------------------------
+// Insert
 // -----------------------------------------------
 
 //#sub "hso_05_001" そ、そんな感じで、大丈夫です
@@ -7070,7 +7070,7 @@
 #sub "hso_05_708" Huh!  Is it?  Is this something you crawl over at night?  How do you pretend that you do not notice as is this way?
 
 // -----------------------------------------------
-// 特殊 (Special)
+// Special
 // -----------------------------------------------
 
 //#sub "ht_05_001" 痛い、叩かないで下さい・・
