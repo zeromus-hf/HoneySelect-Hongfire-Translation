@@ -1282,7 +1282,7 @@
 // H汎用
 // -----------------------------------------------
 
-#sub "hs_02_001" an, aan, it stopped, no good, it stopped, no good, stop, きゃっ、Kyā, I don't want to, already, good
+#sub "hs_02_001" an, aan,, no good,, no good, stop, , I don't want to, already, good
 
 #sub "hs_02_002" No, no, no, no, I hate it stop it
 
@@ -1290,49 +1290,48 @@
 
 #sub "hs_02_004" It's painful, so amazing, ahh, ehh, giii, sooo good
 
-#sub "hs_02_005" Your, hehehe, so greedy, oh... good... uu..., haha, nu...,N'a, ahhh
+#sub "hs_02_005" Your, hehehe, so greedy, oh... good... 
+//#sub "hs_02_006" 「*breath*」
 
-#sub "hs_02_006" 「*breath*」
+//#sub "hs_02_007" 「Kyaa!  Fua, aah... aah.. aah...」
 
-#sub "hs_02_007" 「Kyaa!  Fua, aah... aah.. aah...」
+//#sub "hs_02_008" 「*breath*」
 
-#sub "hs_02_008" 「*breath*」
+//#sub "hs_02_009" 「Hmmmm....hufff...」
 
-#sub "hs_02_009" 「Hmmmm....hufff...」
+//#sub "hs_02_010" 「*breath*」
 
-#sub "hs_02_010" 「*breath*」
+//#sub "hs_02_011" 「Hmmmm....hufff...」
 
-#sub "hs_02_011" 「Hmmmm....hufff...」
+//#sub "hs_02_012" 「*breath*」
 
-#sub "hs_02_012" 「*breath*」
+//#sub "hs_02_013" 「Hmmmm....hufff...」
 
-#sub "hs_02_013" 「Hmmmm....hufff...」
+//#sub "hs_02_014" 「*breath*」
 
-#sub "hs_02_014" 「*breath*」
+//#sub "hs_02_015" 「Hmmmm....hufff...」
 
-#sub "hs_02_015" 「Hmmmm....hufff...」
+//#sub "hs_02_016" 「*breath*」
 
-#sub "hs_02_016" 「*breath*」
+//#sub "hs_02_017" 「Hmmmm....hufff...」
 
-#sub "hs_02_017" 「Hmmmm....hufff...」
+//#sub "hs_02_018" 「*breath*」
 
-#sub "hs_02_018" 「*breath*」
+//#sub "hs_02_019" 「Hmmmm....hufff...」
 
-#sub "hs_02_019" 「Hmmmm....hufff...」
+//#sub "hs_02_020" 「Ah....ahhhh...ffffu, ahh, hahhh」
 
-#sub "hs_02_020" 「Ah....ahhhh...ffffu, ahh, hahhh」
+//#sub "hs_02_021" 「Ah....ahhhh...ffffu, ahh, hahhh」
 
-#sub "hs_02_021" 「Ah....ahhhh...ffffu, ahh, hahhh」
+//#sub "hs_02_022" 「Ah, hah, hah, argh, aaah, hmmm」
 
-#sub "hs_02_022" 「Ah, hah, hah, argh, aaah, hmmm」
+//#sub "hs_02_023" 「Ah, hah, hah, argh, aaah, hmmm」
 
-#sub "hs_02_023" 「Ah, hah, hah, argh, aaah, hmmm」
+//#sub "hs_02_024" 「Ah, hah, hah, argh, aaah, hmmm」
 
-#sub "hs_02_024" 「Ah, hah, hah, argh, aaah, hmmm」
+//#sub "hs_02_025" 「Ah, hah, hah, argh, aaah, hmmm」
 
-#sub "hs_02_025" 「Ah, hah, hah, argh, aaah, hmmm」
-
-#sub "hs_02_026" 「*breath*」
+//#sub "hs_02_026" 「*breath*」
 
 #sub "hs_02_027" I...I can't stop...hmmm...
 
@@ -1342,8 +1341,6 @@
 
 #sub "hs_02_030" Hmmmm... I'm going to...
 
-#sub "hs_02_031" Ha, Aaaaah...
-
 #sub "hs_02_032" My... my... *gasp*
 
 #sub "hs_02_033" *Gasp* Up... inside my ass...
@@ -1352,719 +1349,719 @@
 
 #sub "hs_02_035" Not... allowed...
 
-#sub "hs_02_036" It's... *pant* it is...
+//#sub "hs_02_036" It's... *pant* it is...
 
-#sub "hs_02_037" Mm.. *slurp*
+//#sub "hs_02_037" Mm.. *slurp*
 
-#sub "hs_02_038" Mmm... hmm...
+//#sub "hs_02_038" Mmm... hmm...
 
-#sub "hs_02_039" Mmm... there...
+//#sub "hs_02_039" Mmm... there...
 
-#sub "hs_02_040" I'm yours...
+//#sub "hs_02_040" I'm yours...
 
-#sub "hs_02_041" 「Oh...mm...ha...」
+//#sub "hs_02_041" 「Oh...mm...ha...」
 
-#sub "hs_02_042" 「Oh...mm...ha...」
+//#sub "hs_02_042" 「Oh...mm...ha...」
 
-#sub "hs_02_043" 「Oh...mm...ha...」
+//#sub "hs_02_043" 「Oh...mm...ha...」
 
-#sub "hs_02_044" 「Ah, ah, he, he, ha」
+//#sub "hs_02_044" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_045" 「Ah, ah, he, he, ha」
+//#sub "hs_02_045" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_046" 「Ah, ah, he, he, ha」
+//#sub "hs_02_046" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_047" 「Fuu... mmm」
+//#sub "hs_02_047" 「Fuu... mmm」
 
-#sub "hs_02_048" 「Fuu... mmm」
+//#sub "hs_02_048" 「Fuu... mmm」
 
-#sub "hs_02_049" 「Fuu... mmm」
+//#sub "hs_02_049" 「Fuu... mmm」
 
-#sub "hs_02_050" 「Ah, ah, he, he, ha」
+//#sub "hs_02_050" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_051" 「Ah, ah, he, he, ha」
+//#sub "hs_02_051" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_052" 「Ah, ah, he, he, ha」
+//#sub "hs_02_052" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_053" 「Fuaa! Gah!」
+//#sub "hs_02_053" 「Fuaa! Gah!」
 
-#sub "hs_02_054" 「Fuaa! Gah!」
+//#sub "hs_02_054" 「Fuaa! Gah!」
 
-#sub "hs_02_055" 「Fuaa! Gah!」
+//#sub "hs_02_055" 「Fuaa! Gah!」
 
-#sub "hs_02_056" 「Slurp... mmmah」
+//#sub "hs_02_056" 「Slurp... mmmah」
 
-#sub "hs_02_057" 「Slurp... mmmah」
+//#sub "hs_02_057" 「Slurp... mmmah」
 
-#sub "hs_02_058" 「lick, mmmm, slurp」
+//#sub "hs_02_058" 「lick, mmmm, slurp」
 
-#sub "hs_02_059" 「lick, mmmm, slurp」
+//#sub "hs_02_059" 「lick, mmmm, slurp」
 
-#sub "hs_02_060" 「Fuaa! Gah!」
+//#sub "hs_02_060" 「Fuaa! Gah!」
 
-#sub "hs_02_061" 「Fuaa! Gah!」
+//#sub "hs_02_061" 「Fuaa! Gah!」
 
-#sub "hs_02_062" 「(Yess) ...puff... pant」
+//#sub "hs_02_062" 「(Yess) ...puff... pant」
 
-#sub "hs_02_063" 「Fuaa... mmm...」
+//#sub "hs_02_063" 「Fuaa... mmm...」
 
-#sub "hs_02_064" 「Fuaa... mmm...」
+//#sub "hs_02_064" 「Fuaa... mmm...」
 
-#sub "hs_02_065" 「Fuaa, mah」
+//#sub "hs_02_065" 「Fuaa, mah」
 
-#sub "hs_02_066" 「Ah, ah, he, he, ha」
+//#sub "hs_02_066" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_067" 「Ah, ah, he, he, ha」
+//#sub "hs_02_067" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_068" 「Fuaa! Gah!」
+//#sub "hs_02_068" 「Fuaa! Gah!」
 
-#sub "hs_02_069" 「Aaaah...hmmmm..」
+//#sub "hs_02_069" 「Aaaah...hmmmm..」
 
-#sub "hs_02_070" 「Aaaah...hmmmm..」
+//#sub "hs_02_070" 「Aaaah...hmmmm..」
 
-#sub "hs_02_071" 「Aaaah...hmmmm..」
+//#sub "hs_02_071" 「Aaaah...hmmmm..」
 
-#sub "hs_02_072" 「Ah, uh, ah」
+//#sub "hs_02_072" 「Ah, uh, ah」
 
-#sub "hs_02_073" 「Ah, uh, ah」
+//#sub "hs_02_073" 「Ah, uh, ah」
 
-#sub "hs_02_074" 「Ah, uh, ah」
+//#sub "hs_02_074" 「Ah, uh, ah」
 
-#sub "hs_02_075" 「Fuaa... mmm...」
+//#sub "hs_02_075" 「Fuaa... mmm...」
 
-#sub "hs_02_076" 「Fuaa... mmm...」
+//#sub "hs_02_076" 「Fuaa... mmm...」
 
-#sub "hs_02_077" 「Ah, ah, he, he, ha」
+//#sub "hs_02_077" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_078" 「Ah, ah, he, he, ha」
+//#sub "hs_02_078" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_079" 「Fuaa! Gah!」
+//#sub "hs_02_079" 「Fuaa! Gah!」
 
-#sub "hs_02_080" 「Fuaa! Gah!」
+//#sub "hs_02_080" 「Fuaa! Gah!」
 
-#sub "hs_02_081" 「Fuaa! Gah!」
+//#sub "hs_02_081" 「Fuaa! Gah!」
 
-#sub "hs_02_082" 「Slurp... mmmah」
+//#sub "hs_02_082" 「Slurp... mmmah」
 
-#sub "hs_02_083" 「Slurp... mmmah」
+//#sub "hs_02_083" 「Slurp... mmmah」
 
-#sub "hs_02_084" 「lick, mmmm, slurp」
+//#sub "hs_02_084" 「lick, mmmm, slurp」
 
-#sub "hs_02_085" 「lick, mmmm, slurp」
+//#sub "hs_02_085" 「lick, mmmm, slurp」
 
-#sub "hs_02_086" 「Urrg! *drool*」
+//#sub "hs_02_086" 「Urrg! *drool*」
 
-#sub "hs_02_087" 「Urrg! *drool*」
+//#sub "hs_02_087" 「Urrg! *drool*」
 
-#sub "hs_02_088" 「*ehehehe.. hehehe*」
+//#sub "hs_02_088" 「*ehehehe.. hehehe*」
 
-#sub "hs_02_089" 「*ehehehe.. hehehe*」
+//#sub "hs_02_089" 「*ehehehe.. hehehe*」
 
-#sub "hs_02_090" 「*ehehehe.. hehehe*」
+//#sub "hs_02_090" 「*ehehehe.. hehehe*」
 
-#sub "hs_02_091" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hs_02_091" 「Oooooo, Hmmmmm, mmmmmm」
 
-#sub "hs_02_092" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hs_02_092" 「Oooooo, Hmmmmm, mmmmmm」
 
-#sub "hs_02_093" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hs_02_093" 「Oooooo, Hmmmmm, mmmmmm」
 
-#sub "hs_02_094" 「*ehehehe.. hehehe*」
+//#sub "hs_02_094" 「*ehehehe.. hehehe*」
 
-#sub "hs_02_095" 「*ehehehe.. hehehe*」
+//#sub "hs_02_095" 「*ehehehe.. hehehe*」
 
-#sub "hs_02_096" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hs_02_096" 「Oooooo, Hmmmmm, mmmmmm」
 
-#sub "hs_02_097" 「Oooooo, Hmmmmm, mmmmmm」
+//#sub "hs_02_097" 「Oooooo, Hmmmmm, mmmmmm」
 
-#sub "hs_02_098" 「Arg! Heh！Ahahaha！」
+//#sub "hs_02_098" 「Arg! Heh！Ahahaha！」
 
-#sub "hs_02_099" 「Arg! Heh！Ahahaha！」
+//#sub "hs_02_099" 「Arg! Heh！Ahahaha！」
 
-#sub "hs_02_100" 「Arg! Heh！Ahahaha！」
+//#sub "hs_02_100" 「Arg! Heh！Ahahaha！」
 
-#sub "hs_02_101" 「Ugh... *sob*」
+//#sub "hs_02_101" 「Ugh... *sob*」
 
-#sub "hs_02_102" 「Ugh... *sob*」
+//#sub "hs_02_102" 「Ugh... *sob*」
 
-#sub "hs_02_103" 「Ugh... *sob*」
+//#sub "hs_02_103" 「Ugh... *sob*」
 
-#sub "hs_02_104" 「Ugh... hgh...」
+//#sub "hs_02_104" 「Ugh... hgh...」
 
-#sub "hs_02_105" 「Ugh... hgh...」
+//#sub "hs_02_105" 「Ugh... hgh...」
 
-#sub "hs_02_106" 「Ugh... hgh...」
+//#sub "hs_02_106" 「Ugh... hgh...」
 
-#sub "hs_02_107" 「Ugh... *sob*」
+//#sub "hs_02_107" 「Ugh... *sob*」
 
-#sub "hs_02_108" 「Ugh... *sob*」
+//#sub "hs_02_108" 「Ugh... *sob*」
 
-#sub "hs_02_109" 「Ugh... hgh...」
+//#sub "hs_02_109" 「Ugh... hgh...」
 
-#sub "hs_02_110" 「Ugh... hgh...」
+//#sub "hs_02_110" 「Ugh... hgh...」
 
-#sub "hs_02_111" 「Arg! Heh！Ahahaha！」
+//#sub "hs_02_111" 「Arg! Heh！Ahahaha！」
 
-#sub "hs_02_112" 「Arg! Heh！Ahahaha！」
+//#sub "hs_02_112" 「Arg! Heh！Ahahaha！」
 
-#sub "hs_02_113" 「Arg! Heh！Ahahaha！」
+//#sub "hs_02_113" 「Arg! Heh！Ahahaha！」
 
-#sub "hs_02_114" 「Slurp... mmmah」
+//#sub "hs_02_114" 「Slurp... mmmah」
 
-#sub "hs_02_115" 「Slurp... mmmah」
+//#sub "hs_02_115" 「Slurp... mmmah」
 
-#sub "hs_02_116" 「lick, mmmm, slurp」
+//#sub "hs_02_116" 「lick, mmmm, slurp」
 
-#sub "hs_02_117" 「lick, mmmm, slurp」
+//#sub "hs_02_117" 「lick, mmmm, slurp」
 
-#sub "hs_02_118" 「Ah, ah, he, he, ha」
+//#sub "hs_02_118" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_119" 「Ah, ah, he, he, ha」
+//#sub "hs_02_119" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_120" 「Ugh... *sob*」
+//#sub "hs_02_120" 「Ugh... *sob*」
 
-#sub "hs_02_121" 「Ugh... *sob*」
+//#sub "hs_02_121" 「Ugh... *sob*」
 
-#sub "hs_02_122" 「Ugh... hgh...」
+//#sub "hs_02_122" 「Ugh... hgh...」
 
-#sub "hs_02_123" 「Ugh... hgh...」
+//#sub "hs_02_123" 「Ugh... hgh...」
 
-#sub "hs_02_124" 「Ahh...ahh...ffu」
+//#sub "hs_02_124" 「Ahh...ahh...ffu」
 
-#sub "hs_02_125" 「Ahh...ahh...ffu」
+//#sub "hs_02_125" 「Ahh...ahh...ffu」
 
-#sub "hs_02_126" 「Fuaa... mmm...」
+//#sub "hs_02_126" 「Fuaa... mmm...」
 
-#sub "hs_02_127" 「Fuaa... mmm...」
+//#sub "hs_02_127" 「Fuaa... mmm...」
 
-#sub "hs_02_128" 「Ah, ah, he, he, ha」
+//#sub "hs_02_128" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_129" 「Ah, ah, he, he, ha」
+//#sub "hs_02_129" 「Ah, ah, he, he, ha」
 
-#sub "hs_02_130" 「Fuaa! Gah!」
+//#sub "hs_02_130" 「Fuaa! Gah!」
 
-#sub "hs_02_131" 「Fuaa! Gah!」
+//#sub "hs_02_131" 「Fuaa! Gah!」
 
-#sub "hs_02_132" 「Fuaa! Gah!」
+//#sub "hs_02_132" 「Fuaa! Gah!」
 
-#sub "hs_02_133" 「Mmm...slurp...suck」
+//#sub "hs_02_133" 「Mmm...slurp...suck」
 
-#sub "hs_02_134" 「Mmm...slurp...suck」
+//#sub "hs_02_134" 「Mmm...slurp...suck」
 
-#sub "hs_02_135" 「Slurp, mmm, mwah」
+//#sub "hs_02_135" 「Slurp, mmm, mwah」
 
-#sub "hs_02_136" 「Slurp, mmm, mwah」
+//#sub "hs_02_136" 「Slurp, mmm, mwah」
 
-#sub "hs_02_137" 「*drool* ...ugh...(thank you)... 」
+//#sub "hs_02_137" 「*drool* ...ugh...(thank you)... 」
 
-#sub "hs_02_138" 「*drool* ...ugh...(thank you)... 」
+//#sub "hs_02_138" 「*drool* ...ugh...(thank you)... 」
 
-#sub "hs_02_139" 「*slurp* ...mmm... *slurp*」
+//#sub "hs_02_139" 「*slurp* ...mmm... *slurp*」
 
-#sub "hs_02_140" 「*slurp* ...mmm... *slurp*」
+//#sub "hs_02_140" 「*slurp* ...mmm... *slurp*」
 
-#sub "hs_02_141" 「Mm...ugh...urgh *drool*」
+//#sub "hs_02_141" 「Mm...ugh...urgh *drool*」
 
-#sub "hs_02_142" 「Mm...ugh...urgh *drool*」
+//#sub "hs_02_142" 「Mm...ugh...urgh *drool*」
 
-#sub "hs_02_143" 「Nn, huh, nn, unn, ha」
+//#sub "hs_02_143" 「Nn, huh, nn, unn, ha」
 
-#sub "hs_02_144" 「Nn, huh, nn, unn, ha」
+//#sub "hs_02_144" 「Nn, huh, nn, unn, ha」
 
-#sub "hs_02_145" 「Nn, huh, nn, unn, ha」
+//#sub "hs_02_145" 「Nn, huh, nn, unn, ha」
 
-#sub "hs_02_146" 「Nn, huh, nn, unn, ha」
+//#sub "hs_02_146" 「Nn, huh, nn, unn, ha」
 
-#sub "hs_02_147" 「Nn, huh, nn, unn, ha」
+//#sub "hs_02_147" 「Nn, huh, nn, unn, ha」
 
-#sub "hs_02_148" 「Hnn...umph...huh...urgh...ha」
+//#sub "hs_02_148" 「Hnn...umph...huh...urgh...ha」
 
-#sub "hs_02_149" 「Hnn...umph...huh...urgh...ha」
+//#sub "hs_02_149" 「Hnn...umph...huh...urgh...ha」
 
-#sub "hs_02_150" 「Hnn...umph...huh...urgh...ha」
+//#sub "hs_02_150" 「Hnn...umph...huh...urgh...ha」
 
-#sub "hs_02_151" 「*gasp* ...mfuu...mfuu..」
+//#sub "hs_02_151" 「*gasp* ...mfuu...mfuu..」
 
-#sub "hs_02_152" 「*gasp* ...mfuu...mfuu..」
+//#sub "hs_02_152" 「*gasp* ...mfuu...mfuu..」
 
-#sub "hs_02_153" 「*gasp* ...mfuu...mfuu..」
+//#sub "hs_02_153" 「*gasp* ...mfuu...mfuu..」
 
-#sub "hs_02_154" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hs_02_154" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
 
-#sub "hs_02_155" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hs_02_155" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
 
-#sub "hs_02_156" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hs_02_156" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
 
-#sub "hs_02_157" 「*slurp* (to cum... in my mouth...) *drool*」
+//#sub "hs_02_157" 「*slurp* (to cum... in my mouth...) *drool*」
 
-#sub "hs_02_158" 「*slurp* (to cum... in my mouth...) *drool*」
+//#sub "hs_02_158" 「*slurp* (to cum... in my mouth...) *drool*」
 
-#sub "hs_02_159" 「*slurp* (to cum... in my mouth...) *drool*」
+//#sub "hs_02_159" 「*slurp* (to cum... in my mouth...) *drool*」
 
-#sub "hs_02_160" 「*glug* (No, is he... in my mouth...) *gulp*」
+//#sub "hs_02_160" 「*glug* (No, is he... in my mouth...) *gulp*」
 
-#sub "hs_02_161" 「*glug* (No, is he... in my mouth...) *gulp*」
+//#sub "hs_02_161" 「*glug* (No, is he... in my mouth...) *gulp*」
 
-#sub "hs_02_162" 「*glug* (No, is he... in my mouth...) *gulp*」
+//#sub "hs_02_162" 「*glug* (No, is he... in my mouth...) *gulp*」
 
-#sub "hs_02_163" 「Hmmm... *gulp*」
+//#sub "hs_02_163" 「Hmmm... *gulp*」
 
-#sub "hs_02_164" 「Hmmm... *gulp*」
+//#sub "hs_02_164" 「Hmmm... *gulp*」
 
-#sub "hs_02_165" 「Hmmm... *gulp*」
+//#sub "hs_02_165" 「Hmmm... *gulp*」
 
-#sub "hs_02_166" 「*glance* ...slurp....mmmhmmm...」
+//#sub "hs_02_166" 「*glance* ...slurp....mmmhmmm...」
 
-#sub "hs_02_167" 「*glance* ...slurp....mmmhmmm...」
+//#sub "hs_02_167" 「*glance* ...slurp....mmmhmmm...」
 
-#sub "hs_02_168" 「*slurp*  ...mmm... *suck*」
+//#sub "hs_02_168" 「*slurp*  ...mmm... *suck*」
 
-#sub "hs_02_169" 「*slurp*  ...mmm... *suck*」
+//#sub "hs_02_169" 「*slurp*  ...mmm... *suck*」
 
-#sub "hs_02_170" 「Hmm, *slurp* mmm, *schlurp*」
+//#sub "hs_02_170" 「Hmm, *slurp* mmm, *schlurp*」
 
-#sub "hs_02_171" 「Hmm, *slurp* mmm, *schlurp*」
+//#sub "hs_02_171" 「Hmm, *slurp* mmm, *schlurp*」
 
-#sub "hs_02_172" 「Hmm, *slurp* mmm, *schlurp*」
+//#sub "hs_02_172" 「Hmm, *slurp* mmm, *schlurp*」
 
-#sub "hs_02_173" 「Ah... ah... ah... haaa」
+//#sub "hs_02_173" 「Ah... ah... ah... haaa」
 
-#sub "hs_02_174" 「Ah... ah... ah... haaa」
+//#sub "hs_02_174" 「Ah... ah... ah... haaa」
 
-#sub "hs_02_175" 「Huh! Ah! Mmm!」
+//#sub "hs_02_175" 「Huh! Ah! Mmm!」
 
-#sub "hs_02_176" 「Huh! Ah! Mmm!」
+//#sub "hs_02_176" 「Huh! Ah! Mmm!」
 
-#sub "hs_02_177" 「Huh! Ah! Mmm!」
+//#sub "hs_02_177" 「Huh! Ah! Mmm!」
 
-#sub "hs_02_178" 「「Huh! Ah! Mmm!」
+//#sub "hs_02_178" 「「Huh! Ah! Mmm!」
 
-#sub "hs_02_179" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hs_02_179" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
 
-#sub "hs_02_180" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
+//#sub "hs_02_180" 「Mmmmmm, *gulp* mmmmmmm, (so sticky)...」
 
-#sub "hs_02_181" 「*slurp* (to cum... in my mouth...) *drool*」
+//#sub "hs_02_181" 「*slurp* (to cum... in my mouth...) *drool*」
 
-#sub "hs_02_182" 「*slurp* (to cum... in my mouth...) *drool*」
+//#sub "hs_02_182" 「*slurp* (to cum... in my mouth...) *drool*」
 
-#sub "hs_02_183" 「*glug* (No, is he... in my mouth...) *gulp*」
+//#sub "hs_02_183" 「*glug* (No, is he... in my mouth...) *gulp*」
 
-#sub "hs_02_184" 「*glug* (No, is he... in my mouth...) *gulp*」
+//#sub "hs_02_184" 「*glug* (No, is he... in my mouth...) *gulp*」
 
-#sub "hs_02_185" 「*glug* (No, is he... in my mouth...) *gulp*」
+//#sub "hs_02_185" 「*glug* (No, is he... in my mouth...) *gulp*」
 
-#sub "hs_02_186" 「Ah... ah... ah... haaa」
+//#sub "hs_02_186" 「Ah... ah... ah... haaa」
 
-#sub "hs_02_187" 「Ah... ah... ah... haaa」
+//#sub "hs_02_187" 「Ah... ah... ah... haaa」
 
-#sub "hs_02_188" 「Huh! Ah! Mmm!」
+//#sub "hs_02_188" 「Huh! Ah! Mmm!」
 
-#sub "hs_02_189" 「Huh! Ah! Mmm!」
+//#sub "hs_02_189" 「Huh! Ah! Mmm!」
 
-#sub "hs_02_190" 「Huh! Ah! Mmm!」
+//#sub "hs_02_190" 「Huh! Ah! Mmm!」
 
-#sub "hs_02_191" 「Huh! Ah! Mmm!」
+//#sub "hs_02_191" 「Huh! Ah! Mmm!」
 
-#sub "hs_02_192" 「Ahaaa... ah... ah... ah... haaaa...」
+//#sub "hs_02_192" 「Ahaaa... ah... ah... ah... haaaa...」
 
-#sub "hs_02_193" 「Aghhh... ah... ah... ah... haaaa...」
+//#sub "hs_02_193" 「Aghhh... ah... ah... ah... haaaa...」
 
-#sub "hs_02_194" 「Kyaa! fua... ah... ha...  」
+//#sub "hs_02_194" 「Kyaa! fua... ah... ha...  」
 
-#sub "hs_02_195" 「Ooooa! mmmmhmmmm... mmm...」
+//#sub "hs_02_195" 「Ooooa! mmmmhmmmm... mmm...」
 
-#sub "hs_02_196" 「Uhhh! You... your... your cock...」
+//#sub "hs_02_196" 「Uhhh! You... your... your cock...」
 
-#sub "hs_02_197" 「Uhh!? huh... huh... *sigh*」
+//#sub "hs_02_197" 「Uhh!? huh... huh... *sigh*」
 
-#sub "hs_02_198" 「Ahhh ah ah」
+//#sub "hs_02_198" 「Ahhh ah ah」
 
-#sub "hs_02_199" 「Aaaagh」
+//#sub "hs_02_199" 「Aaaagh」
 
-#sub "hs_02_200" 「Mmmm ah ha...」
+//#sub "hs_02_200" 「Mmmm ah ha...」
 
-#sub "hs_02_201" 「Mmmmmm!!! *slurp*」
+//#sub "hs_02_201" 「Mmmmmm!!! *slurp*」
 
-#sub "hs_02_202" 「Mmmmmm!!! *slurp*」
+//#sub "hs_02_202" 「Mmmmmm!!! *slurp*」
 
-#sub "hs_02_203" 「Mmmmmm!!! *slurp*」
+//#sub "hs_02_203" 「Mmmmmm!!! *slurp*」
 
-#sub "hs_02_204" 「Mmmmmmhmm...!! *puff pant*」
+//#sub "hs_02_204" 「Mmmmmmhmm...!! *puff pant*」
 
-#sub "hs_02_205" 「*gasp*」
+//#sub "hs_02_205" 「*gasp*」
 
-#sub "hs_02_206" 「*shriek*」
+//#sub "hs_02_206" 「*shriek*」
 
-#sub "hs_02_207" 「Ahhhaaaaa..........!!! Ffffu... ha.... huh...」
+//#sub "hs_02_207" 「Ahhhaaaaa..........!!! Ffffu... ha.... huh...」
 
-#sub "hs_02_208" 「Aiyaaaa!!.............Ah!...ah....ah...」
+//#sub "hs_02_208" 「Aiyaaaa!!.............Ah!...ah....ah...」
 
-#sub "hs_02_209" 「Aiyaaaa!!.............Ah!...ah....ah...」
+//#sub "hs_02_209" 「Aiyaaaa!!.............Ah!...ah....ah...」
 
-#sub "hs_02_210" 「Ah, ah aaaaaagh........!!! *Gasp*」
+//#sub "hs_02_210" 「Ah, ah aaaaaagh........!!! *Gasp*」
 
-#sub "hs_02_211" 「Mmmmmhmmm.......!!Aaaahhh....!!」
+//#sub "hs_02_211" 「Mmmmmhmmm.......!!Aaaahhh....!!」
 
-#sub "hs_02_212" 「Ahaaahehe.....!! ehehehehe! ehehehe...」
+//#sub "hs_02_212" 「Ahaaahehe.....!! ehehehehe! ehehehe...」
 
-#sub "hs_02_213" 「Eyaaa.....!!!Aaaah.......」
+//#sub "hs_02_213" 「Eyaaa.....!!!Aaaah.......」
 
-#sub "hs_02_214" 「Aaaaaaaghhhh.......!!! *moan*」
+//#sub "hs_02_214" 「Aaaaaaaghhhh.......!!! *moan*」
 
-#sub "hs_02_215" 「Kyaaaa....!!! *puff pant*」
+//#sub "hs_02_215" 「Kyaaaa....!!! *puff pant*」
 
-#sub "hs_02_216" 「Aaaaaaaghhhh.......!!! *moan*」
+//#sub "hs_02_216" 「Aaaaaaaghhhh.......!!! *moan*」
 
-#sub "hs_02_217" 「Kyaaaa....!!! *puff pant*」
+//#sub "hs_02_217" 「Kyaaaa....!!! *puff pant*」
 
-#sub "hs_02_218" 「Aaaaaaaghhhh.......!!! *moan*」
+//#sub "hs_02_218" 「Aaaaaaaghhhh.......!!! *moan*」
 
-#sub "hs_02_219" 「Mmmmmmmmmmm!! huh...」
+//#sub "hs_02_219" 「Mmmmmmmmmmm!! huh...」
 
-#sub "hs_02_220" 「Mmmmmmmmmmm!! huh...」
+//#sub "hs_02_220" 「Mmmmmmmmmmm!! huh...」
 
-#sub "hs_02_221" 「Mmmm...uh...uh」
+//#sub "hs_02_221" 「Mmmm...uh...uh」
 
-#sub "hs_02_222" 「Hmmmm...ugh...」
+//#sub "hs_02_222" 「Hmmmm...ugh...」
 
-#sub "hs_02_223" 「Ahaaaa!!!! Agh! Ah! ah....」
+//#sub "hs_02_223" 「Ahaaaa!!!! Agh! Ah! ah....」
 
-#sub "hs_02_224" 「Ahaaaa!!!! Agh! Ah! ah....」
+//#sub "hs_02_224" 「Ahaaaa!!!! Agh! Ah! ah....」
 
-#sub "hs_02_225" 「Ahhh ah ah」
+//#sub "hs_02_225" 「Ahhh ah ah」
 
-#sub "hs_02_226" 「Ahhh ah ah」
+//#sub "hs_02_226" 「Ahhh ah ah」
 
-#sub "hs_02_227" Even if it is a little intense, it is good to be different
+#sub "hs_02_227" If you want to go faster, it's would be nice for a change.
 
-#sub "hs_02_228" Something ... I got a bit embarrassed but
+#sub "hs_02_228" I'm starting to get a bit embarrassed 
 
-#sub "hs_02_229" I will get angry if you get too intense
+#sub "hs_02_229" I'll get angry with you if you do it too hard
 
-#sub "hs_02_230" I'm not used to it ... I'm just a little nervous
+#sub "hs_02_230" I'm not used to this ... I'm just a little nervous
 
-#sub "hs_02_231" After all, it's embarrassing ///
+#sub "hs_02_231" That's kinda embarrassing
 
-#sub "hs_02_232" Somehow it pounds me
+#sub "hs_02_232" My heart is pounding for some reason...
 
-#sub "hs_02_233" Do not be too crowded
+#sub "hs_02_233" Just give me a little space.
 
 #sub "hs_02_234" Separately ... Not that I am not happy
 
-#sub "hs_02_235" Well, if you say something ... It might be nice
+#sub "hs_02_235" If you would say something ... It might be nice
 
-#sub "hs_02_236" Kiss me, okay ... give me go ahead
+#sub "hs_02_236" Kiss me, okay ... please just kiss me
 
-#sub "hs_02_237" I, I want to be feeling sooo much ... You know what?
+#sub "hs_02_237" I, I want to cum sooo much ... 
 
-#sub "hs_02_238" If you were with you ... not bad
+#sub "hs_02_238" If I were with you ... 
 
-#sub "hs_02_239" I seem quite disappointed
+#sub "hs_02_239" I'm pretty disappointed with that
 
-#sub "hs_02_240" Do you want to do it soon, quickly? It is
+#sub "hs_02_240" Do you want to do it soon, quickly? 
 
 #sub "hs_02_241" Okay, let's do ... I want to do awful, I
 
-#sub "hs_02_242" If you finish it easily, you will get angry
+#sub "hs_02_242" If you cum too soon, I'm not gonna be very disapponted with you
 
-#sub "hs_02_243" Do not look at me.
+#sub "hs_02_243" Don't look at me.
 
-#sub "hs_02_244" I do not feel like that ...
+#sub "hs_02_244" I do not feel like doing that ...
 
 #sub "hs_02_245" If you do, just finish it
 
-#sub "hs_02_246" You do not feel comfortable, do not make funny things!
+#sub "hs_02_246" I don't like that, don't do such things!
 
-#sub "hs_02_247" Whatever, do not approach
+#sub "hs_02_247" Whatever, just get away from me...
 
-#sub "hs_02_248" Already, what? Go somewhere ...
+#sub "hs_02_248" Already, what? Get away from me ...
 
-#sub "hs_02_249" You do, do not you? Do your best
+#sub "hs_02_249" You do it, okay? Do your best
 
-#sub "hs_02_250" Do not be so unreasonable, do you?
+#sub "hs_02_250" Take it easy, baby...slow down some...
 
-#sub "hs_02_251" I, I do not want to impossibly, thank you.
+#sub "hs_02_251" Please, don't be so rough....
 
-#sub "hs_02_252" Slightly, it can be fierce
+#sub "hs_02_252" It's okay if you want to be just a little more rough...just a little...
 
-#sub "hs_02_253" You want to feel good, do not you? me too
+#sub "hs_02_253" You want to feel good, don't you? Me too
 
-#sub "hs_02_254" Okay, I move to like ... I will stop it if it does not work
+#sub "hs_02_254" Do whatever you want... I'll let you know if I don't like it...
 
-#sub "hs_02_255" What, what ... Why will you continue soon ... a bit
+#sub "hs_02_255" Wait, what? You want to continue so soon ...
 
-#sub "hs_02_256" Wait a moment, because succession is not good ....
+#sub "hs_02_256" Wait a moment, this is too much....
 
-#sub "hs_02_257" Huh? Continue another one! Is it? I can not do it.
+#sub "hs_02_257" Huh? You want more? I can't keep going like this.
 
-#sub "hs_02_258" Do you also want to do? Is not it good?
+#sub "hs_02_258" Again? You mean, that wasn't good enough for you?
 
-#sub "hs_02_259" Why can you continue so ... are not you tired?
+#sub "hs_02_259" How can you keep going... aren't you tired?
 
-#sub "hs_02_260" I'm going to keep it for a moment, let me rest a while ...
+#sub "hs_02_260" I want to hang on to this feeling, let me rest a while ...
 
-#sub "hs_02_261" Wait and do it soon ... because it will be strange
+#sub "hs_02_261" Wait, not so soon, I'm too sensitive..
 
-#sub "hs_02_262" Wait a minute, if you keep going, do it slowly
+#sub "hs_02_262" Wait, if you want to keep going, do it slowly
 
-#sub "hs_02_263" That's why I want to continue so much ...
+#sub "hs_02_263" It's good... But I can't keep going anymore...
 
-#sub "hs_02_264" Huh, huh, it can not be helped, I will go out with you
+#sub "hs_02_264" I want to be your girlfriend, you make me feel so good
 
-#sub "hs_02_265" I do not want to finish it yet
+#sub "hs_02_265" I do not want to stop just yet
 
-#sub "hs_02_266" Hey ... Because you can continue as it is ... saying continue
+#sub "hs_02_266" If you can keep going, I'm asking you not to stop.
 
-#sub "hs_02_267" Hey, are you all right? I am fine.
+#sub "hs_02_267" It's fine you you want more.
 
-#sub "hs_02_268" Still more, are not we? Hey!
+#sub "hs_02_268" Hey! We're gonna keep goin, right?
 
-#sub "hs_02_269" It is over, is not it, is it?
+#sub "hs_02_269" It's over now, isn't it?
 
-#sub "hs_02_270" Haa, hey, Cha, a little ... Are you still motivated?
+#sub "hs_02_270" hah-hah, w-wait… can you still go on?
 
-#sub "hs_02_271" Ha ha, ya, ya .... already enough, because it's enough already ...
+#sub "hs_02_271" Ha ha, ya, ya .... that's enough already ...
 
-#sub "hs_02_272" Stop it ... Because it is already tough ...
+#sub "hs_02_272" Stop it ... I've had enough...
 
-#sub "hs_02_273" come on··
+#sub "hs_02_273" Come on, really?
 
-#sub "hs_02_274" No ... I have already stopped already ... You said ...
+#sub "hs_02_274" No ... I'm done ... You said you'd be nice...
 
-#sub "hs_02_275" Haa, ha, now, no, let me have a rest
+#sub "hs_02_275" Haa, ha, again? No, let me have a rest
 
-#sub "hs_02_276" Do not go for it too hard
+#sub "hs_02_276" Don't do it too hard
 
-#sub "hs_02_277" Do you keep going straight? Amazing
+#sub "hs_02_277" You can keep going? Amazing
 
-#sub "hs_02_278" I ... I do not mind ... but do not get tired?
+#sub "hs_02_278" I ... I do not mind ... but don't let me pass out
 
-#sub "hs_02_279" Oh, already ... Because I understood ... I love you ...
+#sub "hs_02_279" Oh, already ... It's okay, I understand... I love you ...
 
-#sub "hs_02_280" Do you keep going? Is not it okay for me to care?
+#sub "hs_02_280" You're gonna keep going? It's okay...I don't care...
 
-#sub "hs_02_281" Do you keep going? Well, I'm fine, but ...
+#sub "hs_02_281" You want to keep going? Well, I'm fine, but...
 
-#sub "hs_02_282" Ha ha, it is lame ... It will be broken anymore .... [Ha ha ha, no more, I will break again]
+#sub "hs_02_282" hah-hah… no more… I'm so tired… any more and I'll break
 
-#sub "hs_02_283" It's moving around ... ... already ... It is rarity ... [Do not move, impossible, stop it already]
+#sub "hs_02_283" It's moving around... 
 
-#sub "hs_02_284" Haa, ha, ha, cheerful, crispy 【ha ha ha, painful, painful】
+#sub "hs_02_284" ha ha ha, painful, painful
 
-#sub "hs_02_285" Too exciting, Happy New Year. [Stop it, get strange]
+#sub "hs_02_285" Too much! Stop it!
 
-#sub "hs_02_286" Hits, Kimochi, Hello, Hello! It is! [Hee hee, comfortable, I feel good]
+#sub "hs_02_286" Hee hee, that's nice, I feel good
 
-#sub "hs_02_287" Such a child is something, it is too cold, watanabe, I am afraid 【This is the first time I feel comfortable, I do not understand Wake】
+#sub "hs_02_287" I've never felt anything like this before! It's so good it's scary!
 
-#sub "hs_02_288" Already, let's stop it already ... Koriya Ryuraeme 【Do not do it anymore, no more ... no more ...】
+#sub "hs_02_288" Do not do it anymore, no more ... no more ...
 
-#sub "hs_02_289" Ha ha ha, futonari, ha ha, oh ...! It is! 【Hurry up, more, more, more ...】
+#sub "hs_02_289" H-hurry, more, hehe… mo-oh-re!!
 
-#sub "hs_02_290" Together · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+#sub "hs_02_290" Together
 
-#sub "hs_02_291" Have a great time at all! It is! 【Too much chaos, I want to feel more comfortable! It is! 】
+#sub "hs_02_291" I want you to make me go cazry! Make me feel good!
 
-#sub "hs_02_292" Hello everyone, this is Konjac to ... Harajuku ... a lot more! 【I do not want this, I do not want to do it anymore! It is! 】
+#sub "hs_02_292" I do not want this, I do not want to do it anymore!
 
-#sub "hs_02_293" Lyrics, you do not want to get sick! 【Stop it, it will make me more amusing! 】
+#sub "hs_02_293" Stop it, you're gonna make me go insain!
 
-#sub "hs_02_294" Already, a deaf, a wife, a lady, a farmer, a teacher! It is! [Alright, no matter what, please pass me more! It is! 】
+#sub "hs_02_294" Alright, no matter what, please give me more
 
-#sub "hs_02_295" Shugo, Shukugaki is also good, Hiroshiro, Maro Norio. 【Awesome, very comfortable! It is! More, please do more
+#sub "hs_02_295" Awesome, that's very good! It is! More, please do that more
 
-#sub "hs_02_296" Haa, huh, licking, loose already Yes, the spat will be broken. [No more, please forgive me, my body will be broken]
+#sub "hs_02_296" Haa, huh, No more, please forgive me, my body will be broken
 
-#sub "hs_02_297" Lamey, already a little more! · · Tigers, do not get into trouble · 【No, it's strange, the body is getting drunk】
+#sub "hs_02_297" No, it's strange, my body is getting drunk
 
-#sub "hs_02_298" Huh, Eh, Heavenly ... · · · · · · · · · 【Hah, eh, I feel good ... · · · · It felt soon · · · to Hehehe]
+#sub "hs_02_298" Huh, Eh, Heavenly ...  I feel good ... 
 
-#sub "hs_02_299" Kimori Hi, Heme, Tsumiri Hiya · · ·  · ·. 【Comfortable, To, Pleasant, Fun,  · · Hehehe ... · · ·. 】
+#sub "hs_02_299" Feels good, so...so Pleasant. This is fun
 
-#sub "hs_02_300" · · · I have ... · · · · · ·  · · · · · · · · ·· · · · · · · · · · · · 【... ... to ... · · · · · · more ... more · · · · · · · · · ·. 】
+#sub "hs_02_300" …hehe… good… hehehe… more … hehehe…
 
-#sub "hs_02_301" Fuji · · · full ...· · · · · · · · · · Feathered · ·  
+#sub "hs_02_301" I feel so full, I feel like I'm flying  
 
-#sub "hs_02_302" Well, it is decided that a good feeling is better
+#sub "hs_02_302" Isn't it better when we both feel good?
 
-#sub "hs_02_303" Separately, it does not matter how hard it moves
+#sub "hs_02_303" It doesn't matter how hard it moves
 
-#sub "hs_02_304" If anything, I would like to feel comfortable. Right?
+#sub "hs_02_304" I would like to feel comfortable with you.
 
-#sub "hs_02_305" Separately it's not a big deal ... I feel like it certainly
+#sub "hs_02_305" It's not a big deal ... 
 
-#sub "hs_02_306" You can move as you like if you make it feel good
+#sub "hs_02_306" You can do it harder, if you want, just make me feel good.
 
-#sub "hs_02_307" If you do, you can move on, but
+#sub "hs_02_307" If you do, you can move on, but...
 
-#sub "hs_02_308" If I do not make it feel good, I will quit
+#sub "hs_02_308" If you do not make it feel good, I will quit
 
-#sub "hs_02_309" Today, I'd like to feel comfortable together
+#sub "hs_02_309" Today, I'd like to cum together
 
-#sub "hs_02_310" Well then, let's have fun and have fun!
+#sub "hs_02_310" Well then, let's have some fun!
 
-#sub "hs_02_311" Huh, I'm looking forward to saying something
+#sub "hs_02_311" You're gonna make me scream, right? I'm looking forward to it!
 
-#sub "hs_02_312" Okay, even if it is intense it does not matter
+#sub "hs_02_312" Even if it is intense it's alright
 
-#sub "hs_02_313" I want to become soooo pleasant, I asked for it
+#sub "hs_02_313" I want to cum sooo hard. I deserve it.
 
-#sub "hs_02_314" You should feel comfortable a lot
+#sub "hs_02_314" I want you to feel soooo goood...
 
-#sub "hs_02_315" You ought to do it exactly, thank you.
+#sub "hs_02_315" Do it exactly like that, thank you.
 
-#sub "hs_02_316" You can move a lot, I mean, moving
+#sub "hs_02_316" You can move a lot, I mean, inside me.
 
-#sub "hs_02_317" It's good, so please do it
+#sub "hs_02_317" That's good, please do it like that
 
 #sub "hs_02_318" What are you going to do today?
 
-#sub "hs_02_319" Why do you do it, right?
+#sub "hs_02_319" Why do you do this to me?
 
-#sub "hs_02_320" Even if you say no, you do it?
+#sub "hs_02_320" Even if I say no, you're gonna do it anyway...
 
-#sub "hs_02_321" Why are you ... something like this
+#sub "hs_02_321" Why are you into something like this?
 
-#sub "hs_02_322" I do not care about such feeling or such · · I do not want disgusting things
+#sub "hs_02_322" I don't like the way that feels. It's disgusting.
 
-#sub "hs_02_323" You always said that? I do not want to ...
+#sub "hs_02_323" Why do you always want that? I don't want to...
 
-#sub "hs_02_324" Separately, you may want to like it, but you do not have to worry about it.
+#sub "hs_02_324" You may want to like it, but you do not have to worry about it.
 
 #sub "hs_02_325" You can do whatever you want, if you do your best
 
-#sub "hs_02_326" I will put up with it even if it is fierce slightly
+#sub "hs_02_326" I will put up with it even if it is fierce.
 
-#sub "hs_02_327" You make it a lot more pleasant, do not you? I expect it.
+#sub "hs_02_327" You make it me feel so good. I've come to expect it.
 
-#sub "hs_02_328" Do you want me to do your best too? If you feel like it
+#sub "hs_02_328" Do you want me to do my best too?
 
-#sub "hs_02_329" Feel good, you can do it
+#sub "hs_02_329" Feels good, can you keep doing that?
 
 #sub "hs_02_330" ... You can move on and on ...
 
-#sub "hs_02_331" Even if I keep it, I'll be fine
+#sub "hs_02_331" Even if you keep it up, I'll be fine
 
-#sub "hs_02_332" If I want to do it, I will go out with you
+#sub "hs_02_332" If I want me to, I'd be your girlfriend
 
-#sub "hs_02_333" Hey ... You can continue as it is
+#sub "hs_02_333" Hey ... You can continue just like that
 
 #sub "hs_02_334" No, it's okay to continue more
 
-#sub "hs_02_335" I can still continue, is not it?
+#sub "hs_02_335" I can still continue...
 
-#sub "hs_02_336" Okay, I want you to continue more
+#sub "hs_02_336" Okay, I want you to give me more
 
-#sub "hs_02_337" Haa, Ha, it is not over yet, right?
+#sub "hs_02_337" Haa, Ha, it's not over yet, right?
 
 #sub "hs_02_338" Okay, even if you still continue ... So you said you can continue
 
-#sub "hs_02_339" You have not finished yet, do you? Is not it?
+#sub "hs_02_339" You're not finished yet, are you? Give me more...
 
-#sub "hs_02_340" You can continue more ... Continue rather
+#sub "hs_02_340" You can continue more ... come on...that's right...
 
 #sub "hs_02_341" Ha ha, are you still going to continue? · · ·
 
 #sub "hs_02_342" Already ... finish it
 
-#sub "hs_02_343" Let's get done so early
+#sub "hs_02_343" Let's get this done early
 
-#sub "hs_02_344" Separately, it feels good or not related ...
+#sub "hs_02_344" This doesn't feel so good...
 
-#sub "hs_02_345" Do you keep going? Separately it is good
+#sub "hs_02_345" You're gonna keep going?
 
-#sub "hs_02_346" I am in a different way, are not you tired?
+#sub "hs_02_346" Aren't you tired by now?
 
-#sub "hs_02_347" You can fill me up a lot, if you are okay
+#sub "hs_02_347" You can fill me up a lot.
 
 #sub "hs_02_348" I did not mean it was collected. Well, I have a relationship.
 
-#sub "hs_02_349" You do not have to watch so much in the chest!
+#sub "hs_02_349" You do not have to look so much at my boobs!
 
-#sub "hs_02_350" I think I'm seeing it too much ...
+#sub "hs_02_350" I think you're seeing it too much ...
 
 #sub "hs_02_351" What, you want to see my breast so much?
 
-#sub "hs_02_352" Wow, my breasts did you like it?
+#sub "hs_02_352" Wow, my breasts, did you like them?
 
-#sub "hs_02_353" Do you like that breasts so much? It can not be helped.
+#sub "hs_02_353" Do you really like these breasts so much?
 
 #sub "hs_02_354" Breasts, do you want to touch? It can not be helped if it says so far ...
 
 #sub "hs_02_355" Do not touch my heart.
 
-#sub "hs_02_356" People 's chest, do not look so much!
+#sub "hs_02_356" Don't stare at my chest so much...
 
-#sub "hs_02_357" Do you want to touch it? Even if you hate it, you touch it, do not you? Well, no, ♪
+#sub "hs_02_357" Do you want to touch it? 
 
-#sub "hs_02_358" Do not be shy ... If you make it feel good ...!
+#sub "hs_02_358" I won't beshy... If you make it feel good ...
 
 #sub "hs_02_359" Hey, what are you doing, in such a place ...
 
-#sub "hs_02_360" I will do what I am ... not doing so strange things ....
+#sub "hs_02_360" Don't do such strange things ....
 
-#sub "hs_02_361" You do not have to look so foolishly!
+#sub "hs_02_361" You do not have to look at me so foolishly!
 
-#sub "hs_02_362" Why are you so staring at it! Do not look so much!
+#sub "hs_02_362" Why are you so staring at it! Don't look so much!
 
 #sub "hs_02_363" Do not stare like that, it's embarrassing
 
-#sub "hs_02_364" No, I have not seen much, already!
+#sub "hs_02_364" Just you wait... you haven't seen anything yet! 
 
-#sub "hs_02_365" What is it? If only I'm looking, I will go home.
+#sub "hs_02_365" What is it? If you're only looking, I will go home.
 
-#sub "hs_02_366" Why am I just being watched? I can not accept it
+#sub "hs_02_366" Why am I just being watched? Do something already!
 
-#sub "hs_02_367" A bit, if you see so much, it will get something hot!
+#sub "hs_02_367" The way you're looking at me is getting me so hot!
 
-#sub "hs_02_368" Where are you watching, this pervert!
+#sub "hs_02_368" Where are you looking, you pervert?
 
 #sub "hs_02_369" Stop it, do not look at such a place!
 
-#sub "hs_02_370" No, face, do not bring it closer!
+#sub "hs_02_370" No, dont bring you face so close!
 
 #sub "hs_02_371" Do you want to see it? You should make it feel good.
 
-#sub "hs_02_372" It is embarrassing to fluff ... but is not there anything a bit more? .
+#sub "hs_02_372" It is embarrassing to just stand here...are you going to do a bit more? .
 
-#sub "hs_02_373" Do you touch it? It would be nice if it does not hurt ...
+#sub "hs_02_373" Will you touch it? Will you do it gently...
 
 #sub "hs_02_374" Oh no, no!
 
-#sub "hs_02_375" No, there you are embarrassing!
+#sub "hs_02_375" No, there you are embarrassing me!
 
-#sub "hs_02_376" Do not look so much like a fool, ass!
+#sub "hs_02_376" Do not look so much like a fool!
 
-#sub "hs_02_377" Oh, your butt is embarrassing, so for a moment
+#sub "hs_02_377" No, my butt is embarrassing!
 
-#sub "hs_02_378" No, I can not afford it ... Impossible impossible
+#sub "hs_02_378" I can't take this!!!
 
-#sub "hs_02_379" Yan ... do not look so much ass!
+#sub "hs_02_379" Don't look at my ass so much!
 
-#sub "hs_02_380" What, are you so interested in my ass?
+#sub "hs_02_380" Are you so interested in my ass?
 
 #sub "hs_02_381" Hey, I told you I hit my breath!
 
-#sub "hs_02_382" Oh, are you trying to do it? You should feel comfortable!
+#sub "hs_02_382" Oh, are you trying to do it there? Make sure it's good!
 
 #sub "hs_02_383" Do not look at such places!
 
-#sub "hs_02_384" Where are you watching, idiot!
+#sub "hs_02_384" Where are you looking, idiot!
 
-#sub "hs_02_385" Stop it, do not look at your ass!
+#sub "hs_02_385" Stop it, do not look at my ass!
 
-#sub "hs_02_386" Are you going to use it? You are in trouble.
+#sub "hs_02_386" Are you going to use my butt? I'm in trouble.
 
-#sub "hs_02_387" In the butt? Are you seriously planning on doing it?
+#sub "hs_02_387" In the butt? Are you seriously planning on doing it there?
 
-#sub "hs_02_388" Hey, I do not think that you use it like that, do you?
+#sub "hs_02_388" Hey, I don't think it's supposed to go in there!
 
-#sub "hs_02_389" Well, what is this! Is it? What are you thinking!
+#sub "hs_02_389" What is this!? What are you thinking!
 
-#sub "hs_02_390" Stop it for a moment, it hurts so it is impossible!
+#sub "hs_02_390" Stop it for a moment, it hurts!
 
 #sub "hs_02_391" Hey, what kind of condition are you getting on! I should not be crowded!
 
-#sub "hs_02_392" What do you want to do? This transformation
+#sub "hs_02_392" What do you want to do?
 
 #sub "hs_02_393" Wow ... I do not care much about this, but ...
 
@@ -2072,11 +2069,11 @@
 
 #sub "hs_02_395" Why, this kind of situation ... It's embarrassing!
 
-#sub "hs_02_396" Are you going to do with this kind of posture? What, I have not expected!
+#sub "hs_02_396" Are you going to penetrate me there?  I didn't expect that from you!
 
-#sub "hs_02_397" No way to quit like this, stop ...
+#sub "hs_02_397" Quit this, stop ...
 
-#sub "hs_02_398" Do you think you can do with this kind of posture? Then, if you try it ...
+#sub "hs_02_398" Do you think I can be penetrated like that? If you even try it ...
 
 // -----------------------------------------------
 // 奉仕 
@@ -2086,15 +2083,15 @@
 
 #sub "hh_02_002" Does it feel good? this
 
-#sub "hh_02_003" You should be slow.
+#sub "hh_02_003" You should go slow.
 
 #sub "hh_02_004" Is not it painful? I wish nice
 
-#sub "hh_02_005" What are they going to do?
+#sub "hh_02_005" What, you came…?
 
-#sub "hh_02_006" Something is getting hotter and faster, is not it?
+#sub "hh_02_006" Something is getting hotter and faster...
 
-#sub "hh_02_007" Separately, because I do not have to endure it
+#sub "hh_02_007" I do not have to endure this
 
 #sub "hh_02_008" Why are you going to do this?
 
@@ -2106,33 +2103,33 @@
 
 #sub "hh_02_012" What? Funny face
 
-#sub "hh_02_013" What on earth is this something swollen?
+#sub "hh_02_013" What on earth is this?
 
-#sub "hh_02_014" what's this? Something has become harder than before?
+#sub "hh_02_014" what's this? You're even harder than before?
 
 #sub "hh_02_015" Finally ... let me finish ...
 
 #sub "hh_02_016" Already ... Do not move ...
 
-#sub "hh_02_017" Stop it, do it strongly ... · · ·
+#sub "hh_02_017" Stop it, don't do it so hard ... · · ·
 
 #sub "hh_02_018" Stop it ... I feel bad · · · · · ·
 
-#sub "hh_02_019" What? It is! Do not suddenly strengthen!
+#sub "hh_02_019" What? It is! Do not be so forceful!
 
 #sub "hh_02_020" Wait, what are you going to do?
 
-#sub "hh_02_021" Lie? What are you doing, please let go!
+#sub "hh_02_021" What are you doing, please let me go!
 
-#sub "hh_02_022" Clear ... ...., Chu, do you feel good?
+#sub "hh_02_022" Do you feel good?
 
-#sub "hh_02_023" Chichu, slowly · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+#sub "hh_02_023" It's fine if you do it slowly 
 
-#sub "hh_02_024" Chiro ... Solder ... ... do you? ... ...
+#sub "hh_02_024" Are you trying to break me in half?
 
-#sub "hh_02_025" · · · Chuu · · · much more ... · · · · · · · · · · · · · · · · · Chu
+#sub "hh_02_025" I feel so much more ... 
 
-#sub "hh_02_026" N patience ..., ... Ihara-Become bound ... by Ju ... Shirai Churuu
+#sub "hh_02_026" We're becoming bound together
 
 #sub "hh_02_027" Deafness, straw, this, thing ...
 
@@ -2148,15 +2145,15 @@
 
 #sub "hh_02_033" Feelings · · · · · · · · · · · · · Hey?
 
-#sub "hh_02_034" Chuchu ... ... a bit ... intense Hin ... .... Jinjiru ... Yaahara .... Ne ...
+#sub "hh_02_034" a bit ... intense, too much
 
-#sub "hh_02_035" Naka no Naka ... Hey ... Oh ... Ohhk ... is that right?
+#sub "hh_02_035" Hey ... Oh ... this isn't right...
 
 #sub "hh_02_036" Chuchu ... ... ... too ... ... also ... handful ... Jyupu ... Is that it?
 
-#sub "hh_02_037" Mfuu ... no more ... ... quickly, conclusion
+#sub "hh_02_037" No more ... ... quickly, finish already!
 
-#sub "hh_02_038" What ... Why ... wh ... Fuu ... こ こ ... こ う ぐ ぅ
+#sub "hh_02_038" What ... Why ... wh ... 
 
 #sub "hh_02_039" Mum ... Musou, muhuu ...
 
@@ -2164,27 +2161,27 @@
 
 #sub "hh_02_041" Or ... ... what, this ... something strange?
 
-#sub "hh_02_042" My breasts, do you feel good?
+#sub "hh_02_042" My breasts, do you feel good between them?
 
-#sub "hh_02_043" With such a feeling, you should insert it
+#sub "hh_02_043" When you insert it with such feeling...
 
-#sub "hh_02_044" Does this feel good? All right?
+#sub "hh_02_044" Does this feel good? Is it all right?
 
-#sub "hh_02_045" It is not complicated in my heart, is it?
+#sub "hh_02_045" It's so complicated, these feelings in my heart...
 
-#sub "hh_02_046" Is it okay with this feeling? Sounds good!
+#sub "hh_02_046" Are you okay with the way this feels? It feels good!
 
-#sub "hh_02_047" Even in such a heart, do not complain, right?
+#sub "hh_02_047" My heart is beating so fast!
 
-#sub "hh_02_048" How are you going to be in my heart?
+#sub "hh_02_048" Are you going to stay in my heart forever, I wonder...
 
-#sub "hh_02_049" It's getting really hot in my chest
+#sub "hh_02_049" My heart is on fire!!!
 
 #sub "hh_02_050" I will fiddle ahead of time
 
 #sub "hh_02_051" Is not it sensitive a while ago?
 
-#sub "hh_02_052" Are you all right with your hands? Painless?
+#sub "hh_02_052" Are you all right with my hands? Painless?
 
 #sub "hh_02_053" I wonder if the destination is more inflated?
 
@@ -2192,33 +2189,29 @@
 
 #sub "hh_02_055" All right? Maybe I'll get some power
 
-#sub "hh_02_056" Really, it's a change of legs, is not it?
+#sub "hh_02_056" Really, you like when I step on you?
 
 #sub "hh_02_057" Hey ... is not this really painful?
 
-#sub "hh_02_058" It feels good on your feet, perverted
+#sub "hh_02_058" It feels good when I use my feet, you're so perverted
 
 #sub "hh_02_059" The soles of the feet are getting really hot ...
 
-#sub "hh_02_060" It is already ... I got scored white on my face!
+#sub "hh_02_060" You came already! Look at all this cum on my face!
 
-#sub "hh_02_061" Hey, what is this? It is! It hurt my face!
+#sub "hh_02_061" What is this? You shot you cum on my face! Pig!
 
-#sub "hh_02_062" · · · · · · · · · · · · · · · · · · Strange taste
+#sub "hh_02_062" Now that's a strange taste
 
-#sub "hh_02_063" I can not drink this ... amazing
+#sub "hh_02_063" I can not drink this ...
 
-#sub "hh_02_064" (Hey, well)
-
-#sub "hh_02_065" (Huhu ... ba ...)
-
-#sub "hh_02_066" Genghua · · · · · · · · · · something, something, impossible impossible ... Baptism
+#sub "hh_02_066" I've been baptized in sperm...
 
 #sub "hh_02_067" I will give you · · ·
 
-#sub "hh_02_068" Uh ... already slimy and disgusting
+#sub "hh_02_068" Uh ... already! It's so slimy and disgusting
 
-#sub "hh_02_069" Why are you taking out! Already, the lowest!
+#sub "hh_02_069" Why did you cum on me? It's so humiliating...
 
 #sub "hh_02_070" Buff ... oh, ... Genji, Genji
 
@@ -2226,13 +2219,13 @@
 
 #sub "hh_02_072" Hey .... a bit ... I got tired.
 
-#sub "hh_02_073" ... Have you recovered already? What will it be if you eat it
+#sub "hh_02_073" Have you recovered already? What will I be if I eat it
 
-#sub "hh_02_074" It is amazing. I will be amazed.
+#sub "hh_02_074" It is amazing.
 
-#sub "hh_02_075" What are you going to say again?
+#sub "hh_02_075" What are you going to cum again?
 
-#sub "hh_02_076" If you want to put out, you can do it
+#sub "hh_02_076" If you want to cum, you can...
 
 #sub "hh_02_077" What, are you still going to continue?
 
@@ -2240,29 +2233,29 @@
 
 #sub "hh_02_079" No, yo ... you better rest?
 
-#sub "hh_02_080" What, are you still out?
+#sub "hh_02_080" What, are you still hard?
 
-#sub "hh_02_081" Lie, you give out again
+#sub "hh_02_081" You what to give me more cum?
 
 #sub "hh_02_082" Why are you going on, I do not want it anymore
 
 #sub "hh_02_083" No, do not bother me.
 
-#sub "hh_02_084" Why can you continue? Are not you tired?
+#sub "hh_02_084" How can you continue? Are not you tired?
 
 #sub "hh_02_085" Wait a moment, are you going to give it out again?
 
-#sub "hh_02_086" Why can you put out so much? Where is it?
+#sub "hh_02_086" How can you put out so much? Where is it hiding?
 
-#sub "hh_02_087" Much ... · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+#sub "hh_02_087" So much!!!
 
-#sub "hh_02_088" Continuing to what · · · is a wonderful Hin? · · Chichu · · ·
+#sub "hh_02_088" Continuing! How wonderful!
 
 #sub "hh_02_089" Mara ... Tsuyoshi ... are you leaving? Shinobu ... I he he.
 
-#sub "hh_02_090" Mira ... Is she a lucky person? Huh
+#sub "hh_02_090" Is she a lucky person?
 
-#sub "hh_02_091" I heard that ... Mfuu · · · · · · · · · · · ·
+#sub "hh_02_091" I heard that ... 
 
 #sub "hh_02_092" Muchu ... I want to quit ...
 
@@ -2270,69 +2263,69 @@
 
 #sub "hh_02_094" I ... It's not only painful ...
 
-#sub "hh_02_095" Huhu ... Lie, are you going to give it out again?
+#sub "hh_02_095" Are you going to give me your sperm again?
 
 #sub "hh_02_096" Hey ... let's go get it quickly ...
 
-#sub "hh_02_097" Mira · · · · · · · · · · · · Ka I do not have ... · · ·
+#sub "hh_02_097" I do not have ... · · ·
 
-#sub "hh_02_098" Easily · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+#sub "hh_02_098" Easily ·
 
 #sub "hh_02_099" Buruku · · · · · Ago is broken ... · Build-in
 
-#sub "hh_02_100" Mara · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+#sub "hh_02_100" Mara · · · · · · · · · ·· · · · · · · ·
 
-#sub "hh_02_101" Maru · · Ju · · · · · · · It is a doctor? · · ·
+#sub "hh_02_101" It is a doctor? 
 
 #sub "hh_02_102" Mufou ... cool
 
 #sub "hh_02_103" I ... I have a bad breath ...
 
-#sub "hh_02_104" Mfuu ... it is the worst that such a holds ...
+#sub "hh_02_104" It is the worst that such a holds ...
 
 #sub "hh_02_105" Mfuu ... Already, let's finish ...
 
-#sub "hh_02_106" Mumuu, please ... give it out ... Finish.
+#sub "hh_02_106" Please ... give it to me...Cum...
 
-#sub "hh_02_107" Oh ... the face is sticky somewhat
+#sub "hh_02_107" Look at this sticky mess you made on my face...
 
-#sub "hh_02_108" It's slimy, hot
+#sub "hh_02_108" It's slimy, and so hot...
 
-#sub "hh_02_109" Yeah ... I drank it ... Well, strange taste
+#sub "hh_02_109" Yeah ... I swollowed it. Every last drop...
 
 #sub "hh_02_110" Wait ... I certainly can not drink it
 
-#sub "hh_02_111" Genji ... ... ... Ah, I could not drink it again ... I may not be able to do it
+#sub "hh_02_111" I could not drink it again ... I may not be able to do it
 
-#sub "hh_02_112" Terrible ... slimey with a slime
+#sub "hh_02_112" Terrible ... it's so slimey
 
-#sub "hh_02_113" Oh ... strange smell ... bad feeling
+#sub "hh_02_113" Oh ...that smells so bad....
 
-#sub "hh_02_114" Genji ... Oie ... this kind of ... Ugo ... I can not drink it
+#sub "hh_02_114" This kind of ... Ugo ... I can not drink it
 
-#sub "hh_02_115" · · Ahahah ... · · · It cost me ...
+#sub "hh_02_115" · · Ahahah ... · · · That was kind of hard for me ...
 
-#sub "hh_02_116" Ehh ... · · · I heard that there was a schedule ... Hehehe
+#sub "hh_02_116" I heard that there was a schedule ... Hehehe
 
 #sub "hh_02_117" In a slimy ... oddly ... Hahaha
 
 #sub "hh_02_118" · · · · · · · · · · · Ha ha
 
-#sub "hh_02_119" You should be slow, do not you?
+#sub "hh_02_119" You want me to go slow?
 
 #sub "hh_02_120" How about this? Not bad, right?
 
 #sub "hh_02_121" What to do? Shall we make it early?
 
-#sub "hh_02_122" Is this comfortable?
+#sub "hh_02_122" Does this feel good?
 
-#sub "hh_02_123" Wow ... Ochinchin tickin ... ... are you going out already?
+#sub "hh_02_123" Wow ...  are you going to cum already?
 
-#sub "hh_02_124" Here, it's already the limit, Hehu!
+#sub "hh_02_124" Here, I think I found your limit!
 
-#sub "hh_02_125" Should I show it out? You do not have to endure it!
+#sub "hh_02_125" Should I show it out? I do not have to endure it!
 
-#sub "hh_02_126" I do not get tired often, this
+#sub "hh_02_126" I do not get tired often, but this...
 
 #sub "hh_02_127" This is enough
 
@@ -2346,111 +2339,111 @@
 
 #sub "hh_02_132" Okay, you ought to take a quick look out, that slimy
 
-#sub "hh_02_133" Finally ... finished ...
+#sub "hh_02_133" hurry…finish it up…
 
 #sub "hh_02_134" I want to quit ... · · · · · ·
 
 #sub "hh_02_135" I hate this already ...
 
-#sub "hh_02_136" By myself ... without permission ... If I do it by myself!
+#sub "hh_02_136" By myself ... without your help. I will do it by myself!
 
-#sub "hh_02_137" No way? Are you going to leave as it is? It is!
+#sub "hh_02_137" No way? Are you going to cum from just this?
 
-#sub "hh_02_138" Wait a minute, please let me alone by yourself!
+#sub "hh_02_138" Wait a minute, please let me make you cum!
 
-#sub "hh_02_139" What ... No way, are you letting out?
+#sub "hh_02_139" What ... No way, are you letting it out?
 
-#sub "hh_02_140" Chiro ...., Chu, Wax, are you feeling comfortable? · · · · · · · · ·
+#sub "hh_02_140" How does it feel?
 
 #sub "hh_02_141" Hey ... Wow? ... Chilling, slowly ... lick it? · · · · · ·
 
-#sub "hh_02_142" Chiro ... Haaru · · · being licked · · · hi? ... ...
+#sub "hh_02_142" Like being licked · · · hi? ... ...
 
-#sub "hh_02_143" Chiro ... Hey, hey hey hey hey? ...
+#sub "hh_02_143" Hey, hey hey hey hey? ...
 
-#sub "hh_02_144" · · · Chuuu · · · Shugo, swollen ... · · · · · · · · · · · · · · · · · · · · · · ·
+#sub "hh_02_144" It's so big....
 
 #sub "hh_02_145" Huh ... I want to bit
 
 #sub "hh_02_146" Huhu ... damn well ...
 
-#sub "hh_02_147" Muuu ... the tongue gets dirty ...
+#sub "hh_02_147" My tongue gets dirty ...
 
-#sub "hh_02_148" Lie, are you leaving as it is?
+#sub "hh_02_148" You're gonna do it like that?
 
 #sub "hh_02_149" Wait, wait, wait ...
 
 #sub "hh_02_150" Jyu ... Will you hold on ...?
 
-#sub "hh_02_151" Feelings · · · じ ゅ る · ひ い い の? Then ... Hui ...
+#sub "hh_02_151" Feels good? Then ... Hui ...
 
 #sub "hh_02_152" A lot ... ... ... It feels ... Jyu ... HI WOW ... ぶ ぅ
 
-#sub "hh_02_153" Chuchu ... Hui Wo ... ... disturbed ...... as it is ... Hmm ... ... Jyupu ...
+#sub "hh_02_153" This is kind of disturbing...
 
-#sub "hh_02_154" Let it be Happy ... Junpu ... ... Lah ... ... Juzy Hu ... Hui ... ... ha ha
+#sub "hh_02_154" Let it be happy
 
-#sub "hh_02_155" Mu ... 苦 し い
+#sub "hh_02_155" Mu ... This is painful...
 
 #sub "hh_02_156" Hey ... I want to quit.
 
 #sub "hh_02_157" Muuu ... well, let's finish it
 
-#sub "hh_02_158" Huhu ... Get out soon.
+#sub "hh_02_158" Huhu ... I want you to cum now.
 
-#sub "hh_02_159" Mu ... let's go out quickly.
+#sub "hh_02_159" Mu ... let it out, cum now, quickly.
 
 #sub "hh_02_160" My boobs, do you feel good?
 
-#sub "hh_02_161" I'll move it while pinching it
+#sub "hh_02_161" Do you like the way I'm squeezing your cock?
 
 #sub "hh_02_162" Should I move hard?
 
-#sub "hh_02_163" Should I rub rubbish with boobs?
+#sub "hh_02_163" That's right, fuck my tits.
 
-#sub "hh_02_164" Is it okay with this feeling? There is no discontent
+#sub "hh_02_164" Are you content with the way this feels?
 
-#sub "hh_02_165" My chest is pretty soft, is not it? Because I will not continue until I say something
+#sub "hh_02_165" My tits are really soft, aren't they?
 
-#sub "hh_02_166" If it is not this chest, this feeling will not come out? That's true.
+#sub "hh_02_166" If it wasn't for my tits, you could never feel this good.
 
-#sub "hh_02_167" Is not this breasts okay? Because I will not accept complaints
+#sub "hh_02_167" You like my tits, don't you? I won't take no for an answer.
 
-#sub "hh_02_168" You are about to be in my heart? You're a nice guy.
+#sub "hh_02_168" You're a nice guy, I think I'll let you cum right over my heart.
 
-#sub "hh_02_169" With my boobs, just put it out!
+#sub "hh_02_169" That's right, I want you to cum on my tits!
 
-#sub "hh_02_170" Ahead of time, do you feel good?
+#sub "hh_02_170" Do you feel good?
 
-#sub "hh_02_171" Because I spin with my fingers, are not you?
+#sub "hh_02_171" The way I spin with my fingers, doesn't it make you want to cum?
 
 #sub "hh_02_172" Are you alright with this so much?
 
-#sub "hh_02_173" Do you want them to be intensified? Would that be okay with that?
+#sub "hh_02_173" I want to do it harder? Would that be okay with that?
 
-#sub "hh_02_174" Something seems like a limit already?
+#sub "hh_02_174" Seems like I hit your limit already.
 
-#sub "hh_02_175" Okay, just let me out!
+#sub "hh_02_175" Okay, just let it out!
 
-#sub "hh_02_176" You really will be on your feet?
+#sub "hh_02_176" You really will be on my feet?
 
-#sub "hh_02_177" It is troubled Mont like to like being trodden
+#sub "hh_02_177" I like when you're at my mercy like this.
 
-#sub "hh_02_178" Because I do it with feet ... Is not it fierce, is not it?
+#sub "hh_02_178" Because I do it with feet ... Isn't it fierce?
 
-#sub "hh_02_179" I'm going to step on fairly strongly!
+#sub "hh_02_179" I'm going to step on you fairly hard!
 
-#sub "hh_02_180" Oh my leg, do you feel so much?
+#sub "hh_02_180" Do you like being treated like a slave?
 
-#sub "hh_02_181" The heat of the foot is transmitted to the soles of the feet? Are you going out already?
+#sub "hh_02_181" I feel something sticky on my foot. Are you cumming already?
 
-#sub "hh_02_182" This is pretty hot, there have been plenty of things
+#sub "hh_02_182" This is pretty hot, there's a aweful lot...
 
 #sub "hh_02_183" I'm pretty damm ... are you stuck?
 
 #sub "hh_02_184" Well, yes, I drank ... well, it is not tasty
 
-#sub "hh_02_185" Well ... Well, yes, I can not drink it, but it is not tasty
+#sub "hh_02_185" Well ... Well, yes, I can drink it, but it is not tasty
 
 #sub "hh_02_186" (Hey, well)
 
@@ -2458,35 +2451,35 @@
 
 #sub "hh_02_188" · · · No, no, no, I can not stop it
 
-#sub "hh_02_189" Genji ... ... ... are you okay? I can not drink it after all ...
+#sub "hh_02_189" Are you okay? I can not drink it after all ...
 
 #sub "hh_02_190" Already slimy ... I feel bad
 
-#sub "hh_02_191" To put it out to a place like this ... the worst!
+#sub "hh_02_191" You fucking came on me... you're the worst!
 
 #sub "hh_02_192" Oh, oh, ... ... ... ... ...
 
-#sub "hh_02_193" え ぇ ぇ ... げ, げ ほ げ · · · い い い · · · げ ほ げ · · · · · · · · · ·
+#sub "hh_02_193" You're bending my cheeks out!
 
-#sub "hh_02_194" what will you do? Can I continue?
+#sub "hh_02_194" All better now? Can I continue?
 
-#sub "hh_02_195" I've recovered already ... ♪
+#sub "hh_02_195" You've recovered already ... 
 
-#sub "hh_02_196" I just did it, but are you still going on?
+#sub "hh_02_196" You just did it, but you're still hard?
 
 #sub "hh_02_197" Do not you see something again?
 
 #sub "hh_02_198" You can only put out ... you can give it out ...
 
-#sub "hh_02_199" Why did I have to do this continuously!
+#sub "hh_02_199" Why do I have to keep doing this!
 
 #sub "hh_02_200" Get out of my way!
 
-#sub "hh_02_201" You got it just a while ago? That's enough!
+#sub "hh_02_201" You already came just a while ago? That's enough!
 
-#sub "hh_02_202" What are you going to give out again? Why can I get it, already!
+#sub "hh_02_202" What are you going to cum again? When is it going to be my turn?
 
-#sub "hh_02_203" Is it still out? Donkei comes out at all!
+#sub "hh_02_203" Is it still out?  comes out at all!
 
 #sub "hh_02_204" Absolutely enough already enough
 
@@ -2494,103 +2487,103 @@
 
 #sub "hh_02_206" Please do not satisfy me!
 
-#sub "hh_02_207" It's a lie, is not it? How many times I will give out!
+#sub "hh_02_207" How many times are you going to cum!
 
 #sub "hh_02_208" Well ... well, be sure to finish with this!
 
-#sub "hh_02_209" Muchu ... ..., Mah · · · many · lick · · · · · · · · · · · · · · ·
+#sub "hh_02_209" Muchu ... ..., Mah · · · many · lick · 
 
 #sub "hh_02_210" Around · · · · · from now on · · · Chuu · · ·
 
-#sub "hh_02_211" Mira ... Itchy? Huh
+#sub "hh_02_211" Itchy? Huh
 
-#sub "hh_02_212" I heard that ... Mfuu · · · · · · · · · · · ·
+#sub "hh_02_212" I heard that ... 
 
 #sub "hh_02_213" How long will it be licked
 
-#sub "hh_02_214" Muchu ... I do not want to lick it anymore
+#sub "hh_02_214" I do not want to lick it anymore
 
 #sub "hh_02_215" Let's do it without permission
 
 #sub "hh_02_216" Are you still out? Get out of your way ...
 
-#sub "hh_02_217" Mira · · Bijyu · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+#sub "hh_02_217" Mira · · Bijyu · 
 
-#sub "hh_02_218" Jeju · · · · · · · · · · · · · · · · · · · ·
+#sub "hh_02_218" Jeju · · 
 
 #sub "hh_02_219" Hmm ... ... Huhu ... Is there any one?
 
-#sub "hh_02_220" じ ゅ う ぅ · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+#sub "hh_02_220" All over!!!
 
 #sub "hh_02_221" Mufuu ... painful, stop it
 
 #sub "hh_02_222" Muu ... I can not help it anymore ...
 
-#sub "hh_02_223" Mmm ... a little bit, are you going out again?
+#sub "hh_02_223" Mmm ... I just tasted a little bit, are you going to cum again?
 
 #sub "hh_02_224" Muu ... no, do not put it out ...
 
-#sub "hh_02_225" Huh ... Wow, it hurt ... I got a lot of it
+#sub "hh_02_225" Wow, it hurt ... I got a lot of it
 
-#sub "hh_02_226" Also, let me out this way ... No way, are you still out?
+#sub "hh_02_226" Let me out this way ... No way, are you still out?
 
-#sub "hh_02_227" Stuff ... huh ... well ... I got a lot out there, I put it out too much
+#sub "hh_02_227" Look at all this stuff. I got a lot out there, you came too much
 
-#sub "hh_02_228" Rieh ... ... there are still a lot of them
+#sub "hh_02_228" There are still a lot of them
 
 #sub "hh_02_229" Genghisa, Fugehoga · · After all, Muiri, Muyo
 
-#sub "hh_02_230" Huh ... why can you make it so many times
+#sub "hh_02_230" Huh ... why can you cum so many times
 
 #sub "hh_02_231" Alright already ... come on out quickly
 
-#sub "hh_02_232" ... ... Genji, Genji ... how much ... I do not feel like drinking like this ...
+#sub "hh_02_232" I do not feel like drinking this ...
 
-#sub "hh_02_233" Muu ... Genji, grasshopper ..... impossible ... ... absolutely impossible ...
+#sub "hh_02_233" Impossible ... ... absolutely impossible ...
 
-#sub "hh_02_234" Well then, let me entertain
+#sub "hh_02_234" Well then, let me entertain you
 
-#sub "hh_02_235" Okay, so do more hard.
+#sub "hh_02_235" Okay, so do it harder.
 
 #sub "hh_02_236" This is not over yet!
 
-#sub "hh_02_237" Even this, I will make you feel good!
+#sub "hh_02_237" Even like this, I will make you feel good!
 
 #sub "hh_02_238" Okay, I got a lot of it out
 
-#sub "hh_02_239" How? Is it issuing? You can put out a lot!
+#sub "hh_02_239" How? So much is issuing? You can put out a lot!
 
 #sub "hh_02_240" OK? I will go on like this, uhfu
 
-#sub "hh_02_241" Uhufu ... huh? Kimono Tattoo ... Muchu
+#sub "hh_02_241" It's like a cum tattoo!
 
 #sub "hh_02_242" Muchu ... Ah, it's quite tasty, is not it
 
-#sub "hh_02_243" How are you feeling my tongue, are not you?
+#sub "hh_02_243" My tongue feels good, doesn't it?
 
-#sub "hh_02_244" Hey, Muchu, my tongue, I will make you feel good
+#sub "hh_02_244" I will make you cum with just my tongue!
 
-#sub "hh_02_245" How? You can go with my tongue!
+#sub "hh_02_245" You can cum with my tongue!
 
-#sub "hh_02_246" okay? Come on, let it go!
+#sub "hh_02_246" Come on, let it go!
 
-#sub "hh_02_247" Do not hold back, you can put as many as you want!
+#sub "hh_02_247" Do not hold back, you can cum as much as you want!
 
-#sub "hh_02_248" Huh ... Huh ... your, I do not dislike it quite well ...
+#sub "hh_02_248" I do not dislike it quite well ...
 
-#sub "hh_02_249" Muuu ... just getting on, it's getting hot
+#sub "hh_02_249" I'm getting your cum, it's so hot
 
-#sub "hh_02_250" As it is ... with my mouth, feeling better, good
+#sub "hh_02_250" Just like this, with my mouth, feeling better, good
 
-#sub "hh_02_251" It's okay, please do not hold it because it's okay to put it out
+#sub "hh_02_251" Please do not hold it, I wanna see your cum!
 
-#sub "hh_02_252" Alright, leave it as it is!
+#sub "hh_02_252" Alright, cum just like this!
 
-#sub "hh_02_253" Do not hold back, just let me out as you please!
+#sub "hh_02_253" Do not hold back, just let it out as you please!
 
 #sub "hh_02_254" It's such a hot one, it's been overflowing
 
-#sub "hh_02_255" It's amazing, mushy ... it seems like something
+#sub "hh_02_255" It's amazing, mushy ... 
 
 #sub "hh_02_256" Hey, can you still put it out? How are you?
 
@@ -2598,187 +2591,187 @@
 
 #sub "hh_02_258" Hmm ... Huh ... lascivious
 
-#sub "hh_02_259" Extreme ... ... Fuu ... something, I was on the momentum ...
+#sub "hh_02_259" Extreme, I was on a roll ...
 
 // -----------------------------------------------
 // 愛撫 
 // -----------------------------------------------
 
-#sub "ha_02_001" It is pleasant ... well, you do it
+#sub "ha_02_001" It is pleasant ... the way you do it
 
-#sub "ha_02_002" Ann: Do not get it, do it slowly
+#sub "ha_02_002" Do not get it, do it slowly
 
-#sub "ha_02_003" Wait, I'm tickled.
+#sub "ha_02_003" Wait, I'm ticklish there.
 
-#sub "ha_02_004" Tea, you feel strange
+#sub "ha_02_004" I feel strange there...
 
-#sub "ha_02_005" Or ... stop ...
+#sub "ha_02_005" S-Stop…
 
-#sub "ha_02_006" do not touch
+#sub "ha_02_006" Don't touch me.
 
 #sub "ha_02_007" Where are you touching, idiot!
 
 #sub "ha_02_008" No, do not bother me.
 
-#sub "ha_02_009" Doing! Where are you licking
+#sub "ha_02_009" Where are you licking!
 
-#sub "ha_02_010" Your tongue, ticklish ...
+#sub "ha_02_010" Your tongue, it's tickling me...
 
-#sub "ha_02_011" If you lick it so much ... you will feel strange
+#sub "ha_02_011" If you lick it so much ... I will feel strange
 
-#sub "ha_02_012" Do it ... Do not lick it so much
+#sub "ha_02_012" Do not lick it so much
 
 #sub "ha_02_013" Oh, do not touch it too hard
 
 #sub "ha_02_014" Ha, ha ... but it feels good ...
 
-#sub "ha_02_015" Properly make it feel good
+#sub "ha_02_015" Make it feel good
 
-#sub "ha_02_016" Whoops? It is! Do not make it strong anymore!
+#sub "ha_02_016" Whoo! Do not do it so hard anymore!
 
-#sub "ha_02_017" Tongue, maybe it feels good
+#sub "ha_02_017" Your tongue feels good...
 
-#sub "ha_02_018" Something, your tongue, raw warmth
+#sub "ha_02_018" Your tongue, such raw warmth
 
-#sub "ha_02_019" Wow, power is coming out
+#sub "ha_02_019" W-wow, I didn't expect such strength.
 
 #sub "ha_02_020" No, it feels good to lick it.
 
-#sub "ha_02_021" It may be comfortable there
+#sub "ha_02_021" It feels nice there
 
-#sub "ha_02_022" Chichi ... so far, I do not feel it.
+#sub "ha_02_022" I'm not feel it there.
 
 #sub "ha_02_023" Yeah, I may be getting sensitive
 
-#sub "ha_02_024" Even if you touch more, it is ok but
+#sub "ha_02_024" It's okay if you touch me more.
 
 #sub "ha_02_025" Stop it, where are you licking!
 
-#sub "ha_02_026" Stop it, do not lick it strangely.
+#sub "ha_02_026" Stop it, do not lick that.
 
-#sub "ha_02_027" Do not feel bad!
+#sub "ha_02_027" This doesn't feel right, so stop
 
-#sub "ha_02_028" The tongue feels strange ...
+#sub "ha_02_028" Your tongue make me feels strange...
 
 #sub "ha_02_029" Do not touch me.
 
-#sub "ha_02_030" Where are you touching, this transformation
+#sub "ha_02_030" Where are you touching?
 
 #sub "ha_02_031" No, do not touch it!
 
 #sub "ha_02_032" Please release to nothing, this idiot!
 
-#sub "ha_02_033" Ann: You should be gentle
+#sub "ha_02_033" You should be gentle
 
-#sub "ha_02_034" Not much, if not to strengthen ...
+#sub "ha_02_034" Don't do that too hard...
 
-#sub "ha_02_035" It may be a bit painful ...
+#sub "ha_02_035" That kind of hurts...
 
-#sub "ha_02_036" It's breast, so please be kind.
+#sub "ha_02_036" My breasts are sensitive, so please be kind.
 
-#sub "ha_02_037" Do not get on the nipples ...
+#sub "ha_02_037" Don't play with my nipples...
 
-#sub "ha_02_038" No, teat tickle to me
+#sub "ha_02_038" That tickles...
 
-#sub "ha_02_039" Wait a minute ... What am I going around
+#sub "ha_02_039" Wait a minute ... What are you going around
 
 #sub "ha_02_040" Yan ... Please do not pull your nipples.
 
-#sub "ha_02_041" There was ... · · · Nipple · It hurts
+#sub "ha_02_041" That wasn't good... It hurts
 
 #sub "ha_02_042" And what are you pulling on!
 
-#sub "ha_02_043" No, do not lick your teats.
+#sub "ha_02_043" No, do not lick my tits.
 
 #sub "ha_02_044" Just a little, do not lick your lickel
 
-#sub "ha_02_045" Or, a nipple ... It's ticklish ...
+#sub "ha_02_045" Or, my nipples ... It's ticklish ...
 
-#sub "ha_02_046" Wait, what are you smoking, you!
+#sub "ha_02_046" Wait, what are you sucking!
 
-#sub "ha_02_047" Stupid, if you smoke so strongly, you will get crazy!
+#sub "ha_02_047" Stupid, if you suck so strongly, I will get crazy!
 
-#sub "ha_02_048" That nipple makes me so strange
+#sub "ha_02_048" That makes me feel so strange
 
-#sub "ha_02_049" You will not be strong if you do it there.
+#sub "ha_02_049" Don't be rough, if you do it there.
 
-#sub "ha_02_050" Well, there, please be kind ...
+#sub "ha_02_050" Well, please be kind there...
 
-#sub "ha_02_051" Already, weird place, do not touch me, already ...
+#sub "ha_02_051" Weird place, do not touch me there ...
 
-#sub "ha_02_052" No ... I definitely do not make it strong.
+#sub "ha_02_052" No ... I definitely do not like it strong.
 
-#sub "ha_02_053" Huh, yeah, there you are, do not rub!
+#sub "ha_02_053" Huh, yeah, there you are!
 
 #sub "ha_02_054" No, no more ... If it gets rubbed ... I ... um ...
 
-#sub "ha_02_055" CAN! Where are you licking, fool?
+#sub "ha_02_055" Where are you licking, fool?
 
-#sub "ha_02_056" It is sensitive, so do not be strange.
+#sub "ha_02_056" It is sensitive, do not be so savage!
 
-#sub "ha_02_057" Kya! I will not lick it, it will be weird
+#sub "ha_02_057" Kya! Don't lick it, it will be weird
 
-#sub "ha_02_058" Come on! It is! Do not put it inside!
+#sub "ha_02_058" Come on! Do not put it inside!
 
-#sub "ha_02_059" Well, inside, I'm doing it!
+#sub "ha_02_059" Well, inside, you're doing it!
 
-#sub "ha_02_060" What ... tongue is entering ...
+#sub "ha_02_060" What ... your tongue is entering ...
 
 #sub "ha_02_061" Wait a moment ... slowly ... move it ...
 
-#sub "ha_02_062" Mr. · · ·, Yu, my fingers are moving ... Not at all.
+#sub "ha_02_062" Your fingers are moving....
 
 #sub "ha_02_063" No, it's gonna make me crazy
 
-#sub "ha_02_064" Young man · · · The fingers ... It might be a bit tight
+#sub "ha_02_064" Your fingers ... I might be a bit tight
 
-#sub "ha_02_065" Wait ... Still, do not be fierce, do not you?
+#sub "ha_02_065" Wait ... don't be too fierce...
 
 #sub "ha_02_066" Ha ha, well, a bit ... slowly, it's okay ...
 
-#sub "ha_02_067" Ha! Wait a moment ... ... in addition to this ... っ っ こ, こ ろ, こ ろ わ ぃ · ·! It is!
+#sub "ha_02_067" Ha! Wait a moment ... ... this is...
 
 #sub "ha_02_068" Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh ... ..., broken, hail! It is! It is!
 
-#sub "ha_02_069" Good luck, · · · · · · · · · · · · · · · · · · · · · · · ·! It is!
+#sub "ha_02_069" I'm such a lucky girl!
 
 #sub "ha_02_070" Kya! Such a thing is not good
 
-#sub "ha_02_071" Do not touch the hole in the butt ... · · ·.
+#sub "ha_02_071" Hey! don't touch my asshole!
 
 #sub "ha_02_072" Hm, my butt, I will chase.
 
-#sub "ha_02_073" Come on! Do not put your fingers into your ass
+#sub "ha_02_073" Come on! Do not put your fingers in my ass
 
-#sub "ha_02_074" No, my fingers come in ...
+#sub "ha_02_074" No, your fingers are going in ...
 
-#sub "ha_02_075" Higuri, fingers in the butt ... moving ...
+#sub "ha_02_075" Fingers! In the butt ... moving ...
 
-#sub "ha_02_076" Why can you lick such a thing!
+#sub "ha_02_076" How can you lick such a thing!
 
-#sub "ha_02_077" Do not fool me, ass! It is!
+#sub "ha_02_077" Don't play with my ass....
 
-#sub "ha_02_078" Do not fool her ass, stop idiotly!
+#sub "ha_02_078" Do not fool around in her ass, stop you idiot!
 
-#sub "ha_02_079" Fah! Is it? In your butt, the tongue ...! It is!
+#sub "ha_02_079" Fah! Is that? In my butt...your tongue ...! It is!
 
-#sub "ha_02_080" Why, I'm licking lunch to the inside!
+#sub "ha_02_080" Do you think you're gonna find some lunch in there?
 
 #sub "ha_02_081" The inside of the ass is ah, ...
 
-#sub "ha_02_082" What are you massaging, this variant ...
+#sub "ha_02_082" What are you massaging ...
 
-#sub "ha_02_083" Do not embarrassing how to rub, you idiot
+#sub "ha_02_083" It's embarrassing how to rub that, you idiot
 
-#sub "ha_02_084" Do not move that ass so much
+#sub "ha_02_084" Don't play with my ass so much
 
-#sub "ha_02_085" Huh, I got a breath on the dick
+#sub "ha_02_085" The thought of your dick gets me breathing so fast!
 
 #sub "ha_02_086" More ... I will let you lick it
 
-#sub "ha_02_087" Do not smell something, make it feel good
+#sub "ha_02_087" Don't just sniff it, make it feel good
 
-#sub "ha_02_088" Okay ... I will make you lick it more
+#sub "ha_02_088" Okay ... I will let you lick it more
 
 #sub "ha_02_089" Ha ha ... It's pretty nice ... but still not enough
 
@@ -2788,27 +2781,27 @@
 
 #sub "ha_02_092" No, no more ... I will ...
 
-#sub "ha_02_093" Well, wait ... wait, I, well!
+#sub "ha_02_093" Well, wait ... wait, I'm gonna...
 
-#sub "ha_02_094" No, no, I will go ...
+#sub "ha_02_094" No, no, that's gonna make me cum ...
 
-#sub "ha_02_095" Stop it, stop ... well, bad already
+#sub "ha_02_095" Stop it, stop ... that's bad...
 
 #sub "ha_02_096" Oh, well, this is pretty ...
 
-#sub "ha_02_097" No, in my breasts ...
+#sub "ha_02_097" No, my breasts ...
 
-#sub "ha_02_098" I have boobs ... Ichaaou
+#sub "ha_02_098" My breasts… I'm cumming from my breasts…
 
-#sub "ha_02_099" No, he feels so good ... Ahh!
+#sub "ha_02_099" oh no… your dick… feels good…aaah!
 
-#sub "ha_02_100" Over there, do not feel nice ... Ichaaou!
+#sub "ha_02_100" Your dick, feels so good… I'm cumming!
 
-#sub "ha_02_101" Oh ... Oh my ... I went ...
+#sub "ha_02_101" Oh ... Oh my ... I came ...
 
 #sub "ha_02_102" Haa ... well ... well ... well, I guess ...
 
-#sub "ha_02_103" Well ... no, like this, no more
+#sub "ha_02_103" Well ... no more like this, no more
 
 #sub "ha_02_104" It is too bad ...
 
@@ -2820,73 +2813,73 @@
 
 #sub "ha_02_108" I do not want it anymore!
 
-#sub "ha_02_109" Do not stop saying that!
+#sub "ha_02_109" Stop doing that!
 
-#sub "ha_02_110" Stop it and stop it! It is!
+#sub "ha_02_110" Stop it and stop it!
 
 #sub "ha_02_111" What, are you going to lick it again?
 
 #sub "ha_02_112" Can you still lick it? Was it so tasty?
 
-#sub "ha_02_113" Still touching? Well, nice but
+#sub "ha_02_113" Still touching? 
 
 #sub "ha_02_114" Hey, are you still going to touch it?
 
 #sub "ha_02_115" No, my breasts ... I feel strange now!
 
-#sub "ha_02_116" So much ... breasts, do not mess around with it ...
+#sub "ha_02_116" So much ... do not mess around with them anymore ...
 
-#sub "ha_02_117" No, now, if you are tampered with a nipple ...
+#sub "ha_02_117" No, stop playing with that ...
 
-#sub "ha_02_118" Oh, Oh, Nipple ... I'm becoming sensitive ... okay ...
+#sub "ha_02_118" Oh, Oh,I'm becoming sensitive ... 
 
 #sub "ha_02_119" And, do not touch it yet
 
 #sub "ha_02_120" Wait a minute, yet ...
 
-#sub "ha_02_121" Do not do it, do not put your finger in now.
+#sub "ha_02_121" Do not do it, do not put your finger in.
 
-#sub "ha_02_122" But ... I still have to put it in, but ...
+#sub "ha_02_122" But ... you still have to put it in...
 
 #sub "ha_02_123" Wait a moment and let me rest
 
-#sub "ha_02_124" It is only disappointing to lick it.
+#sub "ha_02_124" You know, licking it is only gonna go so far...
 
-#sub "ha_02_125" Also, my tongue is coming in
+#sub "ha_02_125" I can feel your tongue inside me.
 
-#sub "ha_02_126" Well, what do you do with licking so much?
+#sub "ha_02_126" What do you do with licking so much?
 
-#sub "ha_02_127" Hey! Oh no, no, I will break anymore ...!
+#sub "ha_02_127" Hey! Oh no, no, I will break if you do it anymore!
 
-#sub "ha_02_128" Do not worry ... I will continue ... there ... no ...
+#sub "ha_02_128" Do not worry ... You can will continue ... there ...
 
-#sub "ha_02_129" Oh, you do not mess around that ass so much!
+#sub "ha_02_129" Oh, you do not mess around my ass so much!
 
-#sub "ha_02_130" No, ass, it will go crazy
+#sub "ha_02_130" No, my ass! It will go crazy
 
-#sub "ha_02_131" Only in the buttocks, if not to massage
+#sub "ha_02_131" Don't rub on my ass so much!
 
 #sub "ha_02_132" Oh, it's gonna feel, do not you ...
 
-#sub "ha_02_133" Alright, even if you continue licking more
+#sub "ha_02_133" It's alright if you continue licking more
 
 #sub "ha_02_134" Oh yeah, you have not finished yet, do you?
 
 #sub "ha_02_135" Hey, make it more pleasant
 
-#sub "ha_02_136" Okay, here lick me more
+#sub "ha_02_136" Okay, lick me more right there
 
-#sub "ha_02_137" Well, again, I will say it again.
+#sub "ha_02_137" Ye-ye-yes, the-there cummiiing
 
 #sub "ha_02_138" It feels good ... Well, again, I said I -!
 
-#sub "ha_02_139" Haa ... I went back again ... It felt good.
+#sub "ha_02_139" Haa ... I came again ... It felt good.
 
-#sub "ha_02_140" But, I can not help it ... I got tired.
+#sub "ha_02_140" I can not help it ... I got tired.
 
-#sub "ha_02_141" It's hard ... already no power
+#sub "ha_02_141" Already, I have no power to continue
 
-#sub "ha_02_142" No, let's end it ...
+#sub "ha_02_142" N-no good… just stop already….
 
 #sub "ha_02_143" Haha, bad ... breath, painful
 
@@ -2896,33 +2889,33 @@
 
 #sub "ha_02_146" Hey ... Are you being touched? No, no.
 
-#sub "ha_02_147" No, I will become weird anymore
+#sub "ha_02_147" No, I will go crazy if you do anymore
 
 #sub "ha_02_148" No more, I'm going crazy
 
-#sub "ha_02_149" Wow ... tits, sensation strange
+#sub "ha_02_149" Wow ... My tits. That's a strange sensation.
 
 #sub "ha_02_150" No, I will stop there.
 
-#sub "ha_02_151" Well, I feel like that, I feel it
+#sub "ha_02_151" I feel that, I like it
 
-#sub "ha_02_152" Happy, Lamey, Hunjaou ぅ ぅ ぅ ぅ ぅ! It is!
+#sub "ha_02_152" higiiiiiiiiiiiiii… no… nihinchuuuuuuuuuuuuuu!!
 
 #sub "ha_02_153" Haa, Oh, it will be funny!
 
-#sub "ha_02_154" It is awful, great! It is!
+#sub "ha_02_154" It is awful, but it feels so great! It really does!
 
-#sub "ha_02_155" Lam, ass, it's already strange!
+#sub "ha_02_155" That's such a strange feeling!
 
-#sub "ha_02_156" Let's go ... · Carefully
+#sub "ha_02_156" Please do it....carefully
 
-#sub "ha_02_157" I said one ...
+#sub "ha_02_157" I'm cumming, I'm cummiiing…
 
-#sub "ha_02_158" Well, ah ah ah! It is!
+#sub "ha_02_158" I-I-I'm cummiiiiing!!
 
-#sub "ha_02_159" Well, I said that! It is!
+#sub "ha_02_159" I-I-I'm cummiiiiing!!
 
-#sub "ha_02_160" Ha ha ... well, already ... I can not help it ...
+#sub "ha_02_160" Ha ha ... I came already ... I couldn't help it ...
 
 #sub "ha_02_161" Well, well ... it was also funny ... ...
 
@@ -2930,15 +2923,15 @@
 
 #sub "ha_02_163" Towards · · · good things · · · full · · · · · · · · · · ·
 
-#sub "ha_02_164" It's too lax ... ...
+#sub "ha_02_164" s-stop… I-I'm going to die…
 
-#sub "ha_02_165" Huh ... boobs ... Kimono Chi
+#sub "ha_02_165" hah… my boobs… feel … good.
 
-#sub "ha_02_166" I ... tits ... ... Hello, Kanji
+#sub "ha_02_166" hah… my boobs… feel … good.
 
-#sub "ha_02_167" Haa ... well, you feel good
+#sub "ha_02_167" hah… right there… it feels good…
 
-#sub "ha_02_168" Well, Lame ... ...
+#sub "ha_02_168" I'm gonna break... ...
 
 #sub "ha_02_169" Ha ha, gimmicky · · ♪ · · ·
 
@@ -2946,63 +2939,59 @@
 
 #sub "ha_02_171" Ahuu ...... Well, OK.
 
-#sub "ha_02_172" Oh, お ひ り, お か き く な り ぁ う ぅ ...
+#sub "ha_02_172" Oh, g-good, m-moooreee…
 
-#sub "ha_02_173" Oh, oh no, already, it's alright ぇ ぇ ぇ ぇ
+#sub "ha_02_173" Og-good, m-moooreee…
 
-#sub "ha_02_174" Oh, I ... Haa ... straw, let's go!
+#sub "ha_02_174" Oh, I ... Haa ...  let's go!
 
-#sub "ha_02_175" Good, ah ah! It is!
+#sub "ha_02_175" Good, ah ah!
 
-#sub "ha_02_176" Hmm, that's it! It is!
+#sub "ha_02_176" Hmm, that's it!
 
-#sub "ha_02_177" Fui, Fu ...... Nuha ... Hahaha ... Kimihi, Hii ​​...
-
-#sub "ha_02_178" Haha ... well, funny ... aha ... Hahaha ...
-
-#sub "ha_02_179" It may not be bad there
+#sub "ha_02_179" It's not so bad there
 
 #sub "ha_02_180" Ah, even if it is strong, it's good to be different.
 
 #sub "ha_02_181" Oh well, maybe it's gone bad
 
-#sub "ha_02_182" I feel somewhat, I feel it
+#sub "ha_02_182" I feel that, I feel it
 
 #sub "ha_02_183" Stop it, do not move so much ...
 
 #sub "ha_02_184" Such · · · Feelings · · · well · · · · · · · · · · · · · · · · ·
 
-#sub "ha_02_185" Stop it, yea, you are telling me
+#sub "ha_02_185" Stop it, yea, I'm begging you!
 
 #sub "ha_02_186" No, like this, stop it already
 
-#sub "ha_02_187" Well, being licked ... No
+#sub "ha_02_187" I'm being licked ... No
 
 #sub "ha_02_188" It may be licked, it may feel
 
-#sub "ha_02_189" Tongue, feelings, good
+#sub "ha_02_189" Your tongue, feels good
 
-#sub "ha_02_190" I touch it, I hate it.
+#sub "ha_02_190" Touch it, I hate it.
 
-#sub "ha_02_191" It might be nice, comfortable
+#sub "ha_02_191" It might be nice, feels good
 
-#sub "ha_02_192" Separately, you can touch more
+#sub "ha_02_192" You can touch more
 
-#sub "ha_02_193" Chest, maybe it feels good
+#sub "ha_02_193" It kinda feel nice on my boobs like that.
 
-#sub "ha_02_194" I have boobs, I feel, I feel
+#sub "ha_02_194" Feel up my boobies.
 
-#sub "ha_02_195" I'd like to feel it with more boobs
+#sub "ha_02_195" More, feel up my tits
 
-#sub "ha_02_196" Nipples, nice feeling
+#sub "ha_02_196" Now that's a nice feeling
 
-#sub "ha_02_197" More, you can change your nipples
+#sub "ha_02_197" More, my nipples are feeling wonderful
 
 #sub "ha_02_198" Try it more gently
 
-#sub "ha_02_199" You can feel it, you do not feel it.
+#sub "ha_02_199" I can really feel that.
 
-#sub "ha_02_200" Your fingers, feelings, good
+#sub "ha_02_200" Your fingers, feel good
 
 #sub "ha_02_201" Please, touch me softly
 
@@ -3012,115 +3001,115 @@
 
 #sub "ha_02_204" If you want to lick so much, you can lick it more
 
-#sub "ha_02_205" The tongue came in.
+#sub "ha_02_205" Your tongue went inside me.
 
-#sub "ha_02_206" Okay, the tongue feels good
+#sub "ha_02_206" Okay, your tongue feels good
 
-#sub "ha_02_207" Oh ... my finger came inside
+#sub "ha_02_207" Oh ... your finger went inside
 
 #sub "ha_02_208" You can move your fingers
 
-#sub "ha_02_209" Even if you put it deeper, it is okay ...
+#sub "ha_02_209" Even if you put them deeper, it is okay ...
 
-#sub "ha_02_210" Umm ... No, suddenly there
+#sub "ha_02_210" No, so sudden there
 
 #sub "ha_02_211" No, there ... ... I, it's broken.
 
-#sub "ha_02_212" Wait, I am ashamed of the butt
+#sub "ha_02_212" I feel dirty when you play with my butt
 
-#sub "ha_02_213" Where are you, are you talking?
+#sub "ha_02_213" Where are you, are you licking that?
 
 #sub "ha_02_214" Whoops? It is! Do not suddenly insert your fingers.
 
-#sub "ha_02_215" Oh my ... my finger is coming in my ass ...
+#sub "ha_02_215" Oh my ... your finger is in my ass ...
 
-#sub "ha_02_216" There, you will be strangely licked
+#sub "ha_02_216" It's kind of weird to lick that...
 
-#sub "ha_02_217" Or, do not lick the hole in the buttocks
+#sub "ha_02_217" Hey! Get your tongue out of my asshole!
 
-#sub "ha_02_218" Hey, my tongue comes in ... But it's weird
+#sub "ha_02_218" I can feel your tongue going in ... it's weird
 
-#sub "ha_02_219" No, my ass is crazy with my tongue
+#sub "ha_02_219" My ass feels crazy with your tongue in it!
 
 #sub "ha_02_220" Did you want to touch my butt so much?
 
-#sub "ha_02_221" It can not be helped, you can rub more
+#sub "ha_02_221" You can rub it more
 
 #sub "ha_02_222" If you wanted to crush so much, you can rub them.
 
-#sub "ha_02_223" It's okay, you may feel it
+#sub "ha_02_223" It's okay, I kind of like that.
 
-#sub "ha_02_224" To be licked, I do not dislike it
+#sub "ha_02_224" I think I like being licked like that.
 
-#sub "ha_02_225" OK, why do not you like licking?
+#sub "ha_02_225" Why do you like licking so much?
 
-#sub "ha_02_226" Touch as you please
+#sub "ha_02_226" I love it when you touch me.
 
 #sub "ha_02_227" You can touch more.
 
-#sub "ha_02_228" I feel comfortable when touched
+#sub "ha_02_228" I feel comfortable when you touch me.
 
-#sub "ha_02_229" Tits, touch a lot
+#sub "ha_02_229" That's right, play with my tits.
 
-#sub "ha_02_230" You can play more boobs
+#sub "ha_02_230" You can play with my boobs some more.
 
-#sub "ha_02_231" Boobs, Fiddling as much as you want
+#sub "ha_02_231" You like my breasts right?
 
-#sub "ha_02_232" Good, nice pleasant feeling
+#sub "ha_02_232" Good, that's a nice pleasant feeling
 
-#sub "ha_02_233" Nipple will come up ...
+#sub "ha_02_233" My nipples are getting so hard…
 
-#sub "ha_02_234" No, my nipples, I feel too much ...
+#sub "ha_02_234" It's no use, my nipples are getting senstive…
 
-#sub "ha_02_235" You can scrape over there
+#sub "ha_02_235" You can squeeze right there
 
-#sub "ha_02_236" This is rubbing, it is not bad
+#sub "ha_02_236" This is rubbing, it's pretty good
 
-#sub "ha_02_237" Ahh ... that, maybe it feels good
+#sub "ha_02_237" Ahh ... that, it feels good
 
-#sub "ha_02_238" Mfu ... gentle, do not mess with me ...
+#sub "ha_02_238" Mfu ... be gentle, don't mess with me ...
 
-#sub "ha_02_239" You can lick it if you want to lick it
+#sub "ha_02_239" You can lick it if you want to.
 
-#sub "ha_02_240" Did you want to lick so much? It can not be helped.
+#sub "ha_02_240" Did you want to lick so much?.
 
 #sub "ha_02_241" Your tongue ... inside ... warm
 
-#sub "ha_02_242" Good, good ... I do not dislike this tongue
+#sub "ha_02_242" Good, good ... I this tongue
 
 #sub "ha_02_243" Yu, fingers, inside ... make sure to move it properly
 
-#sub "ha_02_244" Ha ... my fingers, my back ... I guess I have it all
+#sub "ha_02_244" Ha ... your fingers, my butt ... I guess I have it all
 
 #sub "ha_02_245" Good, your finger, it feels nice
 
-#sub "ha_02_246" I will not do that ... okay, do not stimulate me
+#sub "ha_02_246" I will not do that ... okay, do not stimulate me there
 
 #sub "ha_02_247" No, I'm going crazy again.
 
-#sub "ha_02_248" Buttocks, quite nice feeling, maybe
+#sub "ha_02_248" That's quite a nice feeling with my ass.
 
-#sub "ha_02_249" You can do more with your ass
+#sub "ha_02_249" You can do more with my ass
 
-#sub "ha_02_250" Ahh ... your fingers came in your ass ...
+#sub "ha_02_250" Ahh ... your fingers came in my ass ...
 
 #sub "ha_02_251" Your fingers, moving in the butt
 
-#sub "ha_02_252" My tongue, your tongue in the butt ...
+#sub "ha_02_252" Your tongue...your tongue is in my butt ...
 
-#sub "ha_02_253" The hole of the buttocks will come ...
+#sub "ha_02_253" You're gonna make my asshole cum...
 
-#sub "ha_02_254" Ahuu ... A tongue has entered the buttocks ...
+#sub "ha_02_254" Ahuu ... A tongue has entered the butt ...
 
 #sub "ha_02_255" No, I will have a bad ass
 
-#sub "ha_02_256" It's not bad, you gotta rub your ass
+#sub "ha_02_256" It's not bad, when you rub my ass
 
-#sub "ha_02_257" Okay, even if you rub them straight
+#sub "ha_02_257" It's okay, even if you rub them again.
 
-#sub "ha_02_258" So my ass, do you like it? I can not help it
+#sub "ha_02_258" So my ass, do you like it?
 
-#sub "ha_02_259" More, you can turn around licking
+#sub "ha_02_259" More, you can lick the front too, ya know?
 
 #sub "ha_02_260" Lick it more and make it feel good
 
@@ -3128,29 +3117,29 @@
 
 #sub "ha_02_262" Okay, more to the touch, feel good!
 
-#sub "ha_02_263" Just being touched by you, it seems to go wrong
+#sub "ha_02_263" Your touch is making me crazy
 
 #sub "ha_02_264" More ... Touch me more ... OK, make it feel good!
 
-#sub "ha_02_265" Boobs, you can keep touching, so make it more pleasant
+#sub "ha_02_265" Boobs, can you keep touching, it feeld so good.
 
 #sub "ha_02_266" Boobs, turn me chubby until you feel good!
 
-#sub "ha_02_267" Well, I'm afraid I want to feel lots of boobs!
+#sub "ha_02_267" Well, I'm afraid you want to feel lots of boobs!
 
-#sub "ha_02_268" Good, nipple, well, I feel it, maybe
+#sub "ha_02_268" Good, I lick the feel of that.
 
-#sub "ha_02_269" More, you can change your nipples
+#sub "ha_02_269" More, you can get rough with them.
 
-#sub "ha_02_270" My nipples are scary ...
+#sub "ha_02_270" It's scary how good you make my tits feel...
 
 #sub "ha_02_271" Haa ... comfortable, nipples, good feeling ...
 
 #sub "ha_02_272" More, touch over there, good!
 
-#sub "ha_02_273" Well, good ... Fiddling with it, make it feel good!
+#sub "ha_02_273" Well, good ... play with it, make it feel good!
 
-#sub "ha_02_274" Well, it's amazing ... I feel it ... more, it's easy to mess around with it
+#sub "ha_02_274" Well, it's amazing ... I feel it ... more
 
 #sub "ha_02_275" Mfuu ... Your tongue, may be unexpected
 
@@ -3160,21 +3149,21 @@
 
 #sub "ha_02_278" Good, ... with a tongue, let me feel!
 
-#sub "ha_02_279" Your fingers ... quite ... I do not dislike it
+#sub "ha_02_279" Your fingers ... quite good ... I like it
 
-#sub "ha_02_280" Good, move your fingers more, look!
+#sub "ha_02_280" Good, move your fingers more
 
-#sub "ha_02_281" Ha ha ... Huh ... Fingers, it feels pretty, I guess
+#sub "ha_02_281" Ha ha ...getting fingered, it feels pretty good, I guess
 
-#sub "ha_02_282" Oh, your fingers, you may feel comfortable!
+#sub "ha_02_282" Oh, your fingers, they feel amazing!
 
 #sub "ha_02_283" Ha! Well, more and more, do go mess!
 
-#sub "ha_02_284" Awesome, nice ... My head is getting white, ...
+#sub "ha_02_284" Awesome, so good ... my vision is turning white ...
 
 #sub "ha_02_285" Ha ha ... the ass is also quite comfortable!
 
-#sub "ha_02_286" Okay, you can change more ass!
+#sub "ha_02_286" Okay, you can push them deeper in my ass!
 
 #sub "ha_02_287" Okay, finger tapping a lot
 
@@ -3184,17 +3173,17 @@
 
 #sub "ha_02_290" To lick it there ... I feel comfortable, I will!
 
-#sub "ha_02_291" In your ass ... my tongue is coming! Haha!
+#sub "ha_02_291" In my ass ... your tongue is coming! Haha!
 
-#sub "ha_02_292" Good, oh ... put more tongue in the butt!
+#sub "ha_02_292" Good, oh ... put more tongue in my butt!
 
-#sub "ha_02_293" Hell, my ass, I'm being massaged, I'm feeling awfully
+#sub "ha_02_293" Hell, my ass, I'm being massaged, I'm feeling awfully good
 
-#sub "ha_02_294" Well, better ass massive ass!
+#sub "ha_02_294" Well, feels so massive in my ass!
 
-#sub "ha_02_295" Oh, my ass, I'm feeling very comfortable
+#sub "ha_02_295" Oh, my ass, I'm feeling very good
 
-#sub "ha_02_296" Sorry, if you got so much, you can go and ass, ...
+#sub "ha_02_296" Sorry, if you do that so much, my ass is gonna cum
 
 #sub "ha_02_297" Stop it, do not lick it
 
@@ -3208,9 +3197,9 @@
 
 #sub "ha_02_302" Do not touch such a place!
 
-#sub "ha_02_303" Oh, it hurts, do not touch the chest without permission
+#sub "ha_02_303" Oh, it hurts, do not touch my boobs without permission
 
-#sub "ha_02_304" Stop it, dislike it!
+#sub "ha_02_304" Stop it, I don't like it!
 
 #sub "ha_02_305" Do not touch people's chest, selfish!
 
@@ -3224,13 +3213,13 @@
 
 #sub "ha_02_310" Where are you rubbing, idiot?
 
-#sub "ha_02_311" Hey, there ... ... I will not touch you.
+#sub "ha_02_311" Hey, there ... ...You will not touch me.
 
 #sub "ha_02_312" Stop it, do not touch such a place!
 
 #sub "ha_02_313" No, where are you licking, idiot!
 
-#sub "ha_02_314" Do not lick me stuff, this pervert!
+#sub "ha_02_314" Do not lick me, you pervert!
 
 #sub "ha_02_315" Wow, where the hell are you talking about!
 
@@ -3238,131 +3227,131 @@
 
 #sub "ha_02_317" Or ... Stop fingering, do not put in!
 
-#sub "ha_02_318" No ... Fingers, pull it out ... well
+#sub "ha_02_318" S-stop don't put your finger in!
 
-#sub "ha_02_319" Or stop ... fingers, do not move
+#sub "ha_02_319" S-stop don't put your finger in!
 
-#sub "ha_02_320" It's a bad day ... Please, finger pointing!
+#sub "ha_02_320" It's a bad day ...
 
 #sub "ha_02_321" Haha! Stop it, no more!
 
 #sub "ha_02_322" Do not do that ... that is funny ...!
 
-#sub "ha_02_323" Stop it ... where you are touching, this!
+#sub "ha_02_323" Stop it ... where you are touching!
 
-#sub "ha_02_324" Do not touch your butt, this transformation
+#sub "ha_02_324" Do not touch my butt!
 
-#sub "ha_02_325" And? It is! Where are you pointing this fool?
+#sub "ha_02_325" Where are you putting your finger, you fool?
 
-#sub "ha_02_326" Or stop, do not put your fingers or fingers, you idiot!
+#sub "ha_02_326" Or stop, do not put your fingers in there, you idiot!
 
 #sub "ha_02_327" Or, please do not lick a strange place!
 
-#sub "ha_02_328" Well, something in the buttocks, do not lick, this pervert!
+#sub "ha_02_328" Is that your tongue? Do not lick there, you pervert!
 
-#sub "ha_02_329" Gee! Is it? What, where are you putting your tongue!
+#sub "ha_02_329" What, where are you putting your tongue!
 
-#sub "ha_02_330" Stop it, stop tongue from the butt!
+#sub "ha_02_330" Stop it, take your tongue away from my butt!
 
 #sub "ha_02_331" Stop it, let go of your hand
 
-#sub "ha_02_332" Do not massipulate your ass without permission!
+#sub "ha_02_332" Do not grab my ass without permission!
 
-#sub "ha_02_333" Disagreeable! Stop it and let go of your ass!
+#sub "ha_02_333" Unacceptable! Stop it, let go of my ass!
 
-#sub "ha_02_334" Indefinitely ... Hands are released!
+#sub "ha_02_334" Never touch me like that!
 
 #sub "ha_02_335" Do you want to lick it? You should use your tongue properly
 
-#sub "ha_02_336" You can lick a lot, if you feel comfortable
+#sub "ha_02_336" You can lick a lot, if you feel want. I like it.
 
 #sub "ha_02_337" Okay, lick it ... I want to feel it more
 
-#sub "ha_02_338" You can touch me more, because it feels like it is
+#sub "ha_02_338" You can touch me more, I like the way it feels.
 
-#sub "ha_02_339" You want to touch a lot? It's okay, but please caress it properly
+#sub "ha_02_339" You want to touch me? It's okay, but please caress it properly
 
-#sub "ha_02_340" It might be unexpectedly bad to be touched there ...
+#sub "ha_02_340" It feels kind of bad to be touched there ...
 
 #sub "ha_02_341" Breasts, maybe it feels good
 
-#sub "ha_02_342" Do you touch boobs? You should make it feel good
+#sub "ha_02_342" Do you want to touch my boobs? You should make them feel good
 
 #sub "ha_02_343" You may finger more, but let me feel it properly
 
-#sub "ha_02_344" Nipple, maybe it feels good
+#sub "ha_02_344" That feels good
 
-#sub "ha_02_345" Make your nipples feel good as usual
+#sub "ha_02_345" Make my nipples feel good.
 
-#sub "ha_02_346" If you play with a nipple, make it feel good
+#sub "ha_02_346" If you play with my nipples, make it feel good
 
-#sub "ha_02_347" I want you to feel it ... more ...
+#sub "ha_02_347" I want you to feel them ... more ...
 
-#sub "ha_02_348" Rub it over there ... be pleasant
+#sub "ha_02_348" Rub it right there ...
 
 #sub "ha_02_349" That is sensitive, so treat it properly
 
-#sub "ha_02_350" It ... meticulously, pay attention, finger
+#sub "ha_02_350" You're paying such meticulous attention there
 
-#sub "ha_02_351" Okay, lick it to a good feeling
+#sub "ha_02_351" Okay, lick it till it feels good
 
 #sub "ha_02_352" Because I want to feel a lot, lick it more
 
-#sub "ha_02_353" Then ... are you screwing in your tongue? Something strange
+#sub "ha_02_353" Then ... are you screwing me with your tongue?
 
-#sub "ha_02_354" Ah ... feel better with your tongue
+#sub "ha_02_354" Ah ... feels good with your tongue
 
-#sub "ha_02_355" Okay ... in this case, please plug it in a bit more
+#sub "ha_02_355" Please plug it in a bit more
 
-#sub "ha_02_356" Oh, more, please let me feel with your fingers ...
+#sub "ha_02_356" Oh, more, please let me cum from your fingers ...
 
-#sub "ha_02_357" Yeah ... My fingers moved furiously, maybe it feels good
+#sub "ha_02_357" Your fingers move so furiously, it feels good
 
 #sub "ha_02_358" Oh, so much, if you move it ... I do not care ... I do not know ...
 
-#sub "ha_02_359" Ha ha ... There ... Oh yeah, where, so ... So easy, ne
+#sub "ha_02_359" There ... Oh yeah, there, so ... So easy to cum from that
 
-#sub "ha_02_360" There, I feel so much, Cha ... well, intensely ...
+#sub "ha_02_360" There, I feel so much, so intensely ...
 
-#sub "ha_02_361" Did you want to fiddle her ass? Then, you should be comfortable
+#sub "ha_02_361" Did you want to fiddle with her ass? Then, you should.
 
-#sub "ha_02_362" Here, if this is the case ... more, you can mess with your ass
+#sub "ha_02_362" Here, if this is the case ... you can mess with your ass
 
-#sub "ha_02_363" Good, your fingers, maybe it's going well
+#sub "ha_02_363" Good, your fingers, it's going well
 
-#sub "ha_02_364" Oh crap, fingers move in, ... strange, feeling ...
+#sub "ha_02_364" Oh crap, fingers move in, ... 
 
-#sub "ha_02_365" Feel it, ass, lick it a lot, from good
+#sub "ha_02_365" I feel it, so good in my ass, lick it a lot.
 
-#sub "ha_02_366" Licked and ... ass, pleasant, maybe ...
+#sub "ha_02_366" I like when you lick my ass
 
-#sub "ha_02_367" Oh, my tongue has entered my butt, it feels amazing
+#sub "ha_02_367" Oh, your tongue has entered my butt, it feels amazing
 
-#sub "ha_02_368" As it is, with your tongue, make your pill feel good ...!
+#sub "ha_02_368" Just like that, with your tongue, feels good ...
 
 #sub "ha_02_369" Rubbing ass, make it feel good!
 
 #sub "ha_02_370" Okay, it feels good, ass, massage more!
 
-#sub "ha_02_371" That ... if it gets so violent, if your ass gets paralyzed
+#sub "ha_02_371" That ... if it gets so violent, my ass will go numb!
 
-#sub "ha_02_372" Oh no, no, I will get your butt, so much ...!
+#sub "ha_02_372" Oh no, no, my butt, so much ...!
 
-#sub "ha_02_373" Okay, I will make you lick a lot more! It is!
+#sub "ha_02_373" Okay, will you lick it a lot more!
 
 #sub "ha_02_374" Okay, okay ... You can put your tongue deep inside
 
-#sub "ha_02_375" Let's lick a lot more!
+#sub "ha_02_375" Lick that some more!
 
-#sub "ha_02_376" Let me lick you as much as you want!
+#sub "ha_02_376" Lick me as much as you want!
 
-#sub "ha_02_377" Ha ha ... no, she looks good.
+#sub "ha_02_377" Ha ha ... do I look good like this?
 
-#sub "ha_02_378" Hey, well, already ... I said I ... Ah ...
+#sub "ha_02_378" yeah, m-more… c-cumming…aah…
 
 #sub "ha_02_379" Do not do that ... me, well, well ... oh, oh ...!
 
-#sub "ha_02_380" No, I will go ... I said ...
+#sub "ha_02_380" Oh no, I'm cumming, I'm cumming…
 
 #sub "ha_02_381" Good, nice ... amazing, feeling, nice ...!
 
@@ -3376,7 +3365,7 @@
 
 #sub "ha_02_386" Ah, no, I ... I'm afraid ... Ahh ...!
 
-#sub "ha_02_387" Such, oh, boobs ... I guess I ... I guess I ...!
+#sub "ha_02_387" Such, oh, boobs ... I guess!
 
 #sub "ha_02_388" Oh ... boobs, huh, sooooooooooooooooo ...
 
@@ -3386,7 +3375,7 @@
 
 #sub "ha_02_391" Ha ha ... well ... it was not a long time ago ...
 
-#sub "ha_02_392" Huh ... Wow, I ... I guess I like it.
+#sub "ha_02_392" hah… I-I'm… about to cum, don't look at me
 
 #sub "ha_02_393" Huh ... something, I feel like I've been quite a bit
 
@@ -3400,9 +3389,9 @@
 
 #sub "ha_02_398" Mu ... I do not force, it's the lowest!
 
-#sub "ha_02_399" I ... I guess it hurts ... well, maybe it was not bad
+#sub "ha_02_399" Even though it hurts ... I kind of liked it...
 
-#sub "ha_02_400" Fuu ... It felt good ... you do not readily do it
+#sub "ha_02_400" Fuu ... That felt good ...
 
 #sub "ha_02_401" what? Do you touch again?
 
@@ -3420,7 +3409,7 @@
 
 #sub "ha_02_408" No, my nipples are sensitive!
 
-#sub "ha_02_409" Hey ... yet, I feel something is wrong
+#sub "ha_02_409" I feel something is wrong
 
 #sub "ha_02_410" Wait ... are already getting hot
 
@@ -3436,7 +3425,7 @@
 
 #sub "ha_02_416" Wait a moment, let's rest!
 
-#sub "ha_02_417" Haha ...! Hey, such a thing, immediately, there it is!
+#sub "ha_02_417" Hey, such a thing, immediately, there it is!
 
 #sub "ha_02_418" No! There it is, more, and, I have to take a rest ...!
 
@@ -3456,9 +3445,9 @@
 
 #sub "ha_02_426" I feel a little, so please wait still
 
-#sub "ha_02_427" Well, if you get licked, you will have a strange feeling
+#sub "ha_02_427" Well, if I get licked, I will have a strange feeling
 
-#sub "ha_02_428" Such a thing, I will feel comfortable soon
+#sub "ha_02_428" Such a thing, I might cum soon from that...
 
 #sub "ha_02_429" Oh, my nipple, I'm getting sensitive
 
@@ -3470,7 +3459,7 @@
 
 #sub "ha_02_433" No ... Because that finger feels good
 
-#sub "ha_02_434" Oh, hot ... my fingers get hot and get strange ...
+#sub "ha_02_434" h-hot… fingers, the heat is strange…
 
 #sub "ha_02_435" No ... I feel comfortable ... I can not think of it ... I will ...
 
@@ -3506,13 +3495,13 @@
 
 #sub "ha_02_451" Oh ... that finger is inside ... amazing, good
 
-#sub "ha_02_452" Good, finger, Juvejuu
+#sub "ha_02_452" your fingers are making such squishy sounds.
 
 #sub "ha_02_453" Well ... that, there ... I am very, very comfortable!
 
 #sub "ha_02_454" Lame ... well, it is already funny and going crazy!
 
-#sub "ha_02_455" Great! The butt is full of lots of it!
+#sub "ha_02_455" Oh yes! My butt, filled up, feels so good.
 
 #sub "ha_02_456" Oh no ... no, I will soon have an ass ... from all of you ...
 
@@ -3538,9 +3527,9 @@
 
 #sub "ha_02_467" Barely ... there, do not touch it!
 
-#sub "ha_02_468" Stop it and close it.
+#sub "ha_02_468" Stop, let's finish this.
 
-#sub "ha_02_469" Hey ... No, do not push your fingers!
+#sub "ha_02_469" s-stop, your fingers, take them out!
 
 #sub "ha_02_470" Well, stop stopping fingering anymore!
 
@@ -3572,9 +3561,9 @@
 
 #sub "ha_02_484" I already have ... My nipples feel something ... Does it tickle ...
 
-#sub "ha_02_485" Hell ... something, soon ... ... over there ...
+#sub "ha_02_485" stop…something just now… your dick…
 
-#sub "ha_02_486" If it were done in such a continuous ... I will come ... soon ...
+#sub "ha_02_486" If you keep doing it like that ... I will come ... soon ...
 
 #sub "ha_02_487" Fingers, pleasant ... smoothly, going in
 
@@ -3618,39 +3607,39 @@
 
 #sub "hso_02_005" Oh, well, I guess he 's gonna be over ... oh
 
-#sub "hso_02_006" Ya ... No, I said ah ... oh
+#sub "hso_02_006" Yeah… oh no… I'm cumming …aah
 
-#sub "hso_02_007" Yaba, Kababa ... I, well, already ...
+#sub "hso_02_007" Yeah… oh no… I'm cumming …aah
 
 #sub "hso_02_008" I ... is this OK?
 
-#sub "hso_02_009" You can feel like this, do not you?
+#sub "hso_02_009" You can feel like this, can't you?
 
-#sub "hso_02_010" How? Feels good, is not it?
+#sub "hso_02_010" How? Feels good, Doesn't it?
 
-#sub "hso_02_011" Are you feeling it? Am I not quite amazing?
+#sub "hso_02_011" Are you feeling it? I know, I'm amazing!
 
 #sub "hso_02_012" Mfuu ... good, I, already ...
 
-#sub "hso_02_013" No, me, too, I do not want it anymore
+#sub "hso_02_013" It's no use.. I-I'm … cumming.
 
-#sub "hso_02_014" Oh, no, no, I do not want to go!
+#sub "hso_02_014" Oh, no, no, I do not want to cum yet!
 
-#sub "hso_02_015" I want to be comfortable · · ·
+#sub "hso_02_015" I want to feel good · · ·
 
-#sub "hso_02_016" Fair enough, even if you make it stronger,
+#sub "hso_02_016" Fair enough, I guess you can fuck me harder.
 
 #sub "hso_02_017" Oh well, not bad, I guess
 
-#sub "hso_02_018" More ... Even if it is intense,
+#sub "hso_02_018" Yes… do it rougher, it's good.
 
-#sub "hso_02_019" Well, good ... no, one day
+#sub "hso_02_019" Well, good ...
 
-#sub "hso_02_020" Ah, she looks good, she looks good already!
+#sub "hso_02_020" Ah, I'm gonna cum, I'm gonna cum already!
 
-#sub "hso_02_021" No, I, I, I already said that ...
+#sub "hso_02_021" Oh no… I-I'm almost cumming…
 
-#sub "hso_02_022" No ... Because I move ... Please stay still
+#sub "hso_02_022" No ... Because you move ... Please stay still
 
 #sub "hso_02_023" What ... I got quite excited
 
@@ -3658,41 +3647,41 @@
 
 #sub "hso_02_025" Only wake up on the lower body
 
-#sub "hso_02_026" Haa ... Mackerel, I do not want any more
+#sub "hso_02_026" I do not want any more
 
-#sub "hso_02_027" Good, nice, comfortable, I will go
+#sub "hso_02_027" Good, nice, so good, I'll cum like this...
 
-#sub "hso_02_028" Even ... well, I ... I guess that ... I guess!
+#sub "hso_02_028" A bit, just a bit more… I… oh feels so good…!
 
-#sub "hso_02_029" Hey .... There's something hot inside ...
+#sub "hso_02_029" Yaah… your cum! It's so hot inside me…
 
-#sub "hso_02_030" Inside, Dokdok, it is moving ...
+#sub "hso_02_030" Inside my womb, it is moving ...
 
-#sub "hso_02_031" Ah ... I'm drooling ...
+#sub "hso_02_031" Ah, my pussy is leaking...
 
-#sub "hso_02_032" You're falling down ...
+#sub "hso_02_032" Your cum... it's falling out of me...
 
-#sub "hso_02_033" It is full of hot
+#sub "hso_02_033" I'm so full of your hot cum
 
-#sub "hso_02_034" Wow, he's been out soooooo
+#sub "hso_02_034" Wow, you came soooo much!
 
-#sub "hso_02_035" Already ... Better in the body ....
+#sub "hso_02_035" Already ... in my body ....
 
 #sub "hso_02_036" It will soon be warming, this
 
 #sub "hso_02_037" Ha ha ... It was pretty bad.
 
-#sub "hso_02_038" It might have been surprising, is not it
+#sub "hso_02_038" Well, that was surprising, wasn't it?
 
-#sub "hso_02_039" Well, it sounds like they went together ... It was okay
+#sub "hso_02_039" Well, looks like we came together ... It was okay.. I guess
 
-#sub "hso_02_040" Fuu ... I went together ...
+#sub "hso_02_040" I came with you...
 
 #sub "hso_02_041" Well, I'm willing to keep going
 
 #sub "hso_02_042" Alright, please do not move
 
-#sub "hso_02_043" Do not forcibly ....
+#sub "hso_02_043" Do not force me ....
 
 #sub "hso_02_044" No, do not move anymore
 
@@ -3700,205 +3689,205 @@
 
 #sub "hso_02_046" No, no. ... No, she is ...
 
-#sub "hso_02_047" Cut ... feeling ... not to mention, it is not!
+#sub "hso_02_047" Cut it out!
 
 #sub "hso_02_048" Well ... OK, okay, quickly, at the end ...
 
-#sub "hso_02_049" Stop it, feel comfortable, because not
+#sub "hso_02_049" Stop it, that doesn't feel good.
 
 #sub "hso_02_050" No ... Already ... in a bad way,
 
 #sub "hso_02_051" No, no ... Absolutely ... no ... not!
 
-#sub "hso_02_052" No ... It's comfortable, nothing ... Ahh!
+#sub "hso_02_052" No ... It's not comfortable, nothing ...
 
 #sub "hso_02_053" Oh no, no ... Do not move anymore!
 
-#sub "hso_02_054" Is not it? It is! Do not stop inside! It is!
+#sub "hso_02_054" No! What! Pull it out! You're fucking cumming inside me!
 
-#sub "hso_02_055" No, no! Do not let it inside!
+#sub "hso_02_055" No, no! Don't cum inside me!
 
-#sub "hso_02_056" Why are you letting in, this pervert ...
+#sub "hso_02_056" Why are you cumming in my pussy? You fucking pervert ...
 
-#sub "hso_02_057" It is the worst of you to come inside, this fool!
+#sub "hso_02_057" It is the worst of you to come inside, you fool!
 
 #sub "hso_02_058" Cash! It is!
 
-#sub "hso_02_059" Stop it, do not put it!
+#sub "hso_02_059" Stop it, don't cum on me!
 
-#sub "hso_02_060" It's weird ... Do not put it on your body
+#sub "hso_02_060" It's weird ... Do not put it on my body
 
-#sub "hso_02_061" The worst ... I feel bad
+#sub "hso_02_061" Uhg...this is so gross...
 
 #sub "hso_02_062" Haa, ha, ha, like this, no more ...
 
 #sub "hso_02_063" Forced ... · · · the worst ...
 
-#sub "hso_02_064" Why are you going to ... this transformation
+#sub "hso_02_064" Why are you going to ...
 
-#sub "hso_02_065" Well ... no more do not do it together!
+#sub "hso_02_065" No more do not do it!
 
-#sub "hso_02_066" Wait, I can not have your ass
+#sub "hso_02_066" Wait, you can not have my ass
 
-#sub "hso_02_067" Do not make it hurt, do you?
+#sub "hso_02_067" Do not make it hurt.
 
 #sub "hso_02_068" No, it's not going to be crazy
 
-#sub "hso_02_069" No, I'm in the butt, huh
+#sub "hso_02_069" No, you're in my butt...
 
-#sub "hso_02_070" Oh, in the but ... It feels nice ... ...
+#sub "hso_02_070" Oh, in the butt ... It feels nice ... ...
 
-#sub "hso_02_071" Ugou .... In the butt, hot one is out
+#sub "hso_02_071" Oh my god! You shot your sperm in my ass!
 
-#sub "hso_02_072" Hey ... in your ass, I'm outta ...
+#sub "hso_02_072" Hey... you just came... in my ass...
 
-#sub "hso_02_073" Or, it's hanging from your ass ...
+#sub "hso_02_073" It's hanging from my ass ...
 
-#sub "hso_02_074" Just a while, do not look at me, already!
+#sub "hso_02_074" Do not look at me like this!
 
-#sub "hso_02_075" Oh, it's hot ... it's hanging on the buttocks
+#sub "hso_02_075" Oh, it's hot ... it's hanging from my asshole
 
-#sub "hso_02_076" It takes a hot topic on your ass ...
+#sub "hso_02_076" I took a hot topic on my ass ...
 
-#sub "hso_02_077" But you got it, so it's sticky ... It is already!
+#sub "hso_02_077" You came! It's so sticky!
 
-#sub "hso_02_078" Something's hot around the butt
+#sub "hso_02_078" What the... did you just cum in my ass?
 
-#sub "hso_02_079" I seemed to have gone in the butt
+#sub "hso_02_079" You seem to have cum in my butt
 
-#sub "hso_02_080" But ass, as it was ... it might be good
+#sub "hso_02_080" Was it good? Cumming inside my tight asshole?
 
-#sub "hso_02_081" ... I went with my ass in a strange way
+#sub "hso_02_081" I came with your dick in my ass.
 
-#sub "hso_02_082" Well ... I could go anywhere, anywhere ...
+#sub "hso_02_082" Well ... I could cum anywhere, anywhere ...
 
-#sub "hso_02_083" Stop it ... pulled out of your ass
+#sub "hso_02_083" Stop it ... pull it out of my ass
 
-#sub "hso_02_084" Please stop it, stop it in your ass!
+#sub "hso_02_084" Please stop it, take it out of my ass!
 
-#sub "hso_02_085" Oh, it hurts, your butt is bad.
+#sub "hso_02_085" Oh, it hurts, it hurts being in my butt.
 
 #sub "hso_02_086" No ... I do not want to go this way
 
-#sub "hso_02_087" Wow ... absolutely, it's in the ass ... Well ...
+#sub "hso_02_087" Wow ... it's in the ass ... Well ...
 
-#sub "hso_02_088" Stop it, do not want your ass
+#sub "hso_02_088" Stop it, I do not want you in my ass
 
-#sub "hso_02_089" Yes, it hurts! Pull out of your ass!
+#sub "hso_02_089" Yes, it hurts! Pull out of my ass!
 
-#sub "hso_02_090" Oh, what you do with your ass ... Stop it!
+#sub "hso_02_090" Oh, what are you doing with my ass ... Stop it!
 
-#sub "hso_02_091" What is ... this ass ...
+#sub "hso_02_091" What is ... that's my ass ...
 
-#sub "hso_02_092" No way with ass ... No ... Ah!
+#sub "hso_02_092" No way, not my ass ... No ... Ah!
 
-#sub "hso_02_093" Well ... in the butt, do not put it out
+#sub "hso_02_093" You better not cum in my ass!
 
-#sub "hso_02_094" O ... do not put it in your ass!
+#sub "hso_02_094" Do not put it in my ass!
 
-#sub "hso_02_095" Well, well ... from the butt ... drooping ...
+#sub "hso_02_095" Well, well ...it's dripping from my ass.
 
-#sub "hso_02_096" Well ... I do not look at such a place ... this pervert!
+#sub "hso_02_096" Don't watch that! I can't belive this pervert!
 
-#sub "hso_02_097" Oh ... stop it, do not put it down
+#sub "hso_02_097" Oh ... stop it, do not put it down my ass
 
 #sub "hso_02_098" Well ... do not put it in such a place ...!
 
-#sub "hso_02_099" Well ... buttocks, I feel bad
+#sub "hso_02_099" It's in my ass, it's in my ass....
 
-#sub "hso_02_100" Stop it ... my ass is getting strange ...
+#sub "hso_02_100" Stop it ... my ass is starting to hurt...
 
-#sub "hso_02_101" Oh, in the ass ... I'm billed
+#sub "hso_02_101" Oh, in the ass ...
 
-#sub "hso_02_102" Already, do it in the butt! Stop it!
+#sub "hso_02_102" Don't put it in my butt! Stop it!
 
-#sub "hso_02_103" Why are you using your ass, this transformation
+#sub "hso_02_103" Why are you using my ass?
 
 #sub "hso_02_104" No more with your ass!
 
-#sub "hso_02_105" Wait a moment ... Because there is still some strange feeling ...!
+#sub "hso_02_105" Wait a moment... This feels kinda weird...
 
-#sub "hso_02_106" Oh no .... No ... I will become strange if I make it strong ...
+#sub "hso_02_106" No ... I'm gonna go crazy if you do it that hard...
 
-#sub "hso_02_107" A little, no, if you move so soon ... Aa
+#sub "hso_02_107" If you move so soon...
 
-#sub "hso_02_108" Oh no ... No, I will go back again.
+#sub "hso_02_108" Oh no... That's gonna make me cum...
 
 #sub "hso_02_109" Oh, well ... this is soon ... Oh!
 
-#sub "hso_02_110" Hey ... you can move a lot more!
+#sub "hso_02_110" Come on, don't be afraid to give it to me. I can take it!
 
-#sub "hso_02_111" If it is about this, can you keep on, right?
+#sub "hso_02_111" You can keep going, right?
 
-#sub "hso_02_112" Can you do it? You have not taken a rest ...
+#sub "hso_02_112" Can you still do it? You have not taken a rest ...
 
 #sub "hso_02_113" I feel good, I feel good
 
 #sub "hso_02_114" Well, it's alright ... I also have a chance ...
 
-#sub "hso_02_115" You can move me like this
+#sub "hso_02_115" You can fuck me like this.
 
-#sub "hso_02_116" I will continue but I have no problem, do you?
+#sub "hso_02_116" I have no problem if we keep going. 
 
 #sub "hso_02_117" Okay, I will continue it!
 
 #sub "hso_02_118" No ... I will feel comfortable, sooner or later.
 
-#sub "hso_02_119" Well, soon, over there, I will be hot!
+#sub "hso_02_119" Well, soon, right there, I will be hot!
 
-#sub "hso_02_120" Medium · · · It is very hot · · ·
+#sub "hso_02_120" My womb… feels very warm…
 
-#sub "hso_02_121" Inside ... a lot going out
+#sub "hso_02_121" My insides… are getting filled up
 
 #sub "hso_02_122" Oh ... it's overflowing
 
-#sub "hso_02_123" I'm falling down again, I'm overdoing too much
+#sub "hso_02_123" I'm oozing sperm again, you're overdoing too much
 
-#sub "hso_02_124" Also, a lot of it has appeared.
+#sub "hso_02_124" Look at all this cum in me.
 
-#sub "hso_02_125" I'm hot, it is spouting out!
+#sub "hso_02_125" So much! It's spouting out!
 
-#sub "hso_02_126" Also, I ran into this situation
+#sub "hso_02_126" Would you look at this situation I ran into...
 
-#sub "hso_02_127" You are going out too much
+#sub "hso_02_127" You are pumping out too much cum
 
 #sub "hso_02_128" Oh ~ Ah, ... I went back again.
 
-#sub "hso_02_129" I will not be tired if I go on in this kind of succession
+#sub "hso_02_129" Won't you be tired if we go on in this kind of succession
 
-#sub "hso_02_130" Well I just went together ... I heard it.
+#sub "hso_02_130" Well we just came together... I guess it's kind of cute...
 
-#sub "hso_02_131" Do not think that compatibility is good because you can go along with it many times
+#sub "hso_02_131" Don't think that I like you just beacue I let you cum with me. Because I don't.
 
-#sub "hso_02_132" No! Alright, let's finish it.
+#sub "hso_02_132" No! Let's finish it.
 
-#sub "hso_02_133" Why are you going to continue? It is! Please stop it!
+#sub "hso_02_133" Why are you going to continue? Please stop it!
 
-#sub "hso_02_134" Stop it ... Let's do it again!
+#sub "hso_02_134" Stop it ... Let's not do it again!
 
-#sub "hso_02_135" Well ... no more ... it's overruled ...
+#sub "hso_02_135" No more ... it's overruled ...
 
 #sub "hso_02_136" Stop it, I do not want to go anymore ...!
 
 #sub "hso_02_137" Stop it.
 
-#sub "hso_02_138" Well, please do so now
+#sub "hso_02_138" Well, please stop so now
 
 #sub "hso_02_139" Do not move anymore!
 
-#sub "hso_02_140" No, I do not want to go ... I do not want to go ...!
+#sub "hso_02_140" No, I do not want to cum ... I do not want to cum ...!
 
 #sub "hso_02_141" Oh ... Stop it, really ... I truly love you!
 
-#sub "hso_02_142" No, in the meantime, no good!
+#sub "hso_02_142" No, no good!
 
-#sub "hso_02_143" Already do not let me inside!
+#sub "hso_02_143" You're cumming already! Do not let it out inside me!
 
-#sub "hso_02_144" No ... Already ... with a bullshit ...
+#sub "hso_02_144" No ... Already ... with this bullshit ...
 
-#sub "hso_02_145" Also, it hangs, is coming ... the worst
+#sub "hso_02_145" It's so gross when it hangs on me like this...
 
-#sub "hso_02_146" Also it's on ... It feels bad
+#sub "hso_02_146" It's on me! You came on me! You fucking pervert!
 
 #sub "hso_02_147" Worst ... Do not leave me ...
 
@@ -3906,91 +3895,91 @@
 
 #sub "hso_02_149" Huh ... this is over, is not it?
 
-#sub "hso_02_150" I do not want to go anymore
+#sub "hso_02_150" I do not want to cum anymore
 
-#sub "hso_02_151" I do not want to go any more!
+#sub "hso_02_151" I do not want to cum any more!
 
 #sub "hso_02_152" You already enjoyed enough? Let me finish quickly ...
 
 #sub "hso_02_153" I will finish this ... no more ...
 
-#sub "hso_02_154" No, ass is getting strange!
+#sub "hso_02_154" No, your dick is in the wrong hole!
 
-#sub "hso_02_155" Your ass may have become amusing
+#sub "hso_02_155" It's not amusing to have a dick in your ass, ya know?
 
-#sub "hso_02_156" Oh, in the ass, incompatibility ... There is rolling ...
+#sub "hso_02_156" Oh, in the ass, it's not supposed to go in that hole, you idiot!
 
 #sub "hso_02_157" No, I can not go ...
 
-#sub "hso_02_158" No, I will go with my ass ... Oh yeah!
+#sub "hso_02_158" No, I'm gonna cum with my ass ... Oh yeah!
 
-#sub "hso_02_159" Hey ... and, it's hot in ...
+#sub "hso_02_159" My insides are so warm…
 
-#sub "hso_02_160" Oh, it's out ...
+#sub "hso_02_160" You're cumming in my butt…
 
-#sub "hso_02_161" Ah ... from the butt ... you are leaning, are coming
+#sub "hso_02_161" A... from the butt... I can feel your cum leaking... 
 
-#sub "hso_02_162" The butt is strange ... Feeling
+#sub "hso_02_162" Cum in the butt is a strange feeling...
 
-#sub "hso_02_163" It's hung on your ass ...
+#sub "hso_02_163" It's dripping from my ass...
 
-#sub "hso_02_164" Oh ... a lot of it is on the ass ...
+#sub "hso_02_164" Oh ... a lot of it is on my ass ...
 
-#sub "hso_02_165" Butt, hot, strange feeling
+#sub "hso_02_165" My butt feels all hot and strange...
 
 #sub "hso_02_166" Ass, I'm going crazy, maybe ...
 
-#sub "hso_02_167" Ha ha ... after all, it's strange that you go in the butt ...
+#sub "hso_02_167" It's strange that you came in the butt ...
 
 #sub "hso_02_168" Butt ... no more ...
 
-#sub "hso_02_169" I do not mean that I'm going to get together in the butt ... something strange
+#sub "hso_02_169" I didn't mean that we were going to get together in the butt...
 
-#sub "hso_02_170" My butt, was it that good? Well it's natural
+#sub "hso_02_170" My butt, was it that good? Well it's unnatural...
 
-#sub "hso_02_171" Well, no ... ass, if it hurts!
+#sub "hso_02_171" No ... it hurts!
 
 #sub "hso_02_172" No, stop the butt ...
 
-#sub "hso_02_173" No ... Because your ass is already getting strange
+#sub "hso_02_173" No ... Because my ass is already getting strange
 
 #sub "hso_02_174" No ... ass, here, broke!
 
-#sub "hso_02_175" Stop it, forgive me your ass!
+#sub "hso_02_175" Stop it, forgive me, take your cock out of my ass!
 
-#sub "hso_02_176" Oh, it hurts ... get out of your ass!
+#sub "hso_02_176" Oh, it hurts ... get out of my ass!
 
 #sub "hso_02_177" No, do not do it, do not do it!
 
-#sub "hso_02_178" No more, do not move it with your butt!
+#sub "hso_02_178" No more, do not move it in my butt!
 
 #sub "hso_02_179" Ha ha ... No, my ass is already ... Ah
 
 #sub "hso_02_180" No, sir, with a butt ... Ahhh!
 
-#sub "hso_02_181" Well, again ... In the ass, hot ...
+#sub "hso_02_181" You filled my ass...
 
-#sub "hso_02_182" Also, it's out with your butt ...
+#sub "hso_02_182" Also, it's cumming with my butt ...
 
-#sub "hso_02_183" It's hot ... ... from her ass ... he's coming.
+#sub "hso_02_183" It's hot... in her ass ... he's coming.
 
 #sub "hso_02_184" Well ... Also, my ass is getting strange ...
 
-#sub "hso_02_185" No more, please do not hang it on the ass ...
+#sub "hso_02_185" No more, please do not hang it on my ass ...
 
-#sub "hso_02_186" Ass, in a murky way, ...
+#sub "hso_02_186" In a murky way, ...
 
-#sub "hso_02_187" Butt, hot and disgusting
+#sub "hso_02_187" Hot and disgusting
 
-#sub "hso_02_188" The butt, it may have broken ...
+#sub "hso_02_188" My butt, it may have broken ...
 
-#sub "hso_02_189" Ha ha ... I'm already in the butt ... I do not want to go
+#sub "hso_02_189" Ha ha ... You're in my butt ... I do not want to cum like this....
 
-#sub "hso_02_190" Forcibly, with your butt ... do not ...
+#sub "hso_02_190" So much force, in my butt ... do not ...
 
-#sub "hso_02_191" Because your ass is not comfortable
+#sub "hso_02_191" My ass is not comfortable
 
-#sub "hso_02_192" Buttocks are already stopping ...
+#sub "hso_02_192" Butt are already stopping ...
 
 #sub "hso_02_193" · · Ha ha hu · · · · · · · · · · · · ·
 
@@ -3998,15 +3987,15 @@
 
 #sub "hso_02_195" Oh, well ... well ... well ... good morning ...
 
-#sub "hso_02_196" · · · · · · · · · · ま ら, ま た ぴ ょ う そ う そ う · · · へ へ
+#sub "hso_02_196" Well, also happiness lie 
 
-#sub "hso_02_197" Oh ... well, it is ... Ayah ...
+#sub "hso_02_197" Oh ... well, it's in ... Ayah ...
 
 #sub "hso_02_198" Fu ... ... It's hot, I will be out ...
 
 #sub "hso_02_199" Hey ... are you tired?
 
-#sub "hso_02_200" Shugo ... I'm sorry ... ahahahaha
+#sub "hso_02_200" It's dripping…ahahaha I'm sorry ... ahahahaha
 
 #sub "hso_02_201" A lot ... I'm tired ...
 
@@ -4014,61 +4003,61 @@
 
 #sub "hso_02_203" It's white ... amazing ... ...
 
-#sub "hso_02_204" Mushrooms ... full ... ... I got it ...
+#sub "hso_02_204" Semen... so full ... ... I got it ...
 
 #sub "hso_02_205" Hehe ... a lot of smells ...
 
 #sub "hso_02_206" Mr. · · ·, Mara · · · · · · · · · · · · · · · Aha
 
-#sub "hso_02_207" · · · Feeling fun · · · · Feeling feeble · · · To Hehehe
+#sub "hso_02_207" Feeling fun · · · · Feeling feeble · · · To Hehehe
 
-#sub "hso_02_208" Well, together ... I went
+#sub "hso_02_208" Together... we came....
 
 #sub "hso_02_209" ... Good ... nice ... It is fun.
 
-#sub "hso_02_210" To butt ... · · · · · · ·
+#sub "hso_02_210" my butt… hehe…feels good…
 
-#sub "hso_02_211" It's an ass ... Uh oh well ...
+#sub "hso_02_211" It's in my ass ... Uh oh well ...
 
-#sub "hso_02_212" Ha ha ... buttock ... awesome ... good
+#sub "hso_02_212" hah…my ass…amazingly … good
 
-#sub "hso_02_213" Butt ... · buttock · · ·, い っ ゃ ゃ う ぅ
+#sub "hso_02_213" My butt… my butt… oh, it's cumming…
 
-#sub "hso_02_214" Ooh ... posthumously ... Take it ...
+#sub "hso_02_214" My butt… my butt… oh, it's cumming…
 
 #sub "hso_02_215" Haha ... It's hot ... It's hot.
 
 #sub "hso_02_216" I'm ... it's hot ... ah ...
 
-#sub "hso_02_217" I am leaning from the buttocks ... to ...
+#sub "hso_02_217" I am leaking from my asshole ...
 
-#sub "hso_02_218" I'm leaving ... I'm leaning a lot ... To Hehehe
+#sub "hso_02_218" I'm leaking ... I'm leaking a lot ... To Hehehe
 
 #sub "hso_02_219" It took ... It's hot.
 
-#sub "hso_02_220" Muro ... It will take ...
+#sub "hso_02_220" I took it ...
 
-#sub "hso_02_221" Full ... a lot of hot clothes
+#sub "hso_02_221" Full ... a lot of hot cum
 
-#sub "hso_02_222" Feeling good ... this smell ... SUKI
+#sub "hso_02_222" Feeling good ...I love  this smell ... 
 
-#sub "hso_02_223" Buttobo ... Feel so good
+#sub "hso_02_223" Feel so good
 
-#sub "hso_02_224" Now ... Ass ... I was broken ...
+#sub "hso_02_224" Now ... my ass ... It was broken ...
 
-#sub "hso_02_225" Buttocks ... nice
+#sub "hso_02_225" My butt…feels... nice
 
-#sub "hso_02_226" Haha ... Otoshira ... Atsui ... Haha
+#sub "hso_02_226" Haha… my butt…so hot…ahaha
 
 #sub "hso_02_227" No, I am too tired.
 
-#sub "hso_02_228" No ... I do not have to go that far.
+#sub "hso_02_228" No more… I really can't go on.
 
 #sub "hso_02_229" Why ... why, why are you stuck?
 
-#sub "hso_02_230" Rice! It is! I guess it's not like Iwaouhou
+#sub "hso_02_230" I guess it's not like Iwaouhou
 
-#sub "hso_02_231" Tamara ... I do not know ... Ichaaou!
+#sub "hso_02_231" I don't know ... I think I'm gonna...
 
 #sub "hso_02_232" Well, in the middle of the rug ......
 
@@ -4086,7 +4075,7 @@
 
 #sub "hso_02_239" Lazy, tight
 
-#sub "hso_02_240" Wait, I wanna go tired ...
+#sub "hso_02_240" Wait, I wanna go. I'm tired ...
 
 #sub "hso_02_241" No, I can not get rid of it anymore
 
@@ -4100,11 +4089,11 @@
 
 #sub "hso_02_246" It's hard ... let's do it badly
 
-#sub "hso_02_247" Ya ... I do not want to go anymore
+#sub "hso_02_247" Ya ... I do not want to cum anymore
 
 #sub "hso_02_248" I do not want to go anywhere, I do not want it.
 
-#sub "hso_02_249" Lameha ... Naka is already stopped ...
+#sub "hso_02_249" Broken, I already stopped ...
 
 #sub "hso_02_250" Naka, you can not stop it ... oh no!
 
@@ -4114,13 +4103,13 @@
 
 #sub "hso_02_253" Hi ... I can not help it anymore ...
 
-#sub "hso_02_254" Wow ... already alright ... Do not call me
+#sub "hso_02_254" Wow ... already alright ... Do not call me anymore
 
 #sub "hso_02_255" Uhh ... well, I'm sorry ...
 
 #sub "hso_02_256" However, if it goes out too much, it withers ... I wish ...
 
-#sub "hso_02_257" It is somewhat sad ... from now ... but it is hard
+#sub "hso_02_257" It is somewhat sad ... from now ...
 
 #sub "hso_02_258" No more ... stop ...
 
@@ -4128,53 +4117,51 @@
 
 #sub "hso_02_260" I ... what time will you do ... this one, what ...
 
-#sub "hso_02_261" Wow ... posterior butt!
+#sub "hso_02_261" Wow ... in the butt!
 
-#sub "hso_02_262" Ahh ... already, buttocks, broken!
+#sub "hso_02_262" Ahh ... already, butt, broken!
 
-#sub "hso_02_263" Hey ... posterior, it will be amusing ...!
+#sub "hso_02_263" Hey ... in the butt will be amusing ...!
 
-#sub "hso_02_264" Lame Me ... well, Ipuga, Ichigo
+#sub "hso_02_264" Break Me ... well, Ipuga, Ichigo
 
-#sub "hso_02_265" Oh ... in the butt ... Also, I will go!
+#sub "hso_02_265" Oh ... in the butt ... I'm gonna cum!
 
 #sub "hso_02_266" Oh no ... inside is hot ...
 
 #sub "hso_02_267" Ah .... Inside, ... it's hot
 
-#sub "hso_02_268" Ohuu ... Faa
-
-#sub "hso_02_269" Ooh ... from the butt ... Also leaning, kiraruuu
+#sub "hso_02_269" Ooh ... from the butt ... I'm leaking
 
 #sub "hso_02_270" Ahh ... to the buttocks, huh
 
 #sub "hso_02_271" Huh ... okay, fucking ...
 
-#sub "hso_02_272" Butt ... so many things, a lot
+#sub "hso_02_272" Butt ... so much cum, so much
 
 #sub "hso_02_273" Osuri ... I'm getting tired ...
 
 #sub "hso_02_274" Oh ... my butt is already too weird
 
-#sub "hso_02_275" Do it in your ass ... It might be impossible anymore ...
+#sub "hso_02_275" In my ass ... It might be impossible anymore ...
 
-#sub "hso_02_276" Already ... ass is enough ... so
+#sub "hso_02_276" Already ... my ass had enough ... so
 
 #sub "hso_02_277" Butt ... feeling good, but it's impossible
 
-#sub "hso_02_278" Well ... I can not stop the butt
+#sub "hso_02_278" Ouch… my ass… quit it!
 
 #sub "hso_02_279" No more, please do not leave me again
 
-#sub "hso_02_280" Stop ... ... butt ... this will break up ...
+#sub "hso_02_280" Stop ... ... my butt ... this will break up ...
 
 #sub "hso_02_281" Wow ... posterior, funny, let's be!
 
 #sub "hso_02_282" Hey ... Oh, butt ... It's already over!
 
-#sub "hso_02_283" Haa ... Nakagawa ... Stop it ...
+#sub "hso_02_283" ... Stop it ...
 
-#sub "hso_02_284" Middle: Medium ... feeling ... bad ...
+#sub "hso_02_284" ... feeling ... bad ...
 
 #sub "hso_02_285" Huhu ... well, well ...
 
@@ -4184,9 +4171,9 @@
 
 #sub "hso_02_288" Oh ... oh, but ... hot ...
 
-#sub "hso_02_289" Haa ... already ... Finish, this fool
+#sub "hso_02_289" Haa ... already ... Finish this, fool
 
-#sub "hso_02_290" Him, it's persistent ... stop it already
+#sub "hso_02_290" It's too persistent ... stop it already
 
 #sub "hso_02_291" Huh ... huh ... I do not want to go any more ...
 
@@ -4212,147 +4199,147 @@
 
 #sub "hso_02_302" It may not be bad · · ·
 
-#sub "hso_02_303" More ... Even if it moves, there is no problem
+#sub "hso_02_303" More ... Even if it's hard, there is no problem
 
-#sub "hso_02_304" I feel like I'm feeling something better ... I just might feel it
+#sub "hso_02_304" I feel like I'm getting better at this... I just might feel it
 
-#sub "hso_02_305" Well, it moved so much ... Maybe it's going crazy ...
+#sub "hso_02_305" Well, it moved so much ... Maybe I'm going crazy ...
 
-#sub "hso_02_306" Damee, something ... another, and the other ... I I ... Aaa'!
+#sub "hso_02_306" ... another, and the other ... I I ... Aaa'!
 
 #sub "hso_02_307" Oh, nice ... It feels good ... ohhh!
 
-#sub "hso_02_308" I ... Ichita ... I, this way ... Iwaouoooooo!
+#sub "hso_02_308" I'm cu-cu-cumming… right now…this way ... Iwaouoooooo!
 
-#sub "hso_02_309" Much ... ... kiss ... so I can do more
+#sub "hso_02_309" Kiss me ... so I can do more
 
-#sub "hso_02_310" , Kiss, Oh well, not bad, from
+#sub "hso_02_310" Kissme, that's good 
 
-#sub "hso_02_311" Kiss ... OK, more ... Continue
+#sub "hso_02_311" Kiss me... OK, more ... Continue
 
-#sub "hso_02_312" Mfuu ... More kiss ... Continue ... OK
+#sub "hso_02_312" ... More kisses ... keep going
 
-#sub "hso_02_313" I will move, is not it?
+#sub "hso_02_313" I will move
 
-#sub "hso_02_314" How? It feels good, is not it? Right?
+#sub "hso_02_314" How? It feels good, doesn't it? Right?
 
 #sub "hso_02_315" Do you feel it? Well, well, well, that's fun, though!
 
-#sub "hso_02_316" It moves a bit fiercely, but is it okay? It is!
+#sub "hso_02_316" It moves a bit fiercely, but it's okay.
 
-#sub "hso_02_317" If you want to go so much, you can go out!
+#sub "hso_02_317" If you want to cum so much, just fucking cum inside me!
 
-#sub "hso_02_318" Do you want to put it in? It can not be helped, it's okay!
+#sub "hso_02_318" Do you want to put it in? Then what are you waiting for, just cum already!
 
-#sub "hso_02_319" Can not stand it? Then you can just leave it!
+#sub "hso_02_319" What's the matter, does my pussy feel too good? Give it up then, cum for me.
 
 #sub "hso_02_320" Ha ha ... with, feeling ... feeling
 
-#sub "hso_02_321" Madness is very hot in my stomach
+#sub "hso_02_321" It's so hot! I can feel it! You came right in my womb!
 
-#sub "hso_02_322" Awesome ... a lot filled in, ...
+#sub "hso_02_322" Awesome... I'm so full of cum right now...
 
-#sub "hso_02_323" Huhu ... ... Ah ... I'm sorry ... ... It's a waste ...
+#sub "hso_02_323" I'm sorry... Such a waste of precious cum...
 
-#sub "hso_02_324" Huh ... ... well, it's already overflowing!
+#sub "hso_02_324" You came so much it's overflowing!
 
-#sub "hso_02_325" Oh ... ... It's hot ... I brought it up ...
+#sub "hso_02_325" Look at how much you put in me...
 
-#sub "hso_02_326" Oh ... it's getting hot
+#sub "hso_02_326" aah… it's warm all over.
 
 #sub "hso_02_327" I do not know why ... I am overwriting it like that ...
 
-#sub "hso_02_328" Ah ... your, really ... are not you going out?
+#sub "hso_02_328" Ah... you're..really? Are you cumming???
 
-#sub "hso_02_329" It was short ... was it collected?
+#sub "hso_02_329" It was short... was it collected?
 
-#sub "hso_02_330" Slimy, mushy ... awesome smell
+#sub "hso_02_330" Slimy, sticky ... awesome smell
 
-#sub "hso_02_331" You are not deep, this one
+#sub "hso_02_331" You can't reach very deep, can you?
 
 #sub "hso_02_332" Huh ... Oh well, it feels good
 
-#sub "hso_02_333" Fuu, I did it properly ... I feel good
+#sub "hso_02_333" You did it properly ... I feel good
 
-#sub "hso_02_334" Well, well, I could enjoy it as it was. Good hard work.
+#sub "hso_02_334" Well, well, I enjoyed that. Good work. I'm impressed.
 
-#sub "hso_02_335" Fuu ... I guess I could get along somewhere ... well, it was not good
+#sub "hso_02_335" Huh...I guess you made me cum...Even though it wasn't that good.
 
-#sub "hso_02_336" Yeah ... I feel like I can get along with it
+#sub "hso_02_336" Yeah... I think that might be good enough to make me cum.
 
-#sub "hso_02_337" I just got along but it just happened to be good timing
+#sub "hso_02_337" I just came, But it just happened to be good timing is all. You're not that good.
 
 #sub "hso_02_338" It's okay, you can move faster
 
-#sub "hso_02_339" Do not worry, it will be fine even if you intensify!
+#sub "hso_02_339" Come on, you pussy, ruck me like you mean it!
 
-#sub "hso_02_340" Good, good ... I hate it if you make it more pleasant
+#sub "hso_02_340" Good, good ... I hate it if you make it too easy.
 
-#sub "hso_02_341" Stay as it is ... stirring! It is!
+#sub "hso_02_341" Just like that! Stir you cock in my pussy!
 
-#sub "hso_02_342" There is no more room for a pussy ...!
+#sub "hso_02_342" There's no more room in my pussy!
 
-#sub "hso_02_343" Pussy feeling, good! Well, let 's go!
+#sub "hso_02_343" That feels good in my pussy, you might make me cum yet...
 
-#sub "hso_02_344" Okay ... I'm going on a pussy!
+#sub "hso_02_344" Okay... now my pussy is gonna cum...
 
-#sub "hso_02_345" Well, good ... my hips are moving without permission
+#sub "hso_02_345" It's so goodmy hips are moving without permission
 
-#sub "hso_02_346" No, I can not wait anymore ...
+#sub "hso_02_346" No, I can not wait anymore... make me cum...
 
-#sub "hso_02_347" Oh ... I feel it, I feel great
+#sub "hso_02_347" Oh... I feel it, it feels great
 
-#sub "hso_02_348" The dick is feeling good ... body is going to move!
+#sub "hso_02_348" Your dick it feels so good ... It makes my body move on its own!
 
-#sub "hso_02_349" Well, go talking ... pussy, Ichaaou
+#sub "hso_02_349" I'm cumming, I-I'm cumming … my pussy … oh fuck yaaaaahh
 
-#sub "hso_02_350" No, my rice cake ... I already have it!
+#sub "hso_02_350" No, my rice cake... I already have it!
 
-#sub "hso_02_351" Pussy, I will go, I will go! Oh!
+#sub "hso_02_351" My pussy, I'm gonna cum, I'm gonna cum! Oh!
 
-#sub "hso_02_352" Okay, let me be you ... I will do it properly
+#sub "hso_02_352" Okay, let me fuck you ... I will do it properly
 
-#sub "hso_02_353" This is pretty exciting, but
+#sub "hso_02_353" This is pretty exciting, but...
 
-#sub "hso_02_354" No, I will move this, so please stay still
+#sub "hso_02_354" No, I'm gonna fuck you this time, so you better stay still.
 
-#sub "hso_02_355" Good, ... It's pretty good to attack
+#sub "hso_02_355" Good... It's pretty good to attack it like that.
 
-#sub "hso_02_356" Feeling good, I'm going on pussy!
+#sub "hso_02_356" Feels good, my pussy's cumming!
 
-#sub "hso_02_357" Okay, let's go with a pussy!
+#sub "hso_02_357" Okay, let's cum with my pussy!
 
 #sub "hso_02_358" Omocho, more messed up!
 
-#sub "hso_02_359" In the back, a lot of hot things are coming out
+#sub "hso_02_359" Oh god, I feel your semen flowing inside me!
 
-#sub "hso_02_360" Nice ... inside pussy ... hot, it's overflowing
+#sub "hso_02_360" Yes… there's so much inside of my pussy … so much it's overflowing.
 
 #sub "hso_02_361" Ahuu ... semen, it's overflowing
 
-#sub "hso_02_362" Mfuu ... it's too much to put out so much ...
+#sub "hso_02_362" Mfuu ... it's too much! How can you cum so much ...
 
 #sub "hso_02_363" Oh ... it's hot and it's hot
 
-#sub "hso_02_364" Ha ha ... semen, you can put more of it ...
+#sub "hso_02_364" Ha ha ... pump more of you seed into me ...
 
 #sub "hso_02_365" Huh ... semen, mushy, very hot ...
 
 #sub "hso_02_366" This ... it's sooo thick and hot ...
 
-#sub "hso_02_367" Haa ... Thanks, pussy ... It is still not hot
+#sub "hso_02_367" Haa ... Thanks, you came in my pussy... It is still not hot
 
-#sub "hso_02_368" Well it was comfortable ... Well that happened ... it was not too bad
+#sub "hso_02_368" Well it was okay... Well that happened ... it wasn't too bad...
 
-#sub "hso_02_369" Together, I got better feeling ... It was good so far
+#sub "hso_02_369" It was a little better being with you this time... It's good so far
 
-#sub "hso_02_370" Right now ... get along ... It was quite bad
+#sub "hso_02_370" Right now... get along... It was quite bad
 
 #sub "hso_02_371" Stop it ... please do not move already!
 
 #sub "hso_02_372" I've already pulled out ... I'm out!
 
-#sub "hso_02_373" Let's do it ... Please, this pervert!
+#sub "hso_02_373" ... Please stop, you pervert!
 
 #sub "hso_02_374" Such ... ... stop it already!
 
@@ -4360,213 +4347,213 @@
 
 #sub "hso_02_376" Oh no ... Absolutely, I ... well!
 
-#sub "hso_02_377" No ... I already ... I will say it!
+#sub "hso_02_377" No ... I already ... I'm gonna cum!
 
 #sub "hso_02_378" Wow, now ... to lazily
 
 #sub "hso_02_379" No, not much ... Do not move!
 
-#sub "hso_02_380" Oh, you something ... absolutely, forgiveness, because it is not!
+#sub "hso_02_380" Oh, you! I won't forgive you for this!
 
-#sub "hso_02_381" Ugh · · · intensely · · · move, do not · · ·.
+#sub "hso_02_381" Ugh, don't more so intensely.
 
-#sub "hso_02_382" No, I do not want to go ... absolutely ... Ay ... Ah!
+#sub "hso_02_382" No, I do not want to cum ... absolutely not!
 
-#sub "hso_02_383" Ah ... well, such a comfortable something ... aha ... no way!
+#sub "hso_02_383" Ah ... well, such a good feeling... aha ... no way!
 
-#sub "hso_02_384" I do ... ... I ... I ... um ... ぁ あ ぁ っ!
+#sub "hso_02_384" I do ... ... I ... I ... um ... Hey!
 
-#sub "hso_02_385" And? It is! Stop it, hey inside!
+#sub "hso_02_385" Stop it, you're still inside!
 
-#sub "hso_02_386" why! Is it? Why are you putting in!
+#sub "hso_02_386" You fucker! Why are you cumming in my pussy?!
 
-#sub "hso_02_387" Fuuguu ... Oh ... why, let it inside, this pervert!
+#sub "hso_02_387" Why, he let it go inside, this filthy pervert came inside me!
 
-#sub "hso_02_388" Ah ... Wow, it's the worst that ... to be released ...
+#sub "hso_02_388" Ah ... Wow, it's the worst... to be released like that...
 
-#sub "hso_02_389" Oh ... and it's on ... It feels bad
+#sub "hso_02_389" Oh ... and it's on me ... It feels so gross!
 
-#sub "hso_02_390" Just It is! Where is something going on! This idiot!
+#sub "hso_02_390" Where is something going on! This idiot!
 
 #sub "hso_02_391" Uh ... no, no what's this, it's not stuffy
 
 #sub "hso_02_392" The worst ... why are you going to put this on, okay?
 
-#sub "hso_02_393" Ha ha ha, huh, it was blown away ... Mutatsukuu
+#sub "hso_02_393" Ha ha ha, huh, it was blown away... 
 
-#sub "hso_02_394" Why ... you have to see such an eye! Mortifying
+#sub "hso_02_394" Why do you want to see me like this! It's mortifying.
 
 #sub "hso_02_395" Absolutely, it feels nice, I have not been ...
 
 #sub "hso_02_396" Together with something ... absolutely ... because I have not ...
 
-#sub "hso_02_397" You may move as you move, but do it properly
+#sub "hso_02_397" You may move as you want, but do it properly
 
-#sub "hso_02_398" If you make me feel good, I'll go out with you, ne
+#sub "hso_02_398" If you make me feel good, I'll keep on dating you.
 
-#sub "hso_02_399" Suddenly, do not move quickly ... Because I can not follow
+#sub "hso_02_399" Do not move quickly... I'm not that into yet
 
-#sub "hso_02_400" You can move as you like, but ... do not be unhappy, are not you?
+#sub "hso_02_400" You can move as you like... do not be unhappy.
 
-#sub "hso_02_401" Ahaba, maybe you can already do it ... oh yeah!
+#sub "hso_02_401" Maybe you can already do it ... oh yeah!
 
-#sub "hso_02_402" Well, I feel comfortable, maybe ... I said that ...!
+#sub "hso_02_402" Well, that feels good, maybe... if you try a little harder I might just...
 
-#sub "hso_02_403" Ha ha ... inside is very hot
+#sub "hso_02_403" Ha ha ... my insides are full of hot cum...
 
-#sub "hso_02_404" Oh ... inside, the semen is ... ...
+#sub "hso_02_404" nhaah… your semen is coming out from my insides…
 
-#sub "hso_02_405" Mfuu ... Wow ... Overflowing, I am leaning
+#sub "hso_02_405" Wow ... I'm overflowing, so much is leaking
 
-#sub "hso_02_406" Oh ... did you spill overflowing? Is not it too much?
+#sub "hso_02_406" Oh… were you holding up that much?  You should've let it out sooner!
 
-#sub "hso_02_407" Surely, please buy me where I like!
+#sub "hso_02_407" Nh… since that was so good, you better like the way I make you cum!
 
-#sub "hso_02_408" As it is, you can hang it like you like!
+#sub "hso_02_408" That's it, I love when you cum on my face!
 
-#sub "hso_02_409" Your semen, after all mushrooms
+#sub "hso_02_409" Y-Your semen, it's so sticky.
 
-#sub "hso_02_410" You have such a nasty smell like you
+#sub "hso_02_410" You have such a nasty smell. I like you.
 
-#sub "hso_02_411" Fuu ... I was thrown out ... It might have been fine
+#sub "hso_02_411" I was thrown out... It might have been fine
 
-#sub "hso_02_412" It felt good ... yeah, it might have been good
+#sub "hso_02_412" It felt good... yeah, it might have been good
 
-#sub "hso_02_413" I got along with you ... Well, was not it funny?
+#sub "hso_02_413" Looks like I came with you? What a joke...
 
 #sub "hso_02_414" It might be pretty good to be together
 
-#sub "hso_02_415" But ass, make it feel good
+#sub "hso_02_415" My ass, make it feel good
 
-#sub "hso_02_416" My ass, do you like it? It can not be helped.
+#sub "hso_02_416" My ass, do you like it? Of course you do, why do I even ask?
 
-#sub "hso_02_417" If it says so far ... But your ass, you can be fierce
+#sub "hso_02_417" Come on, you can be fierce, fuck my ass!
 
-#sub "hso_02_418" Well, no ... I guess I'm going to be in the ass!
+#sub "hso_02_418" Well, no ... I guess I'm going to cum with a cock in my ass!
 
-#sub "hso_02_419" Hilarious, pleasant, nice ... Ichaaou!
+#sub "hso_02_419" Hilarious, you might actually make me cum like this...
 
-#sub "hso_02_420" Hey ... ass, you can feel it
+#sub "hso_02_420" Hey ... ass, I can feel it
 
-#sub "hso_02_421" No, I'm getting pleasant in my ass
+#sub "hso_02_421" It actually feels good, I think you're getting the hang of this.
 
-#sub "hso_02_422" Butt, if it gets intensely ... I feel awesome ...!
+#sub "hso_02_422" You know what would be awesome? If you would just fuck my ass already!
 
-#sub "hso_02_423" I, it's an ass!
+#sub "hso_02_423" I, it's in my ass!
 
-#sub "hso_02_424" Nice, in the butt ... Ichaaou!
+#sub "hso_02_424" Nice, in the butt... you're gonna make me cum
 
-#sub "hso_02_425" Good idea? Would you move your ass more?
+#sub "hso_02_425" Good idea. Would you fuck my ass some more?
 
-#sub "hso_02_426" Hey, my ass, do you feel nice?
+#sub "hso_02_426" Doesn't my tight ass feel so good?
 
-#sub "hso_02_427" With your ass, I will play a lot more!
+#sub "hso_02_427" Play with my ass some more!
 
-#sub "hso_02_428" Does it feel good? Then I will continue more
+#sub "hso_02_428" Does it feel good? Then I will continue.
 
-#sub "hso_02_429" Butt, nice ... I, I do not want any more
+#sub "hso_02_429" Butt… feels good… I came from my butt…
 
-#sub "hso_02_430" Your butt is comfortable, getting on ... Oh, ohhhhh!
+#sub "hso_02_430" Your cock fits so well in my ass...I'm gonna cum like this...
 
-#sub "hso_02_431" The inside of the butt is very hot ...
+#sub "hso_02_431" You coated the insides of my ass...
 
-#sub "hso_02_432" In your ass ... hot, semen is ...
+#sub "hso_02_432" In my ass... your hot semen is in my ass ...
 
-#sub "hso_02_433" I'm getting out my ass ... It might be embarrassing
+#sub "hso_02_433" I'm leaking cum from my ass... It's a little embarrassing...
 
 #sub "hso_02_434" Oh ... already, it's overflowing from my butt
 
-#sub "hso_02_435" Huh ... there are a lot of semen in her ass
+#sub "hso_02_435" Huh ... there's a lot of semen in my ass
 
-#sub "hso_02_436" It's hot ... it's full of ass
+#sub "hso_02_436" It's hot ... my ass is so full.
 
 #sub "hso_02_437" Fuu ... your semen, it's so hot
 
-#sub "hso_02_438" The smell of semen may get awfully excited ...
+#sub "hso_02_438" The smell of your semen gets me awfully excited ...
 
-#sub "hso_02_439" Fuu ... in the ass ... I went ... well ... oh well ... maybe it was not bad
+#sub "hso_02_439" In the ass... I came... oh well ... maybe it wasn't bad after all....
 
-#sub "hso_02_440" It might be unexpectedly good to go with your ass ... Uhufu
+#sub "hso_02_440" It's unexpectedly good to cum with you in my ass...
 
-#sub "hso_02_441" Huh ... something, in the ass, I went together
+#sub "hso_02_441" Looks like I made you cum with me. Isn't my ass the best?
 
-#sub "hso_02_442" As you go in the butt, as it is, good
+#sub "hso_02_442" When you cum in my butt, just like that, so good...
 
 #sub "hso_02_443" Okay, let me feel more
 
-#sub "hso_02_444" It's okay ... ass, stir more
+#sub "hso_02_444" It's okay... stir it around in my ass some more.
 
-#sub "hso_02_445" Ass, make you feel more comfortable
+#sub "hso_02_445" My ass, it's feeling wonderful.
 
 #sub "hso_02_446" Good, okay ... It's so hot!
 
-#sub "hso_02_447" No, I'm going to hurt you in the butt ... Oh!
+#sub "hso_02_447" No, you're going to hurt me in the butt ... Oh!
 
-#sub "hso_02_448" More, I will move your ass
+#sub "hso_02_448" More, I will move my ass
 
-#sub "hso_02_449" With your ass, I will play a lot!
+#sub "hso_02_449" With my ass, I will play a lot!
 
-#sub "hso_02_450" Haa, huh, your ass, so I am entertaining you
+#sub "hso_02_450" You like my ass, so am I entertaining you?
 
-#sub "hso_02_451" I will go · · · In the hole of the ass, I will not let it go!
+#sub "hso_02_451" I will cum, from the hole in my ass, stuffed with a fat cock!
 
-#sub "hso_02_452" Oh no, it looks like I'm going to be in the butt! It is!
+#sub "hso_02_452" Oh no, it looks like I'm going to cum from my butt!
 
-#sub "hso_02_453" Okay, leave yourself to my ass!
+#sub "hso_02_453" Loose yourself inside my ass!
 
-#sub "hso_02_454" My butt feels good, is not it? So do not move.
+#sub "hso_02_454" My butt feels good, doesn't it? So do not move.
 
-#sub "hso_02_455" Okay ... let me love my ass!
+#sub "hso_02_455" Okay ... let me love you with my ass!
 
-#sub "hso_02_456" I'm sorry, my ass moves without permission
+#sub "hso_02_456" I'm sorry, my ass moves without permission...
 
 #sub "hso_02_457" Well, no, the butt is already ... very hot!
 
-#sub "hso_02_458" Oh ... okay, with your ass, I'll go in the ass!
+#sub "hso_02_458" Oh ... okay, with my ass, you came in the ass!
 
-#sub "hso_02_459" Huh ... in your butt, your semen is ...
+#sub "hso_02_459" Huh ... in my butt, your semen is in my butt...
 
-#sub "hso_02_460" In the butt ... hot is spreading ...
+#sub "hso_02_460" In the butt... hot sperm is spreading ...
 
-#sub "hso_02_461" Oh, it's hot from the bottom of the buttocks ....
+#sub "hso_02_461" Oh, it's hot from in my ass...
 
-#sub "hso_02_462" Megu ... I got a lot of it, so it's overflowing from my ass
+#sub "hso_02_462" I got a lot of it, it's overflowing from my ass...
 
-#sub "hso_02_463" Aa ... semen, it's full of ass
+#sub "hso_02_463" aah… you sperm has filled up my ass.
 
-#sub "hso_02_464" Oh, good ... just hang it on your ass!
+#sub "hso_02_464" Oh, good ... just hang it on my ass!
 
 #sub "hso_02_465" Huh ...... Ass is slimy and hot ...
 
 #sub "hso_02_466" My butt is hot with semen ...
 
-#sub "hso_02_467" Heh ... Well, it was quite comfortable
+#sub "hso_02_467" Heh ... Well, it was quite comfortable having you in my ass
 
-#sub "hso_02_468" Haa ... I got used to it in my butt ... well, it was not bad ♪
+#sub "hso_02_468" Haa... I got used to having your cock in my butt... it was not bad
 
-#sub "hso_02_469" Well ... It might not be bad to go with your ass if you go
+#sub "hso_02_469" Well... It might not be bad to cum with my ass if you cum inside it.
 
-#sub "hso_02_470" Butt, I felt a little bit ... Did you tighten it too much? Haha
+#sub "hso_02_470" I felt a little bit... Did I tighten it too much? Haha
 
-#sub "hso_02_471" Well, well ... stop your ass!
+#sub "hso_02_471" Well, well ... stop with my ass!
 
 #sub "hso_02_472" It hurts ... from the buttocks
 
-#sub "hso_02_473" Oh, you stopped getting your butt ... you know!
+#sub "hso_02_473" Oh, you stopped getting my butt ... you know!
 
-#sub "hso_02_474" Stop stopping, ass ... well anymore!
+#sub "hso_02_474" Stop, stop... I don't want you in my ass anymore!
 
-#sub "hso_02_475" No, no ... I do not want to go ... I do not want to go ... Ah!
+#sub "hso_02_475" No, no ... I do not want to cum ... I do not want to cum ... Ah!
 
-#sub "hso_02_476" No ... I do not have a butt, no, no ... Ahh!
+#sub "hso_02_476" No ... I do not want this, no, no ... Ahh!
 
-#sub "hso_02_477" Stop it, oh, but ass ... No! It is!
+#sub "hso_02_477" Stop it, oh... No! I don't want this!
 
-#sub "hso_02_478" Stop it ... I truly do not like your ass again!
+#sub "hso_02_478" Stop it ... I truly do not like you in my ass again!
 
-#sub "hso_02_479" Stop the buttocks, make it lazy already!
+#sub "hso_02_479" Stop with my butt, you'll make it break already!
 
-#sub "hso_02_480" Just hurt, stop your ass again!
+#sub "hso_02_480" It just hurts, stop fucking my ass again!
 
 #sub "hso_02_481" Also, no more, no butt!
 
@@ -4574,15 +4561,15 @@
 
 #sub "hso_02_483" And, stop ... ass, it is amusing ... ..., Ah, ah ah!
 
-#sub "hso_02_484" Well, no more ... Oh, buttocks, my husband ... oh!
+#sub "hso_02_484" Well, no more ... Oh, butt, ... oh!
 
-#sub "hso_02_485" Well! Inside, I'm in the ass
+#sub "hso_02_485" Inside, you're inside my ass
 
 #sub "hso_02_486" Stop it, in the butt ... huh!
 
-#sub "hso_02_487" Mfuu ... Oh ... Oh, butt, I feel sick
+#sub "hso_02_487" Oh ... Oh in my butt, I feel sick
 
-#sub "hso_02_488" Haa ... it's overflowing from the bottom ...
+#sub "hso_02_488" Your filthy sperm is leaking from my ass..
 
 #sub "hso_02_489" Oh ... Stop it, do not put it out any more!
 
@@ -4592,21 +4579,21 @@
 
 #sub "hso_02_492" Uoo ... fishy ... ... worst
 
-#sub "hso_02_493" No more ... No, I did not feel comfortable at all
+#sub "hso_02_493" No more ... No, I did not like that at all
 
-#sub "hso_02_494" Well ... the worst! Do not think that you did not do it like that!
+#sub "hso_02_494" The worst! Do not think that you can do it like that!
 
-#sub "hso_02_495" Why are you going to do this? Already, I
+#sub "hso_02_495" Why are you going to do this? 
 
 #sub "hso_02_496" It's not a joke ... I do not like this anymore!
 
-#sub "hso_02_497" I can be in my butt, do not you feel pain?
+#sub "hso_02_497" You can be in my butt, do not you feel pain?
 
-#sub "hso_02_498" You want it in the ass? Then, you should make it feel good
+#sub "hso_02_498" You want it in my ass? Then, you should make it feel good
 
-#sub "hso_02_499" I can love my butt ... but let me feel it properly
+#sub "hso_02_499" You can love my butt ... but let me feel it properly
 
-#sub "hso_02_500" You can love your ass if you want to do that ... ...
+#sub "hso_02_500" You can love my ass if you want to do that ... ...
 
 #sub "hso_02_501" Good, okay, it might be really nice
 
@@ -4616,11 +4603,11 @@
 
 #sub "hso_02_504" Inside ... In the butt ... your, semen ...
 
-#sub "hso_02_505" Oh, it's hot ... In the butt, hot one is coming out ...
+#sub "hso_02_505" Oh, it's hot ... In the butt, hot cum is spilling out ...
 
-#sub "hso_02_506" Oh, it's overflowing from my ass anymore ...
+#sub "hso_02_506" Oh, it's overflowing from my ass...
 
-#sub "hso_02_507" A bit ... ... I got a hot soup from the butt ...
+#sub "hso_02_507" A bit ... ... I got a hot soup in the butt ...
 
 #sub "hso_02_508" Oh ... oh oh, give me plenty!
 
@@ -4628,39 +4615,39 @@
 
 #sub "hso_02_510" Oh ... I never thought that it would take so much ...
 
-#sub "hso_02_511" Fuu ... kakushi ... Are you okay to take out so much?
+#sub "hso_02_511" Are you okay to take out so much?
 
-#sub "hso_02_512" Thanks to you, I went with my ass ... I'm somewhat sick
+#sub "hso_02_512" Thanks to you, I came with my ass ... I'm somewhat sick
 
 #sub "hso_02_513" Fuu ... well the ass was pleasant
 
 #sub "hso_02_514" Apart from that, I have nothing special
 
-#sub "hso_02_515" It might be quite comfortable to go with your ass
+#sub "hso_02_515" It might be quite good to cum with my ass
 
-#sub "hso_02_516" Lie ... Can you still move it? It is!
+#sub "hso_02_516" Can you still move it?
 
 #sub "hso_02_517" A little, are you OK moving it so much?
 
-#sub "hso_02_518" Wait a moment, if you do not do it without permission
+#sub "hso_02_518" Wait a moment, you do not do it without my permission
 
-#sub "hso_02_519" Muhu ... No, I will get it soon
+#sub "hso_02_519" No, I will get it soon
 
-#sub "hso_02_520" No ... body, it feels easy ... ... ... ... ...!
+#sub "hso_02_520" No ... body, it feels so good...
 
 #sub "hso_02_521" Fuu ... well, good, but even if you continue
 
-#sub "hso_02_522" It's okay, so I can continue more ...
+#sub "hso_02_522" It's okay, so you can continue more ...
 
-#sub "hso_02_523" Do you want to continue? If you want to do that ... well it's ok but
+#sub "hso_02_523" Do you want to continue? If you want to do that... well it's ok...
 
 #sub "hso_02_524" Muhu ... No, I will be going to want it soon
 
-#sub "hso_02_525" Ichita, well, I do not want to go!
+#sub "hso_02_525" I do not want to cum!
 
-#sub "hso_02_526" Hey, can we still continue? Is not it okay?
+#sub "hso_02_526" Hey, can we still continue? It's okay, right?
 
-#sub "hso_02_527" You can still move, right? Is not it?
+#sub "hso_02_527" You can still move, right?
 
 #sub "hso_02_528" I can still go, but you are OK.
 
@@ -4668,67 +4655,67 @@
 
 #sub "hso_02_530" Continuing ... body will soon be getting hot!
 
-#sub "hso_02_531" Ha ha ... inside, hot one is out!
+#sub "hso_02_531" Ha ha ... inside, I'm getting a hot treat inside!
 
-#sub "hso_02_532" Mfuu ... I, my ... inside is hot!
+#sub "hso_02_532" My, my, my... you gave me such a hot treat!!!
 
-#sub "hso_02_533" Ha ... ... Fuu ... It is hot, I am leaning back again.
+#sub "hso_02_533" It is hot, I am leaking back again.
 
-#sub "hso_02_534" , ... From inside, the semen is overflowing ...
+#sub "hso_02_534" From inside, the semen is overflowing ...
 
-#sub "hso_02_535" Fu ... a lot of it's hot, it's okay to put it out!
+#sub "hso_02_535" It's so hot, it's okay to shoot it out!
 
-#sub "hso_02_536" Get more semen, more!
+#sub "hso_02_536" Give me more semen, more!
 
 #sub "hso_02_537" Haa ... Also, a lot of it has passed
 
-#sub "hso_02_538" I can often do this so much ... and also a dark muzzle ...
+#sub "hso_02_538" I can often do this so much...
 
-#sub "hso_02_539" Fuu ... I went back again ... I wonder if I'm getting better
+#sub "hso_02_539" I came again ... I wonder if I'm getting better
 
 #sub "hso_02_540" Haa ... it's going to be tiring after all
 
-#sub "hso_02_541" Ha, I guess they just got along the way
+#sub "hso_02_541" Ha, I guess we got to cum together...
 
-#sub "hso_02_542" It's pretty nice to go with you
+#sub "hso_02_542" It's pretty nice to cum with you...I guess...whatever
 
 #sub "hso_02_543" Well, it works a lot more?
 
-#sub "hso_02_544" Because I want to become more comfortable
+#sub "hso_02_544" I want to become more comfortable
 
 #sub "hso_02_545" Okay, continue still, still!
 
-#sub "hso_02_546" Good, pussy, it's hot!
+#sub "hso_02_546" Good, my pussy, it's hot!
 
 #sub "hso_02_547" Oh, you look alright!
 
-#sub "hso_02_548" OK! More, keep moving more!
+#sub "hso_02_548" More, keep moving more!
 
-#sub "hso_02_549" I'm still there so please continue more!
+#sub "hso_02_549" I'm still there so please keep going!
 
 #sub "hso_02_550" I wish I could do even more!
 
-#sub "hso_02_551" Okay, pussy, feel good, then!
+#sub "hso_02_551" Okay, my pussy feels good, there!
 
-#sub "hso_02_552" Oh no ... Oh, I'm going to have a pussy!
+#sub "hso_02_552" Oh no ... Oh, I'm going to have another orgasim!
 
 #sub "hso_02_553" Oh ... pussy, I hope to hesitate more!
 
-#sub "hso_02_554" Continue, cunt, I want to feel more comfortable!
+#sub "hso_02_554" Continue, fuck my cunt, I want you to make me cum!
 
 #sub "hso_02_555" Still, I feel comfortable with pussy yet!
 
-#sub "hso_02_556" Nice, pussy, it's hot ... I can not believe it!
+#sub "hso_02_556" Nice pussy, it's hot ... I can not believe it!
 
-#sub "hso_02_557" Nice, pussy, I will see you again!
+#sub "hso_02_557" Nice pussy, I will see you again!
 
-#sub "hso_02_558" Faa ... inside pussy ... full of semen, a lot of
+#sub "hso_02_558" You came inside my pussy... You left me full of semen.
 
-#sub "hso_02_559" Oh my, you have a semen!
+#sub "hso_02_559" Oh my, you have a lot of sperm!
 
-#sub "hso_02_560" From your pussy ... hot soup is leaning
+#sub "hso_02_560" From my pussy ... your hot soup is leaking
 
-#sub "hso_02_561" Oh, it's hot ... semen ... it's overflowing awesome ... I'm off ...
+#sub "hso_02_561" Oh, it's hot... semen... it's overflowing...awesome... 
 
 #sub "hso_02_562" Oh ... a lot of hot things are going on
 
@@ -4738,51 +4725,51 @@
 
 #sub "hso_02_565" Oh ... Although it is continuous ... I'm outta here
 
-#sub "hso_02_566" Fuu ... when I go back and forth many times, my head will bowl
+#sub "hso_02_566" When I go back and forth so many times, my head will explode!
 
 #sub "hso_02_567" Somehow, my body is fluffy and no power comes in
 
-#sub "hso_02_568" Well, it feels good to be with you after all
+#sub "hso_02_568" Well, it feels good to be with you after all!
 
-#sub "hso_02_569" I went together again ... Well, it might be good with you, maybe
+#sub "hso_02_569" We came together again... Well, it might be good with you, maybe
 
 #sub "hso_02_570" Wow ... already, do not move!
 
-#sub "hso_02_571" Let's do it already already!
+#sub "hso_02_571" Let's do it again already!
 
-#sub "hso_02_572" Alright, let's finish ... this, pervert!
+#sub "hso_02_572" Alright, let's finish this, pervert!
 
 #sub "hso_02_573" Well, well ... well ... that's no good!
 
-#sub "hso_02_574" No, I can not stop it anymore ... Stop it ... Ah!
+#sub "hso_02_574" No, I can not take it anymore ... Stop it ... Ah!
 
 #sub "hso_02_575" Fukuu ... well, it is already ... sorry, this fool
 
-#sub "hso_02_576" Stop it ... why do you keep going, this idiot!
+#sub "hso_02_576" Stop it ... why do you keep going, you idiot!
 
 #sub "hso_02_577" Good, please ... quickly ... end it!
 
 #sub "hso_02_578" Well, well ... I do not want to go, there is no ... Oh, oh!
 
-#sub "hso_02_579" Well ... No, well, already ... No!
+#sub "hso_02_579" No, I already said no... stop!
 
-#sub "hso_02_580" No, during the middle, stop it!
+#sub "hso_02_580" No, get out of me! Stop it!
 
-#sub "hso_02_581" Wait, let me put it inside already! It is!
+#sub "hso_02_581" Wait, you put it inside already!
 
-#sub "hso_02_582" U, lie ... why is that ... no more ...
+#sub "hso_02_582" Why is that ... no more ...
 
-#sub "hso_02_583" Is it ... inside now? It is already the worst ... this pervert!
+#sub "hso_02_583" Is it... inside now? It is already the worst... this pervert!
 
-#sub "hso_02_584" Oh no ... Please stop it, do not put it out!
+#sub "hso_02_584" Oh no ... Please stop it, do not cum inside me!
 
-#sub "hso_02_585" Stop it, do not put it on!
+#sub "hso_02_585" Stop it, do not put your disgusting slime on me!
 
 #sub "hso_02_586" Uoo ... are you okay? If only this one is enough, enough!
 
-#sub "hso_02_587" Why ... give so much! Do not give up one after another, already!
+#sub "hso_02_587" Why... give so much! Do not give up one after another!
 
-#sub "hso_02_588" Haa ... this kind of ... finish it quickly
+#sub "hso_02_588" Haa... this kind of ... finish it quickly
 
 #sub "hso_02_589" The worst ... I do not want to go absent anymore ...
 
@@ -4792,7 +4779,7 @@
 
 #sub "hso_02_592" Still continuing? OK, are not you tired?
 
-#sub "hso_02_593" Still doing? Well, I will not go crazy because I really do not ...
+#sub "hso_02_593" Still? Well, I will not go crazy because I really do not ...
 
 #sub "hso_02_594" If it is continuous, I'm pretty tired. You are not doing well ...
 
@@ -4800,271 +4787,271 @@
 
 #sub "hso_02_596" Good, okay ... Oh no!
 
-#sub "hso_02_597" Huh ... Also, it is hot inside ... I'm out!
+#sub "hso_02_597" Huh... it is hot inside...
 
-#sub "hso_02_598" Semen is tummy ... in hot ...
+#sub "hso_02_598" Semen in my tummy... so hot ...
 
-#sub "hso_02_599" Huh ... Also, the semen is leaning
+#sub "hso_02_599" Huh...your semen is leaking out of me...
 
-#sub "hso_02_600" Oh ... this has drooped over and over again
+#sub "hso_02_600" It just keeps dripping out! So much!
 
-#sub "hso_02_601" There is no problem ... even if you like it!
+#sub "hso_02_601" There is no problem... especially if you like it!
 
-#sub "hso_02_602" Oh, it's too hot, I hope it's OK!
+#sub "hso_02_602" Oh, it's so hot, but it feels so good!
 
-#sub "hso_02_603" Every time I go out a lot, but ... it's quite so busy
+#sub "hso_02_603" Every time you cum, you give me so much! Where do you have it all hiding?
 
-#sub "hso_02_604" It's yours ... It's always hot
+#sub "hso_02_604" Your cum... It's always so hot
 
-#sub "hso_02_605" Haa ... Because it was continuous ... I got pleasant soon
+#sub "hso_02_605" The more we kept on doing it, the better it's starting to feel!
 
-#sub "hso_02_606" I got tired very much because of you
+#sub "hso_02_606" You're too much! I'm exhausted!
 
-#sub "hso_02_607" It looks like I could get along with you ... not bad, but ... it's pretty hard
+#sub "hso_02_607" Looks like I came with you this time...it wasn't terrible...but you could still do better
 
-#sub "hso_02_608" I went together again ... Are not you tired, you?
+#sub "hso_02_608" We came together again ... Aren't you tired?
 
-#sub "hso_02_609" What, are you an ass again?
+#sub "hso_02_609" What, are you in my ass again?
 
-#sub "hso_02_610" Why, all but ass, what is it, already
+#sub "hso_02_610" Why do you walways want my ass?
 
-#sub "hso_02_611" Well, why are you so ass? It can not be helped, hey already
+#sub "hso_02_611" Well, why are you so obsessed with my ass? I think you need help...
 
-#sub "hso_02_612" No ... in the butt, soon, I will go ...!
+#sub "hso_02_612" No ... in the butt, I'm gonna cum....
 
-#sub "hso_02_613" Oh no, no ... again, it's gonna be alright, oh yeah, oh yes!
+#sub "hso_02_613" Oh no, no... that's gonna make me...oh yeah, oh yes!
 
-#sub "hso_02_614" It was also an ass ... well ... well
+#sub "hso_02_614" I just might cum from my ass... well...well...well
 
-#sub "hso_02_615" My butt was so comfortable? Part
+#sub "hso_02_615" My butt feels so good, doesn't it?
 
-#sub "hso_02_616" You do it in your ass, do you like it quite well?
+#sub "hso_02_616" You keep doing it in my ass, you must really like it there.
 
-#sub "hso_02_617" Good, well ... me, also in the butt, huh!
+#sub "hso_02_617" Feels so good...in the butt, huh!
 
-#sub "hso_02_618" Good, okay ... but also ... hot ... getting hot ... Oh!
+#sub "hso_02_618" Yes, that's good. My butt is starting to feel so hot!
 
-#sub "hso_02_619" Wow, I, in the butt, I do not want to go back again!
+#sub "hso_02_619" Wow, in the butt, I do not want to cum this way!
 
 #sub "hso_02_620" Okay, I will let you have more ass
 
-#sub "hso_02_621" You still want to continue with your ass, do not you? Right!
+#sub "hso_02_621" You still want to keep fucking my ass, don't you?
 
-#sub "hso_02_622" I like my ass, do not you? Then, leave it to me!
+#sub "hso_02_622" You like my ass, don't you? Then, leave it to me!
 
-#sub "hso_02_623" Okay, I want to feel with more ass!
+#sub "hso_02_623" Okay, make me want you in my ass!
 
-#sub "hso_02_624" Hilarious ... until the middle, feel good! It is!
+#sub "hso_02_624" Hilarious...I can feel you all through my body!
 
-#sub "hso_02_625" Oh ... Also in the butt ... semen is out
+#sub "hso_02_625" Oh... in the butt... your semen is pouring out
 
-#sub "hso_02_626" In the butt, hot things are coming out a lot ...
+#sub "hso_02_626" You're pumped so much hot cum into my butt...
 
-#sub "hso_02_627" Hey ... after all it's overflowing from the butt
+#sub "hso_02_627" Hey... it's overflowing from my butt
 
-#sub "hso_02_628" Also, I hope that the hot things come from my ass
+#sub "hso_02_628" I can feel hot things spilling from my ass
 
-#sub "hso_02_629" Ahh! It's hot to the buttocks
+#sub "hso_02_629" Oh, yeah! I took a hot one in the ass!
 
 #sub "hso_02_630" Also, a lot of it is OK!
 
 #sub "hso_02_631" Haa ... amazing, you still can do it
 
-#sub "hso_02_632" It is no wonder that after all it will come out
+#sub "hso_02_632" I still wonder how you can keep going like this!
 
-#sub "hso_02_633" Haa ... Also, I got swept away by the buttocks ... What do you do if you get into a habit
+#sub "hso_02_633" Sigh... What to do once you've made a habit of anal sex.
 
-#sub "hso_02_634" Haa ... ass is also quite pleasant so I'm troubled
+#sub "hso_02_634" Sigh...I'm in trouble... I like anal way too much!
 
-#sub "hso_02_635" It was a butt, I went together again
+#sub "hso_02_635" We came together again from my ass...
 
-#sub "hso_02_636" After all, if you can go with me, it will be pretty exciting ... but it was an ass
+#sub "hso_02_636" When you cum with me with me, it's so exciting... even when it's in my ass.
 
-#sub "hso_02_637" Okay ... even if I stir more ass
+#sub "hso_02_637" It'll be good. Rummage through my ass some more!
 
-#sub "hso_02_638" As long as you like, you can hang out with your ass
+#sub "hso_02_638" You can fuck my ass as long as you like!
 
-#sub "hso_02_639" Your butt, you can continue more!
+#sub "hso_02_639" Put it back in my butt, you can give me more!
 
-#sub "hso_02_640" Good, okay, very nice!
+#sub "hso_02_640" I have to say, it really feels good when you're in my ass!
 
-#sub "hso_02_641" How are you going to be, so let's go!
+#sub "hso_02_641" Awww, gonna go there with you!
 
-#sub "hso_02_642" I'll move a lot in your ass
+#sub "hso_02_642" It feels great in my ass, come on, fuck me harder!
 
-#sub "hso_02_643" You can taste my ass a lot more!
+#sub "hso_02_643" You're so deep in my ass I can taste your cock!!!
 
-#sub "hso_02_644" As it is, I'll move my ass!
+#sub "hso_02_644" Let me move my ass like this!
 
-#sub "hso_02_645" Oh no ... Ah ... I feel comfortable! Ahh! It is!
+#sub "hso_02_645" You're doing gooood! Thaat feels so much better. Ahh! 
 
-#sub "hso_02_646" Good, well ... again with anal, I wanna go!
+#sub "hso_02_646" Anal feels so good, I wanna cum from this!
 
-#sub "hso_02_647" Well, also, I will go to anal, I will go!
+#sub "hso_02_647" Well, looks like I'm gonna cum from anal!
 
-#sub "hso_02_648" In anal, I will make you feel good with my anal!
+#sub "hso_02_648" I will make you feel good with my ass!
 
-#sub "hso_02_649" I will still continue in anal!
+#sub "hso_02_649" I will still continue doing anal!
 
-#sub "hso_02_650" I'll give you a lot of my anal!
+#sub "hso_02_650" I'm gonna make you cum so hard with my ass!
 
-#sub "hso_02_651" Huhu ... anal, uh, oh oh! It is!
+#sub "hso_02_651" Anal sex, good, I'm cummiiing!!
 
-#sub "hso_02_652" Oh ... anal, but anal is really good!
+#sub "hso_02_652" Oh... anal is really good!
 
-#sub "hso_02_653" Wow, I, anal, I will go back again!
+#sub "hso_02_653" My ass can feel every move you make!!
 
-#sub "hso_02_654" Haha ... inside of anal is hot with semen ...
+#sub "hso_02_654" Aaa… inside my anus is your hot sperm…
 
-#sub "hso_02_655" In anal ... ... awful, trembling ...
+#sub "hso_02_655" In my ass... ... awful, I'm trembling ...
 
-#sub "hso_02_656" Heh ... Huh ... I do not have semen, so I'm leaving ... I'm coming.
+#sub "hso_02_656" hfuah…hah… your sperm, so much of it is coming out…
 
-#sub "hso_02_657" Ha ... from the anal, it's overflowing again ... this, hot ...
+#sub "hso_02_657" Sigh... You came in my ass and now it's leaking out. This is hot...
 
 #sub "hso_02_658" Huhu ... good, semen, it is very hot ...
 
-#sub "hso_02_659" Oh, okay ... please be hot! More, just as much as you want!
+#sub "hso_02_659" Gimme your hot sperm! More, just as much as you want!
 
-#sub "hso_02_660" Did you go with my ass? Did you come out a lot?
+#sub "hso_02_660" Did you cum in my ass? Did you cum a lot?
 
 #sub "hso_02_661" Fuu ... Semen, I guess I got a lot of it again
 
-#sub "hso_02_662" Huh ... Ok, it might have been quite comfortable
+#sub "hso_02_662" My butt feels pretty nice right now.
 
-#sub "hso_02_663" Butt, it's hot, it feels pretty much
+#sub "hso_02_663" It's so hot in my butt, itt feels really nice.
 
-#sub "hso_02_664" I could have been together again ... Even your butt can not be surprised
+#sub "hso_02_664" That was unexpectedly good for anal sex.
 
-#sub "hso_02_665" Also you can go with your ass
+#sub "hso_02_665" We came together in my butt again.
 
-#sub "hso_02_666" Well, well ... stop your ass again!
+#sub "hso_02_666" Well, well ... stop with my ass again!
 
-#sub "hso_02_667" Stop it ... I hate the ass again!
+#sub "hso_02_667" Stop it ... I hate when you put it in my ass like that!
 
 #sub "hso_02_668" come on! Already, get out of your ass!
 
-#sub "hso_02_669" Do not ... No, I do not want to go, no ...!
+#sub "hso_02_669" Don't make me... No, I do not want to cum, no ...!
 
-#sub "hso_02_670" Oh ... no way with ass ... Absolutely okay!
+#sub "hso_02_670" Oh man... In my butt. Absolutely!
 
-#sub "hso_02_671" Muuu ... Stop ... from the butt, get down!
+#sub "hso_02_671" No! Pull it out of my ass!
 
-#sub "hso_02_672" No, the butt will break, right? This fool!
+#sub "hso_02_672" You sick perverted fool, you'll break my ass!
 
-#sub "hso_02_673" Well, only in the butt ... Stop it, this pervert!
+#sub "hso_02_673" In the butt ... Stop it, you pervert!
 
-#sub "hso_02_674" Hi ... I can not ... like this one, oh no!
+#sub "hso_02_674" I can not ... like this, oh no!
 
-#sub "hso_02_675" Ha ha ... No, stop it already ... or indeed!
+#sub "hso_02_675" Ha ha ... No, stop it already!
 
-#sub "hso_02_676" Oh no ... well, inside ... I have!
+#sub "hso_02_676" It's so persistent!!! Your cum is pouring in!!!
 
-#sub "hso_02_677" Hey ... why are you letting in, this pervert!
+#sub "hso_02_677" Hey... why are you cumming inside me, you pervert!
 
-#sub "hso_02_678" Mfuu ... Ah, I am leaning ... Wow,
+#sub "hso_02_678" Mfuu ... Ah, I am leaking ... Wow,
 
-#sub "hso_02_679" Stupid ... In the butt, I got disgusted again ...
+#sub "hso_02_679" You idiot. You came in my ass, you disgust me!!!!
 
-#sub "hso_02_680" Stop it, do not put it on, why do you put it on, this idiot!
+#sub "hso_02_680" Stop it, do not put it on me, why did you put it on me, you idiot!
 
-#sub "hso_02_681" It feels bad, so you say you do not put it on already!
+#sub "hso_02_681" That's so nasty! I said not to cum on me!!
 
-#sub "hso_02_682" Already ... what, it's slimy ... Do not put it out again, this transformation
+#sub "hso_02_682" What, it's so slimy ... Don't do that again!
 
-#sub "hso_02_683" Uh ... after all, this smell ... the worst ...
+#sub "hso_02_683" This smell ... the worst ...
 
-#sub "hso_02_684" Huh ... Also in the butt ... I have to do this ...
+#sub "hso_02_684" Sigh... in the butt... Why are you doing such a thing to me...
 
-#sub "hso_02_685" No, no more ... With this, really it's over
+#sub "hso_02_685" No, no more of this, really it's over
 
-#sub "hso_02_686" I do not know, already ...
+#sub "hso_02_686" I don't know  about all this...
 
-#sub "hso_02_687" Already ... ok ... what is fun, this
+#sub "hso_02_687" More... Good... This is what makes it fun.
 
-#sub "hso_02_688" Do you want my ass again? All right, separately
+#sub "hso_02_688" Do you want my ass again? All right...
 
-#sub "hso_02_689" I would like to take a little more rest ... There is no use any more!
+#sub "hso_02_689" I want to rest a little bit more. I said that's enough!!!
 
-#sub "hso_02_690" OK, if you want to do so, I will use your ass
+#sub "hso_02_690" I'm feeling nice today, so if you want to, I'll let you use my butt
 
-#sub "hso_02_691" Oh ... well, that's okay ... In the butt, it seems to go again!
+#sub "hso_02_691" That's nice. Yes, good. In the butt, so good!
 
-#sub "hso_02_692" No, ass, going ... I'm getting quicker, maybe ...!
+#sub "hso_02_692" You're going to make me cum too fast!
 
-#sub "hso_02_693" In your ass, again ... hot out of it
+#sub "hso_02_693" In my ass? Are you letting out your hot sperm?
 
-#sub "hso_02_694" Also in the buttocks ... a lot, it's getting hot ...
+#sub "hso_02_694" In the ass, I'm full of hot semen...
 
-#sub "hso_02_695" Oh ... awesome ... from the butt, a lot has drooped again
+#sub "hso_02_695" Oh... Amazing... I'm so filled with cum it's dripping from my ass.
 
-#sub "hso_02_696" Huh ... a lot of hot things have overflowed from my butt
+#sub "hso_02_696" So much hot cum is spilling from my butt
 
-#sub "hso_02_697" OK! A lot of it, packing a lot!
+#sub "hso_02_697" I'm good! Full, filled with cum!
 
-#sub "hso_02_698" You can just hang it on me, as it is!
+#sub "hso_02_698" That's right! I love Bukkake, Paint me with cum!
 
-#sub "hso_02_699" There are lots of hot things, too much ... It will be exciting ... something
+#sub "hso_02_699" So much hot cum. Now that's something to get excited about
 
-#sub "hso_02_700" Well, I got a lot of this so ... did you feel that much?
+#sub "hso_02_700" Look at all this cum you gave me!!! Was I really that good?
 
-#sub "hso_02_701" Huh ... well, I just went in the ass ... It's your fault!
+#sub "hso_02_701" What! My ass just came... It's your fault!
 
-#sub "hso_02_702" Thanks to someone, it may be easier to get in the butt ...
+#sub "hso_02_702" Thanks to you, it's easier to take a cock up my ass...
 
-#sub "hso_02_703" Have you been together again? Were you aiming?
+#sub "hso_02_703" Did you cum with me again? That's what I was aiming for.
 
-#sub "hso_02_704" I do not understand well because I was a butt, but it was not too bad
+#sub "hso_02_704" I don't get why you put it in my ass, but didn't feel that bad in there
 
-#sub "hso_02_705" Oh no? It is! What are you doing! It is! It's the lowest! Finally come out!
+#sub "hso_02_705" Oh no? What are you doing! It's the lowest! Get out!
 
-#sub "hso_02_706" Well, huh ...! Is it? Wait, what are you doing ... this pervert ... this is the worst! It is!
+#sub "hso_02_706" Huh...! Wait, what are you doing ... you pervert ... this is the worst!
 
-#sub "hso_02_707" Certainly? It is! Hey, you are the one! It is a real pervert! It's the lowest!
+#sub "hso_02_707" What is this guy doing to me? He is a real pervert! It's the lowest!
 
-#sub "hso_02_708" What, this! Is it? Hey, are you going to keep it like this? If you consider a little more emotion, already!
+#sub "hso_02_708" Hey, are you going to keep it like this? You might consider giving a little more emotion...
 
 // -----------------------------------------------
 // 特殊 
 // -----------------------------------------------
 
-#sub "ht_02_001" Nothing, no matter what, fool, do not hit me! ·
+#sub "ht_02_001" Fool, do not hit me!
 
-#sub "ht_02_002" Well! It is! Stop it because it hurts!
+#sub "ht_02_002" Stop it, that hurts!
 
-#sub "ht_02_003" Hey, do not hurt me! It is!
+#sub "ht_02_003" Hey, do not hurt me!
 
-#sub "ht_02_004" Wow! It is! You say it stops!
+#sub "ht_02_004" Hey! Make it stop!
 
 #sub "ht_02_005" It's already strange that I want to be ... ...!
 
 #sub "ht_02_006" Stop it ... Stop it ... Stop it!
 
-#sub "ht_02_007" Why make you so strong! Does it hurt
+#sub "ht_02_007" Why are you doing it so hard! It hurts!
 
 #sub "ht_02_008" Oh no, no ... no ... It just hurts like this
 
-#sub "ht_02_009" Hi! It is! What is this, it hurts than I thought
+#sub "ht_02_009" What is this, it hurts more than I thought
 
-#sub "ht_02_010" It hurts ... It hurts ... It hurts ... but only to be on ...!
+#sub "ht_02_010" It hurts ... It hurts ... It hurts ... 
 
-#sub "ht_02_011" Oh ... why, such a pain hurts ... Ay, no no!
+#sub "ht_02_011" Oh ... why, such a thing hurts ... Ay, no no!
 
-#sub "ht_02_012" Huh ... Why? I want to quit this?
+#sub "ht_02_012" Why are you doing this? I want to quit!
 
-#sub "ht_02_013" Oh ... no, impossible, be patient, just can not you?
+#sub "ht_02_013" I can't stand this! Why are you doing these things?
 
-#sub "ht_02_014" Fuuguu ... so, I can not help it anymore.
+#sub "ht_02_014" I want you to stop this instant!
 
-#sub "ht_02_015" Oh ... so much ... already, I ...
+#sub "ht_02_015" Oh... I want to be hurt. Again and again, I...
 
-#sub "ht_02_016" Uoo ... well ... it hurts, it is amusing, I will become!
+#sub "ht_02_016" Come on, make it hurt! I wanna cum!
 
-#sub "ht_02_017" Stop it and let it down and it hurts!
+#sub "ht_02_017" Stop it and let me down and it hurts!
 
-#sub "ht_02_018" U, you lied! Is it? Well, I'm ready, Hey!
+#sub "ht_02_018" Are you kidding! Want more, more!
 
-#sub "ht_02_019" Ay ... ... undo, lower it ...
+#sub "ht_02_019" Please be less forcefull...
 
 #sub "ht_02_020" Well ... I guess ... over there, it will be strange!
 
@@ -5078,25 +5065,25 @@
 
 #sub "ht_02_025" It's a bit unclear, tight ... okay.
 
-#sub "ht_02_026" Hey ... ... you are tough, you look alright ...!
+#sub "ht_02_026" Hey ... ... I'm tough, I can take it...!
 
-#sub "ht_02_027" But, no, it's a wooden horse ... I said that!
+#sub "ht_02_027" But, no, it's a wooden horse!
 
-#sub "ht_02_028" What, this ... I do not understand the meaning
+#sub "ht_02_028" What, this ... I do not understand the meaning of this
 
-#sub "ht_02_029" Mumu, musume ... Feel so comfortable
+#sub "ht_02_029" Mumu, musume ... Feels so good
 
 #sub "ht_02_030" Hiki ... just want ... no more
 
-#sub "ht_02_031" No good! Good, rude!
+#sub "ht_02_031" No good! Don't be so rude!
 
-#sub "ht_02_032" No, I rub, it will break!
+#sub "ht_02_032" No, the way you're rubbing, it will break!
 
-#sub "ht_02_033" Ha ha · · · It is no longer possible · · · Power does not enter the body.
+#sub "ht_02_033" Ha ha · · · I can't keep this up...There's no more energy in my body.
 
 #sub "ht_02_034" Stop it now ... It hurts, after all is impossible
 
-#sub "ht_02_035" I do not want such a thing ... It's too tight for me
+#sub "ht_02_035" I do not want such a thing ... i'm too tight for that!
 
 #sub "ht_02_036" Ochioi · · · I want to have lots of · · · haha
 
@@ -5104,7 +5091,7 @@
 
 #sub "ht_02_038" Hehehe ... to He ...
 
-#sub "ht_02_039" Ah ... ... over there, a lot ... hot ... aha
+#sub "ht_02_039" Ah ... ... right there, a lot ... hot ... aha
 
 #sub "ht_02_040" Huhu ... I guess ... Well, feel good!
 
@@ -5112,67 +5099,67 @@
 
 #sub "ht_02_042" Fuu ... Fuu ... already ... I do not know ... Oh well
 
-#sub "ht_02_043" What? What are you going to do with this kind of shoot!
+#sub "ht_02_043" What? What are you going to do with that camera?!
 
-#sub "ht_02_044" No, no, I will go alone alone like this ...
+#sub "ht_02_044" No, no, I will go alone alone like this...
 
-#sub "ht_02_045" How to do something like this ... ... ... strange feeling
+#sub "ht_02_045" How am I supposed to do something like this? It's to weird!
 
-#sub "ht_02_046" No way ... where to go, to the camera, oh no!
+#sub "ht_02_046" No way...I'm going to cum in front of a camera!
 
 #sub "ht_02_047" Oh no ... No, it's embarrassing, will be taken by the camera!
 
 #sub "ht_02_048" Where are you, you were taken pictures perfectly!
 
-#sub "ht_02_049" What's fun shooting people's masturbation!
+#sub "ht_02_049" What's the fun in shooting people's masturbation!
 
-#sub "ht_02_050" What's this? Something strange, I'm excited ...
+#sub "ht_02_050" What's this? It's so strange, I'm excited ...
 
 #sub "ht_02_051" My fingers ... are they appearing beautifully?
 
-#sub "ht_02_052" Sound, shameful sound ... have you left?
+#sub "ht_02_052" Sound, shameful sound... have you left?
 
-#sub "ht_02_053" Good, the fingers will not stop!
+#sub "ht_02_053" It's so good, my fingers will not stop!
 
 #sub "ht_02_054" Ha ha ... Masturbation shoot, I'm excited!
 
 #sub "ht_02_055" Feeling good, reflected in the camera, it will get hot!
 
-#sub "ht_02_056" Or ... why are you shooting such a thing! I'm not an idiot!
+#sub "ht_02_056" Why are you shooting such a thing! I'm not an idiot!
 
-#sub "ht_02_057" No ... If I could take a picture like this ... I, I ...!
+#sub "ht_02_057" No ... If you take a picture like this ... I, I ...!
 
-#sub "ht_02_058" Here, this place ... I do not want to shoot ... I wish!
+#sub "ht_02_058" Here, this place ... I do not want to be photographed!
 
 #sub "ht_02_059" Mfuu ... No, I can not take it, I can take it!
 
 #sub "ht_02_060" No ... I'm embarrassed, but my body will move!
 
-#sub "ht_02_061" It might be excited, something, being taken by the camera
+#sub "ht_02_061" It might be excited, being taken by the camera
 
 #sub "ht_02_062" Make it a lot more, please upload it.
 
 #sub "ht_02_063" Nice ... A lot of horny places, please do it!
 
-#sub "ht_02_064" Oh, hot, I will go while being filmed!
+#sub "ht_02_064" Oh, hot, I will cum while being filmed!
 
 #sub "ht_02_065" Make a reflection, where you will go, reflect it!
 
-#sub "ht_02_066" U, lie, why are you doing in such a place! ·
+#sub "ht_02_066" Why are you doing in such a place! ·
 
-#sub "ht_02_067" No, it's embarrassing while being seen!
+#sub "ht_02_067" No, it's embarrassing to cum while being seen!
 
-#sub "ht_02_068" Do not do that ... Because it is seen ... soon
+#sub "ht_02_068" Do not do that ... Because it will be seen....
 
 #sub "ht_02_069" Oh, no, I can not miss seeing you!
 
-#sub "ht_02_070" Do not look where you are going, do not look, do not look! It is!
+#sub "ht_02_070" Do not look when I'm cumming, do not look, do not look!
 
-#sub "ht_02_071" Ha ha, it's a lie ... everywhere, I was able to see it so much ...
+#sub "ht_02_071" I was able to see it so much ...
 
 #sub "ht_02_072" Well, it is already ... ... I was caught while I was being watched ...
 
-#sub "ht_02_073" What do you mean, you are being seen something ... pounding!
+#sub "ht_02_073" What do you mean, you are being seen something... pounding!
 
 #sub "ht_02_074" While being seen, somehow, I am excited!
 
@@ -5180,19 +5167,19 @@
 
 #sub "ht_02_076" Oh ... nice, gaze ... amazingly hot ... ah!
 
-#sub "ht_02_077" Well, good ... While being seen, I will go!
+#sub "ht_02_077" Well, good ... While being seen, I will cum!
 
-#sub "ht_02_078" Ha ha ... It is quite nice to go while being seen
+#sub "ht_02_078" Ha ha ... It is quite nice to cum while being seen
 
-#sub "ht_02_079" What to do ... My gaze, I might have felt so much
+#sub "ht_02_079" What to do ... your gaze, I felt your eyes all over me!
 
 #sub "ht_02_080" Want to say! Stop it · · · like this · No!
 
-#sub "ht_02_081" painful! Well, well ... please solve it!
+#sub "ht_02_081" painful! Well, well ... please stop it!
 
-#sub "ht_02_082" Why do you hurt! Stop it!
+#sub "ht_02_082" Why do you want to hurt me! Stop it!
 
-#sub "ht_02_083" Oh ... well ... I do not mind ... I wanna go! It is!
+#sub "ht_02_083" Oh ... well ... I do not mind ... I'm going to cum!
 
 #sub "ht_02_084" No, we dig into ... Ah, ah ah!
 
@@ -5210,13 +5197,13 @@
 
 #sub "ht_02_091" No, I'm getting strange anymore, oh, oh!
 
-#sub "ht_02_092" I already enjoyed it ... quickly, please remove it
+#sub "ht_02_092" I already enjoyed it ... 
 
 #sub "ht_02_093" Take this out soon, okay ... Because it's hard
 
-#sub "ht_02_094" Hey ... It is tight, but surprisingly, it's pretty good.
+#sub "ht_02_094" Hey ... It's a tight fit, but surprisingly, it's pretty good.
 
-#sub "ht_02_095" It may be being restrained and being a little excited ...
+#sub "ht_02_095" Being restrained is a little exciting...
 
 #sub "ht_02_096" No ... I'm getting into this shape, it's getting sensitive
 
@@ -5270,17 +5257,17 @@
 
 #sub "ht_02_121" Fuha ... It was a masturbation, I caught ...
 
-#sub "ht_02_122" My heart is exciting ... maybe I'm pretty excited.
+#sub "ht_02_122" My heart is pounding... I'm pretty excited.
 
 #sub "ht_02_123" Even though I hate it no more!
 
-#sub "ht_02_124" Therefore, I hate the pain!
+#sub "ht_02_124" I hate the pain!
 
-#sub "ht_02_125" Iki · · It hurts, impossible impossible!
+#sub "ht_02_125" It hurts, impossible impossible!
 
 #sub "ht_02_126" Oh ... I also have to go hurting
 
-#sub "ht_02_127" But, it hurts ... well, it is no use!
+#sub "ht_02_127" But, it hurts ... it is no use!
 
 #sub "ht_02_128" No, no, it hurts after all.
 
@@ -5288,7 +5275,7 @@
 
 #sub "ht_02_130" Hey ... this is comfortable at all!
 
-#sub "ht_02_131" Well ... It hurts, it's getting hot ... Well! It is!
+#sub "ht_02_131" Well ... It hurts, but the pain! It's gonna make me cum!
 
 #sub "ht_02_132" It's hard! Or, the feeling will go crazy!
 
@@ -5588,9 +5575,9 @@
 
 #sub "ht_02_280" This ... I gotta dig into it, it feels comfortable, maybe
 
-#sub "ht_02_281" No, strongly, rubbing ... ... over there, it will be crazy!
+#sub "ht_02_281" Oh no, rubbing too strong… you're dick, I'm going to go crazy!
 
-#sub "ht_02_282" Good, nice ... go hand in hand ... amnesious, will not!
+#sub "ht_02_282" Y-yes… rubit some more, let me eat it… I'm going to go crazy!
 
 #sub "ht_02_283" No ... I'm over there ... bite into it, it's going to be funny!
 
@@ -5648,9 +5635,9 @@
 
 #sub "ht_02_310" Ha ha, now ... I will definitely draw you later if you look at it later ...
 
-#sub "ht_02_311" Fuh ... after all, why do not you erase those that you took a while ago? I think it is absolutely embarrassing
+#sub "ht_02_311" Phew… do you think this will clear off the mistakes you've done?  I think such things are shameful.
 
-#sub "ht_02_312" Oh no ... Do not take a picture, camera!
+#sub "ht_02_312" Oh no ... Do not take a picture,
 
 #sub "ht_02_313" stop it! Do not shoot, do! It is!
 
@@ -5660,7 +5647,7 @@
 
 #sub "ht_02_316" Suspicious ... feeling the gaze ... hot, it will be!
 
-#sub "ht_02_317" No good…! Also, while you can see it, I will go!
+#sub "ht_02_317" People are going to see me have an orgasm!
 
 #sub "ht_02_318" Huh ... something, I'm very embarrassed when I wake up
 
@@ -5734,15 +5721,15 @@
 
 #sub "ht_02_353" Ann ... it feels good ... it hurts a bit.
 
-#sub "ht_02_354" No ... well, do not shake it!
+#sub "ht_02_354" my-my hands… so hot… just won't stop!
 
-#sub "ht_02_355" Haa ... If you move it so much, it might be a bit scary ...
+#sub "ht_02_355" y-yes… rubbing my own clit, I'm cumming! ...
 
-#sub "ht_02_356" Mfuu ... this shake ... fine, quite far, come ... ah!
+#sub "ht_02_356" I'm imagining your cock inside when I play with my self… it feels good.
 
-#sub "ht_02_357" Oh, it looks nice, ... hanging ... huh!
+#sub "ht_02_357" cumming from playing with myself … is still tiring.
 
-#sub "ht_02_358" Haa ... I ended up ... Thanks, I hurt if I dig into it
+#sub "ht_02_358" well, masturbating feels pleasant once you get used to it.
 
 #sub "ht_02_359" It's amazing ... since it shakes, I got pleasant
 
