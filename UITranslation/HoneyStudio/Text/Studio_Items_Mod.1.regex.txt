@@ -5,6 +5,25 @@
 //  Furniture
 
 R (コタツ(\([\d]+\))?) = Kotatsu $1
+R (マルチマシン1(\([\d]+\))?) = Multi-Machine 1 $1
+R (マルチマシン2(\([\d]+\))?) = Multi-Machine 2 $1
+R (ウェイトベンチ(\([\d]+\))?) = Weight Bench $1
+R (エアロバイク1(\([\d]+\))?) = Aero Bike 1 $1
+R (エアロバイク2(\([\d]+\))?) = Aero Bike 2 $1
+R (ディップバー(\([\d]+\))?) = Dip bar $1
+R (エリプティカルマシン(\([\d]+\))?) = Elliptical Machine $1
+R (フラットベンチ(\([\d]+\))?) = Flat Bench $1
+R (パワーラック(\([\d]+\))?) = Power Rack $1
+R (ローイングマシン(\([\d]+\))?) = Rowing Machine $1
+R (ステップマシン(\([\d]+\))?) = Step Machine $1
+R (トレッドミル(\([\d]+\))?) = Treadmill $1
+R (ウェイトラック(\([\d]+\))?) = Way Track $1
+R (バーベル\(65kg\)(\([\d]+\))?) = Barbell (65kg) $1
+R (バーベル\(125kg\)(\([\d]+\))?) = Barbell (125kg) $1
+R (バーベル\(225kg\)(\([\d]+\))?) = Barbell (225kg) $1
+R (バーベル\(325kg\)(\([\d]+\))?) = Barbell (325kg) $1
+R (ダンベルS(\([\d]+\))?) = Dumbbell S $1
+R (ダンベルM(\([\d]+\))?) = Dumbbell M $1
 
 //  Wall & Floor
 
@@ -78,6 +97,7 @@ R (どら焼き(\([\d]+\))?) = Dorayaki $1
 R (SB4ドリンク赤(\([\d]+\))?) = SB4 Drink (Red) $1
 R (SB4ドリンク青(\([\d]+\))?) = SB4 Drink (Blue) $1
 R (SB4ドリンク緑(\([\d]+\))?) = SB4 Drink (Green) $1
+R (卵\（複数\）(\([\d]+\))?) = Egg (Multiple) $1
 
 //  Weapons
 
@@ -219,6 +239,18 @@ R (4/1圆线\(黑\)(\([\d]+\))?) = 1/4 Curved Wire (Black) $1
 R (半圆线\(黑\)(\([\d]+\))?) = Semicircle Wire (Black) $1
 R (U型线\(黑\)(\([\d]+\))?) = U Shaped Wire (Black) $1
 R (一捆线\(黑\)(\([\d]+\))?) = A Bundle of Wire (Black) $1
+R (子宮(\([\d]+\))?) = Vaginal Prolapse $1
+R (肛(\([\d]+\))?) = Rectal Prolapse $1
+R (クリ(\([\d]+\))?) = Enlarge Clitoris $1
+R (尿道(\([\d]+\))?) = Urethral Prolapse $1
+R (ドリル\（直突式\）(\([\d]+\))?) = Drill (Direct-Injection Type) $1
+R (ドリル\（回転式\）(\([\d]+\))?) = Drill (Rotating Type) $1
+R (箱\（回転式\）(\([\d]+\))?) = Box (Rotating Type) $1
+R (箱\（直突式\）(\([\d]+\))?) = Box (Direct-Injection Type) $1
+R (箱\（ブラシ\）(\([\d]+\))?) = Box (Brush) $1
+R (箱\（注入式\）(\([\d]+\))?) = Box (Injection Formula) $1
+R (箱\（台有\）(\([\d]+\))?) = Box (Normal) $1
+R (箱\（台無\）(\([\d]+\))?) = Box (No Mid) $1
 
 // Liquid
 
@@ -247,7 +279,10 @@ R (大きい海面_日差し有(\([\d]+\))?) = Huge Sea Surface (Sunlight) $1
 R (大きい海面_日差し無(\([\d]+\))?) = Huge Sea Surface (No Sunlight) $1
 R (丸い水面_小(\([\d]+\))?) = Small Water Surface (Circle) $1
 R (四角い水面_小(\([\d]+\))?) = Small Water Surface (Square) $1
-
+R (泡（口用）(\([\d]+\))?) = Foam (For Mouth) $1
+R (泡（水面）(\([\d]+\))?) = Foam (Water Surface) $1
+R (泡（単体）(\([\d]+\))?) = Foam (Spherical) $1
+R (涎(\([\d]+\))?) = Drool $1
 
 // Screen
 
@@ -315,6 +350,10 @@ R (血迹6(\([\d]+\))?) = Blood 6 $1
 R (血迹7(\([\d]+\))?) = Blood 7 $1
 R (血迹8(\([\d]+\))?) = Blood 8 $1
 R (血迹9(\([\d]+\))?) = Blood 9 $1
+R (泡バスルーム\（プレプレ\）(\([\d]+\))?) = Bubble Bathroom 1 $1
+R (泡バスルーム\（らぶギア\）(\([\d]+\))?) = Bubble Bathroom 2 $1
+R (ボクシングリング(\([\d]+\))?) = Boxing Ring $1
+R (レスリングリング(\([\d]+\))?) = Wrestling Ring $1
 
 // -----------------------------------------------------------------------------------------------
 //  end

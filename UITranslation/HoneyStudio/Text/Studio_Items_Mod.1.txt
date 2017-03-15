@@ -3,9 +3,44 @@
 //  Mod Items (no regex)
 // -----------------------------------------------------------------------------------------------
 
+//Outfits
+尼尔机械纪元_2B = 2B's Outfit (Neir Automata)
+yy-格子旗袍 = yy Checkered Cheongsam
+Zeaska T07 冬马和纱 = Touma's Outfit (White Album 2)
+yy-旗袍-中国龙 = yy Cheongsam - Chinese Dragon 
+振袖 = Long-sleeved Kimono
+アイドル衣装赤 = Idol Costume (Red)
+アイドル衣装青 = Idol Costume (Blue)
+アイドル衣装黄 = Idol Costume (Yellow)
+着物 = Kimono
+真紅の稲妻 = Crimson Lightning
+セクシーナース改 = Sexy Nurse Revision
+ロングドレス = Long Dress
+冬通学 = Winter School Outfit
+Basara春日套装 = Kasuga (Sengoku Basara)
+
 //  Furniture
 
 コタツ = Kotatsu
+マルチマシン1 = Multi-Machine 1
+マルチマシン2 = Multi-Machine 2
+ウェイトベンチ = Weight Bench
+エアロバイク1 = Aero Bike 1
+エアロバイク2 = Aero Bike 2
+ディップバー = Dip bar
+エリプティカルマシン = Elliptical Machine
+フラットベンチ = Flat Bench
+パワーラック = Power Rack
+ローイングマシン = Rowing Machine
+ステップマシン = Step Machine
+トレッドミル = Treadmill
+ウェイトラック = Way Track
+バーベル(65kg) = Barbell (65kg)
+バーベル(125kg) = Barbell (125kg)
+バーベル(225kg) = Barbell (225kg)
+バーベル(325kg) = Barbell (325kg)
+ダンベルS = Dumbbell S
+ダンベルM = Dumbbell M
 
 //  Wall & Floor
 
@@ -79,6 +114,7 @@ SL_機関車 = SL_Locomotive
 SB4ドリンク赤 = SB4 Drink (Red)
 SB4ドリンク青 = SB4 Drink (Blue)
 SB4ドリンク緑 = SB4 Drink (Green)
+卵（複数） = Egg (Multiple)
 
 //  Weapons
 
@@ -220,6 +256,18 @@ U型线(粉) = U Shaped Wire (Pink)
 半圆线(黑) = Semicircle Wire (Black)
 U型线(黑) = U Shaped Wire (Black)
 一捆线(黑) = A Bundle of Wire (Black)
+子宮 = Vaginal Prolapse
+肛 = Rectal Prolapse
+クリ = Enlarge Clitoris
+尿道 = Urethral Prolapse
+ドリル（直突式） = Drill (Direct-Injection Type)
+ドリル（回転式） = Drill (Rotating Type)
+箱（回転式） = Box (Rotating Type)
+箱（直突式） = Box (Direct-Injection Type)
+箱（ブラシ） = Box (Brush)
+箱（注入式） = Box (Injection Formula)
+箱（台有） = Box (Normal)
+箱（台無） = Box (No Mid)
 
 
 // Liquid
@@ -249,6 +297,10 @@ U型线(黑) = U Shaped Wire (Black)
 大きい海面_日差し無 = Huge Sea Surface (No Sunlight)
 丸い水面_小 = Small Water Surface (Circle)
 四角い水面_小 = Small Water Surface (Square)
+泡（口用） = Foam (For Mouth)
+泡（水面） = Foam (Water Surface)
+泡（単体） = Foam (Spherical)
+涎 = Drool
 
 // Screen
 
@@ -315,6 +367,10 @@ ILLUの炎 = ILLU Flame
 血迹7 = Blood 7
 血迹8 = Blood 8
 血迹9 = Blood 9
+泡バスルーム（プレプレ） = Bubble Bathroom 1
+泡バスルーム（らぶギア） = Bubble Bathroom 2
+ボクシングリング = Boxing Ring
+レスリングリング = Wrestling Ring
 
 // -----------------------------------------------------------------------------------------------
 //  end
