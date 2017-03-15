@@ -34,6 +34,17 @@ R ((\d\d) 二種軍装正帽) = $1 Admiral Cap
 R ((\d\d) 牛カチューシャ\（タグ無) = $1 Cow Ears Headband (No Tag)
 R ((\d\d) 牛カチューシャ\（タグ有) = $1 Cow Ears Headband (Tag)
 R ((\d\d) \[s_k\] ナース帽子) = $1 [s_k] Nurse Hat (CC)
+R ((\d\d) 魔女の帽子\（カラー\）) = Witch Hat (CC)
+R ((\d\d) 帽子A) = $1 Hat A
+R ((\d\d) ベレー帽A) = $1 Beret A
+R ((\d\d) ベレー帽B) = $1 Beret B
+R ((\d\d) ニット帽) = $1 Knit Cap
+R ((\d\d) ハンチング帽) = $1 Hunting Cap
+R ((\d\d) シャンプーハット) = $1 Shampoo Cap
+R ((\d\d) モヒカン) = $1 Mohawk
+R ((\d\d) ドクロ) = $1 Skull
+R ((\d\d) エクステ_A) = $1 Hair Extension A
+R ((\d\d) エクステ_B) = $1 Hair Extension B
 
 //Ears
 
@@ -49,6 +60,29 @@ R ((\d\d) 泡\（単体\）) = $1 Foam (Spherical)
 R ((\d\d) 涎) = $1 Drool
 R ((\d\d) \[s_k\] 口にガムテ) = $1 Gum Tape Over Mouth
 R ((\d\d) \[s_k\] マスク) = $1 Mask
+R ((\d\d) ラバーマスク) = $1 Rubber Mask
+R ((\d\d) マスクA) = $1 Mask A
+R ((\d\d) マスクB) = $1 Mask B
+R ((\d\d) マスクC) = $1 Mask C
+R ((\d\d) 目隠し) = $1 Blindfold
+R ((\d\d) ピアスA) = $1 Earrings
+R ((\d\d) ピアスB) = $1 Earrings
+R ((\d\d) ピアスC) = $1 Earrings
+R ((\d\d) 安全ピンA) = $1 Safety Pin
+R ((\d\d) 安全ピンB) = $1 Safety Pin
+R ((\d\d) 名札) = $1 Nameplate
+R ((\d\d) 腰みのコンドーム) = $1 Condom Hula Dress
+R ((\d\d) 触手01) = $1 Tentacle 01
+R ((\d\d) 触手02) = $1 Tentacle 02
+R ((\d\d) 触手03) = $1 Tentacle 03
+R ((\d\d) 触手04) = $1 Tentacle 04
+R ((\d\d) 触手05) = $1 Tentacle 05
+R ((\d\d) 触手06) = $1 Tentacle 06
+R ((\d\d) 触手07) = $1 Tentacle 07
+R ((\d\d) ボテ縄) = $1 Rope Bondage (For Pregnant Belly)
+R ((\d\d) 触手08) = $1 Tentacle 08
+R ((\d\d) 触手09) = $1 Tentacle 09
+R ((\d\d) 触手10) = $1 Tentacle 10
 
 
 //Neck
@@ -110,6 +144,15 @@ R ((\d\d) クリ) = $1 Enlarge Clitoris
 R ((\d\d) 尿道) = $1 Urethral Prolapse
 R ((\d\d) 腹ボコ) = $1 Stomach Deformation
 R ((\d\d) 腹ボコ\（空洞\）) = $1 Stomach Deformation (No Vagina)
+R ((\d\d) Mアクセ01) = $1 M Access 01
+R ((\d\d) Mアクセ02) = $1 M Access 02
+R ((\d\d) Mアクセ03) = $1 M Access 03
+R ((\d\d) Mアクセ04) = $1 M Access 04
+R ((\d\d) Mアクセ05) = $1 M Access 05
+R ((\d\d) Aアクセ01) = $1 A Access 01
+R ((\d\d) Aアクセ02) = $1 A Access 02
+R ((\d\d) Aアクセ03) = $1 A Access 03
+R ((\d\d) Aアクセ04) = $1 A Access 04
 
 //Back
 R ((\d\d) 華奢な翼) = $1 Delicate Wings
@@ -136,6 +179,7 @@ R ((\d\d) 赤デビルつばさ\(左\)) = $1 Red Devil Wing (Left)
 R ((\d\d) 赤デビルつばさ\(右\)) = $1 Red Devil Wing (Right)
 R ((\d\d) グレー膜つばさ\(左\)) = $1 Gray Membrane Wing (Left)
 R ((\d\d) グレー膜つばさ\(右\)) = $1 Gray Membrane Wing (Right)
+R ((\d\d) \[YY\]TERA-janovia翅膀) = 1$ [YY]TERA-janovia Wing
 
 //Arm
 R ((\d\d) 振袖\（左\）) = $1 Long Sleeve (Left)
@@ -150,6 +194,8 @@ R ((\d\d) ザク２腕) = $1 Zaku 2 Arms
 R ((\d\d) ヒートホーク) = $1 Heat Hawk
 R ((\d\d) ザクマシンガン) = $1 Zaku Machine Gun
 R ((\d\d) 直突式ドリル) = $1 Direct-Drive Drill
+R ((\d\d) 部活リストバンド１A（) = $1 Citizen Wristband 1A (CC)
+R ((\d\d) 部活リストバンド１B（) = $1 Citizen Wristband 1B (CC)
 
 //Leg
 R ((\d\d) ガーターリング左\（色変) = $1 Garter Ring Left (CC)

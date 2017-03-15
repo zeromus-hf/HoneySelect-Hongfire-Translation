@@ -2,7 +2,28 @@
 // Clothing Mods
 // -----------------------------------------------------------------------------------------------
 
-// bangs
+//Tans
+ランナーライン = Runner Tanline
+
+//Eyebrows
+ナチュラルC = Natural C
+ナチュラルD = Natural D
+ナチュラルE = Natural E
+
+//Eyeshadow
+二重０１ = Double 01
+二重０２ = Double 02
+二重０３ = Double 03
+二重０４ = Double 04
+
+//Lips
+タイプ０２(small) = Type 02 (Small)
+
+//Moles
+[s_k] 右の目元2 = [s_k] Right Eye 2
+[s_k] 左の口上2 = [s_k] Left Mouth 2
+
+//Bangs
 [M]ぎざ = [M] Long, Swept Back Bangs
 [M]ぎざ逆 = [M] Long, Swept Back Bangs - Mirrored
 [M]ぎざ-短 = [M] Short, Swept Back Bangs
@@ -37,22 +58,22 @@
 [s_k] うどん毛ロング(前)(一部逆) = [s_k] Udon Long (Front)(Partly Mirrored)
 [s_k] ベリーロングツインテール(逆) = [s_k] Berry Long Tails (Mirrored)
 
-// back hair
+//Back Hair
 日本髪 = Japanese hair
-[s_k] うどん毛ロング(後ろ)改 = [s_k] Udon Long (Back)
+[s_k] うどん毛ロング(後ろ)改 = [s_k] Udon Long Revised (Back)
 [s_k] シャギーセミショート(逆) = [s_k] Semi-Short, Shaggy
 [s_k] サイドアップ(逆) = [s_k] Sidetail
 [s_k] バエル後ろ髪(逆) = [s_k] Bael (Back)
 [s_k] ベリーロングツインテール(後ろ)(逆) = [s_k] Berry Long Tails (Back)
 
-// hair sets
+//Hair Sets
 シトリーの髪型改1 = Citrine's Hair Style Improvement 1
 シトリーの髪型改2 = Citrine's Hair Style Improvement 2
 
 //Outfits
 Zeaska T07 冬马和纱 = Touma's Outfit (White Album 2)
 尼尔机械纪元_2B = 2B's Outfit (Neir Automata)
-セクシーナース改 = Sexy Nurse Revision
+セクシーナース改 = Sexy Nurse Revised
 Basara春日套装 = Kasuga (Sengoku Basara)
 着物 = Kimono
 振袖 = Long-sleeved Kimono
@@ -65,6 +86,7 @@ yy-格子旗袍 = yy Checkered Cheongsam
 ロングドレス = Long Dress
 真紅の稲妻 = Crimson Lightning
 冬通学 = Winter School Outfit
+yy-DOA玛丽罗斯长旗袍 = yy-DOA Marie Rose Long Cheongsam
 
 //Tops
 アイドルトップス(色変え可能) = Idol Top (CC)
@@ -160,6 +182,21 @@ tera裙子 = Tera Skirt
 [s_k] ノースリーブセーラー(色変可) = [s_k] Sleeveless Sailor Suit (CC)
 [s_k] レザージャケット(色変可) = [s_k] Leather Jacket (CC)
 [s_k] 白襟セーラー服(色変可) = [s_k] White Collar Sailor Suit (CC)
+部活シャツ１A（カラー） = Camping Shirt 1A (CC)
+部活シャツ１B（カラー） = Camping Shirt 1B (CC)
+部活シャツ２A（カラー） = Camping Shirt 2A (CC)
+部活シャツ２B（カラー） = Camping Shirt 2B (CC)
+部活シャツ３A（カラー） = Camping Shirt 3A (CC)
+部活シャツ３B（カラー） = Camping Shirt 3B (CC)
+魔女の服（カラー） = Witch Dress (CC)
+メイド服（カラー） = Maid (CC)
+メイド服・改（カラー） = Maid Alt (CC)
+ウェイトレスA（カラー） = Waitress A (CC)
+ウェイトレスB（カラー） = Waitress B (CC)
+白衣・タンクトップ（カラー） = Coat + Tank Top (CC)
+スーツキャミソール(カラー) = Suit Camisole (CC)
+SP_高领连衣裙 = SP_High Collar Dress
+SP_破烂背心 = SP_Ripped Vest
 
 //Bottoms
 アイドルスカート(色変え可能) = Idol skirt (CC)
@@ -181,6 +218,13 @@ OMRSスポーツパンツ(青) = OMRS Sports Pants (Blue)
 [s_k] ブルマ(色変可) = [s_k] Bloomers (CC)
 [s_k] ミニプリーツセーター付き(色変可) = [s_k] Mini Pleated Sweater (CC)
 [s_k] ショートパンツ(色変可) = [s_k] Denim Shorts (CC)
+部活パンツ１A（カラー） = Club Activity Pants 1A (CC)
+部活パンツ１B（カラー） = Club Activity Pants 2B (CC)
+部活パンツ２A（カラー） = Club Activity Pants 1A (CC)
+部活パンツ２B（カラー） = Club Activity Pants 2B (CC)
+部活スカート１A(カラー) = Club Activity Skirt 1A (CC)
+部活スカート１B(カラー) = Club Activity Skirt 1B (CC)
+デニムタイトスカート =  Tight Denim Skirt
 
 //Bra
 横縞紐(色変え可能) = Striped String Bra (CC)
@@ -231,6 +275,9 @@ OMRSスポーツパンツ(青) = OMRS Sports Pants (Blue)
 [s_k] スポーツブラ(色変可) = [s_k] Sports Bra (CC)
 [s_k] ピンクレパード(色変可) = [s_k] Leopard Print (CC)
 [s_k] 胸に白濁液(色変可) = [s_k] White Liquid On Chest (CC)
+部活ブラ1A（カラー） = Club Activity Bra 1A (CC)
+部活ブラ1B（カラー） = Club Activity Bra 1B (CC)
+スポーツタイプ（カラー） = Sports Type Leotard Top (CC)
 
 //Panties
 横縞ぱん(色変え可能) = Striped String Panties (CC)
@@ -247,6 +294,8 @@ OMRS縞パン = OMRS Striped Panties (Shimapan)
 触手パンツ = Tentacle Pants
 [s_k] スポーツパンツ(色変可) = [s_k] Sports Pants (CC)
 [s_k] 股間に白濁液(色変可) = [s_k] White Liquid On Crotch (CC)
+部活パンツ1A（カラー） = Club Activity Panties (CC)
+部活パンツ1B（カラー） = Club Activity Panties (CC)
 
 //Gloves
 虎手袋 = Tiger Gloves
@@ -277,6 +326,8 @@ Valkyrie手袋 = Valkyrie Gloves
 [s_k] ゆったりパーカー(色変可) = [s_k] Loose Parka (CC)
 [s_k] 袖裾ゆったりパーカー(色変可) = [s_k] Loose Sleeve & Hem Parka (CC)
 [s_k] 全身ぶっかけ2(色変可) = [s_k] White Liquid On Body 2 (CC)
+魔女の手袋L（カラー） = Witch Gloves L (CC)
+魔女の手袋S（カラー） = Witch Gloves S (CC)
 
 //Pantyhose
 スカジャン（色変可） = Sukajan Jacket (CC)
@@ -339,6 +390,7 @@ mdzz(COLOR)X吊带连裤袜B = mdzz X-Sling Pantyhose B
 mdzz(COLOR)X吊带连裤袜C = mdzz X-Sling Pantyhose C
 mdzz(COLOR)我的烂作品 = mdzz Long Heart Lace Stockings
 [s_k] レギンス(色変可) = Leggings (CC)
+ロングスパッツ(カラー) = Long Spats (CC)
 
 //Socks
 ランソックス（黒） = Lansocks (Black)
@@ -352,6 +404,8 @@ farソックス = Far Socks
 モフモフレッグA(色変え可能) = Mohumov Leg A (CC)
 モフモフレッグB(色変え可能) = Mohumov Leg B (CC)
 牛柄ニーソックス = Cow Pattern Thighhighs
+ニーソックス(カラー) = Thigh High Socks (CC)
+ミドルソックス(カラー) = Mid Length socks (CC)
 
 //Shoes
 リボンパンプス（色変え可能） = Ribbon Pumps (CC)
@@ -368,20 +422,32 @@ SFXシューズ = SFX Shoes
 ファイティングシューズ = Fighting Shoes
 ザク２足 = Zaku 2 Leg
 冬用ブーツ = Winter Boots
-[s_k] 色変えブーツ = 
-[s_k] スニーカー(色変可)A = 
-[s_k] スニーカー(色変可)B = 
+[s_k] 色変えブーツ = [s_k] Boots (CC)
+[s_k] スニーカー(色変可)A = [s_k] Sneakers A (CC) 
+[s_k] スニーカー(色変可)B = [s_k] Sneakers B (CC)
+部活シューズ１A(カラー） = Sneakers 1A (CC)
+部活シューズ１B(カラー） = Sneakers 1B (CC)
+魔女の靴（カラー） = Witch Shoes (CC)
+SPMod-尖头短靴 = Pointed boots
+SPMod-厚底帆布鞋 = SPMod- Thick Canvas Shoes
+SPMod-尖头高跟靴 = SPMod- Pointed High Heels
+SPMod-坡跟过膝靴 = SPMod- Knee Boots With Slope
+[YY]滚5高跟 = Roll 5 High Heel
 
 //Tops (Swimwear)
 サイバートップ(色変え可能) = Cyber Top (CC)
 女神の戦衣・トップスA = Goddess's Battle Top A
 女神の戦衣・トップスB = Goddess's Battle Top B
+カウガールジャケット（改 = Cowgirl Jacket Revised (CC)
 
 //Bottoms (Swimwear)
 サイバースカート(色変可能) = Cyber Skirt (CC)
 fireGirlパレオ = FireGirl Pareo
 女神の戦衣・スカートA = Goddess's Battle Skirt A
 女神の戦衣・スカートB = Goddess's Battle Skirt B
+パレオ・改 = Pareo Revised
+パレオ・改(透) = Pareo Revised (Transparent)
+デニムスカート = Denim Skirt
 
 //Swimsuit
 競泳（紺水黒） = Competition Swimsuit (Navy Blue, Water & Black)
@@ -403,6 +469,13 @@ far水着 = Far Swimsuit
 [s_k] 透け新スクール水着(色変可) = [s_k] Transparent School Swimsuit (CC)
 [s_k] 透けライフセーバー(色変可) = [s_k] Transparent Life Saver (CC)
 [s_k] 透けライフセーバー※ロゴ無し(色変可) = [s_k] Transparent Life Saver No Logo (CC)
+部活水着１A（カラー） = Club activity swimwear 1A (CC)
+部活水着１B（カラー） = Club activity swimwear 1B (CC)
+スポーツタイプA（カラー） = Sports Type Leotard A (CC)
+スポーツタイプB（カラー） = Sports Type Leotard B (CC)
+スポーツタイプA透（カラー） = Sports Type Leotard Transparent A (CC)
+スポーツタイプB透（カラー） = Sports Type Leotard Transparent B (CC)
+[YY]DOA玛丽长旗袍 = Marie Rose Long Cheongsam
 
 // -----------------------------------------------------------------------------------------------
 // end
